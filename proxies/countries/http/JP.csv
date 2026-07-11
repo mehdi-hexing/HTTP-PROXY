@@ -1,6 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-160.251.171.151:8080,HTTP,Japan,JP,🇯🇵,0,low,No,"GMO Internet, Inc"
+133.232.90.126:80,HTTP,Japan,JP,🇯🇵,0,low,No,"NTT PC Communications, Inc."
 40.81.205.181:1080,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
+34.84.162.206:38080,HTTP,Japan,JP,🇯🇵,3,low,No,Google LLC
 140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,Yes,Oracle Corporation
-168.138.202.218:3128,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation
 8.209.255.13:3128,HTTP,Japan,JP,🇯🇵,5,low,Yes,"Alibaba (US) Technology Co., Ltd."
+8.216.35.12:8888,HTTP,Japan,JP,🇯🇵,5,low,No,"Alibaba (US) Technology Co., Ltd."
+8.221.139.222:9992,HTTP,Japan,JP,🇯🇵,5,low,No,"Alibaba (US) Technology Co., Ltd."
+5.104.81.13:8118,HTTP,Japan,JP,🇯🇵,14,low,No,Contabo Asia Private Limited
+64.176.44.31:7890,HTTP,Japan,JP,🇯🇵,45,medium,No,The Constant Company
