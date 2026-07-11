@@ -2,6 +2,7 @@ import requests
 import concurrent.futures
 import time
 import csv
+import os
 
 TARGET_URL = 'http://clients3.google.com/generate_204'
 TIMEOUT = 10
@@ -121,8 +122,11 @@ def process_protocol(protocol):
         print(f"No {protocol.upper()} proxies to check.")
         return
 
-    txt_file = f"{protocol}_proxies.txt"
-    csv_file = f"{protocol}_proxies.csv"
+    protocol_dir = os.path.join("proxies", "protocol", protocol)
+    countries_dir = os.path.join("proxies", "countries", protocol)
+    
+    os.makedirs(protocol_dir, exist_ok=True)
+    os.makedirs(countries_dir, exist_ok=True)
 
     results = []
 
@@ -135,11 +139,14 @@ def process_protocol(protocol):
 
     results.sort(key=sort_key)
 
-    with open(txt_file, 'w', encoding='utf-8') as f:
+    global_txt = os.path.join(protocol_dir, "all.txt")
+    global_csv = os.path.join(protocol_dir, "all.csv")
+
+    with open(global_txt, 'w', encoding='utf-8') as f:
         for item in results:
             f.write(item["proxy"] + '\n')
 
-    with open(csv_file, 'w', newline='', encoding='utf-8') as f:
+    with open(global_csv, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         writer.writerow(["Proxy", "Protocol", "Country", "Country Code", "Flag", "Fraud Score", "Risk", "VPN", "ISP"])
         for item in results:
@@ -155,10 +162,43 @@ def process_protocol(protocol):
                 item["isp"]
             ])
 
+    by_country = {}
+    for item in results:
+        cc = str(item.get("country_code", "UNKNOWN")).strip().upper()
+        if cc in ["N/A", "", "NONE"]:
+            cc = "UNKNOWN"
+        if cc not in by_country:
+            by_country[cc] = []
+        by_country[cc].append(item)
+
+    for cc, items in by_country.items():
+        txt_file = os.path.join(countries_dir, f"{cc}.txt")
+        csv_file = os.path.join(countries_dir, f"{cc}.csv")
+
+        with open(txt_file, 'w', encoding='utf-8') as f:
+            for item in items:
+                f.write(item["proxy"] + '\n')
+
+        with open(csv_file, 'w', newline='', encoding='utf-8') as f:
+            writer = csv.writer(f)
+            writer.writerow(["Proxy", "Protocol", "Country", "Country Code", "Flag", "Fraud Score", "Risk", "VPN", "ISP"])
+            for item in items:
+                writer.writerow([
+                    item["proxy"],
+                    item["protocol"].upper(),
+                    item["country"],
+                    item["country_code"],
+                    item["flag"],
+                    item["fraud_score"],
+                    item["risk"],
+                    item["vpn"],
+                    item["isp"]
+                ])
+
     print(f"Finished {protocol.upper()} checks. Found {len(results)} live proxies.")
 
 def main():
-    print("Initializing Proxies Scan..")
+    print("Initializing Proxies Scan...")
     for proto in PROTOCOLS:
         process_protocol(proto)
 
