@@ -1,4 +1,4 @@
-name: Check Proxies
+name: Scan Proxies
 
 on:
   schedule:
@@ -26,12 +26,12 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests PySocks
 
-    - name: Run Proxy Checker
-      run: python proxy_checker.py
+    - name: Run Proxies Scan
+      run: python Scanner.py
 
     - name: Commit and Push Changes
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add live_*.*
+        git add proxies/
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update live proxies list" && git push)
