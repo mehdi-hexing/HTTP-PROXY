@@ -106,6 +106,14 @@ def fetch_proxies(protocol):
         print(f"Error fetching {protocol.upper()} proxies: {e}")
     return []
 
+def sort_key(item):
+    country = item.get("country", "Unknown")
+    try:
+        fraud_score = int(item.get("fraud_score", 101))
+    except (ValueError, TypeError):
+        fraud_score = 101
+    return (country, fraud_score)
+
 def process_protocol(protocol):
     print(f"\n--- Starting {protocol.upper()} Proxy Verification ---")
     proxy_list = fetch_proxies(protocol)
@@ -113,45 +121,44 @@ def process_protocol(protocol):
         print(f"No {protocol.upper()} proxies to check.")
         return
 
-    txt_file = f"live_{protocol}_proxies.txt"
-    csv_file = f"live_{protocol}_proxies.csv"
+    txt_file = f"{protocol}_proxies.txt"
+    csv_file = f"{protocol}_proxies.csv"
+
+    results = []
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
+        futures = {executor.submit(check_proxy, proxy, protocol): proxy for proxy in proxy_list}
+        for future in concurrent.futures.as_completed(futures):
+            result = future.result()
+            if result:
+                results.append(result)
+
+    results.sort(key=sort_key)
 
     with open(txt_file, 'w', encoding='utf-8') as f:
-        pass
+        for item in results:
+            f.write(item["proxy"] + '\n')
 
     with open(csv_file, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         writer.writerow(["Proxy", "Protocol", "Country", "Country Code", "Flag", "Fraud Score", "Risk", "VPN", "ISP"])
+        for item in results:
+            writer.writerow([
+                item["proxy"],
+                item["protocol"].upper(),
+                item["country"],
+                item["country_code"],
+                item["flag"],
+                item["fraud_score"],
+                item["risk"],
+                item["vpn"],
+                item["isp"]
+            ])
 
-    working_count = 0
-
-    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
-        futures = {executor.submit(check_proxy, proxy, protocol): proxy for proxy in proxy_list}
-
-        for future in concurrent.futures.as_completed(futures):
-            result = future.result()
-            if result:
-                working_count += 1
-                with open(txt_file, 'a', encoding='utf-8') as f:
-                    f.write(result["proxy"] + '\n')
-                with open(csv_file, 'a', newline='', encoding='utf-8') as f:
-                    writer = csv.writer(f)
-                    writer.writerow([
-                        result["proxy"],
-                        result["protocol"].upper(),
-                        result["country"],
-                        result["country_code"],
-                        result["flag"],
-                        result["fraud_score"],
-                        result["risk"],
-                        result["vpn"],
-                        result["isp"]
-                    ])
-
-    print(f"Finished {protocol.upper()} checks. Found {working_count} live proxies.")
+    print(f"Finished {protocol.upper()} checks. Found {len(results)} live proxies.")
 
 def main():
-    print("Initializing Multi-Protocol Proxy Checker...")
+    print("Initializing Proxies Scan..")
     for proto in PROTOCOLS:
         process_protocol(proto)
 
