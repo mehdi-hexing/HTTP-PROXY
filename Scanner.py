@@ -81,9 +81,9 @@ def check_proxy(proxy, protocol):
         return None
 
     if protocol == 'socks5':
-        proxy_url = f"socks5h://{cleaned_proxy}"
+        proxy_url = f"socks5://{cleaned_proxy}"
     elif protocol == 'socks4':
-        proxy_url = f"socks4a://{cleaned_proxy}"
+        proxy_url = f"socks4://{cleaned_proxy}"
     else:
         proxy_url = f"http://{cleaned_proxy}"
 
@@ -124,10 +124,8 @@ def fetch_proxies(protocol):
             proxies = [line.strip() for line in response.text.splitlines() if line.strip()]
             print(f"{GREEN}Successfully fetched {len(proxies)} {protocol.upper()} proxies.{RESET}")
             return proxies
-        else:
-            print(f"{RED}Failed to fetch {protocol.upper()} proxies. Status code: {response.status_code}{RESET}")
-    except Exception as e:
-        print(f"{RED}Error fetching {protocol.upper()} proxies: {e}{RESET}")
+    except Exception:
+        pass
     return []
 
 def sort_key(item):
@@ -138,29 +136,11 @@ def sort_key(item):
         fraud_score = 101
     return (country, fraud_score)
 
-def process_protocol(protocol, new_proxies):
+def process_protocol(protocol, proxy_list):
     print(f"\n{YELLOW}--- Starting {protocol.upper()} Proxy Verification ---{RESET}")
-    
-    pool_dir = "Raw_Sources"
-    os.makedirs(pool_dir, exist_ok=True)
-    pool_file = os.path.join(pool_dir, f"raw_{protocol}.txt")
-
-    existing_pool = []
-    if os.path.exists(pool_file):
-        with open(pool_file, 'r', encoding='utf-8') as f:
-            existing_pool = [line.strip() for line in f if line.strip()]
-
-    merged_dict = {p: True for p in existing_pool}
-    for p in new_proxies:
-        merged_dict[p] = True
-    merged_pool = list(merged_dict.keys())
-
-    if len(merged_pool) > MAX_POOL_SIZE:
-        merged_pool = merged_pool[-MAX_POOL_SIZE:]
-
-    with open(pool_file, 'w', encoding='utf-8') as f:
-        for p in merged_pool:
-            f.write(p + '\n')
+    if not proxy_list:
+        print(f"{RED}No {protocol.upper()} proxies available to check.{RESET}")
+        return
 
     protocol_dir = os.path.join("proxies", "protocol", protocol)
     countries_dir = os.path.join("proxies", "countries", protocol)
@@ -171,7 +151,7 @@ def process_protocol(protocol, new_proxies):
     results = []
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
-        futures = {executor.submit(check_proxy, proxy, protocol): proxy for proxy in merged_pool}
+        futures = {executor.submit(check_proxy, proxy, protocol): proxy for proxy in proxy_list}
         for future in concurrent.futures.as_completed(futures):
             result = future.result()
             if result:
@@ -241,10 +221,38 @@ def main():
     print(f"{YELLOW}Initializing Proxies Scan...{RESET}")
     print(f"{CYAN}=== Start Fetching ==={RESET}")
     
+    pool_dir = "Raw_Sources"
+    os.makedirs(pool_dir, exist_ok=True)
+    
     fetched_data = {}
     for proto in PROTOCOLS:
-        fetched_data[proto] = fetch_proxies(proto)
+        pool_file = os.path.join(pool_dir, f"raw_{proto}.txt")
         
+        existing_pool = []
+        if os.path.exists(pool_file):
+            with open(pool_file, 'r', encoding='utf-8') as f:
+                existing_pool = [line.strip() for line in f if line.strip()]
+        
+        new_proxies = fetch_proxies(proto)
+        
+        if new_proxies:
+            merged_dict = {p: True for p in existing_pool}
+            for p in new_proxies:
+                merged_dict[p] = True
+            merged_pool = list(merged_dict.keys())
+            
+            if len(merged_pool) > MAX_POOL_SIZE:
+                merged_pool = merged_pool[-MAX_POOL_SIZE:]
+                
+            with open(pool_file, 'w', encoding='utf-8') as f:
+                for p in merged_pool:
+                    f.write(p + '\n')
+            
+            fetched_data[proto] = merged_pool
+        else:
+            print(f"{YELLOW}API unavailable. Scanning existing raw {proto.upper()} proxies from local cache...{RESET}")
+            fetched_data[proto] = existing_pool
+            
     print(f"\n{CYAN}=== Start Scanning ==={RESET}")
     for proto in PROTOCOLS:
         process_protocol(proto, fetched_data[proto])
