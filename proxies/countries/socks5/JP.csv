@@ -1,9 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 134.122.152.207:2080,SOCKS5,Japan,JP,🇯🇵,0,low,No,CTG Server Ltd.
+47.91.29.151:3129,SOCKS5,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC
+47.91.29.151:194,SOCKS5,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC
+47.91.29.151:4145,SOCKS5,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC
 45.76.104.16:1080,SOCKS5,Japan,JP,🇯🇵,0,low,No,The Constant Company
-47.91.29.151:9080,SOCKS5,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC
 34.84.162.206:38081,SOCKS5,Japan,JP,🇯🇵,3,low,No,Google LLC
-168.138.210.69:1080,SOCKS5,Japan,JP,🇯🇵,4,low,No,Oracle Corporation
 140.238.43.53:54322,SOCKS5,Japan,JP,🇯🇵,4,low,No,Oracle Corporation
 8.216.32.38:1080,SOCKS5,Japan,JP,🇯🇵,5,low,No,"Alibaba (US) Technology Co., Ltd."
-66.42.34.255:1080,SOCKS5,Japan,JP,🇯🇵,13,low,No,"The Constant Company, LLC"
+8.221.139.222:31433,SOCKS5,Japan,JP,🇯🇵,5,low,No,"Alibaba (US) Technology Co., Ltd."
