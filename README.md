@@ -21,6 +21,12 @@ You can use these verified proxies in your Psiphon settings. To configure:
 * **SOCKS4:** [Browse Countries](proxies/countries/socks4/)
 * **SOCKS5:** [Browse Countries](proxies/countries/socks5/)
 
+## ⚡ Client Subscription Links
+The table below displays the dynamically updated subscription links and their respective QR codes. Scan the QR code using your client app or copy the raw link directly.
+
+<!-- SUBSCRIPTION_TABLE_START -->
+<!-- SUBSCRIPTION_TABLE_END -->
+
 ## ⚙️ How It Works
 1. A GitHub Actions workflow runs every 6 hours.
 2. It fetches the latest public proxies from ProxyScrape.
