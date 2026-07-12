@@ -1,12 +1,16 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 146.19.169.212:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SkyLink Data Center BV
+117.55.203.161:8889,HTTP,Netherlands,NL,🇳🇱,0,low,Yes,PUSHPKT OU
 185.200.176.134:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,Clodo Cloud Service CO. L.L.C
-89.23.119.21:1080,HTTP,Netherlands,NL,🇳🇱,0,low,No,"Timeweb, LLP"
+77.73.132.138:8443,HTTP,Netherlands,NL,🇳🇱,0,low,No,"Timeweb, LLP"
+194.135.38.119:4555,HTTP,Netherlands,NL,🇳🇱,0,low,No,"Timeweb, LLP"
+144.124.227.88:3128,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco
 89.124.80.251:1080,HTTP,Netherlands,NL,🇳🇱,6,low,No,Servers Tech Fzco
-139.28.240.201:1081,HTTP,Netherlands,NL,🇳🇱,26,medium,No,Global Connectivity Solutions LLP
-139.28.240.202:1081,HTTP,Netherlands,NL,🇳🇱,26,medium,No,Global Connectivity Solutions LLP
-139.28.240.200:1081,HTTP,Netherlands,NL,🇳🇱,26,medium,No,Global Connectivity Solutions LLP
-139.28.240.203:1081,HTTP,Netherlands,NL,🇳🇱,26,medium,No,Global Connectivity Solutions LLP
+153.80.240.37:1080,HTTP,Netherlands,NL,🇳🇱,26,medium,No,Global Connectivity Solutions LLP
+139.28.240.203:1082,HTTP,Netherlands,NL,🇳🇱,26,medium,No,Global Connectivity Solutions LLP
+81.90.29.194:10808,HTTP,Netherlands,NL,🇳🇱,26,medium,No,Global Connectivity Solutions LLP
+139.28.240.202:1082,HTTP,Netherlands,NL,🇳🇱,26,medium,No,Global Connectivity Solutions LLP
 153.80.240.37:8080,HTTP,Netherlands,NL,🇳🇱,26,medium,No,Global Connectivity Solutions LLP
-139.28.240.201:1082,HTTP,Netherlands,NL,🇳🇱,26,medium,No,Global Connectivity Solutions LLP
+139.28.240.203:1081,HTTP,Netherlands,NL,🇳🇱,26,medium,No,Global Connectivity Solutions LLP
+139.28.240.200:1082,HTTP,Netherlands,NL,🇳🇱,26,medium,No,Global Connectivity Solutions LLP
 206.189.99.113:8888,HTTP,Netherlands,NL,🇳🇱,58,medium,No,"DigitalOcean, LLC"
