@@ -7,12 +7,20 @@ import os
 TARGET_URL = 'http://clients3.google.com/generate_204'
 TIMEOUT = 10
 MAX_THREADS = 50
+MAX_POOL_SIZE = 3000
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 }
 
 PROTOCOLS = ['http', 'socks4', 'socks5']
+
+GREEN = '\033[92m'
+RED = '\033[91m'
+YELLOW = '\033[93m'
+BLUE = '\033[94m'
+CYAN = '\033[96m'
+RESET = '\033[0m'
 
 def clean_proxy_string(proxy):
     proxy = proxy.strip()
@@ -32,24 +40,39 @@ def get_proxy_metadata(ip):
         "vpn": "Unknown",
         "isp": "Unknown"
     }
-    url = f"https://cloudflare-scamalytics.pages.dev/{ip}"
-    try:
-        response = requests.get(url, headers=HEADERS, timeout=5)
-        if response.status_code == 200:
-            data = response.json()
-            info = data.get("info", {})
-            details = data.get("details", {})
-            return {
-                "country": details.get("country", "Unknown"),
-                "country_code": details.get("country_code", "N/A"),
-                "flag": details.get("flag", "🏳️"),
-                "fraud_score": info.get("fraud_score", "N/A"),
-                "risk": info.get("risk", "Unknown"),
-                "vpn": details.get("vpn", "Unknown"),
-                "isp": details.get("isp", "Unknown")
-            }
-    except Exception:
-        pass
+    
+    def fetch_API(url):
+        try:
+            response = requests.get(url, headers=HEADERS, timeout=5)
+            if response.status_code == 200:
+                data = response.json()
+                info = data.get("info", {})
+                details = data.get("details", {})
+                country = details.get("country", "Unknown")
+                if country != "Unknown" and country:
+                    return {
+                        "country": country,
+                        "country_code": details.get("country_code", "N/A"),
+                        "flag": details.get("flag", "🏳️"),
+                        "fraud_score": info.get("fraud_score", "N/A"),
+                        "risk": info.get("risk", "Unknown"),
+                        "vpn": details.get("vpn", "Unknown"),
+                        "isp": details.get("isp", "Unknown")
+                    }
+        except Exception:
+            pass
+        return None
+
+    primary_url = f"https://cloudflare-scamalytics.pages.dev/{ip}"
+    result = fetch_API(primary_url)
+    if result:
+        return result
+
+    fallback_url = f"https://cf-scamalytics.mehdismart88.workers.dev/{ip}"
+    result = fetch_API(fallback_url)
+    if result:
+        return result
+
     return default_metadata
 
 def check_proxy(proxy, protocol):
@@ -80,7 +103,7 @@ def check_proxy(proxy, protocol):
         )
         if response.status_code in [200, 204]:
             elapsed = time.time() - start_time
-            print(f"[SUCCESS] [{protocol.upper()}] {cleaned_proxy} - {elapsed:.2f}s")
+            print(f"{GREEN}[SUCCESS] [{protocol.upper()}]{RESET} {cleaned_proxy} - {elapsed:.2f}s")
             ip = cleaned_proxy.split(':')[0]
             metadata = get_proxy_metadata(ip)
             return {
@@ -93,18 +116,18 @@ def check_proxy(proxy, protocol):
     return None
 
 def fetch_proxies(protocol):
-    print(f"Fetching {protocol.upper()} proxy list from ProxyScrape...")
+    print(f"{CYAN}Fetching {protocol.upper()} proxy list from ProxyScrape...{RESET}")
     url = f"https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies&proxy_format=ipport&format=text&protocol={protocol}"
     try:
         response = requests.get(url, headers=HEADERS, timeout=15)
         if response.status_code == 200:
             proxies = [line.strip() for line in response.text.splitlines() if line.strip()]
-            print(f"Successfully fetched {len(proxies)} {protocol.upper()} proxies.")
+            print(f"{GREEN}Successfully fetched {len(proxies)} {protocol.upper()} proxies.{RESET}")
             return proxies
         else:
-            print(f"Failed to fetch {protocol.upper()} proxies. Status code: {response.status_code}")
+            print(f"{RED}Failed to fetch {protocol.upper()} proxies. Status code: {response.status_code}{RESET}")
     except Exception as e:
-        print(f"Error fetching {protocol.upper()} proxies: {e}")
+        print(f"{RED}Error fetching {protocol.upper()} proxies: {e}{RESET}")
     return []
 
 def sort_key(item):
@@ -115,12 +138,29 @@ def sort_key(item):
         fraud_score = 101
     return (country, fraud_score)
 
-def process_protocol(protocol):
-    print(f"\n--- Starting {protocol.upper()} Proxy Verification ---")
-    proxy_list = fetch_proxies(protocol)
-    if not proxy_list:
-        print(f"No {protocol.upper()} proxies to check.")
-        return
+def process_protocol(protocol, new_proxies):
+    print(f"\n{YELLOW}--- Starting {protocol.upper()} Proxy Verification ---{RESET}")
+    
+    pool_dir = "Raw_Sources"
+    os.makedirs(pool_dir, exist_ok=True)
+    pool_file = os.path.join(pool_dir, f"raw_{protocol}.txt")
+
+    existing_pool = []
+    if os.path.exists(pool_file):
+        with open(pool_file, 'r', encoding='utf-8') as f:
+            existing_pool = [line.strip() for line in f if line.strip()]
+
+    merged_dict = {p: True for p in existing_pool}
+    for p in new_proxies:
+        merged_dict[p] = True
+    merged_pool = list(merged_dict.keys())
+
+    if len(merged_pool) > MAX_POOL_SIZE:
+        merged_pool = merged_pool[-MAX_POOL_SIZE:]
+
+    with open(pool_file, 'w', encoding='utf-8') as f:
+        for p in merged_pool:
+            f.write(p + '\n')
 
     protocol_dir = os.path.join("proxies", "protocol", protocol)
     countries_dir = os.path.join("proxies", "countries", protocol)
@@ -131,7 +171,7 @@ def process_protocol(protocol):
     results = []
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
-        futures = {executor.submit(check_proxy, proxy, protocol): proxy for proxy in proxy_list}
+        futures = {executor.submit(check_proxy, proxy, protocol): proxy for proxy in merged_pool}
         for future in concurrent.futures.as_completed(futures):
             result = future.result()
             if result:
@@ -195,12 +235,19 @@ def process_protocol(protocol):
                     item["isp"]
                 ])
 
-    print(f"Finished {protocol.upper()} checks. Found {len(results)} live proxies.")
+    print(f"{BLUE}Finished {protocol.upper()} checks. Found {len(results)} live proxies.{RESET}")
 
 def main():
-    print("Initializing Proxies Scan...")
+    print(f"{YELLOW}Initializing Proxies Scan...{RESET}")
+    print(f"{CYAN}=== Start Fetching ==={RESET}")
+    
+    fetched_data = {}
     for proto in PROTOCOLS:
-        process_protocol(proto)
+        fetched_data[proto] = fetch_proxies(proto)
+        
+    print(f"\n{CYAN}=== Start Scanning ==={RESET}")
+    for proto in PROTOCOLS:
+        process_protocol(proto, fetched_data[proto])
 
 if __name__ == "__main__":
     main()
