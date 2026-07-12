@@ -1,12 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-43.160.225.96:8888,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited
-47.236.72.18:8888,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
+43.160.255.142:7890,HTTP,Singapore,SG,🇸🇬,1,low,No,Aceville Pte.ltd
+43.134.15.145:8118,HTTP,Singapore,SG,🇸🇬,1,low,No,Shenzhen Tencent Computer Systems Company Limited
 47.131.233.178:80,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc
 43.128.114.142:7890,HTTP,Singapore,SG,🇸🇬,1,low,No,Shenzhen Tencent Computer Systems Company Limited
-47.237.153.201:8000,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd."
-47.245.117.43:80,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd."
 140.245.99.105:7890,HTTP,Singapore,SG,🇸🇬,2,low,Yes,Oracle Corporation
-8.219.229.53:9080,HTTP,Singapore,SG,🇸🇬,5,low,No,"Alibaba (US) Technology Co., Ltd."
-62.146.233.116:8881,HTTP,Singapore,SG,🇸🇬,14,low,No,Contabo Asia Private Limited
 45.76.163.227:7890,HTTP,Singapore,SG,🇸🇬,45,medium,No,The Constant Company
+139.162.16.201:80,HTTP,Singapore,SG,🇸🇬,52,medium,No,LINODE
 178.128.59.180:18080,HTTP,Singapore,SG,🇸🇬,59,medium,Yes,"DigitalOcean, LLC"
