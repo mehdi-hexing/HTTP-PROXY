@@ -3,6 +3,7 @@ import concurrent.futures
 import time
 import csv
 import os
+import qrcode
 
 TARGET_URL = 'http://clients3.google.com/generate_204'
 TIMEOUT = 10
@@ -144,9 +145,11 @@ def process_protocol(protocol, proxy_list):
 
     protocol_dir = os.path.join("proxies", "protocol", protocol)
     countries_dir = os.path.join("proxies", "countries", protocol)
+    sub_dir = os.path.join("proxies", "subscriptions")
     
     os.makedirs(protocol_dir, exist_ok=True)
     os.makedirs(countries_dir, exist_ok=True)
+    os.makedirs(sub_dir, exist_ok=True)
 
     results = []
 
@@ -215,7 +218,108 @@ def process_protocol(protocol, proxy_list):
                     item["isp"]
                 ])
 
+    country_counters = {}
+    mahsang_configs = []
+    v2rayng_configs = []
+    nekobox_configs = []
+
+    for item in results:
+        cc = str(item.get("country_code", "UNKNOWN")).strip().upper()
+        country_counters[cc] = country_counters.get(cc, 0) + 1
+        num = country_counters[cc]
+        flag = item.get("flag", "🏳️")
+        proxy = item.get("proxy")
+        remark = f"{flag} {cc} {num}"
+
+        if protocol == 'http':
+            mahsang_configs.append(f"mahsa-http://Og==@{proxy}#{remark}")
+            v2rayng_configs.append(f"http://Og@{proxy}#{remark}")
+            nekobox_configs.append(f"http://{proxy}#{remark}")
+        elif protocol == 'socks5':
+            mahsang_configs.append(f"mahsa-socks://Og==@{proxy}#{remark}")
+            v2rayng_configs.append(f"socks://{proxy}#{remark}")
+            nekobox_configs.append(f"socks://{proxy}#{remark}")
+        elif protocol == 'socks4':
+            v2rayng_configs.append(f"socks://{proxy}#{remark}")
+            nekobox_configs.append(f"socks://{proxy}#{remark}")
+
+    if mahsang_configs:
+        with open(os.path.join(sub_dir, f"mahsang_{protocol}.txt"), 'w', encoding='utf-8') as f:
+            f.write('\n'.join(mahsang_configs) + '\n')
+    if v2rayng_configs:
+        with open(os.path.join(sub_dir, f"v2rayng_{protocol}.txt"), 'w', encoding='utf-8') as f:
+            f.write('\n'.join(v2rayng_configs) + '\n')
+    if nekobox_configs:
+        with open(os.path.join(sub_dir, f"nekobox_{protocol}.txt"), 'w', encoding='utf-8') as f:
+            f.write('\n'.join(nekobox_configs) + '\n')
+
     print(f"{BLUE}Finished {protocol.upper()} checks. Found {len(results)} live proxies.{RESET}")
+
+def make_qr_image(text, file_path):
+    qr = qrcode.QRCode(
+        version=1,
+        error_correction=qrcode.constants.ERROR_CORRECT_L,
+        box_size=10,
+        border=4,
+    )
+    qr.add_data(text)
+    qr.make(fit=True)
+    img = qr.make_image(fill_color="black", back_color="white")
+    img.save(file_path)
+
+def build_qrs_and_readme():
+    repo = os.environ.get("GITHUB_REPOSITORY", "username/repo")
+    branch = os.environ.get("GITHUB_REF_NAME", "main")
+    raw_prefix = f"https://raw.githubusercontent.com/{repo}/{branch}"
+    
+    sub_dir = os.path.join("proxies", "subscriptions")
+    os.makedirs(sub_dir, exist_ok=True)
+    
+    sub_types = [
+        ("mahsang_http.txt", "mahsang_http_qr.png"),
+        ("v2rayng_http.txt", "v2rayng_http_qr.png"),
+        ("nekobox_http.txt", "nekobox_http_qr.png"),
+        ("v2rayng_socks5.txt", "v2rayng_socks5_qr.png"),
+        ("nekobox_socks5.txt", "nekobox_socks5_qr.png")
+    ]
+    
+    for txt_file, qr_file in sub_types:
+        txt_path = os.path.join(sub_dir, txt_file)
+        qr_path = os.path.join(sub_dir, qr_file)
+        if os.path.exists(txt_path):
+            sub_url = f"{raw_prefix}/{txt_path}"
+            make_qr_image(sub_url, qr_path)
+            
+    readme_path = "README.md"
+    if not os.path.exists(readme_path):
+        return
+        
+    table = f"""<!-- SUBSCRIPTION_TABLE_START -->
+| Client | Protocol | Raw Subscription Link (Copyable) | QR Code |
+| :--- | :--- | :--- | :--- |
+| **MahsaNG** | HTTP | `{raw_prefix}/proxies/subscriptions/mahsang_http.txt` | <img src="{raw_prefix}/proxies/subscriptions/mahsang_http_qr.png" width="120"/> |
+| **V2rayNG** | HTTP | `{raw_prefix}/proxies/subscriptions/v2rayng_http.txt` | <img src="{raw_prefix}/proxies/subscriptions/v2rayng_http_qr.png" width="120"/> |
+| **Nekobox** | HTTP | `{raw_prefix}/proxies/subscriptions/nekobox_http.txt` | <img src="{raw_prefix}/proxies/subscriptions/nekobox_http_qr.png" width="120"/> |
+| **V2rayNG** | SOCKS5 | `{raw_prefix}/proxies/subscriptions/v2rayng_socks5.txt` | <img src="{raw_prefix}/proxies/subscriptions/v2rayng_socks5_qr.png" width="120"/> |
+| **Nekobox** | SOCKS5 | `{raw_prefix}/proxies/subscriptions/nekobox_socks5.txt` | <img src="{raw_prefix}/proxies/subscriptions/nekobox_socks5_qr.png" width="120"/> |
+<!-- SUBSCRIPTION_TABLE_END -->"""
+
+    with open(readme_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+        
+    start_tag = "<!-- SUBSCRIPTION_TABLE_START -->"
+    end_tag = "<!-- SUBSCRIPTION_TABLE_END -->"
+    
+    if start_tag in content and end_tag in content:
+        parts = content.split(start_tag)
+        before = parts[0]
+        after = parts[1].split(end_tag)[1]
+        new_content = before + table + after
+    else:
+        new_content = content + "\n\n" + table
+        
+    with open(readme_path, 'w', encoding='utf-8') as f:
+        f.write(new_content)
 
 def main():
     print(f"{YELLOW}Initializing Proxies Scan...{RESET}")
@@ -256,6 +360,9 @@ def main():
     print(f"\n{CYAN}=== Start Scanning ==={RESET}")
     for proto in PROTOCOLS:
         process_protocol(proto, fetched_data[proto])
+        
+    print(f"\n{CYAN}=== Generating QR Codes & Updating README ==={RESET}")
+    build_qrs_and_readme()
 
 if __name__ == "__main__":
     main()
