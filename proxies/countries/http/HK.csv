@@ -5,8 +5,6 @@ Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 203.19.38.114:1080,HTTP,Hong Kong,HK,🇭🇰,0,low,No,China Telecom Global networks
 176.111.37.5:39811,HTTP,Hong Kong,HK,🇭🇰,0,low,Yes,Cogento Backbone Limited
 103.69.129.89:24444,HTTP,Hong Kong,HK,🇭🇰,0,low,No,"HostHatch, LLC"
-47.79.18.149:9200,HTTP,Hong Kong,HK,🇭🇰,0,low,No,"Alibaba (US) Technology Co., Ltd."
-45.15.10.174:3128,HTTP,Hong Kong,HK,🇭🇰,0,low,No,HK Kwaifong Group Limited
 47.243.92.199:3128,HTTP,Hong Kong,HK,🇭🇰,1,low,Yes,Alibaba Cloud LLC
 47.238.106.120:666,HTTP,Hong Kong,HK,🇭🇰,1,low,No,Alibaba Cloud LLC
 47.242.243.198:2233,HTTP,Hong Kong,HK,🇭🇰,1,low,No,Alibaba Cloud LLC
@@ -16,6 +14,5 @@ Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 8.210.93.183:8213,HTTP,Hong Kong,HK,🇭🇰,5,low,No,"Alibaba (US) Technology Co., Ltd."
 8.217.11.244:9568,HTTP,Hong Kong,HK,🇭🇰,5,low,No,"Alibaba (US) Technology Co., Ltd."
 8.210.17.35:80,HTTP,Hong Kong,HK,🇭🇰,5,low,No,"Alibaba (US) Technology Co., Ltd."
-154.12.60.65:888,HTTP,Hong Kong,HK,🇭🇰,6,low,No,NetLab Global
 101.36.109.77:8118,HTTP,Hong Kong,HK,🇭🇰,7,low,Yes,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
-103.73.66.232:24444,HTTP,Hong Kong,HK,🇭🇰,10,low,No,HostHatch
+193.239.86.180:80,HTTP,Hong Kong,HK,🇭🇰,32,medium,Yes,M247 Europe SRL

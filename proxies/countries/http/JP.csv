@@ -1,5 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 40.81.205.181:1080,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
+140.227.61.201:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere
 140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,Yes,Oracle Corporation
 8.209.255.13:3128,HTTP,Japan,JP,🇯🇵,5,low,Yes,"Alibaba (US) Technology Co., Ltd."
-64.176.44.31:7890,HTTP,Japan,JP,🇯🇵,45,medium,No,The Constant Company
+8.221.139.222:8108,HTTP,Japan,JP,🇯🇵,5,low,No,"Alibaba (US) Technology Co., Ltd."
+45.32.8.165:6688,HTTP,Japan,JP,🇯🇵,48,medium,Yes,Choopa
