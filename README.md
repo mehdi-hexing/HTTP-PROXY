@@ -25,6 +25,13 @@ You can use these verified proxies in your Psiphon settings. To configure:
 The table below displays updated subscription links and their QR codes. Scan the QR code using your client app or copy the raw link directly.
 
 <!-- SUBSCRIPTION_TABLE_START -->
+| Client | Protocol | Raw Subscription Link (Copyable) | QR Code |
+| :--- | :--- | :--- | :--- |
+| **MahsaNG** | HTTP | `https://raw.githubusercontent.com/mehdi-hexing/HTTP-PROXY/main/proxies/subscriptions/mahsang_http.txt` | <img src="https://raw.githubusercontent.com/mehdi-hexing/HTTP-PROXY/main/proxies/subscriptions/mahsang_http_qr.png" width="120"/> |
+| **V2rayNG** | HTTP | `https://raw.githubusercontent.com/mehdi-hexing/HTTP-PROXY/main/proxies/subscriptions/v2rayng_http.txt` | <img src="https://raw.githubusercontent.com/mehdi-hexing/HTTP-PROXY/main/proxies/subscriptions/v2rayng_http_qr.png" width="120"/> |
+| **Nekobox** | HTTP | `https://raw.githubusercontent.com/mehdi-hexing/HTTP-PROXY/main/proxies/subscriptions/nekobox_http.txt` | <img src="https://raw.githubusercontent.com/mehdi-hexing/HTTP-PROXY/main/proxies/subscriptions/nekobox_http_qr.png" width="120"/> |
+| **V2rayNG** | SOCKS5 | `https://raw.githubusercontent.com/mehdi-hexing/HTTP-PROXY/main/proxies/subscriptions/v2rayng_socks5.txt` | <img src="https://raw.githubusercontent.com/mehdi-hexing/HTTP-PROXY/main/proxies/subscriptions/v2rayng_socks5_qr.png" width="120"/> |
+| **Nekobox** | SOCKS5 | `https://raw.githubusercontent.com/mehdi-hexing/HTTP-PROXY/main/proxies/subscriptions/nekobox_socks5.txt` | <img src="https://raw.githubusercontent.com/mehdi-hexing/HTTP-PROXY/main/proxies/subscriptions/nekobox_socks5_qr.png" width="120"/> |
 <!-- SUBSCRIPTION_TABLE_END -->
 
 ## ⚙️ How It Works

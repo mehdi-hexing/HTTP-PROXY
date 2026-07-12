@@ -1,13 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 95.140.154.156:1080,SOCKS5,Germany,DE,🇩🇪,0,low,No,Mamaev
-89.191.234.224:1081,SOCKS5,Germany,DE,🇩🇪,0,low,Yes,Hostkey B.V.
 144.31.189.114:1080,SOCKS5,Germany,DE,🇩🇪,0,low,No,International Hosting Company Limited
 47.91.89.3:193,SOCKS5,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC
 47.91.89.3:202,SOCKS5,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC
 47.91.89.3:8099,SOCKS5,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC
-91.98.161.17:1080,SOCKS5,Germany,DE,🇩🇪,0,low,No,Hetzner Online GmbH
 194.58.33.7:9564,SOCKS5,Germany,DE,🇩🇪,0,low,Yes,International Hosting Company Limited
-89.168.67.102:1080,SOCKS5,Germany,DE,🇩🇪,2,low,No,Oracle Corporation
+72.56.106.48:1080,SOCKS5,Germany,DE,🇩🇪,5,low,No,"Timeweb, LLP"
 144.76.159.120:1085,SOCKS5,Germany,DE,🇩🇪,7,low,No,Hetzner Online GmbH
 144.76.159.120:1081,SOCKS5,Germany,DE,🇩🇪,7,low,No,Hetzner Online GmbH
 144.76.159.120:1088,SOCKS5,Germany,DE,🇩🇪,7,low,No,Hetzner Online GmbH
@@ -18,13 +16,14 @@ Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 144.76.159.120:1100,SOCKS5,Germany,DE,🇩🇪,7,low,No,Hetzner Online GmbH
 144.76.159.120:1082,SOCKS5,Germany,DE,🇩🇪,7,low,No,Hetzner Online GmbH
 144.76.159.120:1083,SOCKS5,Germany,DE,🇩🇪,7,low,No,Hetzner Online GmbH
+8.209.96.245:8082,SOCKS5,Germany,DE,🇩🇪,9,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
 109.120.138.241:1080,SOCKS5,Germany,DE,🇩🇪,12,low,No,Aeza International LTD
-109.120.138.144:1080,SOCKS5,Germany,DE,🇩🇪,12,low,No,Aeza International LTD
 185.185.80.58:1088,SOCKS5,Germany,DE,🇩🇪,16,low,No,Contabo GmbH
 144.91.111.48:1088,SOCKS5,Germany,DE,🇩🇪,16,low,No,Contabo GmbH
 185.218.126.151:1080,SOCKS5,Germany,DE,🇩🇪,16,low,No,Contabo GmbH
+173.249.20.169:9060,SOCKS5,Germany,DE,🇩🇪,16,low,No,Contabo GmbH
 159.195.61.240:1080,SOCKS5,Germany,DE,🇩🇪,23,medium,No,netcup GmbH
 159.195.49.27:1080,SOCKS5,Germany,DE,🇩🇪,23,medium,Yes,netcup GmbH
 37.120.189.175:1080,SOCKS5,Germany,DE,🇩🇪,26,medium,No,netcup GmbH
-142.93.98.224:1080,SOCKS5,Germany,DE,🇩🇪,58,medium,No,"DigitalOcean, LLC"
+51.68.166.231:1080,SOCKS5,Germany,DE,🇩🇪,51,medium,No,OVH SAS
 152.53.144.223:1080,SOCKS5,Germany,DE,🇩🇪,100,very_high,No,netcup GmbH
