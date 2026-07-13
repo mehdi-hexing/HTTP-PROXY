@@ -1,8 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
+43.160.255.142:7890,SOCKS4,Singapore,SG,🇸🇬,0,low,No,Aceville Pte.ltd
 34.124.190.108:8080,SOCKS4,Singapore,SG,🇸🇬,0,low,No,Google LLC
-43.160.255.142:7890,SOCKS4,Singapore,SG,🇸🇬,1,low,No,Aceville Pte.ltd
-47.237.107.41:443,SOCKS4,Singapore,SG,🇸🇬,1,low,Yes,"Alibaba (US) Technology Co., Ltd."
-47.237.107.41:9000,SOCKS4,Singapore,SG,🇸🇬,1,low,Yes,"Alibaba (US) Technology Co., Ltd."
-47.237.107.41:55443,SOCKS4,Singapore,SG,🇸🇬,1,low,Yes,"Alibaba (US) Technology Co., Ltd."
-47.237.107.41:28,SOCKS4,Singapore,SG,🇸🇬,1,low,Yes,"Alibaba (US) Technology Co., Ltd."
-140.245.99.105:7890,SOCKS4,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation
+47.237.107.41:443,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd."
+47.237.107.41:9000,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd."
+47.237.113.119:1000,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd."
+47.237.113.119:10080,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd."
+47.237.113.119:10,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd."
+47.237.113.119:16044,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd."
+45.76.163.227:7890,SOCKS4,Singapore,SG,🇸🇬,44,medium,No,The Constant Company

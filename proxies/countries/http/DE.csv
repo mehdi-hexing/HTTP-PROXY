@@ -1,11 +1,14 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 80.74.54.148:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Deutsche Glasfaser Wholesale GmbH
+173.212.245.136:8888,HTTP,Germany,DE,🇩🇪,0,low,No,Contabo GmbH
 47.91.89.3:20,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC
-79.76.121.87:3128,HTTP,Germany,DE,🇩🇪,2,low,No,Oracle Corporation
-116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,4,low,No,Hetzner Online GmbH
-168.119.153.216:8888,HTTP,Germany,DE,🇩🇪,4,low,Yes,Hetzner Online GmbH
-8.211.42.167:8087,HTTP,Germany,DE,🇩🇪,5,low,No,"Alibaba (US) Technology Co., Ltd."
-141.98.153.86:80,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH
-31.220.78.244:80,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH
-5.39.255.142:8118,HTTP,Germany,DE,🇩🇪,20,medium,No,Anton Levin
-31.70.78.110:8888,HTTP,Germany,DE,🇩🇪,24,medium,No,IONOS SE
+91.99.146.21:8881,HTTP,Germany,DE,🇩🇪,0,low,Yes,Hetzner Online GmbH
+144.31.73.173:3128,HTTP,Germany,DE,🇩🇪,0,low,No,U1 DIGITAL SERVICES LTD
+91.98.86.26:8888,HTTP,Germany,DE,🇩🇪,0,low,Yes,Hetzner Online GmbH
+47.91.65.23:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Alibaba.com LLC
+8.211.42.167:8087,HTTP,Germany,DE,🇩🇪,3,low,No,"Alibaba (US) Technology Co., Ltd."
+116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH
+168.119.153.216:8888,HTTP,Germany,DE,🇩🇪,6,low,Yes,Hetzner Online GmbH
+207.180.254.198:8080,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH
+31.70.78.110:8888,HTTP,Germany,DE,🇩🇪,21,medium,No,IONOS SE
+159.195.49.27:8888,HTTP,Germany,DE,🇩🇪,22,medium,Yes,netcup GmbH
