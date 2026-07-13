@@ -1,9 +1,12 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-141.147.70.238:3128,HTTP,United Kingdom,GB,🇬🇧,2,low,No,Oracle Corporation
-8.211.194.85:8080,HTTP,United Kingdom,GB,🇬🇧,5,low,Yes,"Alibaba (US) Technology Co., Ltd."
-8.211.194.85:3333,HTTP,United Kingdom,GB,🇬🇧,5,low,Yes,"Alibaba (US) Technology Co., Ltd."
+212.67.219.205:8080,HTTP,United Kingdom,GB,🇬🇧,0,low,No,Heart Internet limited
+86.21.235.43:995,HTTP,United Kingdom,GB,🇬🇧,5,low,No,Virgin Media Limited
 8.211.195.173:80,HTTP,United Kingdom,GB,🇬🇧,5,low,No,"Alibaba (US) Technology Co., Ltd."
-130.49.187.63:1081,HTTP,United Kingdom,GB,🇬🇧,26,medium,No,Global Connectivity Solutions LLP
-130.49.187.63:1082,HTTP,United Kingdom,GB,🇬🇧,26,medium,No,Global Connectivity Solutions LLP
-130.49.187.61:1081,HTTP,United Kingdom,GB,🇬🇧,26,medium,No,Global Connectivity Solutions LLP
-212.58.132.5:8888,HTTP,United Kingdom,GB,🇬🇧,31,medium,Yes,"NSFOCUS, Inc."
+8.211.200.183:9098,HTTP,United Kingdom,GB,🇬🇧,5,low,No,"Alibaba (US) Technology Co., Ltd."
+8.211.200.183:8443,HTTP,United Kingdom,GB,🇬🇧,5,low,No,"Alibaba (US) Technology Co., Ltd."
+8.211.200.183:1720,HTTP,United Kingdom,GB,🇬🇧,5,low,No,"Alibaba (US) Technology Co., Ltd."
+5.189.161.47:3128,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Contabo GmbH
+130.49.187.61:1082,HTTP,United Kingdom,GB,🇬🇧,26,medium,No,Global Connectivity Solutions LLP
+185.231.59.189:8080,HTTP,United Kingdom,GB,🇬🇧,33,medium,No,BitCommand LLC
+81.168.119.212:3128,HTTP,United Kingdom,GB,🇬🇧,75,high,Yes,Iomart Cloud Services Limited
+81.168.119.85:443,HTTP,United Kingdom,GB,🇬🇧,100,very_high,Yes,Iomart Cloud Services Limited
