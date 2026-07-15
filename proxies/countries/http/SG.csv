@@ -1,9 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-47.237.2.245:10,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
-47.237.2.245:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
-47.74.226.8:5001,HTTP,Singapore,SG,🇸🇬,0,low,No,Alibaba Cloud LLC
-151.242.116.22:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi
 47.237.113.119:9999,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd."
+8.219.97.248:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Alibaba Cloud (Singapore) Private Limited
+43.160.208.165:7890,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited
+47.237.2.245:9098,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
 140.245.99.105:7890,HTTP,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation
-139.162.16.201:80,HTTP,Singapore,SG,🇸🇬,50,medium,No,LINODE
-104.248.149.186:3128,HTTP,Singapore,SG,🇸🇬,57,medium,No,"DigitalOcean, LLC"
+8.222.175.80:6128,HTTP,Singapore,SG,🇸🇬,3,low,No,"Alibaba (US) Technology Co., Ltd."
+178.128.59.180:18080,HTTP,Singapore,SG,🇸🇬,60,high,Yes,"DigitalOcean, LLC"
