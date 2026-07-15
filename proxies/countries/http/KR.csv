@@ -1,9 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-106.10.55.212:1121,HTTP,South Korea,KR,🇰🇷,0,low,No,NAVER Cloud Corp
+58.180.17.51:3128,HTTP,South Korea,KR,🇰🇷,0,low,Yes,Shinbiro
 211.233.44.58:8080,HTTP,South Korea,KR,🇰🇷,0,low,No,LG DACOM KIDC
-219.249.37.107:8197,HTTP,South Korea,KR,🇰🇷,2,low,No,SK Broadband Co Ltd
-8.213.128.6:8002,HTTP,South Korea,KR,🇰🇷,3,low,No,"Alibaba (US) Technology Co., Ltd."
+210.94.84.86:8118,HTTP,South Korea,KR,🇰🇷,2,low,No,SK Broadband Co Ltd
+219.249.37.107:8380,HTTP,South Korea,KR,🇰🇷,2,low,No,SK Broadband Co Ltd
+219.249.37.107:8382,HTTP,South Korea,KR,🇰🇷,2,low,No,SK Broadband Co Ltd
 183.110.216.159:8090,HTTP,South Korea,KR,🇰🇷,3,low,No,Korea Telecom
+183.110.216.128:8091,HTTP,South Korea,KR,🇰🇷,3,low,No,Korea Telecom
 183.110.216.128:8090,HTTP,South Korea,KR,🇰🇷,3,low,No,Korea Telecom
 8.213.156.191:12000,HTTP,South Korea,KR,🇰🇷,3,low,No,"Alibaba (US) Technology Co., Ltd."
 8.213.151.128:3128,HTTP,South Korea,KR,🇰🇷,3,low,No,"Alibaba (US) Technology Co., Ltd."
