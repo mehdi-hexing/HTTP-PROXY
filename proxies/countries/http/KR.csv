@@ -1,9 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-47.80.60.84:3128,HTTP,South Korea,KR,🇰🇷,0,low,No,Alibaba.com LLC
-219.249.37.107:8382,HTTP,South Korea,KR,🇰🇷,2,low,No,SK Broadband Co Ltd
-183.110.216.159:8091,HTTP,South Korea,KR,🇰🇷,3,low,No,Korea Telecom
-8.220.204.92:18080,HTTP,South Korea,KR,🇰🇷,3,low,Yes,"Alibaba (US) Technology Co., Ltd."
-8.220.204.92:6379,HTTP,South Korea,KR,🇰🇷,3,low,Yes,"Alibaba (US) Technology Co., Ltd."
+211.233.44.58:8080,HTTP,South Korea,KR,🇰🇷,0,low,No,LG DACOM KIDC
+58.180.17.51:3128,HTTP,South Korea,KR,🇰🇷,0,low,Yes,Shinbiro
+219.249.37.107:8380,HTTP,South Korea,KR,🇰🇷,2,low,No,SK Broadband Co Ltd
 168.126.169.198:808,HTTP,South Korea,KR,🇰🇷,3,low,No,Korea Telecom
-14.34.180.21:38157,HTTP,South Korea,KR,🇰🇷,3,low,No,Korea Telecom
+183.110.216.128:8090,HTTP,South Korea,KR,🇰🇷,3,low,No,Korea Telecom
+8.213.151.128:3128,HTTP,South Korea,KR,🇰🇷,3,low,No,"Alibaba (US) Technology Co., Ltd."
+183.110.216.159:8090,HTTP,South Korea,KR,🇰🇷,3,low,No,Korea Telecom
+183.110.216.128:8091,HTTP,South Korea,KR,🇰🇷,3,low,No,Korea Telecom
 1.231.81.166:3128,HTTP,South Korea,KR,🇰🇷,100,very_high,Yes,SK Broadband Co Ltd
