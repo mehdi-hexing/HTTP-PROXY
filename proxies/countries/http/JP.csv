@@ -1,28 +1,14 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-47.91.29.151:1311,HTTP,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC
-40.81.205.181:1080,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
-20.78.26.206:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
-20.210.76.178:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
-20.27.11.248:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
-20.27.13.35:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
-20.78.118.91:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
-20.210.39.155:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
-20.18.193.135:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
-20.210.76.175:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
-20.27.15.49:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
-20.210.76.104:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
-20.27.15.111:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
-20.27.14.220:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
 47.91.29.151:8443,HTTP,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC
 47.91.29.151:9098,HTTP,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC
 140.227.61.201:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere
-133.232.90.85:80,HTTP,Japan,JP,🇯🇵,0,low,No,"NTT PC Communications, Inc."
-133.232.90.126:80,HTTP,Japan,JP,🇯🇵,0,low,No,"NTT PC Communications, Inc."
-20.210.39.153:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
 160.248.7.177:80,HTTP,Japan,JP,🇯🇵,1,low,Yes,"NTT PC Communications, Inc."
-8.209.255.13:3128,HTTP,Japan,JP,🇯🇵,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
-8.221.139.222:6379,HTTP,Japan,JP,🇯🇵,2,low,No,"Alibaba (US) Technology Co., Ltd."
-8.221.139.222:8026,HTTP,Japan,JP,🇯🇵,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.221.138.111:80,HTTP,Japan,JP,🇯🇵,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.221.138.111:5060,HTTP,Japan,JP,🇯🇵,2,low,No,"Alibaba (US) Technology Co., Ltd."
+8.209.214.143:3128,HTTP,Japan,JP,🇯🇵,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.211.170.91:14680,HTTP,Japan,JP,🇯🇵,2,low,No,"Alibaba (US) Technology Co., Ltd."
+34.84.162.206:38080,HTTP,Japan,JP,🇯🇵,3,low,No,Google LLC
+158.101.89.163:3123,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation
+5.104.81.13:8118,HTTP,Japan,JP,🇯🇵,10,low,No,Contabo Asia Private Limited
+45.76.223.103:1080,HTTP,Japan,JP,🇯🇵,45,medium,No,The Constant Company
+64.176.44.31:7890,HTTP,Japan,JP,🇯🇵,45,medium,No,The Constant Company

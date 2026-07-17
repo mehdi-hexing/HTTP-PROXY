@@ -1,5 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-80.78.73.120:65530,SOCKS4,Albania,AL,🇦🇱,0,low,No,Vodafone Albania Sh.A.
-185.190.90.2:4145,SOCKS4,Albania,AL,🇦🇱,0,low,No,Lightnet Sh.p.k.
+80.78.74.8:65530,SOCKS4,Albania,AL,🇦🇱,0,low,No,Vodafone Albania Sh.A.
+78.159.131.131:1081,SOCKS4,Albania,AL,🇦🇱,25,medium,Yes,Global Connectivity Solutions LLP
 78.159.131.112:1081,SOCKS4,Albania,AL,🇦🇱,25,medium,Yes,Global Connectivity Solutions LLP
-78.159.131.139:1082,SOCKS4,Albania,AL,🇦🇱,25,medium,Yes,Global Connectivity Solutions LLP
+78.159.131.139:1081,SOCKS4,Albania,AL,🇦🇱,25,medium,Yes,Global Connectivity Solutions LLP
+78.159.131.131:1082,SOCKS4,Albania,AL,🇦🇱,25,medium,Yes,Global Connectivity Solutions LLP
+147.45.221.115:1082,SOCKS4,Albania,AL,🇦🇱,25,medium,No,Global Connectivity Solutions LLP
