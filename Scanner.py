@@ -69,7 +69,7 @@ def get_proxy_metadata(ip):
     if result:
         return result
 
-    fallback_url = f"https://cf-scamalytics.mehdismart88.workers.dev/{ip}"
+    fallback_url = f"https://cf-scamalytics.mehdismart.workers.dev/{ip}"
     result = fetch_API(fallback_url)
     if result:
         return result
