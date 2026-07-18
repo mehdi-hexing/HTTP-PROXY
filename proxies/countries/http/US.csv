@@ -1,187 +1,83 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-69.75.140.157:8080,HTTP,United States,US,🇺🇸,0,low,No,Spectrum
-12.49.24.22:8080,HTTP,United States,US,🇺🇸,0,low,No,AT&T Services
-102.129.170.224:37234,HTTP,United States,US,🇺🇸,0,low,Yes,networld communications SRL
-186.241.90.120:7890,HTTP,United States,US,🇺🇸,0,low,No,Arosscloud Inc.
+162.255.110.24:8080,HTTP,United States,US,🇺🇸,0,low,No,Desert Winds Wireless
+50.205.246.13:80,HTTP,United States,US,🇺🇸,0,low,Yes,"Comcast Cable Communications, LLC"
 45.153.4.154:3128,HTTP,United States,US,🇺🇸,0,low,Yes,Istqrar for Servers Services Ltd
+50.205.246.13:443,HTTP,United States,US,🇺🇸,0,low,Yes,"Comcast Cable Communications, LLC"
 172.171.83.26:8080,HTTP,United States,US,🇺🇸,0,low,Yes,Microsoft
 23.228.86.236:8081,HTTP,United States,US,🇺🇸,0,low,No,Vault Host
+43.162.115.85:8080,HTTP,United States,US,🇺🇸,0,low,No,Shenzhen Tencent Computer Systems Company Limited
 97.74.87.226:80,HTTP,United States,US,🇺🇸,0,low,No,"GoDaddy.com, LLC"
+50.205.246.13:8080,HTTP,United States,US,🇺🇸,0,low,Yes,"Comcast Cable Communications, LLC"
 38.55.145.46:1081,HTTP,United States,US,🇺🇸,0,low,Yes,Cogent Communications
+172.93.101.178:3128,HTTP,United States,US,🇺🇸,0,low,No,ReliableSite.Net LLC
 92.118.112.25:1081,HTTP,United States,US,🇺🇸,0,low,No,Global Connectivity Solutions LLP
 104.36.236.101:8080,HTTP,United States,US,🇺🇸,0,low,No,Desert Winds Wireless
-104.194.148.204:80,HTTP,United States,US,🇺🇸,0,low,No,FranTech Solutions
-74.103.66.15:80,HTTP,United States,US,🇺🇸,0,low,No,Verizon Business
+137.66.1.45:80,HTTP,United States,US,🇺🇸,0,low,No,"Fly.io, Inc."
+165.138.86.202:8080,HTTP,United States,US,🇺🇸,0,low,No,Zayo Bandwidth
 153.72.68.0:8080,HTTP,United States,US,🇺🇸,1,low,No,Google LLC
 43.135.179.129:7890,HTTP,United States,US,🇺🇸,1,low,No,Shenzhen Tencent Computer Systems Company Limited
-104.129.192.156:10158,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10434,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12749,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10625,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10750,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10000,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12035,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10011,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11915,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12877,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10525,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11836,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11041,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11988,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10279,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11380,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10522,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12123,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:80,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10395,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10859,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10839,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10302,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12127,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11263,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10657,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10973,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12607,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10254,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10300,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12119,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12836,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12162,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12482,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11515,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12844,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11883,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12044,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12415,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12008,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12460,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11573,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10797,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11298,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10916,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10609,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11745,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11156,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12266,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12776,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12192,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11566,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10746,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11691,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12872,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:443,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12166,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12212,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10668,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10620,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10655,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10033,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10841,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12070,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:57779,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11025,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12047,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11677,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10729,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
+104.129.192.156:10909,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
 104.129.192.156:10110,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10918,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10315,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10721,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10915,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12135,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12832,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
 104.129.192.156:10115,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12248,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10829,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11415,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10361,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10624,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12816,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11734,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10928,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11419,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
+104.129.192.156:10918,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
+104.129.192.156:10223,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
 104.129.192.156:10454,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10007,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10493,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11683,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11817,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:3128,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
+104.129.192.156:10624,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
 104.129.192.156:12728,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12642,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11834,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
 104.129.192.156:12233,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12858,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10181,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11377,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12700,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11659,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10573,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11363,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12717,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
 104.129.192.156:11746,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11724,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11398,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10477,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10174,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
 8.221.126.184:80,HTTP,United States,US,🇺🇸,2,low,No,"Alibaba (US) Technology Co., Ltd."
-104.129.192.156:12264,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12628,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10527,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:12168,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10410,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11989,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10937,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11742,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10623,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11703,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11846,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:11678,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10577,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
-104.129.192.156:10121,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC."
 34.43.46.91:80,HTTP,United States,US,🇺🇸,3,low,Yes,Google LLC
-136.116.107.135:3128,HTTP,United States,US,🇺🇸,3,low,No,Google LLC
 34.44.49.215:80,HTTP,United States,US,🇺🇸,3,low,No,Google LLC
 34.43.46.91:443,HTTP,United States,US,🇺🇸,3,low,Yes,Google LLC
 34.69.61.247:80,HTTP,United States,US,🇺🇸,3,low,Yes,Google LLC
-150.136.163.51:80,HTTP,United States,US,🇺🇸,4,low,No,Oracle Corporation
-24.119.238.146:10000,HTTP,United States,US,🇺🇸,7,low,No,"CABLE ONE, INC."
+34.162.25.75:443,HTTP,United States,US,🇺🇸,3,low,No,Google LLC
+96.227.245.221:999,HTTP,United States,US,🇺🇸,4,low,No,Verizon Business
+142.147.119.181:8080,HTTP,United States,US,🇺🇸,4,low,No,Nextlink Broadband
+75.84.71.14:80,HTTP,United States,US,🇺🇸,6,low,No,Spectrum
 47.253.201.85:7890,HTTP,United States,US,🇺🇸,8,low,Yes,Alibaba Cloud LLC
 47.251.74.38:64,HTTP,United States,US,🇺🇸,8,low,Yes,Alibaba Cloud LLC
 47.251.73.54:8888,HTTP,United States,US,🇺🇸,8,low,No,Alibaba Cloud LLC
-74.48.114.180:1080,HTTP,United States,US,🇺🇸,12,low,No,Multacom Corporation
+47.251.74.38:808,HTTP,United States,US,🇺🇸,8,low,Yes,Alibaba Cloud LLC
+47.251.74.38:9080,HTTP,United States,US,🇺🇸,8,low,Yes,Alibaba Cloud LLC
+68.189.214.35:80,HTTP,United States,US,🇺🇸,9,low,No,Charter Communications
 162.240.19.30:80,HTTP,United States,US,🇺🇸,17,low,No,Unified Layer
 104.225.220.233:80,HTTP,United States,US,🇺🇸,19,low,No,"HIVELOCITY, Inc."
 47.90.167.27:8008,HTTP,United States,US,🇺🇸,20,medium,Yes,Alibaba.com LLC
 47.90.167.27:443,HTTP,United States,US,🇺🇸,20,medium,Yes,Alibaba.com LLC
 47.90.167.27:1000,HTTP,United States,US,🇺🇸,20,medium,Yes,Alibaba.com LLC
-108.174.194.34:10801,HTTP,United States,US,🇺🇸,23,medium,No,HostPapa
+47.89.184.18:3128,HTTP,United States,US,🇺🇸,20,medium,No,Alibaba.com LLC
 147.45.60.246:1081,HTTP,United States,US,🇺🇸,25,medium,Yes,Global Connectivity Solutions LLP
-178.130.47.43:1081,HTTP,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
 178.130.47.23:1081,HTTP,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
+178.130.47.43:1082,HTTP,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
 147.45.60.124:1082,HTTP,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
 147.45.60.252:1081,HTTP,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
 147.45.60.124:1081,HTTP,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
 147.45.60.136:1082,HTTP,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
 178.130.47.41:1082,HTTP,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
+147.45.60.110:1082,HTTP,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
+147.45.60.249:1082,HTTP,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
 147.45.60.246:1082,HTTP,United States,US,🇺🇸,25,medium,Yes,Global Connectivity Solutions LLP
-178.130.47.42:1082,HTTP,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
+147.45.60.250:1082,HTTP,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
 147.45.60.241:1081,HTTP,United States,US,🇺🇸,25,medium,Yes,Global Connectivity Solutions LLP
 147.45.60.139:1082,HTTP,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
-178.130.47.50:1081,HTTP,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
+178.130.47.42:1081,HTTP,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
 178.130.47.21:1082,HTTP,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
 178.130.47.41:1081,HTTP,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
-178.130.47.23:1082,HTTP,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
+147.45.60.136:1081,HTTP,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
+147.45.60.252:1082,HTTP,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
+147.45.60.139:1081,HTTP,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
+92.118.112.32:1081,HTTP,United States,US,🇺🇸,33,medium,Yes,Global Connectivity Solutions LLP
 92.118.112.32:1082,HTTP,United States,US,🇺🇸,33,medium,Yes,Global Connectivity Solutions LLP
-107.174.107.161:2001,HTTP,United States,US,🇺🇸,51,medium,No,HostPapa
-66.175.236.184:1080,HTTP,United States,US,🇺🇸,52,medium,No,IONOS SE
-70.35.196.194:8090,HTTP,United States,US,🇺🇸,52,medium,No,IONOS SE
-70.35.196.194:8083,HTTP,United States,US,🇺🇸,52,medium,No,IONOS SE
-64.23.188.3:3128,HTTP,United States,US,🇺🇸,57,medium,No,"DigitalOcean, LLC"
+51.81.6.158:3128,HTTP,United States,US,🇺🇸,52,medium,No,OVH SAS
+70.35.196.194:8086,HTTP,United States,US,🇺🇸,52,medium,No,IONOS SE
+51.81.73.69:3128,HTTP,United States,US,🇺🇸,52,medium,No,OVH SAS
 159.65.230.46:8888,HTTP,United States,US,🇺🇸,57,medium,No,"DigitalOcean, LLC"
 159.65.245.255:80,HTTP,United States,US,🇺🇸,57,medium,No,"DigitalOcean, LLC"
 157.230.178.216:8080,HTTP,United States,US,🇺🇸,57,medium,No,"DigitalOcean, LLC"
 157.254.194.57:1080,HTTP,United States,US,🇺🇸,59,medium,Yes,Ipxo LLC
-167.99.173.119:3128,HTTP,United States,US,🇺🇸,59,medium,No,"DigitalOcean, LLC"
-167.99.236.14:80,HTTP,United States,US,🇺🇸,59,medium,Yes,"DigitalOcean, LLC"
-167.99.124.118:80,HTTP,United States,US,🇺🇸,59,medium,No,"DigitalOcean, LLC"
+174.138.119.88:80,HTTP,United States,US,🇺🇸,59,medium,No,"DigitalOcean, LLC"
+138.197.68.35:4857,HTTP,United States,US,🇺🇸,59,medium,No,"DigitalOcean, LLC"
 144.24.41.48:9999,HTTP,United States,US,🇺🇸,100,very_high,No,Oracle Corporation
+70.63.90.245:8080,HTTP,United States,US,🇺🇸,100,very_high,No,Spectrum
+24.173.217.114:55443,HTTP,United States,US,🇺🇸,100,very_high,No,Spectrum
