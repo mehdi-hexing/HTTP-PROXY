@@ -1,187 +1,139 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-80.78.74.8:65530,SOCKS4,Albania,AL,🇦🇱,0,low,No,Vodafone Albania Sh.A.
 185.190.90.2:4145,SOCKS4,Albania,AL,🇦🇱,0,low,No,Lightnet Sh.p.k.
 78.159.131.131:1081,SOCKS4,Albania,AL,🇦🇱,25,medium,Yes,Global Connectivity Solutions LLP
 78.159.131.112:1081,SOCKS4,Albania,AL,🇦🇱,25,medium,Yes,Global Connectivity Solutions LLP
+78.159.131.139:1082,SOCKS4,Albania,AL,🇦🇱,25,medium,Yes,Global Connectivity Solutions LLP
 78.159.131.139:1081,SOCKS4,Albania,AL,🇦🇱,25,medium,Yes,Global Connectivity Solutions LLP
+78.159.131.131:1082,SOCKS4,Albania,AL,🇦🇱,25,medium,Yes,Global Connectivity Solutions LLP
+78.159.131.112:1082,SOCKS4,Albania,AL,🇦🇱,25,medium,Yes,Global Connectivity Solutions LLP
 147.45.221.115:1081,SOCKS4,Albania,AL,🇦🇱,25,medium,No,Global Connectivity Solutions LLP
 147.45.221.115:1082,SOCKS4,Albania,AL,🇦🇱,25,medium,No,Global Connectivity Solutions LLP
-147.45.221.112:1082,SOCKS4,Albania,AL,🇦🇱,25,medium,No,Global Connectivity Solutions LLP
-147.45.221.111:1081,SOCKS4,Albania,AL,🇦🇱,25,medium,No,Global Connectivity Solutions LLP
-147.45.221.112:1081,SOCKS4,Albania,AL,🇦🇱,25,medium,No,Global Connectivity Solutions LLP
-190.111.243.150:1085,SOCKS4,Argentina,AR,🇦🇷,0,low,No,CPS
-200.43.43.122:4145,SOCKS4,Argentina,AR,🇦🇷,1,low,No,Telecom Argentina S.A.
+147.45.221.111:1082,SOCKS4,Albania,AL,🇦🇱,25,medium,No,Global Connectivity Solutions LLP
+181.15.154.154:52033,SOCKS4,Argentina,AR,🇦🇷,0,low,No,Telecom Argentina S.A
+198.50.17.177:4145,SOCKS4,Argentina,AR,🇦🇷,0,low,No,Integral Comunicaciones SRL
+190.18.170.230:5678,SOCKS4,Argentina,AR,🇦🇷,1,low,No,Telecom Argentina S.A
+200.43.43.124:4145,SOCKS4,Argentina,AR,🇦🇷,1,low,No,Telecom Argentina S.A.
 200.70.56.84:1080,SOCKS4,Argentina,AR,🇦🇷,1,low,No,Telefonica de Argentina
-190.228.33.44:1085,SOCKS4,Argentina,AR,🇦🇷,1,low,No,Telecom Argentina S.A.
-186.138.177.33:4145,SOCKS4,Argentina,AR,🇦🇷,1,low,No,Telecom Argentina S.A
+190.228.33.42:1085,SOCKS4,Argentina,AR,🇦🇷,1,low,No,Telecom Argentina S.A.
 200.16.211.68:4153,SOCKS4,Argentina,AR,🇦🇷,1,low,No,Telefonica de Argentina
-181.114.36.158:1082,SOCKS4,Argentina,AR,🇦🇷,9,low,No,"Coop. Popular de Elec., Obras y Servicios Pub. de Santa Rosa LTDA"
-130.193.123.34:5678,SOCKS4,Armenia,AM,🇦🇲,0,low,No,GNC
-185.215.53.193:3629,SOCKS4,Armenia,AM,🇦🇲,0,low,No,Fnet LLC
-212.34.230.102:4153,SOCKS4,Armenia,AM,🇦🇲,0,low,No,Ucom CJSC
-213.173.75.222:5678,SOCKS4,Austria,AT,🇦🇹,0,low,No,BK DAT
-123.200.5.146:57775,SOCKS4,Bangladesh,BD,🇧🇩,0,low,No,Link3 Technologies Limited
-202.40.177.94:5678,SOCKS4,Bangladesh,BD,🇧🇩,0,low,No,Ranks ITT
 103.138.145.174:9090,SOCKS4,Bangladesh,BD,🇧🇩,0,low,No,Neef IT Limited
-103.115.255.225:36331,SOCKS4,Bangladesh,BD,🇧🇩,0,low,No,Star Internet Service
-123.200.6.58:5678,SOCKS4,Bangladesh,BD,🇧🇩,0,low,No,Link3 Technologies Limited
-103.83.233.165:1080,SOCKS4,Bangladesh,BD,🇧🇩,0,low,No,Mohammad Masfiequr Rahaman & Rony Saha
-181.115.207.115:1080,SOCKS4,Bolivia,BO,🇧🇴,1,low,No,Entel S.A. - EntelNet
-170.80.221.192:4153,SOCKS4,Brazil,BR,🇧🇷,0,low,No,LOCALLINK TELECOMUNICAÇÕES LTDA - ME
-177.125.144.94:1080,SOCKS4,Brazil,BR,🇧🇷,0,low,No,Mega Grupo de Telecomunicações Ltda
-138.186.133.161:4153,SOCKS4,Brazil,BR,🇧🇷,0,low,No,Unidasnet Comunicacoes Ltda
-186.225.132.10:4145,SOCKS4,Brazil,BR,🇧🇷,0,low,No,Sinal Br Telecom Ltda
-190.89.104.48:5432,SOCKS4,Brazil,BR,🇧🇷,1,low,No,Acessoline Telecom
-147.15.17.132:1085,SOCKS4,Brazil,BR,🇧🇷,2,low,No,Oracle Corporation
+103.245.108.202:1080,SOCKS4,Bangladesh,BD,🇧🇩,0,low,No,ACE IT Networks Limited
+86.57.178.182:4153,SOCKS4,Belarus,BY,🇧🇾,100,very_high,No,Republican Unitary Telecommunication Enterprise Beltelecom
+189.20.109.147:4145,SOCKS4,Brazil,BR,🇧🇷,0,low,No,Vivo
+143.208.130.155:5678,SOCKS4,Brazil,BR,🇧🇷,0,low,No,Lanservi Tecnologia
+168.227.158.49:4145,SOCKS4,Brazil,BR,🇧🇷,0,low,No,Multipla Serviços Inteligentes
+190.89.104.88:5432,SOCKS4,Brazil,BR,🇧🇷,1,low,No,Acessoline Telecom
+177.131.118.123:5432,SOCKS4,Brazil,BR,🇧🇷,1,low,No,Acessoline Telecom
 147.15.17.132:1081,SOCKS4,Brazil,BR,🇧🇷,2,low,No,Oracle Corporation
+147.15.17.132:1088,SOCKS4,Brazil,BR,🇧🇷,2,low,No,Oracle Corporation
 147.15.17.132:1082,SOCKS4,Brazil,BR,🇧🇷,2,low,No,Oracle Corporation
-177.131.29.214:4153,SOCKS4,Brazil,BR,🇧🇷,2,low,No,Compuservice Empreendimentos Ltda
+177.131.29.209:4153,SOCKS4,Brazil,BR,🇧🇷,2,low,No,Compuservice Empreendimentos Ltda
+147.15.17.132:1092,SOCKS4,Brazil,BR,🇧🇷,2,low,No,Oracle Corporation
+147.15.17.132:1094,SOCKS4,Brazil,BR,🇧🇷,2,low,No,Oracle Corporation
 186.194.127.41:4153,SOCKS4,Brazil,BR,🇧🇷,3,low,No,Dtel Telecom
-177.207.247.189:4153,SOCKS4,Brazil,BR,🇧🇷,3,low,No,TELEFÔNICA BRASIL S.A
 167.250.137.129:1080,SOCKS4,Brazil,BR,🇧🇷,4,low,No,DB3 SERVICOS DE TELECOMUNICACOES S.A
 170.150.1.253:4145,SOCKS4,Brazil,BR,🇧🇷,5,low,No,UNIFIQUE TELECOMUNICACOES S/A
-96.9.88.130:4153,SOCKS4,Cambodia,KH,🇰🇭,0,low,No,S.I Group
-175.100.37.171:1080,SOCKS4,Cambodia,KH,🇰🇭,6,low,No,"VIETTEL (CAMBODIA) PTE., LTD"
+177.26.112.65:5678,SOCKS4,Brazil,BR,🇧🇷,5,low,No,Vivo
+212.50.19.150:4153,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,Spectrum NET
+103.197.242.106:1080,SOCKS4,Cambodia,KH,🇰🇭,4,low,No,"COGETEL Co., Ltd"
 102.132.17.30:1080,SOCKS4,Cameroon,CM,🇨🇲,0,low,No,SWECOM1623
-51.222.12.245:10084,SOCKS4,Canada,CA,🇨🇦,33,medium,Yes,OVH SAS
-190.13.147.241:5678,SOCKS4,Chile,CL,🇨🇱,0,low,No,Telefonica del Sur S.A
-59.66.137.138:6382,SOCKS4,China,CN,🇨🇳,0,low,No,CERNET
+142.112.52.229:8443,SOCKS4,Canada,CA,🇨🇦,4,low,No,Bell Canada
+140.238.156.12:1080,SOCKS4,Canada,CA,🇨🇦,4,low,No,Oracle Corporation
+177.253.136.162:5678,SOCKS4,Colombia,CO,🇨🇴,0,low,No,Colombia Móvil
 186.1.182.194:4153,SOCKS4,Colombia,CO,🇨🇴,0,low,No,Dialnet de Colombia S.A. E.S.P
-190.144.224.182:44550,SOCKS4,Colombia,CO,🇨🇴,0,low,No,Telmex Colombia S.A.
-181.49.22.141:1080,SOCKS4,Colombia,CO,🇨🇴,0,low,No,Telmex Colombia S.A.
-181.204.39.202:53740,SOCKS4,Colombia,CO,🇨🇴,0,low,No,Colombia Móvil
-190.145.54.142:1080,SOCKS4,Colombia,CO,🇨🇴,0,low,No,Telmex Colombia S.A.
-190.249.137.80:4145,SOCKS4,Colombia,CO,🇨🇴,1,low,No,EPM Telecomunicaciones S.A. E.S.P.
-87.228.228.101:4145,SOCKS4,Cyprus,CY,🇨🇾,1,low,No,CYTANET - Cyprus Telecommunications Authority
-109.69.211.18:1080,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,LAN servis s.r.o
-78.111.112.118:4145,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,ISP Alliance a.s.
-185.40.80.143:4153,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,Airweb
+181.143.59.140:4153,SOCKS4,Colombia,CO,🇨🇴,0,low,No,EPM Telecomunicaciones S.A. E.S.P.
+82.132.19.108:4153,SOCKS4,Croatia,HR,🇭🇷,0,low,No,Croatian Academic and Research Network
+90.178.216.215:4153,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,"Telefonica O2 Czech Republic, a.s."
 89.185.80.78:1082,SOCKS4,Denmark,DK,🇩🇰,0,low,No,Global Connectivity Solutions LLP
 89.185.80.78:1081,SOCKS4,Denmark,DK,🇩🇰,0,low,No,Global Connectivity Solutions LLP
 89.185.80.251:1082,SOCKS4,Denmark,DK,🇩🇰,25,medium,No,Global Connectivity Solutions LLP
 89.185.80.69:1082,SOCKS4,Denmark,DK,🇩🇰,25,medium,No,Global Connectivity Solutions LLP
-89.185.80.69:1081,SOCKS4,Denmark,DK,🇩🇰,25,medium,No,Global Connectivity Solutions LLP
-154.88.189.22:5678,SOCKS4,Dominican Republic,DO,🇩🇴,0,low,No,Telemarch S.R.L
-160.20.165.242:8080,SOCKS4,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.
+89.185.80.250:1082,SOCKS4,Denmark,DK,🇩🇰,25,medium,No,Global Connectivity Solutions LLP
+89.185.80.250:1081,SOCKS4,Denmark,DK,🇩🇰,25,medium,No,Global Connectivity Solutions LLP
 5.45.125.201:1080,SOCKS4,Estonia,EE,🇪🇪,0,low,No,PAGM network
-37.27.138.205:1080,SOCKS4,Finland,FI,🇫🇮,6,low,No,Hetzner Online GmbH
-93.123.30.53:1080,SOCKS4,Finland,FI,🇫🇮,11,low,No,Baykov Ilya Sergeevich
+91.235.234.226:1080,SOCKS4,Estonia,EE,🇪🇪,47,medium,No,BlueVPS OU
+95.216.170.155:9093,SOCKS4,Finland,FI,🇫🇮,6,low,No,Hetzner Online GmbH
+65.21.137.237:9050,SOCKS4,Finland,FI,🇫🇮,6,low,No,Hetzner Online GmbH
+92.118.234.124:1080,SOCKS4,Finland,FI,🇫🇮,43,medium,Yes,WorkTitans B.V.
 62.133.62.3:1081,SOCKS4,France,FR,🇫🇷,0,low,No,Global Connectivity Solutions LLP
-62.133.62.3:1082,SOCKS4,France,FR,🇫🇷,0,low,No,Global Connectivity Solutions LLP
-62.133.62.12:1081,SOCKS4,France,FR,🇫🇷,0,low,No,Global Connectivity Solutions LLP
+91.209.71.84:9093,SOCKS4,France,FR,🇫🇷,0,low,No,Dyjix SAS
 95.178.108.189:5678,SOCKS4,France,FR,🇫🇷,0,low,No,Eurofiber France SAS
-130.49.218.165:1081,SOCKS4,France,FR,🇫🇷,25,medium,No,Global Connectivity Solutions LLP
-62.133.62.17:1082,SOCKS4,France,FR,🇫🇷,25,medium,No,Global Connectivity Solutions LLP
 62.133.62.207:1082,SOCKS4,France,FR,🇫🇷,25,medium,No,Global Connectivity Solutions LLP
-62.133.62.187:1082,SOCKS4,France,FR,🇫🇷,25,medium,No,Global Connectivity Solutions LLP
-62.133.62.207:1081,SOCKS4,France,FR,🇫🇷,25,medium,No,Global Connectivity Solutions LLP
+62.133.62.231:1082,SOCKS4,France,FR,🇫🇷,25,medium,No,Global Connectivity Solutions LLP
 62.133.62.231:1081,SOCKS4,France,FR,🇫🇷,25,medium,No,Global Connectivity Solutions LLP
-45.95.233.237:1081,SOCKS4,France,FR,🇫🇷,28,medium,No,Global Connectivity Solutions LLP
-85.117.32.166:4153,SOCKS4,Georgia,GE,🇬🇪,0,low,No,Caucasus Online Ltd.
-91.107.228.234:1052,SOCKS4,Germany,DE,🇩🇪,0,low,No,Hetzner Online GmbH
-91.98.237.146:9050,SOCKS4,Germany,DE,🇩🇪,0,low,No,Hetzner Online GmbH
-87.251.77.60:1080,SOCKS4,Germany,DE,🇩🇪,0,low,No,Chsl ONE LTD
-92.205.186.129:1080,SOCKS4,Germany,DE,🇩🇪,1,low,No,Host Europe GmbH
-72.56.106.48:443,SOCKS4,Germany,DE,🇩🇪,5,low,No,"Timeweb, LLP"
-162.55.91.21:9080,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH
-138.201.130.124:40001,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH
+194.58.33.7:9564,SOCKS4,Germany,DE,🇩🇪,0,low,Yes,International Hosting Company Limited
+46.224.153.114:9050,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH
 116.202.20.234:9082,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH
 8.209.96.245:9080,SOCKS4,Germany,DE,🇩🇪,8,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
 8.209.96.245:45,SOCKS4,Germany,DE,🇩🇪,8,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
 8.209.96.245:55443,SOCKS4,Germany,DE,🇩🇪,8,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
 8.209.96.245:1080,SOCKS4,Germany,DE,🇩🇪,8,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
-8.209.96.245:8082,SOCKS4,Germany,DE,🇩🇪,8,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
 8.209.96.245:100,SOCKS4,Germany,DE,🇩🇪,8,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
+8.209.96.245:8082,SOCKS4,Germany,DE,🇩🇪,8,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
 8.209.96.245:1081,SOCKS4,Germany,DE,🇩🇪,8,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
+109.120.138.144:1080,SOCKS4,Germany,DE,🇩🇪,11,low,No,Aeza International LTD
+161.97.95.124:9050,SOCKS4,Germany,DE,🇩🇪,14,low,No,Contabo GmbH
 159.195.61.240:1080,SOCKS4,Germany,DE,🇩🇪,20,medium,No,netcup GmbH
-85.208.139.126:1082,SOCKS4,Germany,DE,🇩🇪,25,medium,No,Global Connectivity Solutions LLP
+139.28.241.247:1081,SOCKS4,Germany,DE,🇩🇪,25,medium,No,Global Connectivity Solutions LLP
 85.208.139.126:1081,SOCKS4,Germany,DE,🇩🇪,25,medium,No,Global Connectivity Solutions LLP
 209.38.214.48:1080,SOCKS4,Germany,DE,🇩🇪,57,medium,No,"DigitalOcean, LLC"
-38.190.1.69:1085,SOCKS4,Guatemala,GT,🇬🇹,0,low,No,Cogent Communications
-47.238.106.120:666,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
-156.247.40.95:8888,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Yancy Limited
 47.238.130.212:5000,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
 47.238.130.212:8080,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
 47.238.130.212:2000,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
 47.238.130.212:443,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
 47.76.144.139:11,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
 47.238.134.126:80,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
-103.144.246.2:8888,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Yisu Cloud LTD
-43.129.80.138:18999,SOCKS4,Hong Kong,HK,🇭🇰,1,low,No,Shenzhen Tencent Computer Systems Company Limited
-43.128.63.68:7890,SOCKS4,Hong Kong,HK,🇭🇰,1,low,No,Shenzhen Tencent Computer Systems Company Limited
 8.210.17.35:1081,SOCKS4,Hong Kong,HK,🇭🇰,2,low,No,"Alibaba (US) Technology Co., Ltd."
-103.169.189.155:36473,SOCKS4,Indonesia,ID,🇮🇩,0,low,No,Sarana Media Cemerlang
-203.174.15.83:36439,SOCKS4,Indonesia,ID,🇮🇩,0,low,No,PT Orion Cyber Internet
-103.169.188.14:8080,SOCKS4,Indonesia,ID,🇮🇩,0,low,No,Sarana Media Cemerlang
-139.255.86.226:5678,SOCKS4,Indonesia,ID,🇮🇩,0,low,Yes,PT. LINKNET
-139.255.36.82:2080,SOCKS4,Indonesia,ID,🇮🇩,0,low,No,PT. LINKNET
-103.10.99.110:5678,SOCKS4,Indonesia,ID,🇮🇩,0,low,No,Neuviz
-103.175.240.64:1080,SOCKS4,Indonesia,ID,🇮🇩,0,low,No,LDP
-115.85.86.114:5678,SOCKS4,Indonesia,ID,🇮🇩,0,low,No,Sudirman Central Business District
-103.118.127.222:4153,SOCKS4,Indonesia,ID,🇮🇩,0,low,No,Tele
-103.153.40.194:4145,SOCKS4,Indonesia,ID,🇮🇩,0,low,No,Persada Nayaka Infotama
+103.55.106.150:1080,SOCKS4,India,IN,🇮🇳,0,low,No,SBR Telecom Pvt. Ltd
+202.179.83.169:51951,SOCKS4,India,IN,🇮🇳,0,low,No,Ankhnet
+103.233.103.241:4153,SOCKS4,Indonesia,ID,🇮🇩,0,low,No,PT. Tujuh Ion Indonesia
 8.215.12.103:8009,SOCKS4,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited
 36.64.27.123:5678,SOCKS4,Indonesia,ID,🇮🇩,0,low,No,PT. Telekomunikasi Indonesia
 36.88.242.103:1080,SOCKS4,Indonesia,ID,🇮🇩,1,low,No,PT. Telekomunikasi Indonesia
 36.95.189.165:5678,SOCKS4,Indonesia,ID,🇮🇩,1,low,No,PT. Telekomunikasi Indonesia
+8.215.25.3:2080,SOCKS4,Indonesia,ID,🇮🇩,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.215.15.163:1080,SOCKS4,Indonesia,ID,🇮🇩,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.215.15.163:8888,SOCKS4,Indonesia,ID,🇮🇩,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.215.15.163:51,SOCKS4,Indonesia,ID,🇮🇩,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.215.15.163:81,SOCKS4,Indonesia,ID,🇮🇩,2,low,No,"Alibaba (US) Technology Co., Ltd."
 149.129.226.9:1081,SOCKS4,Indonesia,ID,🇮🇩,8,low,No,Alibaba.com Singapore E-Commerce Private Limited
 149.129.226.9:41,SOCKS4,Indonesia,ID,🇮🇩,8,low,No,Alibaba.com Singapore E-Commerce Private Limited
-46.245.123.30:1080,SOCKS4,Iran,IR,🇮🇷,0,low,No,Asiatech Data Transmission company
-109.224.12.170:52015,SOCKS4,Iraq,IQ,🇮🇶,0,low,No,Hulum
-176.241.82.149:5678,SOCKS4,Iraq,IQ,🇮🇶,0,low,No,Hayat ISP
+94.182.199.250:8080,SOCKS4,Iran,IR,🇮🇷,0,low,No,Aria Shatel PJSC
+87.107.68.231:1081,SOCKS4,Iran,IR,🇮🇷,0,low,Yes,Soroush Rasanheh Company Ltd
+45.142.189.27:3443,SOCKS4,Iran,IR,🇮🇷,0,low,No,Moein Dadosetad Golestan Co.
 31.168.143.90:1080,SOCKS4,Israel,IL,🇮🇱,0,low,No,BEZEQ-INTERNATIONAL
 149.62.186.244:1080,SOCKS4,Italy,IT,🇮🇹,0,low,No,Host SpA
-212.43.119.1:1080,SOCKS4,Italy,IT,🇮🇹,0,low,No,Micso S.r.l.
-160.155.90.26:1080,SOCKS4,Ivory Coast,CI,🇨🇮,0,low,No,ORANGE COTE D'IVOIRE
-47.91.29.151:8443,SOCKS4,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC
-47.91.29.151:9091,SOCKS4,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC
+8.216.32.38:1080,SOCKS4,Japan,JP,🇯🇵,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.221.138.111:8192,SOCKS4,Japan,JP,🇯🇵,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.221.138.111:8072,SOCKS4,Japan,JP,🇯🇵,2,low,No,"Alibaba (US) Technology Co., Ltd."
-8.221.138.111:8443,SOCKS4,Japan,JP,🇯🇵,2,low,No,"Alibaba (US) Technology Co., Ltd."
 64.176.44.31:1080,SOCKS4,Japan,JP,🇯🇵,45,medium,No,The Constant Company
-197.155.73.230:1080,SOCKS4,Kenya,KE,🇰🇪,0,low,No,Liquid Telecommunications Ltd
-154.79.251.168:1080,SOCKS4,Kenya,KE,🇰🇪,3,low,No,Airtel KE Mobile & Fixed Internet
-74.119.64.44:10080,SOCKS4,Macao,MO,🇲🇴,0,low,No,CHINA TELECOM (MACAU) COMPANY LIMITED
 47.250.177.202:8080,SOCKS4,Malaysia,MY,🇲🇾,0,low,Yes,"Alibaba (US) Technology Co., Ltd."
 47.250.11.111:80,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,Alibaba Cloud LLC
+47.250.11.111:81,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,Alibaba Cloud LLC
+47.250.11.111:8085,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,Alibaba Cloud LLC
+47.250.11.111:10000,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,Alibaba Cloud LLC
 47.254.235.222:909,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,Alibaba Cloud LLC
 47.250.155.254:1080,SOCKS4,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd."
-213.165.185.211:4153,SOCKS4,Malta,MT,🇲🇹,0,low,No,Melita Cable plc
 189.202.204.53:1080,SOCKS4,Mexico,MX,🇲🇽,1,low,No,"Operbes, S.A. de C.V."
 94.74.66.91:7890,SOCKS4,Mexico,MX,🇲🇽,3,low,No,Huawei International Pte. LTD
-109.72.100.113:48293,SOCKS4,Montenegro,ME,🇲🇪,0,low,No,"Drustvo za telekomunikacije ""MTEL"" DOO"
-118.91.175.146:5678,SOCKS4,Nepal,NP,🇳🇵,3,low,No,Websurfer Nepal Communication System Pvt. Ltd
+119.40.98.29:8069,SOCKS4,Mongolia,MN,🇲🇳,0,low,No,"Topica Co., Ltd"
 213.176.113.24:50001,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,Aeza International LTD
-77.239.108.222:11066,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,DpkgSoft International Limited
-45.87.43.136:9050,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SpectraIP B.V.
-45.159.189.203:1080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,Hosting Solution Ltd.
-77.239.108.222:11008,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,DpkgSoft International Limited
-77.110.118.207:1080,SOCKS4,Netherlands,NL,🇳🇱,3,low,No,Aeza International LTD
-37.220.84.231:28016,SOCKS4,Netherlands,NL,🇳🇱,5,low,No,"Timeweb, LLP"
-139.28.240.203:1082,SOCKS4,Netherlands,NL,🇳🇱,25,medium,No,Global Connectivity Solutions LLP
+194.87.79.243:2333,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,GLB Bulut Teknolojisi Limited Sirketi
+45.130.201.172:1080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,WorldStream B.V.
+79.137.198.159:42771,SOCKS4,Netherlands,NL,🇳🇱,3,low,No,Aeza International LTD
+139.28.240.202:1081,SOCKS4,Netherlands,NL,🇳🇱,25,medium,No,Global Connectivity Solutions LLP
+139.28.240.201:1081,SOCKS4,Netherlands,NL,🇳🇱,25,medium,No,Global Connectivity Solutions LLP
 81.90.29.194:10808,SOCKS4,Netherlands,NL,🇳🇱,25,medium,No,Global Connectivity Solutions LLP
-139.28.240.200:1081,SOCKS4,Netherlands,NL,🇳🇱,25,medium,No,Global Connectivity Solutions LLP
-139.28.240.200:1082,SOCKS4,Netherlands,NL,🇳🇱,25,medium,No,Global Connectivity Solutions LLP
+139.28.240.201:1082,SOCKS4,Netherlands,NL,🇳🇱,25,medium,No,Global Connectivity Solutions LLP
 139.28.240.202:1082,SOCKS4,Netherlands,NL,🇳🇱,25,medium,No,Global Connectivity Solutions LLP
-195.66.213.117:1080,SOCKS4,Netherlands,NL,🇳🇱,34,medium,No,SOLLUTIUM EU Sp z.o.o.
-128.199.37.92:1080,SOCKS4,Netherlands,NL,🇳🇱,57,medium,No,"DigitalOcean, LLC"
-154.113.167.70:5678,SOCKS4,Nigeria,NG,🇳🇬,43,medium,No,Main one Cable Company Nigeria Limited
-102.36.231.77:1080,SOCKS4,Nigeria,NG,🇳🇬,77,high,No,Timeless Network Services Ltd
+202.27.236.16:1080,SOCKS4,New Zealand,NZ,🇳🇿,0,low,No,The Digital Lab 2007 Limited
 110.38.234.74:1080,SOCKS4,Pakistan,PK,🇵🇰,0,low,No,Wateen Telecom (Pvt.) Ltd
-103.115.198.39:5678,SOCKS4,Pakistan,PK,🇵🇰,0,low,No,AMBITIONS COMMUNICATION SYSTEM (SMC-PRIVATE) LIMITED
-110.93.206.62:5678,SOCKS4,Pakistan,PK,🇵🇰,0,low,No,TRANSWORLD ASSOCIATES (PVT) LIMITED
-103.146.137.233:1081,SOCKS4,Pakistan,PK,🇵🇰,0,low,No,Galaxy Broadband (pvt.) Ltd.
-190.12.95.170:37209,SOCKS4,Peru,PE,🇵🇪,0,low,No,ON EMPRESAS S.A.C
-177.91.255.35:5678,SOCKS4,Peru,PE,🇵🇪,0,low,No,Empresa De Telecomunicaciones Multimedia Alfa
 8.220.136.174:4145,SOCKS4,Philippines,PH,🇵🇭,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.220.136.174:2000,SOCKS4,Philippines,PH,🇵🇭,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.220.136.174:8011,SOCKS4,Philippines,PH,🇵🇭,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.220.136.174:5060,SOCKS4,Philippines,PH,🇵🇭,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.220.136.174:8192,SOCKS4,Philippines,PH,🇵🇭,2,low,No,"Alibaba (US) Technology Co., Ltd."
+8.220.136.174:3000,SOCKS4,Philippines,PH,🇵🇭,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.212.168.170:3389,SOCKS4,Philippines,PH,🇵🇭,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
 8.212.168.170:8123,SOCKS4,Philippines,PH,🇵🇭,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
 8.212.168.170:1000,SOCKS4,Philippines,PH,🇵🇭,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
@@ -189,55 +141,42 @@ Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 8.212.151.166:9050,SOCKS4,Philippines,PH,🇵🇭,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
 161.49.100.131:1080,SOCKS4,Philippines,PH,🇵🇭,9,low,No,Converge Information and Communications Technology Solutions
 194.59.186.35:1080,SOCKS4,Poland,PL,🇵🇱,0,low,No,Aeza International LTD
-91.150.189.122:60647,SOCKS4,Poland,PL,🇵🇱,0,low,No,Skyware Sp. z o.o.
+185.147.69.48:1080,SOCKS4,Poland,PL,🇵🇱,0,low,No,Prymas Inwestycje Spolka Z Ograniczona Odpowiedzialnoscia Spolka Komandytowa
+88.218.206.170:5432,SOCKS4,Poland,PL,🇵🇱,0,low,No,Skhron OU
 185.79.243.153:38431,SOCKS4,Poland,PL,🇵🇱,0,low,No,PHU Kario-Sat Sp. z o.o.
-37.131.164.94:59341,SOCKS4,Poland,PL,🇵🇱,0,low,No,KSU Provector Mariusz Dziakowicz
+212.126.5.249:42344,SOCKS4,Poland,PL,🇵🇱,0,low,No,"Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomput"
 77.83.246.110:2000,SOCKS4,Poland,PL,🇵🇱,28,medium,No,Global Connectivity Solutions LLP
-46.55.3.113:4145,SOCKS4,Republic of Moldova,MD,🇲🇩,0,low,No,"JSC ""Moldtelecom"" S.A"
-81.12.157.98:5678,SOCKS4,Romania,RO,🇷🇴,0,low,No,Vodafone RO
-188.143.169.22:33333,SOCKS4,Russia,RU,🇷🇺,0,low,No,PIN morespecific
-92.42.8.5:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,KMVtelecom
+46.8.104.176:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Evro Telecom OOO
+94.181.33.149:40840,SOCKS4,Russia,RU,🇷🇺,0,low,No,"CJSC ""ER-Telecom Holding"" Chelyabinsk branch"
 89.169.168.25:6101,SOCKS4,Russia,RU,🇷🇺,0,low,No,Yandex.Cloud LLC
-185.135.81.149:9060,SOCKS4,Russia,RU,🇷🇺,0,low,No,Adman LLC
 176.12.65.24:443,SOCKS4,Russia,RU,🇷🇺,0,low,Yes,WEBDC
-37.193.125.68:1090,SOCKS4,Russia,RU,🇷🇺,0,low,No,Novotelecom Ltd
-212.46.242.185:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,SOVINTEL/END broadband internet
-94.247.241.70:51006,SOCKS4,Russia,RU,🇷🇺,0,low,No,"JSC ""ER-Telecom Holding"""
-178.250.156.112:443,SOCKS4,Russia,RU,🇷🇺,0,low,Yes,JSC IOT
-89.250.148.158:1080,SOCKS4,Russia,RU,🇷🇺,0,low,Yes,"JSC ""ER-Telecom Holding"""
-91.247.250.215:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,Ivstar Ltd
+45.91.55.95:443,SOCKS4,Russia,RU,🇷🇺,0,low,No,Delta Ltd
 159.194.228.26:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Beget LLC
-188.113.174.12:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,Sakhalin Cable Telesystems Ltd
-139.28.222.128:2080,SOCKS4,Russia,RU,🇷🇺,11,low,No,First Server Limited
 185.190.154.121:4145,SOCKS4,Serbia,RS,🇷🇸,0,low,No,TELEKOM-SRBIJA
-109.245.110.145:4145,SOCKS4,Serbia,RS,🇷🇸,6,low,No,CETIN Ltd. Belgrade
 43.160.255.142:7890,SOCKS4,Singapore,SG,🇸🇬,0,low,No,Aceville Pte.ltd
 134.209.98.206:1080,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"DigitalOcean, LLC"
 34.124.190.108:8080,SOCKS4,Singapore,SG,🇸🇬,0,low,No,Google LLC
+207.148.71.11:1080,SOCKS4,Singapore,SG,🇸🇬,0,low,No,SGP VULTR
+47.237.113.119:1000,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd."
+47.237.113.119:10080,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd."
+47.237.113.119:10,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd."
+47.237.113.119:16044,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd."
 47.237.92.86:6379,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
-105.30.248.241:1080,SOCKS4,South Africa,ZA,🇿🇦,0,low,No,SEACOM Limited Networks
-102.39.133.233:1080,SOCKS4,South Africa,ZA,🇿🇦,2,low,No,Vox Telecommunications (Pty) Limited
-102.211.56.106:9051,SOCKS4,South Africa,ZA,🇿🇦,42,medium,No,Maxko for Gaming Development
-114.108.177.104:60984,SOCKS4,South Korea,KR,🇰🇷,0,low,No,LG DACOM KIDC
-43.155.215.149:20000,SOCKS4,South Korea,KR,🇰🇷,1,low,No,Shenzhen Tencent Computer Systems Company Limited
-146.56.191.98:14785,SOCKS4,South Korea,KR,🇰🇷,2,low,No,Oracle Corporation
-152.70.237.238:3128,SOCKS4,South Korea,KR,🇰🇷,2,low,No,Oracle Corporation
-8.220.204.92:8091,SOCKS4,South Korea,KR,🇰🇷,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
+178.128.59.180:40001,SOCKS4,Singapore,SG,🇸🇬,61,high,Yes,"DigitalOcean, LLC"
+160.226.220.30:1080,SOCKS4,South Africa,ZA,🇿🇦,0,low,No,Iclix (PTY) Ltd
+165.165.178.142:4153,SOCKS4,South Africa,ZA,🇿🇦,5,low,No,Telkom SA Ltd.
+58.229.240.204:9050,SOCKS4,South Korea,KR,🇰🇷,2,low,No,SK Broadband Co Ltd
 8.220.204.92:18080,SOCKS4,South Korea,KR,🇰🇷,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
+8.220.204.92:8091,SOCKS4,South Korea,KR,🇰🇷,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
 8.213.134.213:8090,SOCKS4,South Korea,KR,🇰🇷,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
 8.220.205.172:45,SOCKS4,South Korea,KR,🇰🇷,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.220.205.172:20,SOCKS4,South Korea,KR,🇰🇷,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.220.204.92:1200,SOCKS4,South Korea,KR,🇰🇷,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
 8.220.205.172:8888,SOCKS4,South Korea,KR,🇰🇷,2,low,No,"Alibaba (US) Technology Co., Ltd."
-65.20.105.241:10001,SOCKS4,Spain,ES,🇪🇸,33,medium,Yes,"The Constant Company, LLC"
-79.76.59.115:1080,SOCKS4,Sweden,SE,🇸🇪,2,low,No,Oracle Corporation
-193.148.58.181:1080,SOCKS4,Sweden,SE,🇸🇪,11,low,No,Baykov Ilya Sergeevich
-195.225.116.14:4145,SOCKS4,Switzerland,CH,🇨🇭,0,low,No,netz116
-195.225.116.15:4145,SOCKS4,Switzerland,CH,🇨🇭,0,low,No,netz116
-193.43.159.161:1080,SOCKS4,Syria,SY,🇸🇾,0,low,No,Syrian Telecom
-205.209.66.105:1080,SOCKS4,Syria,SY,🇸🇾,0,low,No,RCell LLC
-1.20.254.32:4153,SOCKS4,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited
-27.131.189.130:4153,SOCKS4,Thailand,TH,🇹🇭,0,low,No,KIRZ Company Limited
+221.157.45.249:80,SOCKS4,South Korea,KR,🇰🇷,3,low,No,Korea Telecom
+147.45.72.212:44816,SOCKS4,Sweden,SE,🇸🇪,11,low,No,Aeza International LTD
+147.45.72.31:45700,SOCKS4,Sweden,SE,🇸🇪,11,low,No,Aeza International LTD
+45.95.232.35:1080,SOCKS4,Switzerland,CH,🇨🇭,25,medium,No,Global Connectivity Solutions LLP
 203.172.120.179:1080,SOCKS4,Thailand,TH,🇹🇭,0,low,No,sinokor1
 182.53.96.56:4145,SOCKS4,Thailand,TH,🇹🇭,1,low,No,TOT Public Company Limited
 1.179.172.45:31225,SOCKS4,Thailand,TH,🇹🇭,1,low,No,TOT Public Company Limited
@@ -249,44 +188,40 @@ Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 8.213.215.187:3128,SOCKS4,Thailand,TH,🇹🇭,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.213.215.187:5269,SOCKS4,Thailand,TH,🇹🇭,2,low,No,"Alibaba (US) Technology Co., Ltd."
 159.192.121.240:4145,SOCKS4,Thailand,TH,🇹🇭,4,low,No,National Telecom Public Company Limited
+159.192.139.42:5678,SOCKS4,Thailand,TH,🇹🇭,4,low,No,National Telecom Public Company Limited
+183.88.240.139:4153,SOCKS4,Thailand,TH,🇹🇭,6,low,No,Triple T Broadband Public Company Limited
 183.88.248.232:4145,SOCKS4,Thailand,TH,🇹🇭,6,low,No,Triple T Broadband Public Company Limited
 176.236.37.132:1080,SOCKS4,Turkey,TR,🇹🇷,0,low,No,Superonline Iletisim Hizmetleri A.S.
 93.113.63.11:1080,SOCKS4,Turkey,TR,🇹🇷,0,low,No,Netinternet Datacenter
-89.145.186.194:4153,SOCKS4,Turkey,TR,🇹🇷,0,low,No,Yeni Telekom Internet Hizmetleri Ltd. Sirketi
 185.22.186.249:1080,SOCKS4,Turkey,TR,🇹🇷,0,low,No,Cizgi Telekom
-147.45.66.115:1081,SOCKS4,Turkey,TR,🇹🇷,25,medium,No,Global Connectivity Solutions LLP
-147.45.66.116:1082,SOCKS4,Turkey,TR,🇹🇷,25,medium,No,Global Connectivity Solutions LLP
+88.247.31.164:4153,SOCKS4,Turkey,TR,🇹🇷,1,low,No,Turk Telekomunikasyon A.S
 147.45.66.117:1082,SOCKS4,Turkey,TR,🇹🇷,25,medium,No,Global Connectivity Solutions LLP
 147.45.66.116:1081,SOCKS4,Turkey,TR,🇹🇷,25,medium,No,Global Connectivity Solutions LLP
-185.132.1.221:4145,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Miratel Ltd
-193.106.57.96:5678,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Magic Line
-46.219.1.20:5678,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,o3 core
-195.200.245.132:1080,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,"PP ""IF-IX"""
-81.162.249.129:4153,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,"PP ""TRC""City TV center"""
-185.244.158.4:3129,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Stargroup LLC
-194.31.212.115:1080,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Irpen-Best
-80.92.227.185:5678,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,WNET TELECOM USA Corp.
+188.190.180.166:5678,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Global Technology Ukraine Ltd
+47.91.109.17:67,SOCKS4,United Arab Emirates,AE,🇦🇪,0,low,Yes,Alibaba Cloud LLC
+47.91.109.17:8060,SOCKS4,United Arab Emirates,AE,🇦🇪,0,low,Yes,Alibaba Cloud LLC
+47.91.109.17:8000,SOCKS4,United Arab Emirates,AE,🇦🇪,0,low,Yes,Alibaba Cloud LLC
+47.91.109.17:9090,SOCKS4,United Arab Emirates,AE,🇦🇪,0,low,Yes,Alibaba Cloud LLC
+47.91.109.17:8118,SOCKS4,United Arab Emirates,AE,🇦🇪,0,low,Yes,Alibaba Cloud LLC
 47.91.110.148:13,SOCKS4,United Arab Emirates,AE,🇦🇪,0,low,Yes,Alibaba Cloud LLC
-47.91.110.148:8123,SOCKS4,United Arab Emirates,AE,🇦🇪,0,low,Yes,Alibaba Cloud LLC
 47.91.110.148:9090,SOCKS4,United Arab Emirates,AE,🇦🇪,0,low,Yes,Alibaba Cloud LLC
+47.91.110.148:8123,SOCKS4,United Arab Emirates,AE,🇦🇪,0,low,Yes,Alibaba Cloud LLC
 8.211.195.173:9797,SOCKS4,United Kingdom,GB,🇬🇧,2,low,No,"Alibaba (US) Technology Co., Ltd."
-130.49.187.61:1081,SOCKS4,United Kingdom,GB,🇬🇧,25,medium,No,Global Connectivity Solutions LLP
-130.49.187.63:1082,SOCKS4,United Kingdom,GB,🇬🇧,25,medium,No,Global Connectivity Solutions LLP
-80.79.123.97:9050,SOCKS4,United Kingdom,GB,🇬🇧,50,medium,No,Aktsiaselts WaveCom
+130.49.187.63:1081,SOCKS4,United Kingdom,GB,🇬🇧,25,medium,No,Global Connectivity Solutions LLP
 81.168.119.85:443,SOCKS4,United Kingdom,GB,🇬🇧,100,very_high,Yes,Iomart Cloud Services Limited
-104.200.152.30:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
 142.54.226.214:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
-74.119.147.209:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Total Server Solutions L.L.C.
-184.181.217.194:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
-98.191.0.47:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
-174.64.199.82:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
-72.207.113.97:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
+104.200.152.30:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
 184.182.240.211:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
+184.181.217.194:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
+174.64.199.82:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
+98.191.0.47:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
+74.119.147.209:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Total Server Solutions L.L.C.
+72.207.113.97:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 192.111.137.37:18762,SOCKS4,United States,US,🇺🇸,0,low,No,Total Server Solutions L.L.C.
-68.71.247.130:4145,SOCKS4,United States,US,🇺🇸,0,low,Yes,Total Server Solutions L.L.C.
 66.42.224.229:41679,SOCKS4,United States,US,🇺🇸,0,low,No,Cincinnati Bell Telephone Company LLC
-69.61.200.104:36181,SOCKS4,United States,US,🇺🇸,0,low,No,Fuse Internet Access
+68.71.247.130:4145,SOCKS4,United States,US,🇺🇸,0,low,Yes,Total Server Solutions L.L.C.
 70.166.167.55:57745,SOCKS4,United States,US,🇺🇸,0,low,Yes,Cox Communications Inc.
+69.61.200.104:36181,SOCKS4,United States,US,🇺🇸,0,low,No,Fuse Internet Access
 184.181.217.210:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 206.220.175.2:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
 142.54.236.97:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
@@ -299,36 +234,30 @@ Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 186.241.90.120:7890,SOCKS4,United States,US,🇺🇸,0,low,No,Arosscloud Inc.
 184.178.172.14:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 67.201.39.14:4145,SOCKS4,United States,US,🇺🇸,0,low,Yes,PacketExchange
-162.255.108.5:5678,SOCKS4,United States,US,🇺🇸,0,low,No,Desert Winds Wireless
 68.71.252.38:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Total Server Solutions L.L.C.
-170.106.177.188:9050,SOCKS4,United States,US,🇺🇸,0,low,No,Tencent Cloud Computing (Beijing) Co
 98.188.47.150:4145,SOCKS4,United States,US,🇺🇸,0,low,Yes,Cox Communications Inc.
 72.195.34.59:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 142.54.237.38:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
 23.133.196.9:9000,SOCKS4,United States,US,🇺🇸,0,low,No,Mobite Network LLC
-92.118.112.25:1081,SOCKS4,United States,US,🇺🇸,0,low,No,Global Connectivity Solutions LLP
 174.75.211.193:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 192.111.129.150:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
 72.37.217.3:4145,SOCKS4,United States,US,🇺🇸,0,low,No,PacketExchange
 72.195.34.41:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 184.170.245.148:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
-47.88.94.79:1080,SOCKS4,United States,US,🇺🇸,0,low,No,"Alibaba (US) Technology Co., Ltd."
 199.102.104.70:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
 72.195.114.184:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 98.188.47.132:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 192.252.215.5:16137,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
-66.181.39.197:1080,SOCKS4,United States,US,🇺🇸,0,low,No,"UnReal Servers, LLC"
 142.54.231.38:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
 72.195.101.99:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
-162.255.108.254:5678,SOCKS4,United States,US,🇺🇸,0,low,No,Desert Winds Wireless
-170.106.142.217:9050,SOCKS4,United States,US,🇺🇸,0,low,No,Tencent Cloud Computing (Beijing) Co
 67.201.35.145:4145,SOCKS4,United States,US,🇺🇸,0,low,Yes,PacketExchange
 67.201.59.70:4145,SOCKS4,United States,US,🇺🇸,0,low,Yes,PacketExchange
 192.111.137.34:18765,SOCKS4,United States,US,🇺🇸,0,low,Yes,Total Server Solutions L.L.C.
 68.71.243.14:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
-23.133.196.8:9000,SOCKS4,United States,US,🇺🇸,0,low,No,Mobite Network LLC
 192.111.139.163:19404,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
 192.163.200.82:17071,SOCKS4,United States,US,🇺🇸,0,low,No,Unified Layer
+43.135.153.37:9050,SOCKS4,United States,US,🇺🇸,1,low,No,Shenzhen Tencent Computer Systems Company Limited
+43.130.38.45:51029,SOCKS4,United States,US,🇺🇸,1,low,No,Shenzhen Tencent Computer Systems Company Limited
 199.58.184.97:4145,SOCKS4,United States,US,🇺🇸,2,low,No,Performive LLC
 192.252.209.158:4145,SOCKS4,United States,US,🇺🇸,2,low,No,Performive LLC
 184.170.251.30:11288,SOCKS4,United States,US,🇺🇸,2,low,No,Performive LLC
@@ -338,9 +267,8 @@ Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 50.250.205.21:32100,SOCKS4,United States,US,🇺🇸,5,low,No,"Comcast Cable Communications, LLC"
 47.251.127.154:1080,SOCKS4,United States,US,🇺🇸,8,low,No,Alibaba Cloud LLC
 192.111.130.2:4145,SOCKS4,United States,US,🇺🇸,8,low,No,Performive LLC
-47.252.11.233:1080,SOCKS4,United States,US,🇺🇸,8,low,No,Alibaba Cloud LLC
 47.252.11.233:443,SOCKS4,United States,US,🇺🇸,8,low,No,Alibaba Cloud LLC
-47.252.11.233:8085,SOCKS4,United States,US,🇺🇸,8,low,No,Alibaba Cloud LLC
+47.252.11.233:1080,SOCKS4,United States,US,🇺🇸,8,low,No,Alibaba Cloud LLC
 47.251.87.199:8080,SOCKS4,United States,US,🇺🇸,8,low,No,Alibaba Cloud LLC
 47.251.87.199:2012,SOCKS4,United States,US,🇺🇸,8,low,No,Alibaba Cloud LLC
 47.252.18.37:5060,SOCKS4,United States,US,🇺🇸,8,low,No,Alibaba Cloud LLC
@@ -352,8 +280,6 @@ Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 47.251.87.199:20125,SOCKS4,United States,US,🇺🇸,8,low,No,Alibaba Cloud LLC
 184.182.240.12:4145,SOCKS4,United States,US,🇺🇸,9,low,No,Cox Communications Inc.
 98.182.147.97:4145,SOCKS4,United States,US,🇺🇸,9,low,No,Cox Communications Inc.
-193.32.177.152:1080,SOCKS4,United States,US,🇺🇸,11,low,No,Baykov Ilya Sergeevich
-74.48.114.180:1080,SOCKS4,United States,US,🇺🇸,12,low,No,Multacom Corporation
 72.207.109.5:4145,SOCKS4,United States,US,🇺🇸,14,low,No,Cox Communications Inc.
 24.249.199.4:4145,SOCKS4,United States,US,🇺🇸,14,low,No,Cox Communications Inc.
 24.249.199.12:4145,SOCKS4,United States,US,🇺🇸,14,low,No,Cox Communications Inc.
@@ -364,37 +290,33 @@ Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 72.205.0.67:4145,SOCKS4,United States,US,🇺🇸,14,low,No,Cox Communications Inc.
 47.90.149.238:8008,SOCKS4,United States,US,🇺🇸,20,medium,Yes,Alibaba.com LLC
 47.90.149.238:81,SOCKS4,United States,US,🇺🇸,20,medium,Yes,Alibaba.com LLC
-147.45.60.252:1082,SOCKS4,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
 147.45.60.252:1081,SOCKS4,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
 178.130.47.50:1082,SOCKS4,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
+147.45.60.246:1082,SOCKS4,United States,US,🇺🇸,25,medium,Yes,Global Connectivity Solutions LLP
 178.130.47.23:1081,SOCKS4,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
+178.130.47.50:1081,SOCKS4,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
 178.130.47.23:1082,SOCKS4,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
 147.45.60.249:1081,SOCKS4,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
-178.130.47.42:1081,SOCKS4,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
+147.45.60.241:1082,SOCKS4,United States,US,🇺🇸,25,medium,Yes,Global Connectivity Solutions LLP
 178.130.47.21:1082,SOCKS4,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
 178.130.47.21:1081,SOCKS4,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
+178.130.47.41:1081,SOCKS4,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
 178.130.47.41:1082,SOCKS4,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
-147.45.60.136:1082,SOCKS4,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
-147.45.60.110:1082,SOCKS4,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
 147.45.60.110:1081,SOCKS4,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
-147.45.60.139:1081,SOCKS4,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
-92.118.112.32:1082,SOCKS4,United States,US,🇺🇸,33,medium,Yes,Global Connectivity Solutions LLP
+147.45.60.110:1082,SOCKS4,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
+147.45.60.136:1082,SOCKS4,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
+147.45.60.124:1081,SOCKS4,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
+147.45.60.139:1082,SOCKS4,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
+178.130.47.43:1082,SOCKS4,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
+147.45.60.136:1081,SOCKS4,United States,US,🇺🇸,25,medium,No,Global Connectivity Solutions LLP
 92.118.112.32:1081,SOCKS4,United States,US,🇺🇸,33,medium,Yes,Global Connectivity Solutions LLP
 184.178.172.25:15291,SOCKS4,United States,US,🇺🇸,50,medium,No,Cox Communications Inc.
 192.252.208.67:14287,SOCKS4,United States,US,🇺🇸,50,medium,Yes,Performive LLC
 98.178.72.21:10919,SOCKS4,United States,US,🇺🇸,50,medium,No,Cox Communications Inc.
 192.111.135.18:18301,SOCKS4,United States,US,🇺🇸,50,medium,No,Total Server Solutions L.L.C.
-107.175.215.29:8443,SOCKS4,United States,US,🇺🇸,51,medium,No,HostPapa
-70.35.196.194:1084,SOCKS4,United States,US,🇺🇸,52,medium,No,IONOS SE
-142.93.203.8:1080,SOCKS4,United States,US,🇺🇸,57,medium,Yes,"DigitalOcean, LLC"
+107.175.215.29:18080,SOCKS4,United States,US,🇺🇸,51,medium,No,HostPapa
 209.38.74.191:1080,SOCKS4,United States,US,🇺🇸,57,medium,No,"DigitalOcean, LLC"
-107.173.8.4:9000,SOCKS4,United States,US,🇺🇸,59,medium,No,Ipxo LLC
 68.1.210.189:4145,SOCKS4,United States,US,🇺🇸,100,very_high,No,Cox Communications Inc.
-190.120.249.149:4145,SOCKS4,Venezuela,VE,🇻🇪,1,low,No,"CORPORACION FIBEX TELECOM, C.A."
-160.250.54.5:9000,SOCKS4,Vietnam,VN,🇻🇳,0,low,No,Sandclock Service Trading Company Limited
-160.250.54.6:9000,SOCKS4,Vietnam,VN,🇻🇳,0,low,No,Sandclock Service Trading Company Limited
+113.161.134.128:1080,SOCKS4,Vietnam,VN,🇻🇳,0,low,No,VietNam Post and Telecom Corporation
 113.161.6.170:1080,SOCKS4,Vietnam,VN,🇻🇳,0,low,No,VietNam Post and Telecom Corporation
-101.96.117.164:1080,SOCKS4,Vietnam,VN,🇻🇳,0,low,No,NetNam Corporation
-117.4.26.246:1080,SOCKS4,Vietnam,VN,🇻🇳,1,low,No,VIETTEL
 14.241.182.44:5678,SOCKS4,Vietnam,VN,🇻🇳,1,low,No,VNPT
-14.232.166.150:5678,SOCKS4,Vietnam,VN,🇻🇳,1,low,No,VNPT
