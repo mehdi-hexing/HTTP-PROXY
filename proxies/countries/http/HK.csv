@@ -1,11 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-68.64.179.186:8080,HTTP,Hong Kong,HK,🇭🇰,0,low,No,LucidaCloud Limited
-139.198.113.42:10023,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Yunify Technologies Inc
 103.69.129.89:24444,HTTP,Hong Kong,HK,🇭🇰,0,low,No,"HostHatch, LLC"
+43.161.239.147:11090,HTTP,Hong Kong,HK,🇭🇰,0,low,Yes,Aceville Pte.ltd
 43.99.100.108:3128,HTTP,Hong Kong,HK,🇭🇰,0,low,Yes,"Alibaba (US) Technology Co., Ltd."
 47.238.60.156:1337,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
 47.238.60.156:8095,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
-47.238.203.170:50000,HTTP,Hong Kong,HK,🇭🇰,0,low,Yes,Alibaba Cloud LLC
 34.96.238.40:8080,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Google LLC
 176.111.37.5:39811,HTTP,Hong Kong,HK,🇭🇰,0,low,Yes,Cogento Backbone Limited
 176.111.37.216:39811,HTTP,Hong Kong,HK,🇭🇰,0,low,Yes,Cogento Backbone Limited
@@ -14,11 +12,16 @@ Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 47.242.243.198:2233,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
 47.238.128.246:4002,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
 47.238.128.246:9200,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
+223.197.178.186:3128,HTTP,Hong Kong,HK,🇭🇰,0,low,No,PCCW IMSBiz
+43.161.239.147:8888,HTTP,Hong Kong,HK,🇭🇰,0,low,Yes,Aceville Pte.ltd
 103.43.191.71:8888,HTTP,Hong Kong,HK,🇭🇰,0,low,No,West263 International Limited
 47.243.92.199:3128,HTTP,Hong Kong,HK,🇭🇰,0,low,Yes,Alibaba Cloud LLC
-39.109.113.97:4090,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Yisu Cloud LTD
 101.36.109.77:8118,HTTP,Hong Kong,HK,🇭🇰,0,low,Yes,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
+129.226.72.101:18080,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Tencent Cloud Computing (Beijing) Co
+47.238.134.126:9080,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
+47.76.144.139:9443,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
 43.128.63.68:7890,HTTP,Hong Kong,HK,🇭🇰,1,low,No,Shenzhen Tencent Computer Systems Company Limited
+8.210.93.183:8213,HTTP,Hong Kong,HK,🇭🇰,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.210.17.35:1080,HTTP,Hong Kong,HK,🇭🇰,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.210.17.35:4321,HTTP,Hong Kong,HK,🇭🇰,2,low,No,"Alibaba (US) Technology Co., Ltd."
 193.239.86.180:80,HTTP,Hong Kong,HK,🇭🇰,38,medium,Yes,M247 Europe SRL
