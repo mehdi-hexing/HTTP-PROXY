@@ -1,10 +1,15 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-43.160.225.96:8888,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited
-47.245.117.43:80,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
 8.219.97.248:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Alibaba Cloud (Singapore) Private Limited
-8.219.229.53:443,HTTP,Singapore,SG,🇸🇬,2,low,No,"Alibaba (US) Technology Co., Ltd."
-15.235.193.159:10050,HTTP,Singapore,SG,🇸🇬,2,low,No,OVH SAS
+43.160.255.142:7890,HTTP,Singapore,SG,🇸🇬,0,low,Yes,Aceville Pte.ltd
+8.219.229.53:9080,HTTP,Singapore,SG,🇸🇬,2,low,No,"Alibaba (US) Technology Co., Ltd."
+15.235.193.159:10444,HTTP,Singapore,SG,🇸🇬,2,low,No,OVH SAS
+15.235.193.159:10236,HTTP,Singapore,SG,🇸🇬,2,low,No,OVH SAS
+15.235.193.159:10026,HTTP,Singapore,SG,🇸🇬,2,low,No,OVH SAS
 15.235.193.159:10354,HTTP,Singapore,SG,🇸🇬,2,low,No,OVH SAS
+15.235.193.159:10261,HTTP,Singapore,SG,🇸🇬,2,low,No,OVH SAS
 15.235.193.159:10028,HTTP,Singapore,SG,🇸🇬,2,low,No,OVH SAS
-172.236.138.74:3128,HTTP,Singapore,SG,🇸🇬,28,medium,No,"Akamai Technologies, Inc."
-178.128.59.180:18080,HTTP,Singapore,SG,🇸🇬,60,high,Yes,"DigitalOcean, LLC"
+8.222.225.182:7890,HTTP,Singapore,SG,🇸🇬,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
+15.235.193.159:10004,HTTP,Singapore,SG,🇸🇬,2,low,No,OVH SAS
+15.235.193.159:10039,HTTP,Singapore,SG,🇸🇬,2,low,No,OVH SAS
+15.235.193.159:10450,HTTP,Singapore,SG,🇸🇬,2,low,No,OVH SAS
+68.183.178.217:3128,HTTP,Singapore,SG,🇸🇬,56,medium,No,"DigitalOcean, LLC"

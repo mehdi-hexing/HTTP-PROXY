@@ -1,16 +1,18 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
+91.107.228.234:1052,SOCKS4,Germany,DE,🇩🇪,0,low,No,Hetzner Online GmbH
 194.58.33.7:9564,SOCKS4,Germany,DE,🇩🇪,0,low,Yes,International Hosting Company Limited
+91.107.228.234:22183,SOCKS4,Germany,DE,🇩🇪,0,low,No,Hetzner Online GmbH
+94.156.114.45:1080,SOCKS4,Germany,DE,🇩🇪,0,low,No,Play2go International Limited
 77.239.96.194:1081,SOCKS4,Germany,DE,🇩🇪,0,low,No,International Hosting Company Limited
-45.133.251.223:1080,SOCKS4,Germany,DE,🇩🇪,0,low,No,Play2go International Limited
-92.205.186.129:1080,SOCKS4,Germany,DE,🇩🇪,1,low,No,Host Europe GmbH
 8.211.42.167:4153,SOCKS4,Germany,DE,🇩🇪,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.211.42.167:111,SOCKS4,Germany,DE,🇩🇪,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.211.42.167:5060,SOCKS4,Germany,DE,🇩🇪,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.211.42.167:51,SOCKS4,Germany,DE,🇩🇪,2,low,No,"Alibaba (US) Technology Co., Ltd."
-116.202.20.234:9091,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH
-116.202.20.234:9092,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH
-91.107.190.122:9080,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH
-91.107.138.5:9058,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH
+72.56.106.48:1080,SOCKS4,Germany,DE,🇩🇪,5,low,No,"Timeweb, LLP"
+116.202.20.234:9103,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH
+138.201.130.124:40001,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH
+91.107.190.122:9096,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH
+144.76.165.249:9050,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH
 8.209.96.245:9080,SOCKS4,Germany,DE,🇩🇪,9,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
 8.209.96.245:45,SOCKS4,Germany,DE,🇩🇪,9,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
 8.209.96.245:55443,SOCKS4,Germany,DE,🇩🇪,9,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
@@ -18,10 +20,8 @@ Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 8.209.96.245:8082,SOCKS4,Germany,DE,🇩🇪,9,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
 8.209.96.245:100,SOCKS4,Germany,DE,🇩🇪,9,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
 8.209.96.245:1081,SOCKS4,Germany,DE,🇩🇪,9,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
+109.120.138.144:1080,SOCKS4,Germany,DE,🇩🇪,10,low,No,Aeza International LTD
 109.120.138.62:443,SOCKS4,Germany,DE,🇩🇪,10,low,No,Aeza International LTD
-213.165.43.73:46650,SOCKS4,Germany,DE,🇩🇪,10,low,No,Aeza International LTD
-144.91.83.39:9050,SOCKS4,Germany,DE,🇩🇪,14,low,No,Contabo GmbH
 159.195.61.240:1080,SOCKS4,Germany,DE,🇩🇪,20,medium,No,netcup GmbH
-139.28.241.247:1082,SOCKS4,Germany,DE,🇩🇪,24,medium,No,Global Connectivity Solutions LLP
-152.53.228.24:19150,SOCKS4,Germany,DE,🇩🇪,29,medium,No,netcup GmbH
-31.25.236.95:1080,SOCKS4,Germany,DE,🇩🇪,36,medium,No,Massivegrid LTD
+139.28.241.247:1081,SOCKS4,Germany,DE,🇩🇪,24,medium,No,Global Connectivity Solutions LLP
+209.38.214.48:1080,SOCKS4,Germany,DE,🇩🇪,56,medium,No,"DigitalOcean, LLC"
