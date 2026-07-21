@@ -1,10 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-191.44.125.7:8080,HTTP,France,FR,🇫🇷,0,low,No,High Speed For Internet Services L.L.C
-191.44.125.5:8080,HTTP,France,FR,🇫🇷,0,low,Yes,High Speed For Internet Services L.L.C
+45.13.116.196:21537,HTTP,France,FR,🇫🇷,0,low,No,ABJP
 191.44.125.9:8080,HTTP,France,FR,🇫🇷,0,low,Yes,High Speed For Internet Services L.L.C
-37.59.125.131:8888,HTTP,France,FR,🇫🇷,10,low,Yes,OVH SAS
+191.44.125.8:8080,HTTP,France,FR,🇫🇷,0,low,Yes,High Speed For Internet Services L.L.C
+87.106.120.212:3128,HTTP,France,FR,🇫🇷,0,low,No,IONOS SE
+191.44.125.6:8080,HTTP,France,FR,🇫🇷,0,low,No,High Speed For Internet Services L.L.C
 37.187.109.70:10111,HTTP,France,FR,🇫🇷,10,low,No,OVH SAS
-62.133.62.187:1081,HTTP,France,FR,🇫🇷,24,medium,No,Global Connectivity Solutions LLP
 202.133.88.173:80,HTTP,France,FR,🇫🇷,33,medium,No,BitCommand LLC
 212.47.232.28:80,HTTP,France,FR,🇫🇷,34,medium,No,Scaleway SAS
-217.182.195.221:30000,HTTP,France,FR,🇫🇷,46,medium,No,OVH SAS
+163.172.53.142:80,HTTP,France,FR,🇫🇷,34,medium,No,Scaleway SAS
+217.182.195.221:30003,HTTP,France,FR,🇫🇷,46,medium,No,OVH SAS
