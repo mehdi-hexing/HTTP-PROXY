@@ -1,29 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-192.252.214.20:15864,SOCKS5,United States,US,🇺🇸,0,low,Yes,Performive LLC
-70.166.167.55:57745,SOCKS5,United States,US,🇺🇸,0,low,Yes,Cox Communications Inc.
-184.178.172.17:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
-184.182.240.211:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
-23.184.200.67:1080,SOCKS5,United States,US,🇺🇸,0,low,No,NetLab Global
-184.181.217.213:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
-68.71.251.134:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Performive LLC
-72.195.34.42:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
-184.181.217.210:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
-192.252.209.158:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Performive LLC
-147.45.60.241:1082,SOCKS5,United States,US,🇺🇸,0,low,Yes,Global Connectivity Solutions LLP
-98.188.47.150:4145,SOCKS5,United States,US,🇺🇸,0,low,Yes,Cox Communications Inc.
-184.178.172.3:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
-68.71.245.206:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Total Server Solutions L.L.C.
-98.188.47.132:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
-104.200.152.30:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Performive LLC
-98.181.137.80:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
-198.8.84.3:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Performive LLC
-67.201.35.145:4145,SOCKS5,United States,US,🇺🇸,0,low,Yes,PacketExchange
-70.166.65.160:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
-66.42.224.229:41679,SOCKS5,United States,US,🇺🇸,0,low,No,Cincinnati Bell Telephone Company LLC
-72.195.34.58:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
-147.45.60.136:1082,SOCKS5,United States,US,🇺🇸,0,low,No,Global Connectivity Solutions LLP
-147.45.60.252:1082,SOCKS5,United States,US,🇺🇸,0,low,No,Global Connectivity Solutions LLP
-184.181.217.194:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 174.75.211.193:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 192.252.220.92:17328,SOCKS5,United States,US,🇺🇸,0,low,No,Performive LLC
 192.111.137.34:18765,SOCKS5,United States,US,🇺🇸,0,low,Yes,Performive LLC
@@ -52,10 +27,10 @@ Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 174.77.111.197:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 72.223.188.92:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 192.111.137.37:18762,SOCKS5,United States,US,🇺🇸,0,low,No,Performive LLC
+192.163.200.82:17071,SOCKS5,United States,US,🇺🇸,0,low,No,Unified Layer
 68.71.249.153:48606,SOCKS5,United States,US,🇺🇸,0,low,Yes,Performive LLC
 184.185.2.12:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 72.207.109.5:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
-147.45.60.241:1081,SOCKS5,United States,US,🇺🇸,0,low,Yes,Global Connectivity Solutions LLP
 208.102.51.6:58208,SOCKS5,United States,US,🇺🇸,0,low,No,Fuse Internet Access
 199.102.106.94:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Performive LLC
 72.223.188.67:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
@@ -64,6 +39,7 @@ Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 193.25.215.182:22222,SOCKS5,United States,US,🇺🇸,0,low,No,"ReadyDedis, LLC"
 74.119.147.209:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Total Server Solutions L.L.C.
 67.201.59.70:4145,SOCKS5,United States,US,🇺🇸,0,low,Yes,PacketExchange
+147.45.60.252:1081,SOCKS5,United States,US,🇺🇸,0,low,No,Global Connectivity Solutions LLP
 199.102.104.70:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Performive LLC
 162.253.68.97:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Performive LLC
 174.64.199.79:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
@@ -71,41 +47,54 @@ Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 98.191.0.47:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 68.71.247.130:4145,SOCKS5,United States,US,🇺🇸,0,low,Yes,Total Server Solutions L.L.C.
 192.111.129.150:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Performive LLC
-38.55.145.46:1080,SOCKS5,United States,US,🇺🇸,0,low,Yes,Cogent Communications
 68.71.249.158:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Performive LLC
 199.102.105.242:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Performive LLC
 192.111.129.145:16894,SOCKS5,United States,US,🇺🇸,0,low,No,Performive LLC
-169.155.50.87:1080,SOCKS5,United States,US,🇺🇸,0,low,No,"Fly.io, Inc."
 174.77.111.196:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 142.54.228.193:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Performive LLC
 192.111.139.163:19404,SOCKS5,United States,US,🇺🇸,0,low,No,Performive LLC
-192.252.216.86:4145,SOCKS5,United States,US,🇺🇸,1,low,No,Performive LLC
-192.111.135.17:18302,SOCKS5,United States,US,🇺🇸,1,low,No,Performive LLC
-107.181.168.145:4145,SOCKS5,United States,US,🇺🇸,1,low,No,Performive LLC
-192.252.215.5:16137,SOCKS5,United States,US,🇺🇸,1,low,No,Performive LLC
+199.66.183.226:4145,SOCKS5,United States,US,🇺🇸,0,low,No,NET2ATLANTA.COM LLC
+69.61.200.104:36181,SOCKS5,United States,US,🇺🇸,0,low,No,Fuse Internet Access
+192.252.208.70:14282,SOCKS5,United States,US,🇺🇸,0,low,Yes,Performive LLC
+142.54.235.9:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Performive LLC
+72.37.216.68:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Performive LLC
+184.178.172.18:15280,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
+199.116.114.11:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Performive LLC
+192.111.137.35:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Performive LLC
+192.252.215.2:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Performive LLC
+103.7.138.17:1080,SOCKS5,United States,US,🇺🇸,0,low,No,Multacom Corporation
+199.58.185.9:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Performive LLC
+72.206.74.126:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
+198.8.94.174:39078,SOCKS5,United States,US,🇺🇸,0,low,No,Performive LLC
+72.207.113.97:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
+72.195.34.41:4145,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
+72.195.34.60:27391,SOCKS5,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 192.111.138.29:4145,SOCKS5,United States,US,🇺🇸,1,low,No,Performive LLC
 142.54.232.6:4145,SOCKS5,United States,US,🇺🇸,1,low,No,Performive LLC
 43.135.172.174:9050,SOCKS5,United States,US,🇺🇸,1,low,No,Shenzhen Tencent Computer Systems Company Limited
 142.54.237.34:4145,SOCKS5,United States,US,🇺🇸,1,low,No,Performive LLC
 199.58.184.97:4145,SOCKS5,United States,US,🇺🇸,1,low,No,Performive LLC
 107.152.98.5:4145,SOCKS5,United States,US,🇺🇸,1,low,No,Performive LLC
+192.111.130.2:4145,SOCKS5,United States,US,🇺🇸,1,low,No,Performive LLC
+192.252.211.197:14921,SOCKS5,United States,US,🇺🇸,1,low,No,Performive LLC
+104.37.135.145:4145,SOCKS5,United States,US,🇺🇸,1,low,No,Performive LLC
+43.130.38.45:51029,SOCKS5,United States,US,🇺🇸,1,low,No,Shenzhen Tencent Computer Systems Company Limited
+184.170.249.65:4145,SOCKS5,United States,US,🇺🇸,1,low,No,Performive LLC
 144.24.15.246:1080,SOCKS5,United States,US,🇺🇸,2,low,No,Oracle Corporation
-141.148.132.254:9050,SOCKS5,United States,US,🇺🇸,2,low,No,Oracle Corporation
-3.135.119.122:17000,SOCKS5,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc."
+138.2.216.186:1080,SOCKS5,United States,US,🇺🇸,2,low,No,Oracle Corporation
 3.128.83.74:17000,SOCKS5,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc."
+3.129.27.9:17000,SOCKS5,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc."
 98.191.0.37:4145,SOCKS5,United States,US,🇺🇸,5,low,No,Cox Communications Inc.
 98.175.31.195:4145,SOCKS5,United States,US,🇺🇸,5,low,No,Cox Communications Inc.
-184.178.172.26:4145,SOCKS5,United States,US,🇺🇸,9,low,Yes,Cox Communications Inc.
+47.251.127.154:1080,SOCKS5,United States,US,🇺🇸,8,low,No,Alibaba Cloud LLC
 98.182.147.97:4145,SOCKS5,United States,US,🇺🇸,9,low,No,Cox Communications Inc.
 184.182.240.12:4145,SOCKS5,United States,US,🇺🇸,9,low,No,Cox Communications Inc.
 184.178.172.11:4145,SOCKS5,United States,US,🇺🇸,9,low,No,Cox Communications Inc.
 184.178.172.23:4145,SOCKS5,United States,US,🇺🇸,9,low,No,Cox Communications Inc.
+98.182.171.161:4145,SOCKS5,United States,US,🇺🇸,9,low,No,Cox Communications Inc.
+184.178.172.5:15303,SOCKS5,United States,US,🇺🇸,9,low,No,Cox Communications Inc.
+98.181.137.83:4145,SOCKS5,United States,US,🇺🇸,9,low,No,Cox Communications Inc.
 193.32.177.152:1080,SOCKS5,United States,US,🇺🇸,11,low,No,Baykov Ilya Sergeevich
-98.170.57.241:4145,SOCKS5,United States,US,🇺🇸,14,low,No,Cox Communications Inc.
-184.181.217.206:4145,SOCKS5,United States,US,🇺🇸,14,low,No,Cox Communications Inc.
-72.195.34.35:27360,SOCKS5,United States,US,🇺🇸,14,low,No,Cox Communications Inc.
-184.181.217.201:4145,SOCKS5,United States,US,🇺🇸,14,low,No,Cox Communications Inc.
-72.207.33.64:4145,SOCKS5,United States,US,🇺🇸,14,low,No,Cox Communications Inc.
 68.1.210.163:4145,SOCKS5,United States,US,🇺🇸,14,low,No,Cox Communications Inc.
 174.75.211.222:4145,SOCKS5,United States,US,🇺🇸,14,low,No,Cox Communications Inc.
 24.249.199.4:4145,SOCKS5,United States,US,🇺🇸,14,low,No,Cox Communications Inc.
@@ -115,19 +104,15 @@ Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 24.249.199.12:4145,SOCKS5,United States,US,🇺🇸,14,low,No,Cox Communications Inc.
 72.195.114.169:4145,SOCKS5,United States,US,🇺🇸,14,low,No,Cox Communications Inc.
 184.181.217.220:4145,SOCKS5,United States,US,🇺🇸,14,low,No,Cox Communications Inc.
-147.45.60.250:1081,SOCKS5,United States,US,🇺🇸,24,medium,No,Global Connectivity Solutions LLP
-178.130.47.41:1081,SOCKS5,United States,US,🇺🇸,24,medium,Yes,Global Connectivity Solutions LLP
-178.130.47.42:1081,SOCKS5,United States,US,🇺🇸,24,medium,No,Global Connectivity Solutions LLP
-147.45.60.110:1082,SOCKS5,United States,US,🇺🇸,24,medium,No,Global Connectivity Solutions LLP
-178.130.47.42:1082,SOCKS5,United States,US,🇺🇸,24,medium,No,Global Connectivity Solutions LLP
-178.130.47.50:1081,SOCKS5,United States,US,🇺🇸,24,medium,No,Global Connectivity Solutions LLP
+72.205.0.93:4145,SOCKS5,United States,US,🇺🇸,14,low,No,Cox Communications Inc.
+72.205.0.67:4145,SOCKS5,United States,US,🇺🇸,14,low,No,Cox Communications Inc.
+47.85.45.122:10808,SOCKS5,United States,US,🇺🇸,15,low,No,Alibaba.com LLC
+109.199.96.116:9050,SOCKS5,United States,US,🇺🇸,21,medium,No,Contabo GmbH
 147.45.60.250:1082,SOCKS5,United States,US,🇺🇸,24,medium,No,Global Connectivity Solutions LLP
-204.44.101.188:7890,SOCKS5,United States,US,🇺🇸,25,medium,No,HostPapa
+147.45.60.246:1081,SOCKS5,United States,US,🇺🇸,24,medium,Yes,Global Connectivity Solutions LLP
 96.30.197.251:1080,SOCKS5,United States,US,🇺🇸,25,medium,No,The Constant Company
-107.175.212.138:1080,SOCKS5,United States,US,🇺🇸,29,medium,No,HostPapa
-98.178.72.21:10919,SOCKS5,United States,US,🇺🇸,33,medium,No,Cox Communications Inc.
+152.53.209.196:1080,SOCKS5,United States,US,🇺🇸,29,medium,No,netcup GmbH
 192.252.208.67:14287,SOCKS5,United States,US,🇺🇸,33,medium,Yes,Performive LLC
-192.111.135.18:18301,SOCKS5,United States,US,🇺🇸,50,medium,No,Performive LLC
 45.61.188.134:44499,SOCKS5,United States,US,🇺🇸,50,medium,Yes,FranTech Solutions
 141.148.158.143:1080,SOCKS5,United States,US,🇺🇸,50,medium,No,Oracle Corporation
 98.175.31.222:4145,SOCKS5,United States,US,🇺🇸,50,medium,No,Cox Communications Inc.
@@ -135,12 +120,9 @@ Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 184.178.172.25:15291,SOCKS5,United States,US,🇺🇸,50,medium,No,Cox Communications Inc.
 72.214.108.67:4145,SOCKS5,United States,US,🇺🇸,50,medium,No,Cox Communications Inc
 107.151.148.153:1080,SOCKS5,United States,US,🇺🇸,52,medium,No,Zenlayer Inc
-198.12.95.178:1080,SOCKS5,United States,US,🇺🇸,52,medium,No,HostPapa
 64.225.42.129:3001,SOCKS5,United States,US,🇺🇸,56,medium,No,"DigitalOcean, LLC"
 64.225.42.129:3012,SOCKS5,United States,US,🇺🇸,56,medium,No,"DigitalOcean, LLC"
-104.236.171.128:41047,SOCKS5,United States,US,🇺🇸,56,medium,No,"DigitalOcean, LLC"
 64.225.42.129:3006,SOCKS5,United States,US,🇺🇸,56,medium,No,"DigitalOcean, LLC"
-64.225.42.129:3000,SOCKS5,United States,US,🇺🇸,56,medium,No,"DigitalOcean, LLC"
-137.184.58.163:9050,SOCKS5,United States,US,🇺🇸,59,medium,No,"DigitalOcean, LLC"
+64.225.42.129:3011,SOCKS5,United States,US,🇺🇸,56,medium,No,"DigitalOcean, LLC"
 23.175.248.21:1080,SOCKS5,United States,US,🇺🇸,60,high,No,InfiniaHost.com
 68.1.210.189:4145,SOCKS5,United States,US,🇺🇸,100,very_high,No,Cox Communications Inc.

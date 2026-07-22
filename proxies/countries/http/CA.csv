@@ -1,4 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-192.99.44.178:3128,HTTP,Canada,CA,🇨🇦,34,medium,No,OVH SAS
-148.113.167.81:3128,HTTP,Canada,CA,🇨🇦,48,medium,No,OVH SAS
+20.151.20.143:3128,HTTP,Canada,CA,🇨🇦,0,low,No,Microsoft Corporation
+96.1.101.113:80,HTTP,Canada,CA,🇨🇦,1,low,No,TELUS Communications Inc.
+54.39.28.106:8082,HTTP,Canada,CA,🇨🇦,34,medium,No,OVH SAS
+148.113.202.99:3128,HTTP,Canada,CA,🇨🇦,48,medium,No,OVH SAS
 151.243.236.236:80,HTTP,Canada,CA,🇨🇦,69,high,No,OVH SAS

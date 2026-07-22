@@ -1,24 +1,22 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-106.10.55.212:1121,HTTP,South Korea,KR,🇰🇷,0,low,No,NAVER Cloud Corp
 58.180.17.51:3128,HTTP,South Korea,KR,🇰🇷,0,low,Yes,Shinbiro
-47.80.26.236:8080,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd."
+47.80.60.84:3128,HTTP,South Korea,KR,🇰🇷,0,low,No,Alibaba.com LLC
 211.233.44.58:8080,HTTP,South Korea,KR,🇰🇷,0,low,No,LG DACOM KIDC
-8.213.134.213:5060,HTTP,South Korea,KR,🇰🇷,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
-8.213.134.213:8080,HTTP,South Korea,KR,🇰🇷,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
-8.213.151.128:3128,HTTP,South Korea,KR,🇰🇷,2,low,No,"Alibaba (US) Technology Co., Ltd."
-8.220.216.57:3128,HTTP,South Korea,KR,🇰🇷,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.220.204.215:8000,HTTP,South Korea,KR,🇰🇷,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
 8.220.205.172:1081,HTTP,South Korea,KR,🇰🇷,2,low,No,"Alibaba (US) Technology Co., Ltd."
 219.249.37.107:8380,HTTP,South Korea,KR,🇰🇷,2,low,No,SK Broadband Co Ltd
 219.249.37.107:8197,HTTP,South Korea,KR,🇰🇷,2,low,No,SK Broadband Co Ltd
-8.213.128.6:8888,HTTP,South Korea,KR,🇰🇷,2,low,No,"Alibaba (US) Technology Co., Ltd."
 219.249.37.107:8382,HTTP,South Korea,KR,🇰🇷,2,low,No,SK Broadband Co Ltd
 8.213.134.213:3333,HTTP,South Korea,KR,🇰🇷,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
+8.213.134.213:41,HTTP,South Korea,KR,🇰🇷,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
+8.213.134.213:9098,HTTP,South Korea,KR,🇰🇷,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
+8.213.134.213:9091,HTTP,South Korea,KR,🇰🇷,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
 8.220.205.172:9090,HTTP,South Korea,KR,🇰🇷,2,low,No,"Alibaba (US) Technology Co., Ltd."
 8.220.204.215:12000,HTTP,South Korea,KR,🇰🇷,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
-175.215.147.63:3152,HTTP,South Korea,KR,🇰🇷,3,low,No,Korea Telecom
+146.56.182.165:3128,HTTP,South Korea,KR,🇰🇷,2,low,No,Oracle Corporation
 183.110.216.128:8090,HTTP,South Korea,KR,🇰🇷,3,low,No,Korea Telecom
 183.110.216.128:8091,HTTP,South Korea,KR,🇰🇷,3,low,No,Korea Telecom
 183.110.216.159:8090,HTTP,South Korea,KR,🇰🇷,3,low,No,Korea Telecom
 125.129.15.34:3128,HTTP,South Korea,KR,🇰🇷,3,low,No,Korea Telecom
+183.110.216.159:8091,HTTP,South Korea,KR,🇰🇷,3,low,No,Korea Telecom
 1.231.81.166:3128,HTTP,South Korea,KR,🇰🇷,100,very_high,Yes,SK Broadband Co Ltd
