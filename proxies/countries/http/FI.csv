@@ -1,9 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-135.87.39.23:443,HTTP,Finland,FI,🇫🇮,0,low,Yes,Nokia Solutions and Networks Oy
+217.177.44.80:3128,HTTP,Finland,FI,🇫🇮,0,low,No,Anton Levin
 135.87.39.23:80,HTTP,Finland,FI,🇫🇮,0,low,Yes,Nokia Solutions and Networks Oy
+78.17.15.154:443,HTTP,Finland,FI,🇫🇮,0,low,Yes,Hostkey B.V.
+135.87.39.23:9443,HTTP,Finland,FI,🇫🇮,0,low,Yes,Nokia Solutions and Networks Oy
 89.167.124.218:8888,HTTP,Finland,FI,🇫🇮,5,low,No,Hetzner Online GmbH
 135.181.113.216:16379,HTTP,Finland,FI,🇫🇮,6,low,No,Hetzner Online GmbH
+65.108.203.35:18080,HTTP,Finland,FI,🇫🇮,6,low,No,Hetzner Online GmbH
 46.62.189.77:8888,HTTP,Finland,FI,🇫🇮,6,low,Yes,Hetzner Online GmbH
-144.31.249.57:8080,HTTP,Finland,FI,🇫🇮,7,low,No,SERV.HOST GROUP LTD
-94.156.180.137:3128,HTTP,Finland,FI,🇫🇮,7,low,No,SERV.HOST GROUP LTD
 92.118.234.124:1080,HTTP,Finland,FI,🇫🇮,41,medium,Yes,WorkTitans B.V.
