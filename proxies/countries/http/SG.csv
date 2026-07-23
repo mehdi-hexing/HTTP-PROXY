@@ -1,11 +1,12 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-8.219.97.248:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Alibaba Cloud (Singapore) Private Limited
 47.237.113.119:5060,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd."
-47.237.153.201:8000,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
-47.236.86.147:443,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
-154.85.63.49:8888,HTTP,Singapore,SG,🇸🇬,0,low,No,"Beijing Baidu Netcom Science and Technology Co., Ltd."
+43.160.255.142:7890,HTTP,Singapore,SG,🇸🇬,0,low,Yes,Aceville Pte.ltd
+43.134.15.145:7890,HTTP,Singapore,SG,🇸🇬,1,low,No,Shenzhen Tencent Computer Systems Company Limited
+15.235.193.159:10444,HTTP,Singapore,SG,🇸🇬,2,low,No,OVH SAS
+15.235.193.159:10286,HTTP,Singapore,SG,🇸🇬,2,low,No,OVH SAS
 8.222.225.182:7890,HTTP,Singapore,SG,🇸🇬,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
-213.35.113.150:6969,HTTP,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation
-15.235.193.159:10039,HTTP,Singapore,SG,🇸🇬,2,low,No,OVH SAS
-45.77.246.231:80,HTTP,Singapore,SG,🇸🇬,45,medium,No,The Constant Company
+15.235.193.159:10227,HTTP,Singapore,SG,🇸🇬,2,low,No,OVH SAS
+15.235.193.159:10170,HTTP,Singapore,SG,🇸🇬,2,low,No,OVH SAS
+15.235.193.159:10028,HTTP,Singapore,SG,🇸🇬,2,low,No,OVH SAS
+172.236.138.74:3128,HTTP,Singapore,SG,🇸🇬,28,medium,No,"Akamai Technologies, Inc."
 178.128.59.180:18080,HTTP,Singapore,SG,🇸🇬,60,high,Yes,"DigitalOcean, LLC"
