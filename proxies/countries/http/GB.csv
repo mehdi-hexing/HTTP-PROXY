@@ -1,9 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 86.53.163.185:10002,HTTP,United Kingdom,GB,🇬🇧,0,low,No,GTT
-85.159.88.220:8111,HTTP,United Kingdom,GB,🇬🇧,0,low,No,MAINFRAME & CYBERNETIC SYSTEMS LIMITED
-86.53.163.80:10002,HTTP,United Kingdom,GB,🇬🇧,11,low,No,GTT
+8.211.194.85:3129,HTTP,United Kingdom,GB,🇬🇧,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
+8.211.194.85:45,HTTP,United Kingdom,GB,🇬🇧,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
+31.220.78.244:80,HTTP,United Kingdom,GB,🇬🇧,14,low,No,Contabo GmbH
 161.97.79.222:8888,HTTP,United Kingdom,GB,🇬🇧,14,low,No,Contabo GmbH
 212.58.132.5:8888,HTTP,United Kingdom,GB,🇬🇧,29,medium,Yes,"NSFOCUS, Inc."
-185.231.59.189:8080,HTTP,United Kingdom,GB,🇬🇧,33,medium,No,BitCommand LLC
 81.168.119.85:443,HTTP,United Kingdom,GB,🇬🇧,33,medium,Yes,Iomart Cloud Services Limited
-57.129.134.10:8082,HTTP,United Kingdom,GB,🇬🇧,82,high,No,OVH SAS
