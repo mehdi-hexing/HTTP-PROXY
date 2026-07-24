@@ -1,14 +1,21 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 173.212.245.136:8888,HTTP,Germany,DE,🇩🇪,0,low,No,Contabo GmbH
-47.91.89.3:4000,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC
 47.91.89.3:8999,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC
-138.124.51.186:40000,HTTP,Germany,DE,🇩🇪,0,low,No,Aeza International LTD
 80.74.54.148:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Deutsche Glasfaser Wholesale GmbH
-31.76.29.13:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Play2go International Limited
+144.31.73.173:3128,HTTP,Germany,DE,🇩🇪,0,low,No,U1 DIGITAL SERVICES LTD
+193.233.86.198:8080,HTTP,Germany,DE,🇩🇪,0,low,Yes,Chsl ONE LTD
 47.91.65.23:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Alibaba.com LLC
+138.68.96.6:8888,HTTP,Germany,DE,🇩🇪,0,low,No,"DigitalOcean, LLC"
+91.98.86.26:8888,HTTP,Germany,DE,🇩🇪,0,low,Yes,Hetzner Online GmbH
+31.76.10.209:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Play2go International Limited
 8.211.51.115:8888,HTTP,Germany,DE,🇩🇪,2,low,No,"Alibaba (US) Technology Co., Ltd."
-178.104.234.144:8118,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH
-173.212.246.157:3128,HTTP,Germany,DE,🇩🇪,14,low,Yes,Contabo GmbH
+92.5.8.178:3128,HTTP,Germany,DE,🇩🇪,2,low,No,Oracle Corporation
+91.107.255.47:1080,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH
+128.140.113.110:8080,HTTP,Germany,DE,🇩🇪,6,low,Yes,Hetzner Online GmbH
+141.98.153.86:80,HTTP,Germany,DE,🇩🇪,14,low,No,Contabo GmbH
+31.76.15.189:8080,HTTP,Germany,DE,🇩🇪,17,low,No,DpkgSoft International Limited
 159.195.49.27:8888,HTTP,Germany,DE,🇩🇪,20,medium,Yes,netcup GmbH
-185.161.251.195:3128,HTTP,Germany,DE,🇩🇪,24,medium,No,Global Connectivity Solutions LLP
+159.195.65.79:10002,HTTP,Germany,DE,🇩🇪,20,medium,No,netcup GmbH
+152.53.251.231:18080,HTTP,Germany,DE,🇩🇪,29,medium,No,netcup GmbH
+206.81.31.215:80,HTTP,Germany,DE,🇩🇪,59,medium,No,"DigitalOcean, LLC"
 103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,100,very_high,Yes,Zenlayer Inc

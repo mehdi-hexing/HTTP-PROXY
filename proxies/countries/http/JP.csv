@@ -1,9 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
+38.47.121.178:8080,HTTP,Japan,JP,🇯🇵,0,low,No,Cogent Communications
 47.74.46.81:6379,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC
 47.74.46.81:5060,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC
-140.227.61.201:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere
-133.232.90.156:80,HTTP,Japan,JP,🇯🇵,0,low,No,"NTT PC Communications, Inc."
+20.78.26.206:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
+20.210.39.155:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
+20.78.118.91:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
 43.133.13.187:8889,HTTP,Japan,JP,🇯🇵,0,low,No,Aceville Pte.ltd
+20.27.11.248:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
 43.130.231.201:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Shenzhen Tencent Computer Systems Company Limited
 8.221.139.222:8080,HTTP,Japan,JP,🇯🇵,2,low,No,"Alibaba (US) Technology Co., Ltd."
+8.209.255.13:3128,HTTP,Japan,JP,🇯🇵,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
 45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,81,high,No,Zenlayer Inc

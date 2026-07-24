@@ -1,7 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 86.53.163.185:10002,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,GTT
 8.211.195.173:9797,SOCKS4,United Kingdom,GB,🇬🇧,2,low,No,"Alibaba (US) Technology Co., Ltd."
-8.211.195.173:1081,SOCKS4,United Kingdom,GB,🇬🇧,2,low,No,"Alibaba (US) Technology Co., Ltd."
-138.124.125.198:1080,SOCKS4,United Kingdom,GB,🇬🇧,11,low,No,Baykov Ilya Sergeevich
-86.53.163.80:10002,SOCKS4,United Kingdom,GB,🇬🇧,11,low,No,GTT
+8.211.194.85:31433,SOCKS4,United Kingdom,GB,🇬🇧,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
+8.211.194.85:8008,SOCKS4,United Kingdom,GB,🇬🇧,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
+8.211.194.85:4002,SOCKS4,United Kingdom,GB,🇬🇧,2,low,Yes,"Alibaba (US) Technology Co., Ltd."
 86.53.163.167:10002,SOCKS4,United Kingdom,GB,🇬🇧,11,low,No,GTT
+86.53.163.80:10002,SOCKS4,United Kingdom,GB,🇬🇧,11,low,No,GTT
+38.242.158.117:9050,SOCKS4,United Kingdom,GB,🇬🇧,14,low,No,Contabo GmbH
+172.236.14.204:1080,SOCKS4,United Kingdom,GB,🇬🇧,28,medium,No,"Akamai Technologies, Inc."
+81.168.119.85:443,SOCKS4,United Kingdom,GB,🇬🇧,33,medium,Yes,Iomart Cloud Services Limited
