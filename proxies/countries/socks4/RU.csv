@@ -1,14 +1,20 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
+94.181.33.149:40840,SOCKS4,Russia,RU,🇷🇺,0,low,No,"CJSC ""ER-Telecom Holding"" Chelyabinsk branch"
+94.103.13.179:40001,SOCKS4,Russia,RU,🇷🇺,0,low,No,Trusted Network LLC
+188.143.169.22:33333,SOCKS4,Russia,RU,🇷🇺,0,low,No,PIN morespecific
+213.248.39.166:4153,SOCKS4,Russia,RU,🇷🇺,0,low,No,Digital Network JSC
+46.8.104.176:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Evro Telecom OOO
 89.169.168.25:6101,SOCKS4,Russia,RU,🇷🇺,0,low,No,Yandex.Cloud LLC
-92.42.8.5:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,KMVtelecom
-92.42.8.20:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,KMVtelecom
+185.135.81.149:9060,SOCKS4,Russia,RU,🇷🇺,0,low,No,Adman LLC
 37.193.125.68:1090,SOCKS4,Russia,RU,🇷🇺,0,low,No,Novotelecom Ltd
-144.31.222.106:7890,SOCKS4,Russia,RU,🇷🇺,0,low,No,Ablaykhan Akylbekovich Sharimov
+188.243.127.6:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,SkyNet LLC
+89.250.148.158:1080,SOCKS4,Russia,RU,🇷🇺,0,low,Yes,"JSC ""ER-Telecom Holding"""
 45.91.55.95:443,SOCKS4,Russia,RU,🇷🇺,0,low,No,Delta Ltd
-80.93.62.239:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,SpaceWeb Hosting provider
-192.144.15.110:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,"""Cloud Technologies"" LLC trading as Cloud.ru"
-195.68.145.5:80,SOCKS4,Russia,RU,🇷🇺,0,low,No,"PJSC ""Vimpelcom"""
-45.131.46.106:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Time-host LTD
-85.198.102.172:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Beget LLC
-186.246.14.108:9151,SOCKS4,Russia,RU,🇷🇺,0,low,No,Adman LLC
-78.29.43.50:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Intersvyaz-2 JSC
+89.237.33.113:51549,SOCKS4,Russia,RU,🇷🇺,0,low,No,multi-origin SUTTK
+95.163.220.107:10808,SOCKS4,Russia,RU,🇷🇺,0,low,No,"""Domain names registrar REG.RU"", Ltd"
+217.15.20.162:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,"JSC ""Futures Telecom"""
+85.198.81.83:1080,SOCKS4,Russia,RU,🇷🇺,3,low,No,"JSC ""TIMEWEB"""
+89.191.229.141:1080,SOCKS4,Russia,RU,🇷🇺,3,low,No,"JSC ""TIMEWEB"""
+77.95.201.16:9150,SOCKS4,Russia,RU,🇷🇺,3,low,No,"JSC ""TIMEWEB"""
+139.28.222.128:2080,SOCKS4,Russia,RU,🇷🇺,6,low,No,First Server Limited
+84.22.132.84:2080,SOCKS4,Russia,RU,🇷🇺,25,medium,No,Lovitel LLC
