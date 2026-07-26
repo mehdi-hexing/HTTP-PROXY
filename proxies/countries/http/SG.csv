@@ -1,9 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-47.236.72.18:8888,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
-47.237.107.41:6379,HTTP,Singapore,SG,🇸🇬,1,low,Yes,"Alibaba (US) Technology Co., Ltd."
-47.237.107.41:2000,HTTP,Singapore,SG,🇸🇬,1,low,Yes,"Alibaba (US) Technology Co., Ltd."
+139.99.95.120:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,OVH SAS
 47.237.107.41:9000,HTTP,Singapore,SG,🇸🇬,1,low,Yes,"Alibaba (US) Technology Co., Ltd."
+15.235.193.159:10332,HTTP,Singapore,SG,🇸🇬,1,low,No,OVH SAS
 51.79.142.103:3128,HTTP,Singapore,SG,🇸🇬,1,low,No,OVH SAS
-15.235.193.159:10026,HTTP,Singapore,SG,🇸🇬,1,low,No,OVH SAS
 47.237.113.119:6379,HTTP,Singapore,SG,🇸🇬,1,low,Yes,"Alibaba (US) Technology Co., Ltd."
+15.235.193.159:10367,HTTP,Singapore,SG,🇸🇬,1,low,No,OVH SAS
+140.245.99.105:7890,HTTP,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation
 18.138.102.128:3128,HTTP,Singapore,SG,🇸🇬,3,low,No,Amazon Technologies Inc.
+104.248.146.217:3128,HTTP,Singapore,SG,🇸🇬,56,medium,Yes,"DigitalOcean, LLC"
