@@ -1,12 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-43.160.255.142:7890,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,Aceville Pte.ltd
 45.76.182.157:1081,SOCKS4,Singapore,SG,🇸🇬,0,low,No,The Constant Company
-34.124.190.108:8080,SOCKS4,Singapore,SG,🇸🇬,0,low,No,Google LLC
-43.160.219.223:1080,SOCKS4,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited
+134.209.98.206:1080,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"DigitalOcean, LLC"
+178.128.59.180:40001,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"DigitalOcean, LLC"
 47.237.2.245:1234,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
 47.237.92.86:6379,SOCKS4,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd."
+47.237.92.86:45,SOCKS4,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd."
+47.237.92.86:115,SOCKS4,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd."
+47.237.92.86:8181,SOCKS4,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd."
 8.219.229.53:5060,SOCKS4,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd."
 8.219.229.53:8888,SOCKS4,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd."
 8.219.229.53:2000,SOCKS4,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd."
 140.245.99.105:7890,SOCKS4,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation
-45.32.119.194:9000,SOCKS4,Singapore,SG,🇸🇬,46,medium,No,The Constant Company
