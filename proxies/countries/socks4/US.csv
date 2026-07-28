@@ -1,23 +1,23 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-104.200.152.30:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
-142.54.226.214:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
 147.45.60.246:1082,SOCKS4,United States,US,🇺🇸,0,low,Yes,Global Connectivity Solutions LLP
+147.45.60.252:1081,SOCKS4,United States,US,🇺🇸,0,low,No,Global Connectivity Solutions LLP
 74.119.147.209:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Total Server Solutions L.L.C.
+104.200.152.30:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
 72.207.109.5:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 24.249.199.4:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
-184.181.217.194:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
+142.54.226.214:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
 98.191.0.47:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
-69.61.200.104:36181,SOCKS4,United States,US,🇺🇸,0,low,No,Fuse Internet Access
+184.181.217.194:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 174.64.199.82:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
+38.18.220.72:1080,SOCKS4,United States,US,🇺🇸,0,low,No,Anthem Broadband
 192.111.137.37:18762,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
 72.207.113.97:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 68.71.247.130:4145,SOCKS4,United States,US,🇺🇸,0,low,Yes,Total Server Solutions L.L.C.
-38.18.220.72:1080,SOCKS4,United States,US,🇺🇸,0,low,No,Anthem Broadband
+69.61.200.104:36181,SOCKS4,United States,US,🇺🇸,0,low,No,Fuse Internet Access
 184.182.240.211:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
-66.42.224.229:41679,SOCKS4,United States,US,🇺🇸,0,low,No,Cincinnati Bell Telephone Company LLC
 70.166.167.55:57745,SOCKS4,United States,US,🇺🇸,0,low,Yes,Cox Communications Inc.
 147.45.60.252:1082,SOCKS4,United States,US,🇺🇸,0,low,No,Global Connectivity Solutions LLP
-147.45.60.252:1081,SOCKS4,United States,US,🇺🇸,0,low,No,Global Connectivity Solutions LLP
+66.42.224.229:41679,SOCKS4,United States,US,🇺🇸,0,low,No,Cincinnati Bell Telephone Company LLC
 184.181.217.210:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 206.220.175.2:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
 192.111.137.35:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
@@ -33,11 +33,11 @@ Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 72.207.33.64:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 184.178.172.14:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 67.201.39.14:4145,SOCKS4,United States,US,🇺🇸,0,low,Yes,PacketExchange
+186.241.90.120:7890,SOCKS4,United States,US,🇺🇸,0,low,No,Arosscloud Inc.
 184.181.217.201:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 68.71.252.38:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Total Server Solutions L.L.C.
-186.241.90.120:7890,SOCKS4,United States,US,🇺🇸,0,low,No,Arosscloud Inc.
-98.188.47.150:4145,SOCKS4,United States,US,🇺🇸,0,low,Yes,Cox Communications Inc.
 98.182.147.97:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
+98.188.47.150:4145,SOCKS4,United States,US,🇺🇸,0,low,Yes,Cox Communications Inc.
 72.195.34.59:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 142.54.237.38:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
 192.111.130.2:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
@@ -55,32 +55,34 @@ Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 184.181.217.220:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 98.188.47.132:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 192.252.215.5:16137,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
-178.130.47.42:1082,SOCKS4,United States,US,🇺🇸,0,low,No,Global Connectivity Solutions LLP
+154.219.125.240:50161,SOCKS4,United States,US,🇺🇸,0,low,No,Fastnet Data Inc
 66.181.39.197:1080,SOCKS4,United States,US,🇺🇸,0,low,No,"UnReal Servers, LLC"
+178.130.47.42:1082,SOCKS4,United States,US,🇺🇸,0,low,No,Global Connectivity Solutions LLP
 142.54.231.38:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
 72.195.101.99:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
 192.252.209.158:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
 72.205.0.67:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Cox Communications Inc.
-43.130.38.45:51029,SOCKS4,United States,US,🇺🇸,0,low,No,Shenzhen Tencent Computer Systems Company Limited
 67.201.35.145:4145,SOCKS4,United States,US,🇺🇸,0,low,Yes,PacketExchange
 67.201.59.70:4145,SOCKS4,United States,US,🇺🇸,0,low,Yes,PacketExchange
 192.111.137.34:18765,SOCKS4,United States,US,🇺🇸,0,low,Yes,Performive LLC
-178.130.47.42:1081,SOCKS4,United States,US,🇺🇸,0,low,No,Global Connectivity Solutions LLP
 184.170.251.30:11288,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
 68.71.243.14:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
 142.54.239.1:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
-178.130.47.21:1082,SOCKS4,United States,US,🇺🇸,0,low,No,Global Connectivity Solutions LLP
+96.36.50.99:39593,SOCKS4,United States,US,🇺🇸,0,low,No,Spectrum
 192.111.139.163:19404,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
 184.170.249.65:4145,SOCKS4,United States,US,🇺🇸,0,low,No,Performive LLC
 178.130.47.41:1082,SOCKS4,United States,US,🇺🇸,0,low,Yes,Global Connectivity Solutions LLP
-50.250.205.21:32100,SOCKS4,United States,US,🇺🇸,0,low,No,"Comcast Cable Communications, LLC"
-178.130.47.41:1081,SOCKS4,United States,US,🇺🇸,0,low,Yes,Global Connectivity Solutions LLP
 147.45.60.136:1082,SOCKS4,United States,US,🇺🇸,0,low,No,Global Connectivity Solutions LLP
+8.39.228.193:39593,SOCKS4,United States,US,🇺🇸,0,low,No,Visionary Communications LLC
+192.163.200.82:17071,SOCKS4,United States,US,🇺🇸,0,low,No,Unified Layer
+20.83.154.79:7070,SOCKS4,United States,US,🇺🇸,0,low,No,Microsoft Corporation
 23.184.200.67:1080,SOCKS4,United States,US,🇺🇸,0,low,No,NetLab Global
 199.66.183.251:4145,SOCKS4,United States,US,🇺🇸,0,low,No,NET2ATLANTA.COM LLC
 199.66.182.243:4145,SOCKS4,United States,US,🇺🇸,0,low,No,NET2ATLANTA.COM LLC
-43.135.135.136:9050,SOCKS4,United States,US,🇺🇸,1,low,No,Shenzhen Tencent Computer Systems Company Limited
-47.251.127.154:1080,SOCKS4,United States,US,🇺🇸,8,low,No,Alibaba Cloud LLC
+47.88.94.79:1080,SOCKS4,United States,US,🇺🇸,1,low,No,"Alibaba (US) Technology Co., Ltd."
+43.135.164.115:9050,SOCKS4,United States,US,🇺🇸,1,low,No,Shenzhen Tencent Computer Systems Company Limited
+43.135.153.37:9050,SOCKS4,United States,US,🇺🇸,1,low,No,Shenzhen Tencent Computer Systems Company Limited
+216.126.227.173:32768,SOCKS4,United States,US,🇺🇸,7,low,No,RouterHosting LLC
 47.252.11.233:1080,SOCKS4,United States,US,🇺🇸,8,low,Yes,Alibaba Cloud LLC
 47.252.11.233:443,SOCKS4,United States,US,🇺🇸,8,low,Yes,Alibaba Cloud LLC
 47.252.11.233:8085,SOCKS4,United States,US,🇺🇸,8,low,Yes,Alibaba Cloud LLC
@@ -98,35 +100,38 @@ Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 47.251.74.38:20000,SOCKS4,United States,US,🇺🇸,8,low,Yes,Alibaba Cloud LLC
 47.251.74.38:202,SOCKS4,United States,US,🇺🇸,8,low,Yes,Alibaba Cloud LLC
 184.182.240.12:4145,SOCKS4,United States,US,🇺🇸,9,low,No,Cox Communications Inc.
-45.61.129.165:9050,SOCKS4,United States,US,🇺🇸,11,low,No,RouterHosting LLC
-45.61.129.165:8443,SOCKS4,United States,US,🇺🇸,11,low,No,RouterHosting LLC
 98.178.72.21:10919,SOCKS4,United States,US,🇺🇸,13,low,No,Cox Communications Inc.
-47.85.37.60:1080,SOCKS4,United States,US,🇺🇸,17,low,No,Alibaba.com LLC
 47.90.167.27:8888,SOCKS4,United States,US,🇺🇸,17,low,Yes,Alibaba.com LLC
 47.90.167.27:80,SOCKS4,United States,US,🇺🇸,17,low,Yes,Alibaba.com LLC
 47.90.167.27:8083,SOCKS4,United States,US,🇺🇸,17,low,Yes,Alibaba.com LLC
 47.90.149.238:8008,SOCKS4,United States,US,🇺🇸,17,low,Yes,Alibaba.com LLC
 47.90.149.238:81,SOCKS4,United States,US,🇺🇸,17,low,Yes,Alibaba.com LLC
 47.85.9.228:10800,SOCKS4,United States,US,🇺🇸,17,low,No,Alibaba.com LLC
-47.85.105.18:1080,SOCKS4,United States,US,🇺🇸,17,low,No,Alibaba.com LLC
 178.130.47.50:1082,SOCKS4,United States,US,🇺🇸,20,medium,No,Global Connectivity Solutions LLP
-147.45.60.249:1082,SOCKS4,United States,US,🇺🇸,20,medium,No,Global Connectivity Solutions LLP
 147.45.60.249:1081,SOCKS4,United States,US,🇺🇸,20,medium,No,Global Connectivity Solutions LLP
+147.45.60.249:1082,SOCKS4,United States,US,🇺🇸,20,medium,No,Global Connectivity Solutions LLP
 192.252.208.67:14287,SOCKS4,United States,US,🇺🇸,20,medium,Yes,Performive LLC
 178.130.47.43:1082,SOCKS4,United States,US,🇺🇸,20,medium,No,Global Connectivity Solutions LLP
 178.130.47.43:1081,SOCKS4,United States,US,🇺🇸,20,medium,No,Global Connectivity Solutions LLP
 184.178.172.25:15291,SOCKS4,United States,US,🇺🇸,25,medium,No,Cox Communications Inc.
-198.98.57.207:1080,SOCKS4,United States,US,🇺🇸,26,medium,Yes,FranTech Solutions
-208.87.128.239:9150,SOCKS4,United States,US,🇺🇸,33,medium,No,"HIVELOCITY, Inc."
 68.1.210.189:4145,SOCKS4,United States,US,🇺🇸,40,medium,No,Cox Communications Inc.
-140.82.16.82:1080,SOCKS4,United States,US,🇺🇸,46,medium,No,The Constant Company
 149.28.41.138:1080,SOCKS4,United States,US,🇺🇸,46,medium,No,The Constant Company
-198.89.96.140:1080,SOCKS4,United States,US,🇺🇸,48,medium,No,Tier.Net Technologies LLC
-144.202.113.226:1080,SOCKS4,United States,US,🇺🇸,48,medium,No,Choopa
+140.82.16.82:1080,SOCKS4,United States,US,🇺🇸,46,medium,No,The Constant Company
+64.225.42.129:3011,SOCKS4,United States,US,🇺🇸,55,medium,No,"DigitalOcean, LLC"
+64.225.42.129:3000,SOCKS4,United States,US,🇺🇸,55,medium,No,"DigitalOcean, LLC"
+64.225.42.129:3006,SOCKS4,United States,US,🇺🇸,55,medium,No,"DigitalOcean, LLC"
+64.225.42.129:3008,SOCKS4,United States,US,🇺🇸,55,medium,No,"DigitalOcean, LLC"
+64.225.42.129:3004,SOCKS4,United States,US,🇺🇸,55,medium,No,"DigitalOcean, LLC"
+64.225.42.129:3012,SOCKS4,United States,US,🇺🇸,55,medium,No,"DigitalOcean, LLC"
+64.225.42.129:3001,SOCKS4,United States,US,🇺🇸,55,medium,No,"DigitalOcean, LLC"
+64.225.42.129:3009,SOCKS4,United States,US,🇺🇸,55,medium,No,"DigitalOcean, LLC"
+64.225.42.129:3007,SOCKS4,United States,US,🇺🇸,55,medium,No,"DigitalOcean, LLC"
+64.225.42.129:3005,SOCKS4,United States,US,🇺🇸,55,medium,No,"DigitalOcean, LLC"
 69.55.49.177:38182,SOCKS4,United States,US,🇺🇸,57,medium,No,"DigitalOcean, LLC"
 216.106.179.216:49285,SOCKS4,United States,US,🇺🇸,57,medium,No,GTHost
-216.106.179.216:49579,SOCKS4,United States,US,🇺🇸,57,medium,No,GTHost
+216.106.179.216:49447,SOCKS4,United States,US,🇺🇸,57,medium,No,GTHost
+216.106.179.216:49159,SOCKS4,United States,US,🇺🇸,57,medium,No,GTHost
 216.106.179.216:49514,SOCKS4,United States,US,🇺🇸,57,medium,No,GTHost
-216.106.179.216:49534,SOCKS4,United States,US,🇺🇸,57,medium,No,GTHost
-216.106.179.216:49507,SOCKS4,United States,US,🇺🇸,57,medium,No,GTHost
-216.106.179.216:49516,SOCKS4,United States,US,🇺🇸,57,medium,No,GTHost
+216.106.179.216:49579,SOCKS4,United States,US,🇺🇸,57,medium,No,GTHost
+216.106.179.216:49563,SOCKS4,United States,US,🇺🇸,57,medium,No,GTHost
+138.128.247.206:9050,SOCKS4,United States,US,🇺🇸,69,high,No,"Kamatera, Inc."
