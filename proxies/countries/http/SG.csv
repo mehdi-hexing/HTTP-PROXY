@@ -1,11 +1,14 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-139.99.95.120:8080,HTTP,Singapore,SG,🇸🇬,0,low,Yes,OVH SAS
-34.87.80.221:30000,HTTP,Singapore,SG,🇸🇬,0,low,No,Google LLC
-31.57.178.195:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi
+43.160.255.142:7890,HTTP,Singapore,SG,🇸🇬,0,low,Yes,Aceville Pte.ltd
+31.57.178.255:8181,HTTP,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi
 47.237.113.119:81,HTTP,Singapore,SG,🇸🇬,1,low,Yes,"Alibaba (US) Technology Co., Ltd."
-47.237.153.201:8000,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd."
-15.235.193.159:10053,HTTP,Singapore,SG,🇸🇬,1,low,No,OVH SAS
+15.235.193.159:10182,HTTP,Singapore,SG,🇸🇬,1,low,No,OVH SAS
+15.235.193.159:10227,HTTP,Singapore,SG,🇸🇬,1,low,No,OVH SAS
+15.235.193.159:10039,HTTP,Singapore,SG,🇸🇬,1,low,No,OVH SAS
+15.235.193.159:10466,HTTP,Singapore,SG,🇸🇬,1,low,No,OVH SAS
 47.237.113.119:89,HTTP,Singapore,SG,🇸🇬,1,low,Yes,"Alibaba (US) Technology Co., Ltd."
+15.235.193.159:10170,HTTP,Singapore,SG,🇸🇬,1,low,No,OVH SAS
+47.237.107.41:5060,HTTP,Singapore,SG,🇸🇬,1,low,Yes,"Alibaba (US) Technology Co., Ltd."
+15.235.193.159:10433,HTTP,Singapore,SG,🇸🇬,1,low,No,OVH SAS
 18.138.102.128:3128,HTTP,Singapore,SG,🇸🇬,3,low,No,Amazon Technologies Inc.
-62.146.233.116:8881,HTTP,Singapore,SG,🇸🇬,12,low,No,Contabo Asia Private Limited
-178.128.223.15:3128,HTTP,Singapore,SG,🇸🇬,58,medium,Yes,"DigitalOcean, LLC"
+45.77.246.231:80,HTTP,Singapore,SG,🇸🇬,46,medium,No,The Constant Company
