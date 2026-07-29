@@ -1,9 +1,14 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-151.242.116.20:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi
+8.219.97.248:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Alibaba Cloud (Singapore) Private Limited
+178.128.59.180:18080,HTTP,Singapore,SG,🇸🇬,0,low,No,"DigitalOcean, LLC"
+139.99.95.120:8080,HTTP,Singapore,SG,🇸🇬,0,low,Yes,OVH SAS
+15.235.193.159:10024,HTTP,Singapore,SG,🇸🇬,1,low,No,OVH SAS
+15.235.193.159:10002,HTTP,Singapore,SG,🇸🇬,1,low,No,OVH SAS
 8.219.229.53:9080,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd."
 8.219.229.53:8008,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd."
 8.219.229.53:20,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd."
+15.235.193.159:10387,HTTP,Singapore,SG,🇸🇬,1,low,No,OVH SAS
+15.235.193.159:10236,HTTP,Singapore,SG,🇸🇬,1,low,No,OVH SAS
+129.150.53.35:3128,HTTP,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation
 18.138.102.128:3128,HTTP,Singapore,SG,🇸🇬,3,low,No,Amazon Technologies Inc.
-62.146.233.116:8881,HTTP,Singapore,SG,🇸🇬,12,low,No,Contabo Asia Private Limited
-95.111.194.14:6045,HTTP,Singapore,SG,🇸🇬,47,medium,No,UpCloud Ltd
-154.26.154.47:1080,HTTP,Singapore,SG,🇸🇬,61,high,No,Cogent Communications
+157.230.38.173:3128,HTTP,Singapore,SG,🇸🇬,55,medium,No,"DigitalOcean, LLC"
