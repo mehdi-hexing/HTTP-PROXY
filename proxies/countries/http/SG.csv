@@ -1,16 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-47.236.86.147:443,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
-47.237.2.245:808,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
-47.237.2.245:1234,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
 139.99.95.120:8080,HTTP,Singapore,SG,🇸🇬,0,low,Yes,OVH SAS
 43.160.255.142:7890,HTTP,Singapore,SG,🇸🇬,0,low,Yes,Aceville Pte.ltd
 8.219.97.248:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Alibaba Cloud (Singapore) Private Limited
 178.128.59.180:18080,HTTP,Singapore,SG,🇸🇬,0,low,No,"DigitalOcean, LLC"
-47.237.107.41:5060,HTTP,Singapore,SG,🇸🇬,1,low,Yes,"Alibaba (US) Technology Co., Ltd."
-15.235.193.159:10027,HTTP,Singapore,SG,🇸🇬,1,low,No,OVH SAS
-15.235.193.159:10221,HTTP,Singapore,SG,🇸🇬,1,low,No,OVH SAS
-15.235.193.159:10002,HTTP,Singapore,SG,🇸🇬,1,low,No,OVH SAS
+15.235.193.159:10301,HTTP,Singapore,SG,🇸🇬,1,low,No,OVH SAS
+8.219.229.53:9080,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd."
+8.219.229.53:8008,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd."
 140.245.99.105:7890,HTTP,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation
 18.138.102.128:3128,HTTP,Singapore,SG,🇸🇬,3,low,No,Amazon Technologies Inc.
-62.146.233.116:8881,HTTP,Singapore,SG,🇸🇬,12,low,No,Contabo Asia Private Limited
 149.28.137.172:8888,HTTP,Singapore,SG,🇸🇬,46,medium,No,The Constant Company
