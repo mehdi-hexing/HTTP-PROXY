@@ -1,8 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
+144.31.189.114:1080,SOCKS4,Germany,DE,🇩🇪,0,low,No,International Hosting Company Limited
 194.58.33.7:9564,SOCKS4,Germany,DE,🇩🇪,0,low,Yes,International Hosting Company Limited
 92.205.186.129:1080,SOCKS4,Germany,DE,🇩🇪,0,low,No,Host Europe GmbH
-185.108.76.197:9050,SOCKS4,Germany,DE,🇩🇪,0,low,No,Infra1 Managed-services
-139.28.241.247:1082,SOCKS4,Germany,DE,🇩🇪,0,low,No,Global Connectivity Solutions LLP
+139.28.241.247:1081,SOCKS4,Germany,DE,🇩🇪,0,low,No,Global Connectivity Solutions LLP
 212.113.104.29:10801,SOCKS4,Germany,DE,🇩🇪,0,low,Yes,Sculk Ltd.
 8.211.42.167:4153,SOCKS4,Germany,DE,🇩🇪,1,low,Yes,"Alibaba (US) Technology Co., Ltd."
 8.211.42.167:111,SOCKS4,Germany,DE,🇩🇪,1,low,Yes,"Alibaba (US) Technology Co., Ltd."
@@ -13,12 +13,11 @@ Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 8.209.96.245:9080,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
 8.209.96.245:45,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
 8.209.96.245:55443,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
-8.209.96.245:1080,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
 8.209.96.245:8082,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
+8.209.96.245:1080,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
 8.209.96.245:100,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
 8.209.96.245:1081,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
 72.56.106.48:443,SOCKS4,Germany,DE,🇩🇪,5,low,No,"Timeweb, LLP"
-116.203.19.71:9080,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH
-49.13.152.181:9102,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH
 159.195.61.240:1080,SOCKS4,Germany,DE,🇩🇪,22,medium,No,netcup GmbH
 87.239.251.202:1081,SOCKS4,Germany,DE,🇩🇪,25,medium,No,First Server Limited
+31.25.236.95:1080,SOCKS4,Germany,DE,🇩🇪,36,medium,No,Massivegrid LTD
