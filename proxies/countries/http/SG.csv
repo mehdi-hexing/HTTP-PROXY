@@ -1,12 +1,15 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-43.160.255.142:7890,HTTP,Singapore,SG,🇸🇬,0,low,Yes,Aceville Pte.ltd
-47.237.2.245:9080,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
-47.237.92.86:45,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
 47.237.92.86:10250,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
+47.237.92.86:45,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
+8.219.97.248:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Alibaba Cloud (Singapore) Private Limited
+43.160.219.223:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited
 47.237.113.119:14,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd."
+178.128.59.180:18080,HTTP,Singapore,SG,🇸🇬,0,low,No,"DigitalOcean, LLC"
 47.237.113.119:999,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd."
 47.237.92.86:10,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
+43.160.249.13:9188,HTTP,Singapore,SG,🇸🇬,0,low,No,Aceville Pte.ltd
 47.237.107.41:8443,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd."
 47.237.107.41:808,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd."
 140.245.99.105:7890,HTTP,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation
 18.138.102.128:3128,HTTP,Singapore,SG,🇸🇬,3,low,No,Amazon Technologies Inc.
+143.198.85.218:3128,HTTP,Singapore,SG,🇸🇬,55,medium,No,"DigitalOcean, LLC"
