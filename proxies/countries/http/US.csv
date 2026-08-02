@@ -1,33 +1,28 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-174.138.161.146:8024,HTTP,United States,US,🇺🇸,0,low,No,Secured Servers LLC
-34.134.231.117:3129,HTTP,United States,US,🇺🇸,0,low,No,Google LLC
-97.74.87.226:80,HTTP,United States,US,🇺🇸,0,low,No,"GoDaddy.com, LLC"
-174.138.161.146:8254,HTTP,United States,US,🇺🇸,0,low,No,Secured Servers LLC
 137.66.1.45:80,HTTP,United States,US,🇺🇸,0,low,No,"Fly.io, Inc."
 67.203.23.79:8081,HTTP,United States,US,🇺🇸,0,low,No,Colocation America Corporation
-131.153.1.44:8254,HTTP,United States,US,🇺🇸,0,low,No,Secured Servers LLC
-178.130.47.42:1082,HTTP,United States,US,🇺🇸,0,low,No,Global Connectivity Solutions LLP
+12.232.227.99:8080,HTTP,United States,US,🇺🇸,0,low,No,"AT&T Enterprises, LLC"
+66.181.39.197:3128,HTTP,United States,US,🇺🇸,0,low,No,"UnReal Servers, LLC"
+43.110.40.117:8888,HTTP,United States,US,🇺🇸,0,low,No,"Alibaba (US) Technology Co., Ltd."
 15.235.21.254:8080,HTTP,United States,US,🇺🇸,0,low,No,OVH SAS
 170.106.173.62:8080,HTTP,United States,US,🇺🇸,0,low,No,Tencent Cloud Computing (Beijing) Co
-104.194.146.9:80,HTTP,United States,US,🇺🇸,0,low,Yes,FranTech Solutions
+71.168.71.12:8890,HTTP,United States,US,🇺🇸,0,low,No,"FAIRPOINT COMMUNICATIONS, INC."
+12.50.107.217:80,HTTP,United States,US,🇺🇸,0,low,No,"AT&T Enterprises, LLC"
 34.122.187.196:80,HTTP,United States,US,🇺🇸,0,low,No,Google LLC
-48.214.144.194:8888,HTTP,United States,US,🇺🇸,0,low,No,Microsoft Corporation
-43.153.82.179:8888,HTTP,United States,US,🇺🇸,0,low,No,Shenzhen Tencent Computer Systems Company Limited
-131.153.1.46:20725,HTTP,United States,US,🇺🇸,0,low,No,Secured Servers LLC
-131.153.163.130:30960,HTTP,United States,US,🇺🇸,0,low,No,Secured Servers LLC
+12.50.107.221:80,HTTP,United States,US,🇺🇸,0,low,No,"AT&T Enterprises, LLC"
+178.130.47.42:1081,HTTP,United States,US,🇺🇸,0,low,No,Global Connectivity Solutions LLP
 23.228.86.236:8081,HTTP,United States,US,🇺🇸,0,low,No,Vault Host
-45.32.192.240:9000,HTTP,United States,US,🇺🇸,0,low,No,Choopa
+170.106.188.46:5432,HTTP,United States,US,🇺🇸,0,low,No,Tencent Cloud Computing (Beijing) Co
+12.50.107.222:80,HTTP,United States,US,🇺🇸,0,low,No,"AT&T Enterprises, LLC"
+38.55.145.46:1081,HTTP,United States,US,🇺🇸,0,low,Yes,Cogent Communications
 8.221.126.184:80,HTTP,United States,US,🇺🇸,1,low,No,"Alibaba (US) Technology Co., Ltd."
+153.72.68.0:8080,HTTP,United States,US,🇺🇸,1,low,No,Google LLC
 104.154.186.48:80,HTTP,United States,US,🇺🇸,3,low,Yes,Google LLC
 34.44.49.215:80,HTTP,United States,US,🇺🇸,3,low,No,Google LLC
-54.165.248.109:3128,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc."
-34.43.46.91:80,HTTP,United States,US,🇺🇸,3,low,Yes,Google LLC
+34.69.61.247:80,HTTP,United States,US,🇺🇸,3,low,Yes,Google LLC
 34.43.46.91:443,HTTP,United States,US,🇺🇸,3,low,Yes,Google LLC
 54.193.215.124:80,HTTP,United States,US,🇺🇸,4,low,No,"Amazon.com, Inc."
-24.119.238.146:10000,HTTP,United States,US,🇺🇸,6,low,No,"CABLE ONE, INC."
 150.136.163.51:80,HTTP,United States,US,🇺🇸,6,low,No,Oracle Corporation
-75.109.189.86:8080,HTTP,United States,US,🇺🇸,7,low,No,Suddenlink Communications
-47.252.18.37:6379,HTTP,United States,US,🇺🇸,8,low,No,Alibaba Cloud LLC
 47.251.87.199:1081,HTTP,United States,US,🇺🇸,8,low,No,Alibaba Cloud LLC
 47.251.87.199:20000,HTTP,United States,US,🇺🇸,8,low,No,Alibaba Cloud LLC
 47.252.11.233:6379,HTTP,United States,US,🇺🇸,8,low,Yes,Alibaba Cloud LLC
@@ -35,19 +30,20 @@ Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 47.252.11.233:82,HTTP,United States,US,🇺🇸,8,low,Yes,Alibaba Cloud LLC
 47.252.11.233:999,HTTP,United States,US,🇺🇸,8,low,Yes,Alibaba Cloud LLC
 47.252.18.37:8008,HTTP,United States,US,🇺🇸,8,low,No,Alibaba Cloud LLC
-54.145.2.169:8888,HTTP,United States,US,🇺🇸,11,low,No,Amazon Technologies Inc.
-47.90.149.238:8080,HTTP,United States,US,🇺🇸,17,low,Yes,Alibaba.com LLC
-47.90.149.238:9999,HTTP,United States,US,🇺🇸,17,low,Yes,Alibaba.com LLC
+47.253.201.85:7890,HTTP,United States,US,🇺🇸,8,low,Yes,Alibaba Cloud LLC
+69.2.15.238:8111,HTTP,United States,US,🇺🇸,9,low,No,"Pinpoint Communications, Inc."
+76.169.128.104:8080,HTTP,United States,US,🇺🇸,9,low,No,Charter Communications
+47.85.195.135:1080,HTTP,United States,US,🇺🇸,15,low,No,Alibaba.com LLC
 47.89.184.18:3128,HTTP,United States,US,🇺🇸,17,low,Yes,Alibaba.com LLC
 47.89.159.212:8081,HTTP,United States,US,🇺🇸,17,low,No,Alibaba.com LLC
 47.89.159.212:8083,HTTP,United States,US,🇺🇸,17,low,No,Alibaba.com LLC
-178.130.47.43:1081,HTTP,United States,US,🇺🇸,20,medium,No,Global Connectivity Solutions LLP
 147.45.60.249:1082,HTTP,United States,US,🇺🇸,20,medium,No,Global Connectivity Solutions LLP
-172.234.36.21:3128,HTTP,United States,US,🇺🇸,29,medium,No,"Akamai Technologies, Inc."
-149.28.87.103:8888,HTTP,United States,US,🇺🇸,50,medium,No,The Constant Company
-23.95.60.6:3128,HTTP,United States,US,🇺🇸,51,medium,No,HostPapa
+23.137.105.114:3128,HTTP,United States,US,🇺🇸,26,medium,No,Advin Services LLC
+159.65.230.46:8888,HTTP,United States,US,🇺🇸,55,medium,No,"DigitalOcean, LLC"
 167.172.250.185:999,HTTP,United States,US,🇺🇸,55,medium,Yes,"DigitalOcean, LLC"
 142.93.202.130:3128,HTTP,United States,US,🇺🇸,55,medium,No,"DigitalOcean, LLC"
 138.68.235.51:80,HTTP,United States,US,🇺🇸,55,medium,No,"DigitalOcean, LLC"
-167.99.124.118:80,HTTP,United States,US,🇺🇸,56,medium,No,"DigitalOcean, LLC"
-216.106.179.216:49563,HTTP,United States,US,🇺🇸,57,medium,No,GTHost
+174.138.119.88:80,HTTP,United States,US,🇺🇸,56,medium,No,"DigitalOcean, LLC"
+216.106.179.216:49579,HTTP,United States,US,🇺🇸,57,medium,No,GTHost
+216.106.179.216:49424,HTTP,United States,US,🇺🇸,57,medium,No,GTHost
+216.106.179.216:49284,HTTP,United States,US,🇺🇸,57,medium,No,GTHost
