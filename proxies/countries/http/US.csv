@@ -1,63 +1,60 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-172.210.66.63:3128,HTTP,United States,US,🇺🇸,0,low,No,Microsoft Corporation
-103.119.14.99:3128,HTTP,United States,US,🇺🇸,0,low,No,Turing Group Limited
-104.194.146.9:80,HTTP,United States,US,🇺🇸,0,low,Yes,FranTech Solutions
-12.50.107.217:80,HTTP,United States,US,🇺🇸,0,low,No,"AT&T Enterprises, LLC"
 34.122.187.196:80,HTTP,United States,US,🇺🇸,0,low,No,Google LLC
 12.50.107.221:80,HTTP,United States,US,🇺🇸,0,low,No,"AT&T Enterprises, LLC"
-178.130.47.42:1081,HTTP,United States,US,🇺🇸,0,low,No,Global Connectivity Solutions LLP
+43.162.83.26:3128,HTTP,United States,US,🇺🇸,0,low,No,Shenzhen Tencent Computer Systems Company Limited
 43.153.82.179:8888,HTTP,United States,US,🇺🇸,0,low,No,Shenzhen Tencent Computer Systems Company Limited
+45.32.192.240:9000,HTTP,United States,US,🇺🇸,0,low,No,Choopa
 23.228.86.236:8081,HTTP,United States,US,🇺🇸,0,low,No,Vault Host
 12.50.107.222:80,HTTP,United States,US,🇺🇸,0,low,No,"AT&T Enterprises, LLC"
-104.194.148.188:3128,HTTP,United States,US,🇺🇸,0,low,No,FranTech Solutions
+153.72.68.0:8080,HTTP,United States,US,🇺🇸,0,low,No,Google LLC
 97.74.87.226:80,HTTP,United States,US,🇺🇸,0,low,No,"GoDaddy.com, LLC"
-34.94.46.8:80,HTTP,United States,US,🇺🇸,0,low,Yes,Google LLC
+151.243.153.157:8118,HTTP,United States,US,🇺🇸,0,low,No,Black Apple
 34.134.231.117:3129,HTTP,United States,US,🇺🇸,0,low,No,Google LLC
+34.94.46.8:80,HTTP,United States,US,🇺🇸,0,low,Yes,Google LLC
 138.91.159.185:80,HTTP,United States,US,🇺🇸,0,low,No,Microsoft Corporation
-147.45.60.252:1081,HTTP,United States,US,🇺🇸,0,low,No,Global Connectivity Solutions LLP
-147.45.60.252:1082,HTTP,United States,US,🇺🇸,0,low,No,Global Connectivity Solutions LLP
 137.66.1.45:80,HTTP,United States,US,🇺🇸,0,low,No,"Fly.io, Inc."
 67.203.23.79:8081,HTTP,United States,US,🇺🇸,0,low,No,Colocation America Corporation
 12.50.107.219:80,HTTP,United States,US,🇺🇸,0,low,No,"AT&T Enterprises, LLC"
 12.50.107.220:80,HTTP,United States,US,🇺🇸,0,low,No,"AT&T Enterprises, LLC"
+20.83.140.251:8080,HTTP,United States,US,🇺🇸,0,low,Yes,Microsoft Corporation
 134.195.210.155:3128,HTTP,United States,US,🇺🇸,0,low,No,Axedale
+45.153.4.154:3128,HTTP,United States,US,🇺🇸,0,low,Yes,Istqrar for Servers Services Ltd
+198.111.166.184:80,HTTP,United States,US,🇺🇸,0,low,No,Merit Network Inc.
+15.235.21.254:8080,HTTP,United States,US,🇺🇸,0,low,No,OVH SAS
+63.151.67.7:8080,HTTP,United States,US,🇺🇸,0,low,No,CenturyLink Communications
+174.137.134.182:2999,HTTP,United States,US,🇺🇸,0,low,Yes,Webair Internet Development Company Inc.
+206.183.130.239:1081,HTTP,United States,US,🇺🇸,0,low,No,Psychz Networks
+170.106.173.62:8080,HTTP,United States,US,🇺🇸,0,low,No,Tencent Cloud Computing (Beijing) Co
+43.162.115.85:8080,HTTP,United States,US,🇺🇸,0,low,No,Shenzhen Tencent Computer Systems Company Limited
 8.221.126.184:80,HTTP,United States,US,🇺🇸,1,low,No,"Alibaba (US) Technology Co., Ltd."
-153.72.68.0:8080,HTTP,United States,US,🇺🇸,1,low,No,Google LLC
-104.154.186.48:80,HTTP,United States,US,🇺🇸,3,low,Yes,Google LLC
+129.146.127.232:3128,HTTP,United States,US,🇺🇸,2,low,No,Oracle Corporation
 34.44.49.215:80,HTTP,United States,US,🇺🇸,3,low,No,Google LLC
-5.161.204.82:8888,HTTP,United States,US,🇺🇸,6,low,No,Hetzner Online GmbH
-150.136.163.51:80,HTTP,United States,US,🇺🇸,6,low,No,Oracle Corporation
-47.176.240.250:4228,HTTP,United States,US,🇺🇸,7,low,No,"Frontier Communications of America, Inc."
-47.252.11.233:6379,HTTP,United States,US,🇺🇸,8,low,Yes,Alibaba Cloud LLC
-47.251.87.74:9098,HTTP,United States,US,🇺🇸,8,low,Yes,Alibaba Cloud LLC
-47.252.11.233:82,HTTP,United States,US,🇺🇸,8,low,Yes,Alibaba Cloud LLC
-47.252.11.233:999,HTTP,United States,US,🇺🇸,8,low,Yes,Alibaba Cloud LLC
-47.252.18.37:8008,HTTP,United States,US,🇺🇸,8,low,No,Alibaba Cloud LLC
-47.253.201.85:7890,HTTP,United States,US,🇺🇸,8,low,Yes,Alibaba Cloud LLC
-47.252.18.37:8090,HTTP,United States,US,🇺🇸,8,low,No,Alibaba Cloud LLC
-76.169.128.104:8080,HTTP,United States,US,🇺🇸,9,low,No,Charter Communications
-54.145.2.169:8888,HTTP,United States,US,🇺🇸,11,low,No,Amazon Technologies Inc.
-54.145.2.169:3128,HTTP,United States,US,🇺🇸,11,low,No,Amazon Technologies Inc.
-109.199.108.128:4080,HTTP,United States,US,🇺🇸,15,low,No,Contabo GmbH
-47.89.159.212:8081,HTTP,United States,US,🇺🇸,17,low,No,Alibaba.com LLC
-47.89.159.212:8083,HTTP,United States,US,🇺🇸,17,low,No,Alibaba.com LLC
-47.89.184.18:3128,HTTP,United States,US,🇺🇸,17,low,Yes,Alibaba.com LLC
-47.89.159.212:8443,HTTP,United States,US,🇺🇸,17,low,No,Alibaba.com LLC
-216.22.13.244:1081,HTTP,United States,US,🇺🇸,28,medium,No,"Leaseweb USA, Inc."
+34.238.165.158:3128,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc."
+150.136.163.51:80,HTTP,United States,US,🇺🇸,5,low,No,Oracle Corporation
+75.84.71.14:80,HTTP,United States,US,🇺🇸,6,low,No,Spectrum
+47.252.11.233:999,HTTP,United States,US,🇺🇸,9,low,Yes,Alibaba Cloud LLC
+47.252.18.37:8008,HTTP,United States,US,🇺🇸,9,low,No,Alibaba Cloud LLC
+47.252.18.37:8090,HTTP,United States,US,🇺🇸,9,low,No,Alibaba Cloud LLC
+47.85.195.135:1080,HTTP,United States,US,🇺🇸,15,low,No,Alibaba.com LLC
+47.89.159.212:8081,HTTP,United States,US,🇺🇸,18,low,No,Alibaba.com LLC
+47.89.159.212:8083,HTTP,United States,US,🇺🇸,18,low,No,Alibaba.com LLC
+47.89.184.18:3128,HTTP,United States,US,🇺🇸,18,low,Yes,Alibaba.com LLC
+47.89.159.212:8443,HTTP,United States,US,🇺🇸,18,low,No,Alibaba.com LLC
 216.22.13.244:1082,HTTP,United States,US,🇺🇸,28,medium,No,"Leaseweb USA, Inc."
-195.26.243.76:3128,HTTP,United States,US,🇺🇸,40,medium,No,Contabo Inc.
+216.22.13.54:3128,HTTP,United States,US,🇺🇸,28,medium,No,"Leaseweb USA, Inc."
+108.181.0.167:3128,HTTP,United States,US,🇺🇸,43,medium,No,Psychz Networks
+38.127.179.219:41923,HTTP,United States,US,🇺🇸,44,medium,Yes,Cogent Communications
 149.248.37.215:9000,HTTP,United States,US,🇺🇸,46,medium,No,The Constant Company
+104.207.153.122:10808,HTTP,United States,US,🇺🇸,46,medium,No,The Constant Company
 198.89.96.140:808,HTTP,United States,US,🇺🇸,51,medium,No,Tier.Net Technologies LLC
-142.93.202.130:3128,HTTP,United States,US,🇺🇸,55,medium,No,"DigitalOcean, LLC"
-146.190.60.147:8004,HTTP,United States,US,🇺🇸,55,medium,No,"DigitalOcean, LLC"
-138.68.235.51:80,HTTP,United States,US,🇺🇸,55,medium,No,"DigitalOcean, LLC"
-146.190.60.147:8020,HTTP,United States,US,🇺🇸,55,medium,No,"DigitalOcean, LLC"
-143.198.135.176:80,HTTP,United States,US,🇺🇸,55,medium,No,"DigitalOcean, LLC"
-167.99.236.14:80,HTTP,United States,US,🇺🇸,56,medium,No,"DigitalOcean, LLC"
-167.99.124.118:80,HTTP,United States,US,🇺🇸,56,medium,No,"DigitalOcean, LLC"
-174.138.119.88:80,HTTP,United States,US,🇺🇸,56,medium,No,"DigitalOcean, LLC"
-216.106.179.216:49579,HTTP,United States,US,🇺🇸,57,medium,No,GTHost
-216.106.179.216:49159,HTTP,United States,US,🇺🇸,57,medium,No,GTHost
-216.106.179.216:49173,HTTP,United States,US,🇺🇸,57,medium,No,GTHost
-168.235.80.215:3128,HTTP,United States,US,🇺🇸,58,medium,No,InMotion Hosting
-144.24.41.48:9999,HTTP,United States,US,🇺🇸,100,very_high,Yes,Oracle Corporation
+45.77.148.203:9000,HTTP,United States,US,🇺🇸,53,medium,No,Choopa
+138.68.235.51:80,HTTP,United States,US,🇺🇸,54,medium,No,"DigitalOcean, LLC"
+146.190.60.147:8010,HTTP,United States,US,🇺🇸,54,medium,No,"DigitalOcean, LLC"
+204.48.31.203:80,HTTP,United States,US,🇺🇸,54,medium,No,"DigitalOcean, LLC"
+143.198.135.176:80,HTTP,United States,US,🇺🇸,54,medium,No,"DigitalOcean, LLC"
+146.190.60.147:8015,HTTP,United States,US,🇺🇸,54,medium,No,"DigitalOcean, LLC"
+159.65.230.46:8888,HTTP,United States,US,🇺🇸,54,medium,No,"DigitalOcean, LLC"
+167.99.124.118:80,HTTP,United States,US,🇺🇸,55,medium,No,"DigitalOcean, LLC"
+174.138.119.88:80,HTTP,United States,US,🇺🇸,55,medium,No,"DigitalOcean, LLC"
+216.106.179.216:49198,HTTP,United States,US,🇺🇸,57,medium,No,GTHost
+216.106.179.216:49319,HTTP,United States,US,🇺🇸,57,medium,No,GTHost
