@@ -1,6 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 47.238.130.212:5000,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
 47.238.130.212:8080,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
+47.238.130.212:2000,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
+47.238.130.212:443,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
 47.76.144.139:11,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
 47.238.60.156:18080,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
 47.238.60.156:8093,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
@@ -11,9 +13,8 @@ Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 47.238.128.246:10002,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
 47.238.128.246:1081,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
 47.76.144.139:8123,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
-129.226.66.154:1080,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Tencent Cloud Computing (Beijing) Co
 47.76.171.214:3128,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC
-103.207.68.40:1080,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,NetLab Global
 45.152.66.150:1025,SOCKS4,Hong Kong,HK,🇭🇰,0,low,No,Lucidacloud Limited
+43.128.63.68:7890,SOCKS4,Hong Kong,HK,🇭🇰,1,low,No,Shenzhen Tencent Computer Systems Company Limited
 8.210.17.35:1081,SOCKS4,Hong Kong,HK,🇭🇰,1,low,No,"Alibaba (US) Technology Co., Ltd."
 8.210.17.35:31281,SOCKS4,Hong Kong,HK,🇭🇰,1,low,No,"Alibaba (US) Technology Co., Ltd."

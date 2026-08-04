@@ -1,33 +1,40 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-74.103.66.15:80,HTTP,United States,US,🇺🇸,0,low,No,Verizon Business
-45.153.4.154:3128,HTTP,United States,US,🇺🇸,0,low,Yes,Istqrar for Servers Services Ltd
-15.235.21.254:8080,HTTP,United States,US,🇺🇸,0,low,No,OVH SAS
-20.246.133.88:8080,HTTP,United States,US,🇺🇸,0,low,No,Microsoft Corporation
 174.137.134.182:2999,HTTP,United States,US,🇺🇸,0,low,Yes,Webair Internet Development Company Inc.
 12.50.107.217:80,HTTP,United States,US,🇺🇸,0,low,No,"AT&T Enterprises, LLC"
-34.122.187.196:80,HTTP,United States,US,🇺🇸,0,low,No,Google LLC
-12.50.107.221:80,HTTP,United States,US,🇺🇸,0,low,No,"AT&T Enterprises, LLC"
 203.161.52.193:80,HTTP,United States,US,🇺🇸,0,low,No,"Namecheap, Inc."
+12.50.107.221:80,HTTP,United States,US,🇺🇸,0,low,No,"AT&T Enterprises, LLC"
+66.181.39.197:3128,HTTP,United States,US,🇺🇸,0,low,No,"UnReal Servers, LLC"
 38.135.122.198:2054,HTTP,United States,US,🇺🇸,0,low,No,Foxcloud LLP
-34.134.231.117:3129,HTTP,United States,US,🇺🇸,0,low,No,Google LLC
-97.74.87.226:80,HTTP,United States,US,🇺🇸,0,low,No,"GoDaddy.com, LLC"
-34.94.46.8:80,HTTP,United States,US,🇺🇸,0,low,Yes,Google LLC
 153.72.68.0:8080,HTTP,United States,US,🇺🇸,0,low,No,Google LLC
 23.228.86.236:8081,HTTP,United States,US,🇺🇸,0,low,No,Vault Host
-67.43.112.129:8080,HTTP,United States,US,🇺🇸,0,low,No,"Wisper ISP, Inc."
+67.203.23.79:8081,HTTP,United States,US,🇺🇸,0,low,No,Colocation America Corporation
+137.66.1.45:80,HTTP,United States,US,🇺🇸,0,low,No,"Fly.io, Inc."
 8.221.126.184:80,HTTP,United States,US,🇺🇸,1,low,No,"Alibaba (US) Technology Co., Ltd."
-34.238.165.158:3128,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc."
-34.43.46.91:80,HTTP,United States,US,🇺🇸,3,low,Yes,Google LLC
+34.69.61.247:80,HTTP,United States,US,🇺🇸,3,low,Yes,Google LLC
+34.44.49.215:80,HTTP,United States,US,🇺🇸,3,low,No,Google LLC
 64.186.226.221:50106,HTTP,United States,US,🇺🇸,4,low,No,DMIT Cloud Services
+150.136.163.51:80,HTTP,United States,US,🇺🇸,5,low,No,Oracle Corporation
+47.253.201.85:7890,HTTP,United States,US,🇺🇸,9,low,Yes,Alibaba Cloud LLC
+47.251.73.54:5060,HTTP,United States,US,🇺🇸,9,low,No,Alibaba Cloud LLC
+47.251.87.199:1081,HTTP,United States,US,🇺🇸,9,low,No,Alibaba Cloud LLC
+162.240.19.30:80,HTTP,United States,US,🇺🇸,13,low,No,Unified Layer
 47.85.195.135:1080,HTTP,United States,US,🇺🇸,15,low,No,Alibaba.com LLC
-47.89.159.212:8443,HTTP,United States,US,🇺🇸,18,low,No,Alibaba.com LLC
-15.204.14.225:30017,HTTP,United States,US,🇺🇸,49,medium,No,OVH SAS
+47.89.184.18:3128,HTTP,United States,US,🇺🇸,18,low,Yes,Alibaba.com LLC
+47.90.167.27:80,HTTP,United States,US,🇺🇸,18,low,Yes,Alibaba.com LLC
+47.90.149.238:8080,HTTP,United States,US,🇺🇸,18,low,Yes,Alibaba.com LLC
+47.90.149.238:1080,HTTP,United States,US,🇺🇸,18,low,Yes,Alibaba.com LLC
+47.89.159.212:9000,HTTP,United States,US,🇺🇸,18,low,No,Alibaba.com LLC
+66.175.236.184:1080,HTTP,United States,US,🇺🇸,48,medium,No,IONOS SE
+15.204.35.6:30017,HTTP,United States,US,🇺🇸,49,medium,No,OVH SAS
+149.28.87.103:8888,HTTP,United States,US,🇺🇸,50,medium,No,The Constant Company
+172.245.168.179:21241,HTTP,United States,US,🇺🇸,52,medium,No,HostPapa
+173.254.204.118:7890,HTTP,United States,US,🇺🇸,52,medium,No,HostPapa
 192.236.242.201:2055,HTTP,United States,US,🇺🇸,52,medium,No,HostPapa
+159.65.230.46:8888,HTTP,United States,US,🇺🇸,54,medium,No,"DigitalOcean, LLC"
 142.93.202.130:3128,HTTP,United States,US,🇺🇸,54,medium,No,"DigitalOcean, LLC"
 159.65.245.255:80,HTTP,United States,US,🇺🇸,54,medium,No,"DigitalOcean, LLC"
 138.68.235.51:80,HTTP,United States,US,🇺🇸,54,medium,No,"DigitalOcean, LLC"
-143.198.3.172:8089,HTTP,United States,US,🇺🇸,54,medium,No,"DigitalOcean, LLC"
-174.138.119.88:80,HTTP,United States,US,🇺🇸,55,medium,No,"DigitalOcean, LLC"
 167.99.236.14:80,HTTP,United States,US,🇺🇸,55,medium,No,"DigitalOcean, LLC"
-216.106.179.216:49159,HTTP,United States,US,🇺🇸,57,medium,No,GTHost
-216.106.179.216:49579,HTTP,United States,US,🇺🇸,57,medium,No,GTHost
+167.99.124.118:80,HTTP,United States,US,🇺🇸,55,medium,No,"DigitalOcean, LLC"
+216.106.179.216:49173,HTTP,United States,US,🇺🇸,57,medium,No,GTHost
+70.63.90.245:8080,HTTP,United States,US,🇺🇸,100,very_high,No,Spectrum

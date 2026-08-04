@@ -1,5 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 194.58.33.7:9564,SOCKS4,Germany,DE,🇩🇪,0,low,Yes,International Hosting Company Limited
+94.156.114.45:1080,SOCKS4,Germany,DE,🇩🇪,0,low,No,Play2go International Limited
 47.91.89.3:8181,SOCKS4,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC
 47.91.89.3:35,SOCKS4,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC
 47.91.89.3:9050,SOCKS4,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC
@@ -18,10 +19,11 @@ Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
 8.209.96.245:9080,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
 8.209.96.245:45,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
 8.209.96.245:55443,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
-8.209.96.245:1080,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
 8.209.96.245:8082,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
+8.209.96.245:1080,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
 8.209.96.245:100,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
 8.209.96.245:1081,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
-138.199.222.72:9050,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH
+138.199.221.100:9050,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH
+109.120.138.144:1080,SOCKS4,Germany,DE,🇩🇪,10,low,No,Aeza International LTD
 159.195.61.240:1080,SOCKS4,Germany,DE,🇩🇪,21,medium,No,netcup GmbH
-31.25.236.95:1080,SOCKS4,Germany,DE,🇩🇪,36,medium,No,Massivegrid LTD
+209.38.214.48:1080,SOCKS4,Germany,DE,🇩🇪,54,medium,No,"DigitalOcean, LLC"
