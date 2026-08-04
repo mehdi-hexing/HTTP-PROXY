@@ -1,22 +1,25 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-47.91.89.3:4000,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC
-47.91.89.3:6379,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC
-91.98.86.26:8888,HTTP,Germany,DE,🇩🇪,0,low,Yes,Hetzner Online GmbH
-31.76.29.13:8080,HTTP,Germany,DE,🇩🇪,0,low,Yes,Play2go International Limited
 212.193.4.164:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Chsl ONE LTD
-93.115.175.190:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Chsl ONE LTD
-212.86.36.131:8080,HTTP,Germany,DE,🇩🇪,0,low,No,1STCOM
-79.132.143.144:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Fornex Hosting S.L.
+85.214.100.194:80,HTTP,Germany,DE,🇩🇪,0,low,No,Strato AG
+85.214.107.177:80,HTTP,Germany,DE,🇩🇪,0,low,No,Strato AG
+91.26.188.170:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG
+45.135.165.102:443,HTTP,Germany,DE,🇩🇪,0,low,No,GLB Bulut Teknolojisi Limited Sirketi
+80.74.54.148:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Deutsche Glasfaser Wholesale GmbH
+173.212.245.136:8888,HTTP,Germany,DE,🇩🇪,0,low,No,Contabo GmbH
+5.187.2.37:18080,HTTP,Germany,DE,🇩🇪,0,low,No,Fornex Hosting S.L
+47.91.65.23:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Alibaba.com LLC
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc
+144.31.189.114:443,HTTP,Germany,DE,🇩🇪,0,low,No,International Hosting Company Limited
 8.211.51.115:3129,HTTP,Germany,DE,🇩🇪,1,low,No,"Alibaba (US) Technology Co., Ltd."
 8.211.51.115:8081,HTTP,Germany,DE,🇩🇪,1,low,No,"Alibaba (US) Technology Co., Ltd."
+158.180.19.230:1080,HTTP,Germany,DE,🇩🇪,2,low,No,Oracle Corporation
 141.147.9.254:80,HTTP,Germany,DE,🇩🇪,2,low,No,Oracle Corporation
-8.209.96.245:80,HTTP,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
-8.209.96.245:100,HTTP,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited
-81.200.154.152:8888,HTTP,Germany,DE,🇩🇪,5,low,No,"Timeweb, LLP"
-157.173.123.247:3128,HTTP,Germany,DE,🇩🇪,14,low,Yes,Contabo GmbH
+185.245.183.130:8118,HTTP,Germany,DE,🇩🇪,14,low,No,Contabo GmbH
 157.173.120.204:3128,HTTP,Germany,DE,🇩🇪,14,low,Yes,Contabo GmbH
 84.247.171.137:3128,HTTP,Germany,DE,🇩🇪,14,low,No,Contabo GmbH
-165.227.169.229:3080,HTTP,Germany,DE,🇩🇪,54,medium,No,"DigitalOcean, LLC"
+109.199.119.160:80,HTTP,Germany,DE,🇩🇪,14,low,No,Contabo GmbH
+37.60.237.110:30001,HTTP,Germany,DE,🇩🇪,14,low,No,Contabo GmbH
+141.98.153.86:80,HTTP,Germany,DE,🇩🇪,14,low,No,Contabo GmbH
+207.180.254.198:8080,HTTP,Germany,DE,🇩🇪,14,low,No,Contabo GmbH
+159.195.49.27:8888,HTTP,Germany,DE,🇩🇪,21,medium,Yes,netcup GmbH
 152.53.20.190:20000,HTTP,Germany,DE,🇩🇪,54,medium,No,netcup GmbH
-104.248.143.162:8080,HTTP,Germany,DE,🇩🇪,54,medium,Yes,"DigitalOcean, LLC"
-206.81.27.105:3128,HTTP,Germany,DE,🇩🇪,55,medium,No,"DigitalOcean, LLC"
