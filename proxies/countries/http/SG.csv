@@ -1,16 +1,17 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-8.219.97.248:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Alibaba Cloud (Singapore) Private Limited
-47.237.113.119:81,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd."
 47.236.86.147:443,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
 178.128.59.180:18080,HTTP,Singapore,SG,🇸🇬,0,low,No,"DigitalOcean, LLC"
 101.32.141.60:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Aceville Pte.ltd
 47.237.113.119:80,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd."
 47.237.2.245:9098,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
 47.237.2.245:10,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
+47.74.226.8:5001,HTTP,Singapore,SG,🇸🇬,0,low,No,Alibaba Cloud LLC
+47.84.97.185:1081,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
+47.236.244.43:1081,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
+47.237.92.86:5060,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd."
+43.160.230.218:3128,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited
 18.138.102.128:3128,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.
-43.134.15.145:7890,HTTP,Singapore,SG,🇸🇬,1,low,No,Shenzhen Tencent Computer Systems Company Limited
 8.219.229.53:11,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd."
 8.219.229.53:1026,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd."
 104.64.214.122:2345,HTTP,Singapore,SG,🇸🇬,27,medium,No,"Akamai Technologies, Inc."
-154.18.239.181:8085,HTTP,Singapore,SG,🇸🇬,30,medium,No,"Ultahost, Inc."
-178.128.223.15:3128,HTTP,Singapore,SG,🇸🇬,56,medium,Yes,"DigitalOcean, LLC"
+152.42.167.241:3128,HTTP,Singapore,SG,🇸🇬,55,medium,No,"DigitalOcean, LLC"

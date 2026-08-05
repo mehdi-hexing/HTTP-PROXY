@@ -1,3 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-148.113.167.24:8080,HTTP,Canada,CA,🇨🇦,48,medium,Yes,OVH SAS
+15.235.21.254:8080,HTTP,Canada,CA,🇨🇦,0,low,No,OVH SAS
+96.1.101.113:80,HTTP,Canada,CA,🇨🇦,0,low,No,TELUS Communications Inc.
+66.154.113.213:10086,HTTP,Canada,CA,🇨🇦,0,low,No,ASSERTIVENET
+148.113.202.99:3128,HTTP,Canada,CA,🇨🇦,48,medium,No,OVH SAS
 151.243.236.236:80,HTTP,Canada,CA,🇨🇦,71,high,No,OVH SAS
