@@ -1,9 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-45.144.53.63:5001,HTTP,Finland,FI,🇫🇮,0,low,No,H2nexus LTD
 135.87.39.23:9443,HTTP,Finland,FI,🇫🇮,0,low,Yes,Nokia Solutions and Networks Oy
 135.87.39.23:443,HTTP,Finland,FI,🇫🇮,0,low,Yes,Nokia Solutions and Networks Oy
 195.26.230.202:8080,HTTP,Finland,FI,🇫🇮,0,low,No,Hostkey B.V.
+144.31.75.120:11112,HTTP,Finland,FI,🇫🇮,0,low,No,U1 DIGITAL SERVICES LTD
+45.144.53.63:5000,HTTP,Finland,FI,🇫🇮,0,low,No,H2nexus LTD
 135.87.39.23:80,HTTP,Finland,FI,🇫🇮,0,low,Yes,Nokia Solutions and Networks Oy
-45.12.68.13:43925,HTTP,Finland,FI,🇫🇮,0,low,No,landvps
-65.109.87.121:28080,HTTP,Finland,FI,🇫🇮,6,low,No,Hetzner Online GmbH
+65.108.203.35:28080,HTTP,Finland,FI,🇫🇮,6,low,No,Hetzner Online GmbH
 65.108.103.19:80,HTTP,Finland,FI,🇫🇮,6,low,No,Hetzner Online GmbH
+89.167.124.218:8888,HTTP,Finland,FI,🇫🇮,6,low,Yes,Hetzner Online GmbH
+92.118.234.124:1080,HTTP,Finland,FI,🇫🇮,34,medium,Yes,WorkTitans B.V.
