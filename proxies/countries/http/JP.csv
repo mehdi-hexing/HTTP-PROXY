@@ -1,3 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-47.91.29.151:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,7770
-13.208.166.217:11676,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,7581
+47.91.29.151:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,7876
+47.74.46.81:9098,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,10334
+8.221.138.111:9080,HTTP,Japan,JP,🇯🇵,1,low,No,"Alibaba (US) Technology Co., Ltd.",7871
+8.221.139.222:3128,HTTP,Japan,JP,🇯🇵,1,low,No,"Alibaba (US) Technology Co., Ltd.",7864
+8.221.141.88:9507,HTTP,Japan,JP,🇯🇵,1,low,No,"Alibaba (US) Technology Co., Ltd.",7856
+35.78.212.217:32053,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",2104
+35.78.252.142:59622,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",3591
+168.138.192.184:2345,HTTP,Japan,JP,🇯🇵,5,low,No,Oracle Corporation,5789
+45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,75,high,No,Zenlayer Inc,11332
