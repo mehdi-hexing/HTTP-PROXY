@@ -1,6 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-47.237.2.245:10,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8058
-47.237.92.86:6588,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8040
-18.142.95.213:42298,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.,2360
-8.219.229.53:11,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd.",9062
-54.255.249.161:15588,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.,4276
+47.237.113.119:10,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7857
+47.237.2.245:443,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7892
+47.237.107.41:8080,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7874
+104.64.214.122:2345,HTTP,Singapore,SG,🇸🇬,27,medium,No,"Akamai Technologies, Inc.",4504

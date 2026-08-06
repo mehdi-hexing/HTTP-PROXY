@@ -1,3 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-95.178.108.189:5678,SOCKS4,France,FR,🇫🇷,0,low,No,Eurofiber France SAS,2954
-185.178.185.100:1080,SOCKS4,France,FR,🇫🇷,0,low,No,Abeille Sarl,6172
+185.178.185.100:1080,SOCKS4,France,FR,🇫🇷,0,low,No,Abeille Sarl,4764
+185.178.185.100:1080,SOCKS4,France,FR,🇫🇷,0,low,No,Abeille Sarl,6762
+147.93.52.252:1081,SOCKS4,France,FR,🇫🇷,1,low,Yes,Hostinger International Limited,1117
+109.172.55.210:1082,SOCKS4,France,FR,🇫🇷,22,medium,No,Global Connectivity Solutions LLP,1018
+45.95.233.128:1082,SOCKS4,France,FR,🇫🇷,36,medium,No,Global Connectivity Solutions LLP,2027
