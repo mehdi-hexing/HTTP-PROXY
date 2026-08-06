@@ -1,17 +1,21 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-20.210.76.178:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
-20.27.15.49:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
-20.210.76.175:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
-47.79.33.142:3128,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba.com LLC
+20.78.26.206:8561,HTTP,Japan,JP,🇯🇵,0,low,Yes,Microsoft Corporation
+20.27.14.220:8561,HTTP,Japan,JP,🇯🇵,0,low,Yes,Microsoft Corporation
 45.146.163.31:80,HTTP,Japan,JP,🇯🇵,0,low,No,Akari Networks Limited
+20.27.15.111:8561,HTTP,Japan,JP,🇯🇵,0,low,Yes,Microsoft Corporation
+20.18.193.135:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
 47.74.46.81:8118,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC
 47.74.46.81:6379,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC
-8.221.141.88:0092,HTTP,Japan,JP,🇯🇵,1,low,No,"Alibaba (US) Technology Co., Ltd."
+20.210.76.104:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation
 8.221.141.88:11,HTTP,Japan,JP,🇯🇵,1,low,No,"Alibaba (US) Technology Co., Ltd."
+8.221.141.88:0092,HTTP,Japan,JP,🇯🇵,1,low,No,"Alibaba (US) Technology Co., Ltd."
 8.221.141.88:8443,HTTP,Japan,JP,🇯🇵,1,low,No,"Alibaba (US) Technology Co., Ltd."
 8.221.139.222:9992,HTTP,Japan,JP,🇯🇵,1,low,No,"Alibaba (US) Technology Co., Ltd."
-8.221.139.222:8443,HTTP,Japan,JP,🇯🇵,1,low,No,"Alibaba (US) Technology Co., Ltd."
 8.211.170.91:14680,HTTP,Japan,JP,🇯🇵,1,low,Yes,"Alibaba (US) Technology Co., Ltd."
 8.221.138.111:9000,HTTP,Japan,JP,🇯🇵,1,low,No,"Alibaba (US) Technology Co., Ltd."
 8.221.138.111:8443,HTTP,Japan,JP,🇯🇵,1,low,No,"Alibaba (US) Technology Co., Ltd."
-23.106.129.40:9005,HTTP,Japan,JP,🇯🇵,3,low,Yes,IT7 Networks Inc
+8.209.255.13:3128,HTTP,Japan,JP,🇯🇵,1,low,No,"Alibaba (US) Technology Co., Ltd."
+140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,5,low,Yes,Oracle Corporation
+168.138.192.184:2345,HTTP,Japan,JP,🇯🇵,5,low,No,Oracle Corporation
+45.32.8.165:6688,HTTP,Japan,JP,🇯🇵,53,medium,No,Choopa
+45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,75,high,No,Zenlayer Inc

@@ -1,7 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP
-8.211.194.85:9090,HTTP,United Kingdom,GB,🇬🇧,1,low,Yes,"Alibaba (US) Technology Co., Ltd."
-8.211.194.85:8999,HTTP,United Kingdom,GB,🇬🇧,1,low,Yes,"Alibaba (US) Technology Co., Ltd."
 8.211.200.183:8443,HTTP,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd."
+8.211.200.183:8080,HTTP,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd."
+8.211.200.183:84,HTTP,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd."
 109.199.119.160:80,HTTP,United Kingdom,GB,🇬🇧,14,low,No,Contabo GmbH
 185.231.59.189:8080,HTTP,United Kingdom,GB,🇬🇧,25,medium,No,BitCommand LLC
 212.58.132.5:8888,HTTP,United Kingdom,GB,🇬🇧,28,medium,Yes,"NSFOCUS, Inc."
