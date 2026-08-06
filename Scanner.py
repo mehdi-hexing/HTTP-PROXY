@@ -15,7 +15,7 @@ SOCKS_TEST_URL = 'https://www.gstatic.com/generate_204'
 VERIFY_URL = 'https://api.ipify.org?format=json'
 TIMEOUT = 10
 MAX_THREADS = 50
-MAX_POOL_SIZE = 3000
+MAX_POOL_SIZE = 300000
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
