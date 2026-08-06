@@ -415,7 +415,7 @@ def process_protocol(protocol, proxy_list):
     country_counters = {}
     mahsang_configs = []
     v2rayng_configs = []
-    nekobox_configs = []
+    exclave_configs = []
 
     for item in results:
         cc = str(item.get("country_code", "UNKNOWN")).strip().upper()
@@ -428,15 +428,15 @@ def process_protocol(protocol, proxy_list):
         if protocol == 'http':
             mahsang_configs.append(f"mahsa-http://Og==@{proxy}#{remark}")
             v2rayng_configs.append(f"http://Og@{proxy}#{remark}")
-            nekobox_configs.append(f"http://{proxy}#{remark}")
+            exclave_configs.append(f"http://{proxy}#{remark}")
         elif protocol == 'https':
-            nekobox_configs.append(f"https://{proxy}#{remark}")
+            exclave_configs.append(f"https://{proxy}#{remark}")
         elif protocol == 'socks5':
             mahsang_configs.append(f"socks://Og==@{proxy}#{remark}")
             v2rayng_configs.append(f"socks://Og@{proxy}#{remark}")
-            nekobox_configs.append(f"socks://{proxy}#{remark}")
+            exclave_configs.append(f"socks5://{proxy}#{remark}")
         elif protocol == 'socks4':
-            nekobox_configs.append(f"socks://{proxy}#{remark}")
+            exclave_configs.append(f"socks4://{proxy}#{remark}")
 
     if mahsang_configs:
         with open(os.path.join(sub_dir, f"mahsang_{protocol}.txt"), 'w', encoding='utf-8') as f:
@@ -444,9 +444,9 @@ def process_protocol(protocol, proxy_list):
     if v2rayng_configs:
         with open(os.path.join(sub_dir, f"v2rayng_{protocol}.txt"), 'w', encoding='utf-8') as f:
             f.write('\n'.join(v2rayng_configs) + '\n')
-    if nekobox_configs:
-        with open(os.path.join(sub_dir, f"nekobox_{protocol}.txt"), 'w', encoding='utf-8') as f:
-            f.write('\n'.join(nekobox_configs) + '\n')
+    if exclave_configs:
+        with open(os.path.join(sub_dir, f"exclave_{protocol}.txt"), 'w', encoding='utf-8') as f:
+            f.write('\n'.join(exclave_configs) + '\n')
 
     print(f"{BLUE}Finished {protocol.upper()} checks. Found {len(results)} live proxies out of {len(proxy_list)} checked.{RESET}")
 
@@ -508,12 +508,11 @@ def build_qrs_and_readme():
     sub_types = [
         ("mahsang_http.txt", "mahsang_http_qr.png"),
         ("v2rayng_http.txt", "v2rayng_http_qr.png"),
-        ("nekobox_http.txt", "nekobox_http_qr.png"),
-        ("mahsang_https.txt", "mahsang_https_qr.png"),
-        ("v2rayng_https.txt", "v2rayng_https_qr.png"),
-        ("nekobox_https.txt", "nekobox_https_qr.png"),
+        ("exclave_http.txt", "exclave_http_qr.png"),
+        ("exclave_https.txt", "exclave_https_qr.png"),
+        ("exclave_socks4.txt", "exclave_socks4_qr.png"),
         ("v2rayng_socks5.txt", "v2rayng_socks5_qr.png"),
-        ("nekobox_socks5.txt", "nekobox_socks5_qr.png")
+        ("exclave_socks5.txt", "exclave_socks5_qr.png")
     ]
 
     for txt_file, qr_file in sub_types:
@@ -532,12 +531,11 @@ def build_qrs_and_readme():
 | :--- | :--- | :--- | :--- |
 | **MahsaNG** | HTTP | `{raw_prefix}/proxies/subscriptions/mahsang_http.txt` | <img src="{raw_prefix}/proxies/subscriptions/mahsang_http_qr.png" width="120"/> |
 | **V2rayNG** | HTTP | `{raw_prefix}/proxies/subscriptions/v2rayng_http.txt` | <img src="{raw_prefix}/proxies/subscriptions/v2rayng_http_qr.png" width="120"/> |
-| **Nekobox** | HTTP | `{raw_prefix}/proxies/subscriptions/nekobox_http.txt` | <img src="{raw_prefix}/proxies/subscriptions/nekobox_http_qr.png" width="120"/> |
-| **MahsaNG** | HTTPS | `{raw_prefix}/proxies/subscriptions/mahsang_https.txt` | <img src="{raw_prefix}/proxies/subscriptions/mahsang_https_qr.png" width="120"/> |
-| **V2rayNG** | HTTPS | `{raw_prefix}/proxies/subscriptions/v2rayng_https.txt` | <img src="{raw_prefix}/proxies/subscriptions/v2rayng_https_qr.png" width="120"/> |
-| **Nekobox** | HTTPS | `{raw_prefix}/proxies/subscriptions/nekobox_https.txt` | <img src="{raw_prefix}/proxies/subscriptions/nekobox_https_qr.png" width="120"/> |
+| **Exclave** | HTTP | `{raw_prefix}/proxies/subscriptions/exclave_http.txt` | <img src="{raw_prefix}/proxies/subscriptions/exclave_http_qr.png" width="120"/> |
+| **Exclave** | HTTPS | `{raw_prefix}/proxies/subscriptions/exclave_https.txt` | <img src="{raw_prefix}/proxies/subscriptions/exclave_https_qr.png" width="120"/> |
+| **Exclave** | SOCKS4 | `{raw_prefix}/proxies/subscriptions/exclave_socks4.txt` | <img src="{raw_prefix}/proxies/subscriptions/exclave_socks4_qr.png" width="120"/> |
 | **V2rayNG** | SOCKS5 | `{raw_prefix}/proxies/subscriptions/v2rayng_socks5.txt` | <img src="{raw_prefix}/proxies/subscriptions/v2rayng_socks5_qr.png" width="120"/> |
-| **Nekobox** | SOCKS5 | `{raw_prefix}/proxies/subscriptions/nekobox_socks5.txt` | <img src="{raw_prefix}/proxies/subscriptions/nekobox_socks5_qr.png" width="120"/> |
+| **Exclave** | SOCKS5 | `{raw_prefix}/proxies/subscriptions/exclave_socks5.txt` | <img src="{raw_prefix}/proxies/subscriptions/exclave_socks5_qr.png" width="120"/> |
 <!-- SUBSCRIPTION_TABLE_END -->"""
 
     with open(readme_path, 'r', encoding='utf-8') as f:
