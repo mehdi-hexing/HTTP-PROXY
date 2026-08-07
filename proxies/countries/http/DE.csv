@@ -1,31 +1,26 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-173.212.245.136:8888,HTTP,Germany,DE,🇩🇪,0,low,No,Contabo GmbH,11791
-91.98.86.26:8888,HTTP,Germany,DE,🇩🇪,0,low,Yes,Hetzner Online GmbH,1480
-85.234.100.149:1080,HTTP,Germany,DE,🇩🇪,0,low,No,Global Connectivity Solutions LLP,13731
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,1196
-95.85.233.144:18443,HTTP,Germany,DE,🇩🇪,0,low,No,WAIcore Ltd,12902
-87.120.216.231:65000,HTTP,Germany,DE,🇩🇪,0,low,No,WAIcore Ltd,1445
-193.124.91.150:1024,HTTP,Germany,DE,🇩🇪,0,low,No,Scalaxy B.V.,1714
-194.58.33.7:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,International Hosting Company Limited,20411
-195.133.65.238:10909,HTTP,Germany,DE,🇩🇪,0,low,No,Chsl ONE LTD,20046
-85.234.100.149:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Global Connectivity Solutions LLP,5460
-47.91.89.3:9080,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,7785
-92.205.186.129:1080,HTTP,Germany,DE,🇩🇪,0,low,No,Host Europe GmbH,1225
-130.17.12.137:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Fornex Hosting S.L.,17985
-204.76.203.9:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Pfcloud UG,1157
-85.214.39.41:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Strato AG,1339
-8.211.51.115:104,HTTP,Germany,DE,🇩🇪,1,low,No,"Alibaba (US) Technology Co., Ltd.",7781
-8.211.49.86:87,HTTP,Germany,DE,🇩🇪,1,low,No,"Alibaba (US) Technology Co., Ltd.",7782
-8.211.49.86:5060,HTTP,Germany,DE,🇩🇪,1,low,No,"Alibaba (US) Technology Co., Ltd.",7749
-8.211.42.167:8083,HTTP,Germany,DE,🇩🇪,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",7774
-8.211.51.115:4145,HTTP,Germany,DE,🇩🇪,1,low,No,"Alibaba (US) Technology Co., Ltd.",7803
-8.209.96.245:4002,HTTP,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,7766
-159.195.43.169:8080,HTTP,Germany,DE,🇩🇪,5,low,No,netcup GmbH,10293
-116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,1226
-169.58.85.194:8080,HTTP,Germany,DE,🇩🇪,14,low,No,Contabo GmbH,2323
-159.195.49.27:8888,HTTP,Germany,DE,🇩🇪,21,medium,Yes,netcup GmbH,1963
-217.12.215.163:10808,HTTP,Germany,DE,🇩🇪,27,medium,No,Green Floid LLC,9891
-152.53.20.190:20000,HTTP,Germany,DE,🇩🇪,54,medium,No,netcup GmbH,1327
-152.53.20.190:20000,HTTP,Germany,DE,🇩🇪,54,medium,No,netcup GmbH,2152
-206.81.27.105:3128,HTTP,Germany,DE,🇩🇪,55,medium,No,"DigitalOcean, LLC",21151
-206.81.27.105:3128,HTTP,Germany,DE,🇩🇪,55,medium,No,"DigitalOcean, LLC",14291
+173.212.245.136:8888,HTTP,Germany,DE,🇩🇪,0,low,No,Contabo GmbH,11242
+91.98.86.26:8888,HTTP,Germany,DE,🇩🇪,0,low,Yes,Hetzner Online GmbH,1038
+95.85.233.144:18443,HTTP,Germany,DE,🇩🇪,0,low,No,WAIcore Ltd,2937
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,799
+87.120.216.231:65000,HTTP,Germany,DE,🇩🇪,0,low,No,WAIcore Ltd,798
+195.133.65.238:10909,HTTP,Germany,DE,🇩🇪,0,low,No,Chsl ONE LTD,2876
+47.91.89.3:9080,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,7471
+130.17.12.137:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Fornex Hosting S.L.,12417
+204.76.203.9:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Pfcloud UG,795
+91.26.188.170:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,12205
+8.211.51.115:104,HTTP,Germany,DE,🇩🇪,1,low,No,"Alibaba (US) Technology Co., Ltd.",7795
+8.211.49.86:87,HTTP,Germany,DE,🇩🇪,1,low,No,"Alibaba (US) Technology Co., Ltd.",11298
+8.211.49.86:5060,HTTP,Germany,DE,🇩🇪,1,low,No,"Alibaba (US) Technology Co., Ltd.",8285
+8.211.42.167:8083,HTTP,Germany,DE,🇩🇪,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",7464
+8.211.51.115:4145,HTTP,Germany,DE,🇩🇪,1,low,No,"Alibaba (US) Technology Co., Ltd.",7474
+3.121.130.230:57280,HTTP,Germany,DE,🇩🇪,2,low,No,Amazon Technologies Inc.,3578
+3.121.130.230:34560,HTTP,Germany,DE,🇩🇪,2,low,No,Amazon Technologies Inc.,3883
+3.121.130.230:8426,HTTP,Germany,DE,🇩🇪,2,low,No,Amazon Technologies Inc.,1354
+8.209.96.245:4002,HTTP,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,7611
+116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,851
+169.58.85.194:8080,HTTP,Germany,DE,🇩🇪,14,low,No,Contabo GmbH,2562
+159.195.49.27:8888,HTTP,Germany,DE,🇩🇪,21,medium,Yes,netcup GmbH,6938
+217.12.215.163:10808,HTTP,Germany,DE,🇩🇪,27,medium,No,Green Floid LLC,2971
+152.53.20.190:20000,HTTP,Germany,DE,🇩🇪,54,medium,No,netcup GmbH,873
+152.53.20.190:20000,HTTP,Germany,DE,🇩🇪,54,medium,No,netcup GmbH,887

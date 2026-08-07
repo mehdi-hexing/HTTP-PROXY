@@ -1,10 +1,14 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-8.213.195.191:8081,SOCKS5,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,14430
-43.164.3.124:1080,SOCKS5,Thailand,TH,🇹🇭,0,low,No,Shenzhen Tencent Computer Systems Company Limited,3635
-43.164.3.124:1080,SOCKS5,Thailand,TH,🇹🇭,0,low,No,Shenzhen Tencent Computer Systems Company Limited,1588
-8.213.222.157:4000,SOCKS5,Thailand,TH,🇹🇭,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",7591
-8.213.222.157:8119,SOCKS5,Thailand,TH,🇹🇭,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",7599
-8.213.222.157:8443,SOCKS5,Thailand,TH,🇹🇭,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",7588
-8.213.215.187:202,SOCKS5,Thailand,TH,🇹🇭,1,low,No,"Alibaba (US) Technology Co., Ltd.",7600
-8.213.215.187:3000,SOCKS5,Thailand,TH,🇹🇭,1,low,No,"Alibaba (US) Technology Co., Ltd.",7600
-8.213.215.187:443,SOCKS5,Thailand,TH,🇹🇭,1,low,No,"Alibaba (US) Technology Co., Ltd.",7586
+43.164.3.124:1080,SOCKS5,Thailand,TH,🇹🇭,0,low,No,Shenzhen Tencent Computer Systems Company Limited,3424
+43.164.3.124:1080,SOCKS5,Thailand,TH,🇹🇭,0,low,No,Shenzhen Tencent Computer Systems Company Limited,5732
+27.254.83.230:10050,SOCKS5,Thailand,TH,🇹🇭,0,low,No,CS Loxinfo Public Company Limited,9170
+8.213.195.191:18080,SOCKS5,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,7776
+8.213.195.191:9191,SOCKS5,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,7772
+8.213.195.191:8080,SOCKS5,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,8757
+8.213.215.187:80,SOCKS5,Thailand,TH,🇹🇭,1,low,No,"Alibaba (US) Technology Co., Ltd.",7750
+8.213.215.187:2000,SOCKS5,Thailand,TH,🇹🇭,1,low,No,"Alibaba (US) Technology Co., Ltd.",7762
+8.213.215.187:202,SOCKS5,Thailand,TH,🇹🇭,1,low,No,"Alibaba (US) Technology Co., Ltd.",7760
+8.213.197.208:34567,SOCKS5,Thailand,TH,🇹🇭,1,low,No,"Alibaba (US) Technology Co., Ltd.",8617
+8.213.197.208:8000,SOCKS5,Thailand,TH,🇹🇭,1,low,No,"Alibaba (US) Technology Co., Ltd.",7761
+8.213.197.208:1080,SOCKS5,Thailand,TH,🇹🇭,1,low,No,"Alibaba (US) Technology Co., Ltd.",7760
+8.213.222.157:3128,SOCKS5,Thailand,TH,🇹🇭,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",7765
