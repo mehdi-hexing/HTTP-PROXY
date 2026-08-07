@@ -1,16 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-43.164.136.189:1080,SOCKS5,South Korea,KR,🇰🇷,0,low,No,Shenzhen Tencent Computer Systems Company Limited,1038
-43.164.136.189:1080,SOCKS5,South Korea,KR,🇰🇷,0,low,No,Shenzhen Tencent Computer Systems Company Limited,1517
-8.220.204.92:9098,SOCKS5,South Korea,KR,🇰🇷,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",7391
-8.213.128.6:808,SOCKS5,South Korea,KR,🇰🇷,1,low,No,"Alibaba (US) Technology Co., Ltd.",7410
-8.220.204.92:8080,SOCKS5,South Korea,KR,🇰🇷,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",7396
-8.213.128.6:8181,SOCKS5,South Korea,KR,🇰🇷,1,low,No,"Alibaba (US) Technology Co., Ltd.",7988
-8.213.134.213:9091,SOCKS5,South Korea,KR,🇰🇷,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",7382
-8.213.128.6:8060,SOCKS5,South Korea,KR,🇰🇷,1,low,No,"Alibaba (US) Technology Co., Ltd.",8442
-8.213.134.213:443,SOCKS5,South Korea,KR,🇰🇷,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",7395
-8.220.205.172:1080,SOCKS5,South Korea,KR,🇰🇷,1,low,No,"Alibaba (US) Technology Co., Ltd.",7383
-8.213.134.213:9200,SOCKS5,South Korea,KR,🇰🇷,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",7390
-8.220.205.172:9000,SOCKS5,South Korea,KR,🇰🇷,1,low,No,"Alibaba (US) Technology Co., Ltd.",7393
-152.70.237.238:3128,SOCKS5,South Korea,KR,🇰🇷,2,low,No,Oracle Corporation,3425
-43.203.195.46:80,SOCKS5,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",696
-140.238.28.230:10808,SOCKS5,South Korea,KR,🇰🇷,5,low,No,Oracle Corporation,11272
+121.169.46.116:1090,SOCKS5,South Korea,KR,🇰🇷,0,low,No,Korea Telecom,4480
+43.164.136.189:1080,SOCKS5,South Korea,KR,🇰🇷,0,low,No,Shenzhen Tencent Computer Systems Company Limited,2090
+121.169.46.116:1090,SOCKS5,South Korea,KR,🇰🇷,0,low,No,Korea Telecom,2776
+43.164.136.189:1080,SOCKS5,South Korea,KR,🇰🇷,0,low,No,Shenzhen Tencent Computer Systems Company Limited,2373
+8.220.205.172:8080,SOCKS5,South Korea,KR,🇰🇷,1,low,No,"Alibaba (US) Technology Co., Ltd.",7405
+8.220.205.172:1080,SOCKS5,South Korea,KR,🇰🇷,1,low,No,"Alibaba (US) Technology Co., Ltd.",7401
+8.220.204.92:81,SOCKS5,South Korea,KR,🇰🇷,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",7402
+8.220.204.92:6379,SOCKS5,South Korea,KR,🇰🇷,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",7402
+43.203.195.46:80,SOCKS5,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",746
