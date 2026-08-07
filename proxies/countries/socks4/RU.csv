@@ -1,42 +1,58 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-91.247.250.215:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,Ivstar Ltd,1035
-213.210.67.186:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,TOMSKTELECOM,1449
-62.109.1.115:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,WEBDC,2880
-176.214.78.230:5678,SOCKS4,Russia,RU,🇷🇺,0,low,No,"CJSC ""ER-Telecom Holding"" Yaroslavl' branch",2165
-188.143.169.22:33333,SOCKS4,Russia,RU,🇷🇺,0,low,No,PIN morespecific,4888
-176.118.232.12:5678,SOCKS4,Russia,RU,🇷🇺,0,low,No,Prime-Service LLC,6284
-85.95.167.198:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Branch in Mordovian Republic PJSC Rostelecom,5157
-95.31.245.3:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,Corbina Broadband Volgograd,5831
-89.169.168.25:6101,SOCKS4,Russia,RU,🇷🇺,0,low,No,Yandex.Cloud LLC,4201
-95.31.220.59:8080,SOCKS4,Russia,RU,🇷🇺,0,low,No,CORBINA-BROADBAND,1714
-31.148.13.96:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,AZIMUT TELECOM Ltd.,8236
-95.188.83.253:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Rostelecom networks,3563
-79.99.49.130:10808,SOCKS4,Russia,RU,🇷🇺,0,low,No,"Ltd ""Maxima""",2183
-37.193.125.68:1090,SOCKS4,Russia,RU,🇷🇺,0,low,No,Novotelecom Ltd,5363
-81.177.165.209:10808,SOCKS4,Russia,RU,🇷🇺,0,low,No,RTCOMM,5777
-5.128.225.252:1081,SOCKS4,Russia,RU,🇷🇺,0,low,No,Novotelecom Ltd.,8127
-94.247.241.70:51006,SOCKS4,Russia,RU,🇷🇺,0,low,No,"JSC ""ER-Telecom Holding""",3045
-91.107.122.209:1080,SOCKS4,Russia,RU,🇷🇺,0,low,Yes,JSC IOT,3445
-185.135.81.149:9060,SOCKS4,Russia,RU,🇷🇺,0,low,No,Adman LLC,6149
-212.220.13.98:4153,SOCKS4,Russia,RU,🇷🇺,0,low,No,Rostelecom networks,4717
-37.18.73.60:5566,SOCKS4,Russia,RU,🇷🇺,0,low,No,"""Cloud Technologies"" LLC trading as Cloud.ru",1307
-95.31.115.101:9150,SOCKS4,Russia,RU,🇷🇺,0,low,No,"PJSC ""Vimpelcom""",12073
-95.31.220.59:8080,SOCKS4,Russia,RU,🇷🇺,0,low,No,CORBINA-BROADBAND,12842
-109.68.189.22:54643,SOCKS4,Russia,RU,🇷🇺,0,low,No,OOO Suntel,1071
-82.114.228.67:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,SCTS,4902
-51.250.6.232:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Yandex.Cloud LLC,4278
-85.237.62.189:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,PJSC Rostelecom,1172
-46.8.104.176:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Evro Telecom OOO,4131
-79.173.76.85:48293,SOCKS4,Russia,RU,🇷🇺,0,low,No,New-Line Telecom,4501
-46.159.199.232:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,PAO Rostelecom,3319
-46.17.43.219:7890,SOCKS4,Russia,RU,🇷🇺,0,low,No,LLC BAXET,8318
-46.29.116.3:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,KMVtelecom,3341
-88.87.79.18:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,"CJSC ""ER-Telecom Holding"" Volgograd branch",4263
-5.254.178.160:10801,SOCKS4,Russia,RU,🇷🇺,0,low,No,South-East Transtelecom Joint Stock Co.,1080
-31.220.163.133:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Regional Digital Telecommunication Company,4212
-88.87.79.18:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,"CJSC ""ER-Telecom Holding"" Volgograd branch",2391
-81.200.158.126:10808,SOCKS4,Russia,RU,🇷🇺,4,low,No,"JSC ""TIMEWEB""",5985
-185.68.247.72:2080,SOCKS4,Russia,RU,🇷🇺,9,low,No,Baykov Ilya Sergeevich,11135
-85.30.215.48:60541,SOCKS4,Russia,RU,🇷🇺,11,low,No,National Cable Networks,10061
-85.30.215.48:60541,SOCKS4,Russia,RU,🇷🇺,11,low,No,National Cable Networks,1360
-91.142.75.202:1080,SOCKS4,Russia,RU,🇷🇺,33,medium,No,Hosting technology LTD,5395
+5.42.105.100:10808,SOCKS4,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",4195
+91.247.250.215:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,Ivstar Ltd,5119
+176.192.41.172:4444,SOCKS4,Russia,RU,🇷🇺,0,low,No,Net By Net Holding LLC,6214
+85.113.204.41:8080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Yaroslavsky Branch,1126
+212.46.242.185:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,SOVINTEL/END broadband internet,2088
+46.188.2.42:5678,SOCKS4,Russia,RU,🇷🇺,0,low,No,2COM,8242
+92.39.69.134:11200,SOCKS4,Russia,RU,🇷🇺,0,low,No,Mobile Telesystems OJSC,1142
+46.8.48.143:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,ZagorodTelecom LLC,1059
+95.46.105.163:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,Kompleks Media LLC,4368
+95.31.245.3:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,Corbina Broadband Volgograd,4706
+91.247.250.215:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,Ivstar Ltd,2062
+5.23.104.251:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,RU RZN Vidikon,2033
+89.169.168.25:6101,SOCKS4,Russia,RU,🇷🇺,0,low,No,Yandex.Cloud LLC,1383
+95.80.106.26:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Prostor Telecom Service Provider,4908
+91.223.224.238:48293,SOCKS4,Russia,RU,🇷🇺,0,low,No,LLC ATK Telecom,5207
+95.188.83.253:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Rostelecom networks,8893
+31.148.13.96:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,AZIMUT TELECOM Ltd.,4075
+95.188.83.253:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Rostelecom networks,3595
+79.99.49.130:10808,SOCKS4,Russia,RU,🇷🇺,0,low,No,"Ltd ""Maxima""",4736
+37.193.125.68:1090,SOCKS4,Russia,RU,🇷🇺,0,low,No,Novotelecom Ltd,4404
+89.250.148.158:1080,SOCKS4,Russia,RU,🇷🇺,0,low,Yes,"JSC ""ER-Telecom Holding""",2301
+92.42.8.20:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,KMVtelecom,8385
+178.57.106.43:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,SEVER-TELECOM,1191
+213.21.53.119:4153,SOCKS4,Russia,RU,🇷🇺,0,low,Yes,Global Network Management Inc,8187
+195.9.146.246:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,PJSC Moscow city telephone network,2282
+37.18.73.60:5566,SOCKS4,Russia,RU,🇷🇺,0,low,No,"""Cloud Technologies"" LLC trading as Cloud.ru",1271
+188.143.169.22:33333,SOCKS4,Russia,RU,🇷🇺,0,low,No,PIN morespecific,955
+46.188.2.42:5678,SOCKS4,Russia,RU,🇷🇺,0,low,No,2COM,1040
+147.45.158.88:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Adman LLC,1524
+91.223.224.238:48293,SOCKS4,Russia,RU,🇷🇺,0,low,No,LLC ATK Telecom,2244
+89.169.168.25:6101,SOCKS4,Russia,RU,🇷🇺,0,low,No,Yandex.Cloud LLC,1611
+213.248.39.166:4153,SOCKS4,Russia,RU,🇷🇺,0,low,Yes,Digital Network JSC,5141
+109.232.106.150:52435,SOCKS4,Russia,RU,🇷🇺,0,low,No,CJSC Thyphone Communications 106,2051
+109.68.189.22:54643,SOCKS4,Russia,RU,🇷🇺,0,low,No,OOO Suntel,3159
+82.114.228.67:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,SCTS,5920
+89.151.134.157:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,VolgaTelecom Cheboxary,10440
+46.8.104.176:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Evro Telecom OOO,4084
+84.201.144.65:10001,SOCKS4,Russia,RU,🇷🇺,0,low,No,Yandex Cloud,1714
+46.29.116.3:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,KMVtelecom,1177
+88.87.79.18:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,"CJSC ""ER-Telecom Holding"" Volgograd branch",2165
+5.254.178.160:10801,SOCKS4,Russia,RU,🇷🇺,0,low,No,South-East Transtelecom Joint Stock Co.,3129
+88.87.79.18:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,"CJSC ""ER-Telecom Holding"" Volgograd branch",4220
+95.31.245.3:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,Corbina Broadband Volgograd,1261
+46.29.116.6:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,KMVtelecom,1185
+109.232.106.150:52435,SOCKS4,Russia,RU,🇷🇺,0,low,No,CJSC Thyphone Communications 106,4080
+109.68.189.22:54643,SOCKS4,Russia,RU,🇷🇺,0,low,No,OOO Suntel,5027
+46.8.48.143:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,ZagorodTelecom LLC,2081
+85.237.51.73:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,PJSC Rostelecom,2164
+185.216.18.138:44550,SOCKS4,Russia,RU,🇷🇺,0,low,Yes,Mega Tec LLC,8963
+81.200.158.126:10808,SOCKS4,Russia,RU,🇷🇺,4,low,No,"JSC ""TIMEWEB""",3968
+185.189.12.146:1080,SOCKS4,Russia,RU,🇷🇺,4,low,No,First Server Limited,906
+91.222.237.40:1080,SOCKS4,Russia,RU,🇷🇺,4,low,No,"JSC ""TIMEWEB""",4656
+185.103.109.59:9050,SOCKS4,Russia,RU,🇷🇺,4,low,No,First Server Limited,15377
+92.255.107.101:1080,SOCKS4,Russia,RU,🇷🇺,4,low,No,"JSC ""TIMEWEB""",3563
+46.8.60.34:1080,SOCKS4,Russia,RU,🇷🇺,25,medium,No,"LLC ""AVANTA TELECOM""",1216
+46.8.60.2:1080,SOCKS4,Russia,RU,🇷🇺,25,medium,No,"LLC ""AVANTA TELECOM""",4306
+91.142.75.202:1080,SOCKS4,Russia,RU,🇷🇺,33,medium,No,Hosting technology LTD,12009
