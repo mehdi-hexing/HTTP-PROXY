@@ -1,24 +1,15 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-192.252.210.233:4145,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,1523
-130.49.187.61:1082,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Global Connectivity Solutions LLP,6231
-144.91.111.48:1088,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Contabo GmbH,1429
-185.185.80.58:1088,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Contabo GmbH,2888
-185.185.80.58:1088,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Contabo GmbH,3636
-144.91.111.48:1088,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Contabo GmbH,1489
-8.211.194.78:9080,SOCKS5,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7412
-8.211.194.85:144,SOCKS5,United Kingdom,GB,🇬🇧,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",8542
-8.211.195.139:1000,SOCKS5,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7412
-8.211.194.85:193,SOCKS5,United Kingdom,GB,🇬🇧,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",7413
-8.211.195.139:312,SOCKS5,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7480
-8.211.194.85:8080,SOCKS5,United Kingdom,GB,🇬🇧,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",7421
-8.211.195.139:6379,SOCKS5,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7424
-8.211.195.173:10000,SOCKS5,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7937
-8.211.195.173:6379,SOCKS5,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7411
-8.211.195.173:100,SOCKS5,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7411
-8.211.200.183:10002,SOCKS5,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7434
-8.211.200.183:9098,SOCKS5,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7458
-8.211.200.183:5060,SOCKS5,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7418
-176.35.25.216:1080,SOCKS5,United Kingdom,GB,🇬🇧,2,low,No,Wavenet Limited,3392
-212.58.132.5:1080,SOCKS5,United Kingdom,GB,🇬🇧,28,medium,Yes,"NSFOCUS, Inc.",2048
-212.58.132.5:1080,SOCKS5,United Kingdom,GB,🇬🇧,28,medium,Yes,"NSFOCUS, Inc.",2022
-91.90.121.44:9050,SOCKS5,United Kingdom,GB,🇬🇧,73,high,Yes,M247 Europe SRL,3479
+192.252.210.233:4145,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,1021
+144.91.111.48:1088,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Contabo GmbH,1588
+185.185.80.58:1088,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Contabo GmbH,2140
+185.185.80.58:1088,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Contabo GmbH,2743
+144.91.111.48:1088,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Contabo GmbH,1672
+8.211.195.173:8443,SOCKS5,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",10429
+8.211.195.173:8008,SOCKS5,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7424
+8.211.195.173:8060,SOCKS5,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7420
+8.211.200.183:45,SOCKS5,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",13648
+8.211.200.183:1234,SOCKS5,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7451
+8.211.200.183:1080,SOCKS5,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7423
+212.58.132.5:1080,SOCKS5,United Kingdom,GB,🇬🇧,28,medium,Yes,"NSFOCUS, Inc.",1974
+212.58.132.5:1080,SOCKS5,United Kingdom,GB,🇬🇧,28,medium,Yes,"NSFOCUS, Inc.",1984
+46.101.36.247:9050,SOCKS5,United Kingdom,GB,🇬🇧,56,medium,No,"DigitalOcean, LLC",3794
