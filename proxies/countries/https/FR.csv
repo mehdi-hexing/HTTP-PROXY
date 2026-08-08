@@ -1,34 +1,51 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-81.93.27.76:443,HTTPS,France,FR,🇫🇷,0,low,No,Sewan Communications,2336
-194.254.206.88:443,HTTPS,France,FR,🇫🇷,0,low,No,Renater,2605
-178.237.108.214:443,HTTPS,France,FR,🇫🇷,0,low,No,Eolas - Business & Decision Group - datacenter MA,2118
-164.160.68.42:443,HTTPS,France,FR,🇫🇷,0,low,No,Telco OI SAS,6036
-195.200.166.126:443,HTTPS,France,FR,🇫🇷,0,low,No,Pacwan Network,2199
-89.234.183.82:443,HTTPS,France,FR,🇫🇷,0,low,No,Groupe PulseHeberg,1938
-164.160.68.11:443,HTTPS,France,FR,🇫🇷,0,low,No,Telco OI SAS,9518
-217.108.6.203:443,HTTPS,France,FR,🇫🇷,0,low,No,Orange S.A.,2196
-149.12.210.39:443,HTTPS,France,FR,🇫🇷,0,low,No,Cogent Communications,2144
-164.160.68.21:443,HTTPS,France,FR,🇫🇷,0,low,No,Telco OI SAS,4991
-164.160.68.18:443,HTTPS,France,FR,🇫🇷,0,low,No,Telco OI SAS,4384
-164.160.68.44:443,HTTPS,France,FR,🇫🇷,0,low,No,Telco OI SAS,4966
-31.172.173.58:443,HTTPS,France,FR,🇫🇷,0,low,No,Sarl Ard-com,1972
-82.64.46.151:8007,HTTPS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,2228
-82.64.46.151:443,HTTPS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,2169
-82.64.46.151:8013,HTTPS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,2498
-82.64.67.179:443,HTTPS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,2198
-82.64.46.151:8012,HTTPS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,2157
-35.180.51.4:443,HTTPS,France,FR,🇫🇷,6,low,No,Amazon Technologies Inc.,1812
-51.15.135.81:443,HTTPS,France,FR,🇫🇷,31,medium,No,SCALEWAY,2050
-62.210.27.111:443,HTTPS,France,FR,🇫🇷,33,medium,No,Scaleway SAS,2471
-62.210.147.2:443,HTTPS,France,FR,🇫🇷,33,medium,No,Scaleway SAS,2489
-62.210.70.194:443,HTTPS,France,FR,🇫🇷,33,medium,No,Scaleway SAS,3058
-37.59.112.197:443,HTTPS,France,FR,🇫🇷,35,medium,No,OVH SAS,1954
-37.59.110.73:443,HTTPS,France,FR,🇫🇷,35,medium,No,OVH SAS,2459
-84.17.43.225:9443,HTTPS,France,FR,🇫🇷,41,medium,Yes,Datacamp Limited,1799
-31.59.103.214:443,HTTPS,France,FR,🇫🇷,43,medium,No,CGI GLOBAL LIMITED,3272
-51.38.179.176:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,1877
-51.91.251.117:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,1969
-164.132.229.148:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,2132
-51.75.21.24:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,2155
-79.137.85.144:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,2041
-178.32.221.95:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,2403
+81.93.27.76:443,HTTPS,France,FR,🇫🇷,0,low,No,Sewan Communications,2430
+194.254.206.88:443,HTTPS,France,FR,🇫🇷,0,low,No,Renater,2711
+178.237.108.214:443,HTTPS,France,FR,🇫🇷,0,low,No,Eolas - Business & Decision Group - datacenter MA,2009
+164.160.68.11:443,HTTPS,France,FR,🇫🇷,0,low,No,Telco OI SAS,5056
+164.160.68.42:443,HTTPS,France,FR,🇫🇷,0,low,No,Telco OI SAS,5655
+195.200.166.126:443,HTTPS,France,FR,🇫🇷,0,low,No,Pacwan Network,2209
+89.234.183.82:443,HTTPS,France,FR,🇫🇷,0,low,No,Groupe PulseHeberg,2201
+217.108.6.203:443,HTTPS,France,FR,🇫🇷,0,low,No,Orange S.A.,2158
+149.12.210.39:443,HTTPS,France,FR,🇫🇷,0,low,No,Cogent Communications,2190
+164.160.68.21:443,HTTPS,France,FR,🇫🇷,0,low,No,Telco OI SAS,5151
+164.160.68.18:443,HTTPS,France,FR,🇫🇷,0,low,No,Telco OI SAS,4637
+164.160.68.44:443,HTTPS,France,FR,🇫🇷,0,low,No,Telco OI SAS,5476
+31.172.173.58:443,HTTPS,France,FR,🇫🇷,0,low,No,Sarl Ard-com,2039
+147.210.214.62:443,HTTPS,France,FR,🇫🇷,0,low,No,Renater,1988
+147.210.214.60:443,HTTPS,France,FR,🇫🇷,0,low,No,Renater,1990
+193.49.168.100:443,HTTPS,France,FR,🇫🇷,0,low,No,Renater,1894
+193.49.168.97:443,HTTPS,France,FR,🇫🇷,0,low,No,Renater,2021
+82.64.46.151:8007,HTTPS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,2265
+82.64.46.151:443,HTTPS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,2188
+82.64.46.151:8013,HTTPS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,2389
+82.64.67.179:443,HTTPS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,2044
+82.64.46.151:8012,HTTPS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,2290
+15.188.146.183:443,HTTPS,France,FR,🇫🇷,3,low,No,"Amazon.com, Inc.",1906
+15.188.77.13:443,HTTPS,France,FR,🇫🇷,3,low,No,"Amazon.com, Inc.",1925
+35.180.51.4:443,HTTPS,France,FR,🇫🇷,6,low,No,Amazon Technologies Inc.,1843
+15.237.113.244:443,HTTPS,France,FR,🇫🇷,6,low,No,Amazon Technologies Inc.,1843
+15.237.197.16:443,HTTPS,France,FR,🇫🇷,6,low,No,Amazon Technologies Inc.,1812
+15.237.250.36:443,HTTPS,France,FR,🇫🇷,6,low,No,Amazon Technologies Inc.,1875
+15.237.177.235:443,HTTPS,France,FR,🇫🇷,6,low,No,Amazon Technologies Inc.,1859
+35.180.24.94:443,HTTPS,France,FR,🇫🇷,6,low,No,Amazon Technologies Inc.,1821
+13.39.193.21:443,HTTPS,France,FR,🇫🇷,6,low,No,Amazon Technologies Inc.,1837
+35.180.51.5:443,HTTPS,France,FR,🇫🇷,6,low,No,Amazon Technologies Inc.,1868
+35.180.250.170:443,HTTPS,France,FR,🇫🇷,6,low,No,Amazon Technologies Inc.,1908
+35.180.136.172:443,HTTPS,France,FR,🇫🇷,6,low,No,Amazon Technologies Inc.,1886
+35.180.229.43:443,HTTPS,France,FR,🇫🇷,6,low,No,Amazon Technologies Inc.,1918
+13.37.224.38:443,HTTPS,France,FR,🇫🇷,6,low,No,Amazon Technologies Inc.,1913
+51.15.135.81:443,HTTPS,France,FR,🇫🇷,31,medium,No,SCALEWAY,2125
+62.210.147.2:443,HTTPS,France,FR,🇫🇷,33,medium,No,Scaleway SAS,2349
+62.210.27.111:443,HTTPS,France,FR,🇫🇷,33,medium,No,Scaleway SAS,2306
+62.210.70.194:443,HTTPS,France,FR,🇫🇷,33,medium,No,Scaleway SAS,2257
+37.59.112.197:443,HTTPS,France,FR,🇫🇷,35,medium,No,OVH SAS,1992
+37.59.110.73:443,HTTPS,France,FR,🇫🇷,35,medium,No,OVH SAS,2672
+84.17.43.225:9443,HTTPS,France,FR,🇫🇷,41,medium,Yes,Datacamp Limited,1779
+31.59.103.214:443,HTTPS,France,FR,🇫🇷,43,medium,No,CGI GLOBAL LIMITED,2055
+51.38.179.176:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,1927
+51.91.251.117:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,2154
+164.132.229.148:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,2178
+51.75.21.24:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,2192
+79.137.85.144:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,2221
+178.32.221.95:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,2414
