@@ -1,16 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,1907
-37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,7309
-45.13.116.225:21537,HTTP,France,FR,🇫🇷,0,low,No,ABJP,1406
-191.44.125.14:8080,HTTP,France,FR,🇫🇷,0,low,Yes,High Speed For Internet Services L.L.C,10350
-191.44.125.11:8080,HTTP,France,FR,🇫🇷,0,low,Yes,High Speed For Internet Services L.L.C,9897
-191.44.125.8:8080,HTTP,France,FR,🇫🇷,0,low,Yes,High Speed For Internet Services L.L.C,7698
-191.44.125.7:8080,HTTP,France,FR,🇫🇷,0,low,No,High Speed For Internet Services L.L.C,1804
-52.47.115.41:54357,HTTP,France,FR,🇫🇷,6,low,No,Amazon Technologies Inc.,2402
-37.59.125.131:8888,HTTP,France,FR,🇫🇷,7,low,Yes,OVH SAS,2495
-51.159.97.242:10006,HTTP,France,FR,🇫🇷,31,medium,No,SCALEWAY,3632
-195.154.191.26:1086,HTTP,France,FR,🇫🇷,33,medium,Yes,Scaleway SAS,4588
-217.182.195.221:30007,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,2758
-217.182.195.221:30004,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,15187
-217.182.195.221:30008,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,9580
-217.182.195.221:30009,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,4461
+37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,1600
+37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,3445
+191.44.125.5:8080,HTTP,France,FR,🇫🇷,0,low,Yes,High Speed For Internet Services L.L.C,15470
+166.0.132.131:8080,HTTP,France,FR,🇫🇷,0,low,No,Ace Data Centers,19824
+90.38.214.224:8118,HTTP,France,FR,🇫🇷,0,low,No,Orange,8988
+13.38.27.183:9827,HTTP,France,FR,🇫🇷,6,low,No,Amazon Technologies Inc.,4320
+37.59.125.131:8888,HTTP,France,FR,🇫🇷,7,low,Yes,OVH SAS,2510
+51.159.97.242:10006,HTTP,France,FR,🇫🇷,31,medium,No,SCALEWAY,2914
+217.182.195.221:30007,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,11178
+217.182.195.221:30003,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,16054
+217.182.195.221:30002,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,15761
+217.182.195.221:30009,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,4166
