@@ -1,10 +1,15 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-8.211.200.183:84,HTTP,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",8443
-8.211.195.173:10000,HTTP,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7947
-8.211.194.78:6379,HTTP,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7969
-8.211.195.139:8001,HTTP,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",9800
-8.211.194.85:8443,HTTP,United Kingdom,GB,🇬🇧,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",7741
-8.211.200.183:1720,HTTP,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7720
-8.211.194.78:9080,HTTP,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",10827
-8.211.194.85:312,HTTP,United Kingdom,GB,🇬🇧,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",7859
-212.58.132.5:8888,HTTP,United Kingdom,GB,🇬🇧,28,medium,Yes,"NSFOCUS, Inc.",2518
+8.211.200.183:84,HTTP,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",9111
+8.211.200.183:1080,HTTP,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7485
+8.211.195.173:10000,HTTP,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7481
+8.211.194.78:6379,HTTP,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7500
+8.211.195.139:8001,HTTP,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",10428
+8.211.194.85:8443,HTTP,United Kingdom,GB,🇬🇧,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",7496
+8.211.200.183:100,HTTP,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7495
+8.211.194.78:8081,HTTP,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7483
+8.211.195.173:4145,HTTP,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7507
+8.211.194.85:312,HTTP,United Kingdom,GB,🇬🇧,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",7498
+8.211.194.85:100,HTTP,United Kingdom,GB,🇬🇧,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",7468
+8.211.195.139:8081,HTTP,United Kingdom,GB,🇬🇧,1,low,No,"Alibaba (US) Technology Co., Ltd.",7499
+84.247.171.137:3128,HTTP,United Kingdom,GB,🇬🇧,14,low,No,Contabo GmbH,21579
+212.58.132.5:8888,HTTP,United Kingdom,GB,🇬🇧,28,medium,Yes,"NSFOCUS, Inc.",3277
