@@ -1,18 +1,38 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-95.85.233.144:18443,SOCKS4,Germany,DE,🇩🇪,0,low,No,WAIcore Ltd,6882
-109.123.251.109:1080,SOCKS4,Germany,DE,🇩🇪,0,low,No,Contabo GmbH,1349
-144.31.255.9:1080,SOCKS4,Germany,DE,🇩🇪,0,low,No,U1 DIGITAL SERVICES LTD,994
-195.133.65.238:10909,SOCKS4,Germany,DE,🇩🇪,0,low,No,Chsl ONE LTD,3165
-87.120.187.113:1080,SOCKS4,Germany,DE,🇩🇪,0,low,No,Play2go International Limited,6681
-47.91.89.3:11,SOCKS4,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,5324
-193.158.12.141:4153,SOCKS4,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,2033
-109.120.176.68:1080,SOCKS4,Germany,DE,🇩🇪,3,low,No,Aeza International LTD,888
-45.145.41.177:1080,SOCKS4,Germany,DE,🇩🇪,5,low,No,dataforest GmbH,1548
-116.203.19.71:9116,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,1552
-157.90.113.23:9052,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,1019
-116.203.19.71:9116,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,1438
-116.203.19.71:9087,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,2213
-159.195.61.240:1080,SOCKS4,Germany,DE,🇩🇪,21,medium,No,netcup GmbH,3877
-159.100.20.206:27866,SOCKS4,Germany,DE,🇩🇪,25,medium,No,"Ultahost, Inc.",4656
-87.239.251.202:1081,SOCKS4,Germany,DE,🇩🇪,25,medium,No,First Server Limited,2046
-87.239.251.202:1081,SOCKS4,Germany,DE,🇩🇪,25,medium,No,First Server Limited,2960
+95.85.233.144:18443,SOCKS4,Germany,DE,🇩🇪,0,low,No,WAIcore Ltd,939
+95.85.233.144:18443,SOCKS4,Germany,DE,🇩🇪,0,low,No,WAIcore Ltd,4203
+194.58.33.7:9564,SOCKS4,Germany,DE,🇩🇪,0,low,Yes,International Hosting Company Limited,13197
+109.123.251.109:1080,SOCKS4,Germany,DE,🇩🇪,0,low,No,Contabo GmbH,1434
+144.31.255.9:1080,SOCKS4,Germany,DE,🇩🇪,0,low,No,U1 DIGITAL SERVICES LTD,2760
+193.233.86.198:1080,SOCKS4,Germany,DE,🇩🇪,0,low,No,Chsl ONE LTD,3668
+193.158.12.141:4153,SOCKS4,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,1305
+47.91.89.3:11,SOCKS4,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,4461
+47.91.89.3:139,SOCKS4,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,4478
+193.158.12.141:4153,SOCKS4,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,2544
+8.211.51.115:4145,SOCKS4,Germany,DE,🇩🇪,1,low,No,"Alibaba (US) Technology Co., Ltd.",10153
+8.211.51.115:1081,SOCKS4,Germany,DE,🇩🇪,1,low,No,"Alibaba (US) Technology Co., Ltd.",4469
+8.211.51.115:8008,SOCKS4,Germany,DE,🇩🇪,1,low,No,"Alibaba (US) Technology Co., Ltd.",5684
+8.211.49.86:8081,SOCKS4,Germany,DE,🇩🇪,1,low,No,"Alibaba (US) Technology Co., Ltd.",4469
+8.211.49.86:9050,SOCKS4,Germany,DE,🇩🇪,1,low,No,"Alibaba (US) Technology Co., Ltd.",4477
+8.211.42.167:1081,SOCKS4,Germany,DE,🇩🇪,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",4470
+8.211.49.86:20002,SOCKS4,Germany,DE,🇩🇪,1,low,No,"Alibaba (US) Technology Co., Ltd.",4490
+8.211.42.167:6379,SOCKS4,Germany,DE,🇩🇪,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",5356
+8.211.42.167:8081,SOCKS4,Germany,DE,🇩🇪,1,low,Yes,"Alibaba (US) Technology Co., Ltd.",4479
+8.209.96.245:8082,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,4471
+8.209.96.245:5060,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,4494
+8.209.96.245:4153,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,4471
+109.120.176.68:1080,SOCKS4,Germany,DE,🇩🇪,3,low,No,Aeza International LTD,1096
+45.145.41.177:1080,SOCKS4,Germany,DE,🇩🇪,5,low,No,dataforest GmbH,1563
+144.76.165.249:9050,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,10900
+116.203.19.71:9087,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,7515
+91.107.254.246:9080,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,8938
+157.90.113.23:9052,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,1644
+144.76.166.41:57170,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,10300
+150.241.107.234:1080,SOCKS4,Germany,DE,🇩🇪,20,medium,No,DpkgSoft International Limited,5535
+159.195.61.240:1080,SOCKS4,Germany,DE,🇩🇪,21,medium,No,netcup GmbH,1572
+153.80.242.105:8080,SOCKS4,Germany,DE,🇩🇪,22,medium,No,Global Connectivity Solutions LLP,6932
+31.56.39.133:8080,SOCKS4,Germany,DE,🇩🇪,23,medium,No,Freakhosting LTD,1847
+87.239.251.202:1081,SOCKS4,Germany,DE,🇩🇪,25,medium,No,First Server Limited,2416
+87.239.251.202:1081,SOCKS4,Germany,DE,🇩🇪,25,medium,No,First Server Limited,4170
+31.25.236.95:1080,SOCKS4,Germany,DE,🇩🇪,36,medium,No,Massivegrid LTD,2346
+209.38.214.48:1080,SOCKS4,Germany,DE,🇩🇪,54,medium,No,"DigitalOcean, LLC",5202
