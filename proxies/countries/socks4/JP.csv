@@ -1,7 +1,18 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-8.221.139.222:80,SOCKS4,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",4654
-8.221.139.222:8085,SOCKS4,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",5030
-47.74.46.81:1000,SOCKS4,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7503
-47.74.46.81:102,SOCKS4,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,5824
-47.74.46.81:6379,SOCKS4,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,6414
-43.163.219.10:20000,SOCKS4,Japan,JP,🇯🇵,0,low,No,Shenzhen Tencent Computer Systems Company Limited,987
+47.91.29.151:9080,SOCKS4,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,4419
+47.91.29.151:90,SOCKS4,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,4425
+47.91.29.151:81,SOCKS4,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,4415
+8.221.139.222:5060,SOCKS4,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",4417
+8.221.139.222:80,SOCKS4,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",4416
+8.221.141.88:8081,SOCKS4,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",4529
+8.221.139.222:8085,SOCKS4,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",4418
+8.221.141.88:4301,SOCKS4,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",4427
+8.221.141.88:8443,SOCKS4,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",4418
+47.74.46.81:1000,SOCKS4,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,4419
+47.74.46.81:102,SOCKS4,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,4417
+47.74.46.81:6379,SOCKS4,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,4417
+8.221.138.111:100,SOCKS4,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",4415
+8.221.138.111:8045,SOCKS4,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",4417
+8.221.138.111:46691,SOCKS4,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",4414
+47.91.29.151:41,SOCKS4,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,5678
+47.91.29.151:6379,SOCKS4,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,4415

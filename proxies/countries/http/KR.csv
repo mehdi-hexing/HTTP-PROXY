@@ -1,9 +1,16 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-8.220.204.92:443,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",11943
-8.220.204.215:443,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",11903
-8.220.205.172:9080,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",11733
-8.213.156.191:8888,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",12843
-8.220.204.92:80,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",15529
-1.231.81.166:3128,HTTP,South Korea,KR,🇰🇷,2,low,Yes,SK Broadband Co Ltd,1591
-43.203.195.46:80,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",1973
-220.81.123.23:48678,HTTP,South Korea,KR,🇰🇷,4,low,No,Korea Telecom,19934
+8.220.204.92:443,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7813
+8.213.156.191:7010,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7816
+8.213.128.6:4006,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",8865
+8.213.134.213:8083,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7801
+8.220.204.215:443,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7900
+8.220.205.172:9080,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",8281
+8.213.156.191:8888,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7792
+8.220.204.92:80,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7808
+8.220.205.172:9000,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7806
+8.220.204.215:9098,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7797
+8.213.134.213:8008,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7795
+1.231.81.166:3128,HTTP,South Korea,KR,🇰🇷,2,low,Yes,SK Broadband Co Ltd,4033
+150.230.249.56:1080,HTTP,South Korea,KR,🇰🇷,2,low,No,Oracle Corporation,3823
+43.203.195.46:80,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",2355
+121.174.186.199:8080,HTTP,South Korea,KR,🇰🇷,4,low,No,Korea Telecom,7822
