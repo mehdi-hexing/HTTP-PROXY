@@ -1,24 +1,31 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-61.7.147.227:4145,SOCKS4,Thailand,TH,🇹🇭,0,low,No,National Telecom Public Company Limited,5753
-1.179.172.45:31225,SOCKS4,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,6879
-203.170.146.146:4153,SOCKS4,Thailand,TH,🇹🇭,0,low,No,CS Loxinfo Public Company Limited,5743
-49.229.36.210:4153,SOCKS4,Thailand,TH,🇹🇭,0,low,No,AIS-Corporate,1622
-1.179.172.45:31225,SOCKS4,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,1732
-49.229.36.212:4153,SOCKS4,Thailand,TH,🇹🇭,0,low,No,AIS-Corporate,8825
-203.172.120.179:1080,SOCKS4,Thailand,TH,🇹🇭,0,low,No,sinokor1,5754
-203.170.146.146:4153,SOCKS4,Thailand,TH,🇹🇭,0,low,No,CS Loxinfo Public Company Limited,4729
-1.20.235.153:5678,SOCKS4,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,5761
-1.4.195.114:4145,SOCKS4,Thailand,TH,🇹🇭,1,low,No,TOT Public Company Limited,2684
-113.53.91.26:4153,SOCKS4,Thailand,TH,🇹🇭,1,low,No,TOT Public Company Limited,6992
-182.53.216.73:4145,SOCKS4,Thailand,TH,🇹🇭,1,low,No,TOT Public Company Limited,3774
-125.27.10.84:4153,SOCKS4,Thailand,TH,🇹🇭,1,low,No,TOT Public Company Limited,6796
-113.53.91.26:4153,SOCKS4,Thailand,TH,🇹🇭,1,low,No,TOT Public Company Limited,5777
-119.63.95.3:4153,SOCKS4,Thailand,TH,🇹🇭,2,low,Yes,"United Information Highway Co., Ltd.",4674
-159.192.142.24:5678,SOCKS4,Thailand,TH,🇹🇭,4,low,No,National Telecom Public Company Limited,1773
-110.77.135.70:4145,SOCKS4,Thailand,TH,🇹🇭,4,low,No,National Telecom Public Company Limited,2715
-110.77.135.70:4145,SOCKS4,Thailand,TH,🇹🇭,4,low,No,National Telecom Public Company Limited,5796
-159.192.97.129:5678,SOCKS4,Thailand,TH,🇹🇭,4,low,No,National Telecom Public Company Limited,3681
-184.82.52.221:4153,SOCKS4,Thailand,TH,🇹🇭,4,low,No,AIS-Fibre,8915
-183.88.219.206:34676,SOCKS4,Thailand,TH,🇹🇭,5,low,No,Triple T Broadband Public Company Limited,9043
-183.89.217.91:4153,SOCKS4,Thailand,TH,🇹🇭,5,low,No,Triple T Broadband Public Company Limited,3767
-183.88.240.139:4153,SOCKS4,Thailand,TH,🇹🇭,5,low,No,Triple T Broadband Public Company Limited,6772
+101.109.245.200:4153,SOCKS4,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,5965
+61.7.147.227:4145,SOCKS4,Thailand,TH,🇹🇭,0,low,No,National Telecom Public Company Limited,6837
+1.179.172.45:31225,SOCKS4,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,5985
+8.213.195.191:10000,SOCKS4,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,4659
+8.213.197.208:8001,SOCKS4,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",6110
+8.213.195.191:6379,SOCKS4,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,4630
+8.213.197.208:18080,SOCKS4,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",5728
+8.213.197.208:312,SOCKS4,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",5687
+8.213.222.247:20000,SOCKS4,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",6365
+8.213.222.247:8123,SOCKS4,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8298
+1.179.172.45:31225,SOCKS4,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,9014
+8.213.222.247:9080,SOCKS4,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",6122
+110.77.149.227:4153,SOCKS4,Thailand,TH,🇹🇭,0,low,No,National Telecom Public Company Limited,2852
+203.170.146.146:4153,SOCKS4,Thailand,TH,🇹🇭,0,low,No,CS Loxinfo Public Company Limited,1731
+8.213.215.187:3128,SOCKS4,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",6655
+8.213.222.157:6379,SOCKS4,Thailand,TH,🇹🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4637
+8.213.222.157:5060,SOCKS4,Thailand,TH,🇹🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4682
+8.213.222.157:1081,SOCKS4,Thailand,TH,🇹🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4635
+8.213.195.191:100,SOCKS4,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,5126
+8.213.195.191:90,SOCKS4,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,4633
+8.213.195.191:8443,SOCKS4,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,4639
+8.213.197.208:1081,SOCKS4,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",6175
+8.213.197.208:8080,SOCKS4,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7012
+118.174.14.65:44336,SOCKS4,Thailand,TH,🇹🇭,1,low,No,TOT Public Company Limited,7286
+1.4.195.114:4145,SOCKS4,Thailand,TH,🇹🇭,1,low,No,TOT Public Company Limited,3828
+113.53.91.26:4153,SOCKS4,Thailand,TH,🇹🇭,1,low,No,TOT Public Company Limited,2806
+119.63.95.3:4153,SOCKS4,Thailand,TH,🇹🇭,2,low,Yes,"United Information Highway Co., Ltd.",8911
+159.192.97.129:5678,SOCKS4,Thailand,TH,🇹🇭,4,low,No,National Telecom Public Company Limited,1739
+184.82.52.221:4153,SOCKS4,Thailand,TH,🇹🇭,4,low,No,AIS-Fibre,9234
+183.88.219.206:34676,SOCKS4,Thailand,TH,🇹🇭,5,low,No,Triple T Broadband Public Company Limited,1782
