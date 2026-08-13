@@ -1,21 +1,24 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-43.160.255.142:7890,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,Aceville Pte.ltd,2915
-8.219.229.53:1081,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",4551
-8.219.229.53:5060,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",4553
-47.237.2.245:443,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",4555
-47.237.2.245:119,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",4550
-47.237.107.41:9000,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4550
-8.219.229.53:118,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",4541
-47.237.107.41:28,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4551
-47.237.92.86:443,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",4550
-47.237.92.86:41,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",4558
-47.237.107.41:2000,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4554
-47.237.2.245:80,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",4558
-47.237.92.86:3129,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",4553
-47.237.113.119:3128,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4557
-47.237.113.119:16010,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4564
-47.237.113.119:10080,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4568
-8.219.229.53:11,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",4541
-47.237.2.245:1234,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",4549
-178.128.53.12:1080,SOCKS4,Singapore,SG,🇸🇬,57,medium,No,"DigitalOcean, LLC",4522
-178.128.53.12:1080,SOCKS4,Singapore,SG,🇸🇬,57,medium,No,"DigitalOcean, LLC",2806
+47.237.107.41:8080,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4643
+43.160.255.142:7890,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,Aceville Pte.ltd,12068
+154.18.220.190:5678,SOCKS4,Singapore,SG,🇸🇬,0,low,No,Next Tier Trading Company Limited,4152
+8.219.229.53:1081,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",4673
+8.219.229.53:5060,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",4637
+47.237.107.41:9000,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4659
+8.219.229.53:118,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",4642
+47.237.107.41:28,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4673
+47.237.92.86:443,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",5530
+47.237.92.86:41,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",4643
+47.237.2.245:80,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",4630
+47.237.92.86:3129,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",4661
+47.237.107.41:80,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4795
+47.237.107.41:111,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4664
+47.237.2.245:1311,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",4693
+47.237.113.119:3128,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4642
+47.237.113.119:16010,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4645
+47.237.113.119:10080,SOCKS4,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4647
+8.219.229.53:11,SOCKS4,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",4629
+43.160.245.155:8080,SOCKS4,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,13606
+43.134.53.69:1080,SOCKS4,Singapore,SG,🇸🇬,1,low,No,Shenzhen Tencent Computer Systems Company Limited,2453
+194.87.10.38:1234,SOCKS4,Singapore,SG,🇸🇬,37,medium,No,Baxet Group Inc.,1469
+104.248.151.220:57554,SOCKS4,Singapore,SG,🇸🇬,53,medium,No,"DigitalOcean, LLC",4030
