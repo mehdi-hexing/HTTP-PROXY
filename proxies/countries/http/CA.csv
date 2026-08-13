@@ -1,7 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-15.235.21.254:8080,HTTP,Canada,CA,🇨🇦,0,low,No,OVH SAS,671
-15.235.21.254:8080,HTTP,Canada,CA,🇨🇦,0,low,No,OVH SAS,705
-35.182.12.78:9002,HTTP,Canada,CA,🇨🇦,12,low,No,Amazon Technologies Inc.,518
-192.99.44.178:3128,HTTP,Canada,CA,🇨🇦,34,medium,No,OVH SAS,17735
-148.113.202.99:3128,HTTP,Canada,CA,🇨🇦,53,medium,No,OVH SAS,13692
-51.79.71.106:8080,HTTP,Canada,CA,🇨🇦,53,medium,No,OVH SAS,2715
+15.235.21.254:8080,HTTP,Canada,CA,🇨🇦,0,low,No,OVH SAS,1104
+15.235.21.254:8080,HTTP,Canada,CA,🇨🇦,0,low,No,OVH SAS,975
+40.177.99.164:48417,HTTP,Canada,CA,🇨🇦,3,low,No,"Amazon.com, Inc.",1018
+35.183.127.162:8703,HTTP,Canada,CA,🇨🇦,12,low,No,Amazon Technologies Inc.,1125
+16.52.81.236:27487,HTTP,Canada,CA,🇨🇦,14,low,No,Amazon.com,3738
+16.52.81.236:3414,HTTP,Canada,CA,🇨🇦,14,low,No,Amazon.com,4180
+16.52.81.236:22576,HTTP,Canada,CA,🇨🇦,14,low,No,Amazon.com,1127
+16.52.81.236:13797,HTTP,Canada,CA,🇨🇦,14,low,No,Amazon.com,960
+149.56.110.191:8118,HTTP,Canada,CA,🇨🇦,34,medium,No,OVH SAS,6791
+148.113.202.99:3128,HTTP,Canada,CA,🇨🇦,53,medium,No,OVH SAS,16502
