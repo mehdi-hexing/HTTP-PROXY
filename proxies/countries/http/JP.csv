@@ -1,54 +1,28 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-47.91.29.151:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,7691
-13.208.238.59:3128,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,5492
-43.133.13.187:8889,HTTP,Japan,JP,🇯🇵,0,low,No,Aceville Pte.ltd,27568
-47.74.46.81:9098,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7710
-8.221.138.111:9080,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7717
-8.221.139.222:3128,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",9927
-8.221.141.88:9507,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",9027
-140.227.61.201:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,12405
-20.27.11.248:8561,HTTP,Japan,JP,🇯🇵,0,low,Yes,Microsoft Corporation,12514
-20.27.15.111:8561,HTTP,Japan,JP,🇯🇵,0,low,Yes,Microsoft Corporation,14947
-20.27.15.111:8561,HTTP,Japan,JP,🇯🇵,0,low,Yes,Microsoft Corporation,14894
-20.27.14.220:8561,HTTP,Japan,JP,🇯🇵,0,low,Yes,Microsoft Corporation,15786
-20.78.26.206:8561,HTTP,Japan,JP,🇯🇵,0,low,Yes,Microsoft Corporation,10862
-20.27.13.35:8561,HTTP,Japan,JP,🇯🇵,0,low,Yes,Microsoft Corporation,11178
-20.27.11.248:8561,HTTP,Japan,JP,🇯🇵,0,low,Yes,Microsoft Corporation,12396
-20.210.39.153:8561,HTTP,Japan,JP,🇯🇵,0,low,Yes,Microsoft Corporation,10456
-20.18.193.135:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation,13908
-20.210.39.155:8561,HTTP,Japan,JP,🇯🇵,0,low,Yes,Microsoft Corporation,9772
-20.210.76.178:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation,18390
-20.210.76.104:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation,17197
-20.78.118.91:8561,HTTP,Japan,JP,🇯🇵,0,low,Yes,Microsoft Corporation,8697
-20.27.15.49:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation,20642
-20.210.76.175:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation,19847
-56.155.73.159:13736,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",2043
-13.208.238.59:52059,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,9296
-47.91.29.151:31281,HTTP,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,7697
-20.78.118.91:8561,HTTP,Japan,JP,🇯🇵,0,low,Yes,Microsoft Corporation,3437
-20.78.26.206:8561,HTTP,Japan,JP,🇯🇵,0,low,Yes,Microsoft Corporation,2923
-20.210.39.153:8561,HTTP,Japan,JP,🇯🇵,0,low,Yes,Microsoft Corporation,2974
-20.210.39.155:8561,HTTP,Japan,JP,🇯🇵,0,low,Yes,Microsoft Corporation,2615
-20.210.76.178:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation,16308
-56.155.73.215:9485,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",3802
-20.210.76.104:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation,21678
-20.27.15.49:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation,19427
-8.221.139.222:8028,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7706
-47.74.46.81:80,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7718
-8.221.141.88:8080,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",8360
-8.221.138.111:8192,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",8096
-8.221.138.111:35,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",9977
-20.210.76.175:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation,13998
-20.18.193.135:8561,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation,13604
-56.155.73.215:4559,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",4062
-34.84.162.206:38080,HTTP,Japan,JP,🇯🇵,2,low,Yes,Google LLC,6271
-34.84.124.34:80,HTTP,Japan,JP,🇯🇵,2,low,No,Google LLC,18108
-35.78.212.217:58837,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1889
-35.78.212.217:10808,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",5859
-35.78.212.217:31101,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1695
-35.78.212.217:111,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1662
-35.78.212.217:24968,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1679
-43.207.132.28:14438,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",4553
-140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,Yes,Oracle Corporation,3217
-140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,Yes,Oracle Corporation,1221
-45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,74,high,No,Zenlayer Inc,7712
+47.91.29.151:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,7580
+13.208.166.217:11676,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,8137
+47.74.46.81:9098,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7576
+8.221.138.111:9080,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7579
+8.221.139.222:3128,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7577
+56.155.73.215:29259,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",3148
+47.91.29.151:33427,HTTP,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,7577
+56.155.73.159:39254,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",2284
+8.221.139.222:8028,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7579
+47.74.46.81:80,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7588
+8.221.138.111:8192,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7574
+8.221.138.111:35,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7581
+56.155.73.159:33638,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",5213
+56.155.73.159:24509,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",5827
+140.227.61.201:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,9273
+35.78.252.142:59622,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",9283
+43.206.240.252:26728,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",5367
+43.207.141.180:43391,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",3500
+43.207.141.180:9602,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",4600
+43.207.141.180:56582,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",9603
+35.78.212.217:58511,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1367
+43.206.240.252:58080,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",4479
+43.206.240.252:2584,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1749
+43.207.132.28:23765,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1654
+140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,Yes,Oracle Corporation,3090
+140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,Yes,Oracle Corporation,2036
+45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,74,high,No,Zenlayer Inc,6218

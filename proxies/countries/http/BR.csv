@@ -1,25 +1,30 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-45.180.84.105:443,HTTP,Brazil,BR,🇧🇷,0,low,No,AN TELECOM,5241
-168.228.176.12:3139,HTTP,Brazil,BR,🇧🇷,0,low,No,BRASILINK SERVIÇOS EIRELI,11321
-168.195.168.182:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,SkyNet Telecomunicações,9003
-201.20.42.46:3128,HTTP,Brazil,BR,🇧🇷,0,low,Yes,Equinix (EMEA) Acquisition Enterprises B.V.,6091
-179.191.229.18:8900,HTTP,Brazil,BR,🇧🇷,0,low,No,ACX TELECOM LTDA.,6507
-200.115.100.33:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,FiberPon telecom,6411
-191.252.111.160:7000,HTTP,Brazil,BR,🇧🇷,0,low,No,Locaweb Serviços de Internet S/A,8496
-45.4.192.225:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Orbitel Telecomunicações e Informática Ltda,4640
-177.190.145.161:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Mknetwork Telecom Ltda ME,7136
-45.175.171.71:8085,HTTP,Brazil,BR,🇧🇷,0,low,No,Inffotreini Provedores e Informatica LTDA - ME,5484
-143.0.203.173:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Genesysnet Provedor De Internet Ltda ME,9628
-200.3.197.49:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Inacio Miguel Scherer,11248
-201.20.42.46:3127,HTTP,Brazil,BR,🇧🇷,0,low,Yes,Equinix (EMEA) Acquisition Enterprises B.V.,3063
-186.227.246.82:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Rede Exitus Ltda,9499
-201.76.9.115:8080,HTTP,Brazil,BR,🇧🇷,1,low,No,Contato Internet EIRELI,8146
-201.76.9.115:8080,HTTP,Brazil,BR,🇧🇷,1,low,No,Contato Internet EIRELI,7792
-187.49.176.141:8080,HTTP,Brazil,BR,🇧🇷,2,low,No,PBR SERVICOS DE TELECOMUNICACOES LTDA,4296
-177.19.167.242:80,HTTP,Brazil,BR,🇧🇷,4,low,No,TELEFÔNICA BRASIL S.A,11750
-201.65.173.178:8080,HTTP,Brazil,BR,🇧🇷,4,low,No,Claro S.A.,2949
-187.19.128.76:3131,HTTP,Brazil,BR,🇧🇷,4,low,No,Brisanet Servicos De Telecomunicacoes S.A,23048
-177.74.221.80:8080,HTTP,Brazil,BR,🇧🇷,5,low,No,UNIFIQUE TELECOMUNICACOES S/A,11634
-186.216.208.98:3128,HTTP,Brazil,BR,🇧🇷,10,low,Yes,Clicknet Brasil Informatica E Telecomunicacoes LT,9791
-177.190.218.145:9999,HTTP,Brazil,BR,🇧🇷,11,low,No,Souza Cortes Elet. Elet. Ltda ME,10039
-179.125.61.201:8080,HTTP,Brazil,BR,🇧🇷,33,medium,No,Wconect Wireless Informatica LTDA - ME,6682
+45.180.84.105:443,HTTP,Brazil,BR,🇧🇷,0,low,No,AN TELECOM,6815
+201.20.42.46:3128,HTTP,Brazil,BR,🇧🇷,0,low,Yes,Equinix (EMEA) Acquisition Enterprises B.V.,12074
+177.184.195.168:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Wireless Comm Services LTDA,9440
+201.20.42.46:3128,HTTP,Brazil,BR,🇧🇷,0,low,Yes,Equinix (EMEA) Acquisition Enterprises B.V.,6879
+179.43.10.233:8874,HTTP,Brazil,BR,🇧🇷,0,low,No,Voex Telecom Ltda,9754
+45.168.244.16:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Maxima Internet Banda Larga,17785
+186.250.160.177:8090,HTTP,Brazil,BR,🇧🇷,0,low,No,g j pereira,16397
+45.179.107.253:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Wlnet Telecon,9399
+45.180.84.105:443,HTTP,Brazil,BR,🇧🇷,0,low,No,AN TELECOM,8863
+191.252.202.127:8885,HTTP,Brazil,BR,🇧🇷,0,low,No,Locaweb Serviços de Internet S/A,10186
+191.252.203.222:8885,HTTP,Brazil,BR,🇧🇷,0,low,No,Locaweb Serviços de Internet S/A,8474
+191.252.113.21:3128,HTTP,Brazil,BR,🇧🇷,0,low,No,Locaweb Serviços de Internet S/A,24935
+190.83.40.166:3128,HTTP,Brazil,BR,🇧🇷,2,low,No,Jose DAS Gracas Soares De Lima Eireli,8931
+201.149.127.22:8080,HTTP,Brazil,BR,🇧🇷,2,low,No,Garra Telecom Ltda,5719
+15.229.231.89:21406,HTTP,Brazil,BR,🇧🇷,3,low,No,"Amazon.com, Inc.",3082
+15.229.231.89:36825,HTTP,Brazil,BR,🇧🇷,3,low,No,"Amazon.com, Inc.",1967
+15.229.231.89:30859,HTTP,Brazil,BR,🇧🇷,3,low,No,"Amazon.com, Inc.",4964
+15.229.231.89:8772,HTTP,Brazil,BR,🇧🇷,3,low,No,"Amazon.com, Inc.",7765
+201.62.82.4:8080,HTTP,Brazil,BR,🇧🇷,4,low,No,Life Tecnologia Ltda.,10194
+177.19.167.242:80,HTTP,Brazil,BR,🇧🇷,4,low,No,TELEFÔNICA BRASIL S.A,11705
+18.231.214.206:55810,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,2095
+18.231.214.206:6151,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,5196
+18.231.214.206:24389,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,3238
+200.205.240.130:3128,HTTP,Brazil,BR,🇧🇷,5,low,No,Vivo,10331
+186.216.208.98:3128,HTTP,Brazil,BR,🇧🇷,10,low,Yes,Clicknet Brasil Informatica E Telecomunicacoes LT,5724
+167.250.22.54:9090,HTTP,Brazil,BR,🇧🇷,14,low,No,OnNet Telecomunicações LTDA,8409
+177.85.7.122:8080,HTTP,Brazil,BR,🇧🇷,14,low,No,OnNet Telecomunicações LTDA,4622
+209.14.68.68:8888,HTTP,Brazil,BR,🇧🇷,18,low,No,Qnax Ltda,23955
+186.227.119.91:8080,HTTP,Brazil,BR,🇧🇷,25,medium,No,Orssatto Telecom Telecomunicacoes - Eireli,20611

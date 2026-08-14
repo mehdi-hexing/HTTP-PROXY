@@ -1,48 +1,35 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-8.211.51.115:104,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7620
-95.85.233.144:18443,HTTP,Germany,DE,🇩🇪,0,low,No,WAIcore Ltd,1040
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,1167
-195.133.65.238:10909,HTTP,Germany,DE,🇩🇪,0,low,No,Chsl ONE LTD,7737
-79.132.143.144:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Fornex Hosting S.L.,9851
-8.211.49.86:87,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7616
-8.211.49.86:5060,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7588
-8.211.42.167:8083,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7604
-47.91.89.3:9080,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,7610
-92.205.186.129:1080,HTTP,Germany,DE,🇩🇪,0,low,No,Host Europe GmbH,24024
-2.26.65.76:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Chsl ONE LTD,13391
-204.76.203.9:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Pfcloud UG,970
-194.180.188.100:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Hostkey B.V.,19950
-176.94.224.86:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Vodafone GmbH,7958
-8.211.51.115:4145,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",8935
-8.211.49.86:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7628
-8.211.42.167:80,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7630
-8.211.42.167:8443,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7635
-47.91.89.3:9098,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,14961
-81.7.11.130:8888,HTTP,Germany,DE,🇩🇪,0,low,No,EUSERV-SRV,1269
-81.7.11.130:8888,HTTP,Germany,DE,🇩🇪,0,low,No,EUSERV-SRV,1236
-195.133.65.238:10809,HTTP,Germany,DE,🇩🇪,0,low,No,Chsl ONE LTD,8736
-3.127.27.51:33619,HTTP,Germany,DE,🇩🇪,2,low,No,Amazon Technologies Inc.,1330
-3.127.27.51:49381,HTTP,Germany,DE,🇩🇪,2,low,No,Amazon Technologies Inc.,1425
-3.127.27.51:9088,HTTP,Germany,DE,🇩🇪,2,low,No,Amazon Technologies Inc.,1458
-3.121.130.230:8254,HTTP,Germany,DE,🇩🇪,2,low,No,Amazon Technologies Inc.,2242
-8.209.96.245:4002,HTTP,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,7599
-8.209.96.245:8443,HTTP,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,7594
-63.179.134.206:34677,HTTP,Germany,DE,🇩🇪,4,low,No,Amazon.com,2407
-116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,2554
-64.188.57.128:3128,HTTP,Germany,DE,🇩🇪,6,low,No,"Timeweb, LLP",17533
-148.251.86.68:16379,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,16028
-148.251.87.79:16379,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,17055
-64.188.57.128:3128,HTTP,Germany,DE,🇩🇪,6,low,No,"Timeweb, LLP",18044
-159.195.43.169:8080,HTTP,Germany,DE,🇩🇪,6,low,No,netcup GmbH,19734
-173.249.50.95:3128,HTTP,Germany,DE,🇩🇪,13,low,No,Contabo GmbH,18732
-157.173.120.204:3128,HTTP,Germany,DE,🇩🇪,13,low,Yes,Contabo GmbH,1066
-176.125.242.58:3128,HTTP,Germany,DE,🇩🇪,13,low,No,Alexhost SRL,17458
-176.57.189.138:3128,HTTP,Germany,DE,🇩🇪,13,low,No,Contabo GmbH,1201
-176.57.189.138:3128,HTTP,Germany,DE,🇩🇪,13,low,No,Contabo GmbH,3620
-159.195.49.27:8888,HTTP,Germany,DE,🇩🇪,18,low,Yes,netcup GmbH,1621
-77.110.107.82:3128,HTTP,Germany,DE,🇩🇪,22,medium,No,Global Connectivity Solutions LLP,18140
-217.12.215.163:10808,HTTP,Germany,DE,🇩🇪,33,medium,No,Green Floid LLC,9796
-141.95.53.104:9898,HTTP,Germany,DE,🇩🇪,51,medium,No,OVH SAS,6295
-54.37.72.89:80,HTTP,Germany,DE,🇩🇪,51,medium,No,OVH SAS,1098
-54.37.73.95:8000,HTTP,Germany,DE,🇩🇪,51,medium,No,OVH SAS,1785
-152.53.20.190:20000,HTTP,Germany,DE,🇩🇪,62,high,Yes,netcup GmbH,4159
+8.211.51.115:104,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7727
+173.212.245.136:8888,HTTP,Germany,DE,🇩🇪,0,low,No,Contabo GmbH,11018
+85.234.100.149:1080,HTTP,Germany,DE,🇩🇪,0,low,Yes,Global Connectivity Solutions LLP,11081
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,1119
+95.85.233.144:18443,HTTP,Germany,DE,🇩🇪,0,low,No,WAIcore Ltd,15396
+8.211.49.86:87,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7715
+8.211.42.167:8083,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7733
+47.91.89.3:9080,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,7723
+204.76.203.9:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Pfcloud UG,1149
+8.211.51.115:4145,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7734
+8.211.42.167:80,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7724
+8.211.42.167:8443,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7789
+47.91.89.3:80,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,7729
+47.91.89.3:1081,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,7724
+81.7.11.130:8888,HTTP,Germany,DE,🇩🇪,0,low,No,EUSERV-SRV,1564
+81.7.11.130:8888,HTTP,Germany,DE,🇩🇪,0,low,No,EUSERV-SRV,1466
+3.127.27.51:22064,HTTP,Germany,DE,🇩🇪,2,low,No,Amazon Technologies Inc.,1585
+3.121.130.230:8426,HTTP,Germany,DE,🇩🇪,2,low,No,Amazon Technologies Inc.,2623
+3.121.130.230:9316,HTTP,Germany,DE,🇩🇪,2,low,No,Amazon Technologies Inc.,4267
+8.209.96.245:4002,HTTP,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,7743
+8.209.96.245:8080,HTTP,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,7868
+116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,7857
+148.251.86.76:16379,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,19402
+148.251.86.68:16379,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,20013
+85.209.132.156:8000,HTTP,Germany,DE,🇩🇪,10,low,No,Baykov Ilya Sergeevich,1688
+176.57.189.138:3128,HTTP,Germany,DE,🇩🇪,13,low,No,Contabo GmbH,1489
+176.125.242.58:3128,HTTP,Germany,DE,🇩🇪,13,low,No,Alexhost SRL,15343
+176.57.189.138:3128,HTTP,Germany,DE,🇩🇪,13,low,No,Contabo GmbH,2089
+150.241.115.160:3128,HTTP,Germany,DE,🇩🇪,17,low,No,DpkgSoft International Limited,5395
+159.195.49.27:8888,HTTP,Germany,DE,🇩🇪,18,low,Yes,netcup GmbH,1420
+46.203.233.116:3128,HTTP,Germany,DE,🇩🇪,31,medium,No,Freakhosting LTD,12247
+31.25.236.95:3128,HTTP,Germany,DE,🇩🇪,39,medium,No,Massivegrid LTD,15794
+152.53.20.190:20000,HTTP,Germany,DE,🇩🇪,62,high,Yes,netcup GmbH,4338
+152.53.20.190:20000,HTTP,Germany,DE,🇩🇪,62,high,Yes,netcup GmbH,1239
