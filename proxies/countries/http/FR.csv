@@ -1,9 +1,23 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,17669
-191.44.125.9:8080,HTTP,France,FR,🇫🇷,0,low,Yes,High Speed For Internet Services L.L.C,10495
-191.44.125.11:8080,HTTP,France,FR,🇫🇷,0,low,Yes,High Speed For Internet Services L.L.C,4661
-191.44.125.11:8080,HTTP,France,FR,🇫🇷,0,low,Yes,High Speed For Internet Services L.L.C,6477
-51.44.97.6:8971,HTTP,France,FR,🇫🇷,3,low,No,"Amazon.com, Inc.",2401
-13.38.27.183:39593,HTTP,France,FR,🇫🇷,5,low,No,Amazon Technologies Inc.,1368
-37.59.125.131:8888,HTTP,France,FR,🇫🇷,7,low,Yes,OVH SAS,1142
-217.182.195.221:30003,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,8267
+37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,17108
+37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,15047
+191.44.125.6:8080,HTTP,France,FR,🇫🇷,0,low,No,High Speed For Internet Services L.L.C,6681
+191.44.125.11:8080,HTTP,France,FR,🇫🇷,0,low,Yes,High Speed For Internet Services L.L.C,13692
+45.13.116.130:21537,HTTP,France,FR,🇫🇷,0,low,No,ABJP,7981
+46.226.107.156:5080,HTTP,France,FR,🇫🇷,0,low,No,GANDI is an ICANN accredited registrar,1121
+51.44.97.6:8118,HTTP,France,FR,🇫🇷,3,low,No,"Amazon.com, Inc.",1924
+51.44.97.6:2025,HTTP,France,FR,🇫🇷,3,low,No,"Amazon.com, Inc.",1016
+52.47.115.41:8014,HTTP,France,FR,🇫🇷,5,low,No,Amazon Technologies Inc.,2256
+13.38.217.179:7024,HTTP,France,FR,🇫🇷,5,low,No,Amazon Technologies Inc.,4146
+35.180.75.159:55346,HTTP,France,FR,🇫🇷,5,low,No,Amazon Technologies Inc.,4559
+52.47.115.41:23089,HTTP,France,FR,🇫🇷,5,low,No,Amazon Technologies Inc.,1745
+52.47.115.41:46501,HTTP,France,FR,🇫🇷,5,low,No,Amazon Technologies Inc.,1333
+37.59.125.131:8888,HTTP,France,FR,🇫🇷,7,low,Yes,OVH SAS,4935
+51.159.156.201:3128,HTTP,France,FR,🇫🇷,31,medium,No,SCALEWAY,21802
+163.172.129.144:3128,HTTP,France,FR,🇫🇷,31,medium,No,Scaleway SAS,14136
+163.172.189.255:3128,HTTP,France,FR,🇫🇷,31,medium,No,Scaleway SAS,20897
+51.210.105.6:3128,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,1063
+164.132.198.195:3128,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,9342
+146.59.147.182:3128,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,20398
+141.94.220.45:3128,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,22267
+217.182.195.221:30003,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,5144

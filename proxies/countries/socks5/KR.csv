@@ -1,24 +1,32 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-8.220.204.215:8888,SOCKS5,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8059
-8.220.205.172:8080,SOCKS5,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7510
-8.220.205.172:1080,SOCKS5,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7516
-121.169.46.116:1090,SOCKS5,South Korea,KR,🇰🇷,0,low,No,Korea Telecom,7680
-43.164.136.189:1080,SOCKS5,South Korea,KR,🇰🇷,0,low,No,Shenzhen Tencent Computer Systems Company Limited,1398
-43.164.136.189:1080,SOCKS5,South Korea,KR,🇰🇷,0,low,No,Shenzhen Tencent Computer Systems Company Limited,1380
-8.213.156.191:202,SOCKS5,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7532
-8.213.156.191:9080,SOCKS5,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7512
-8.213.156.191:808,SOCKS5,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7529
-8.220.204.215:1080,SOCKS5,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7542
-8.220.205.172:4002,SOCKS5,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",8716
-8.220.204.215:8008,SOCKS5,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7518
-8.220.204.215:90,SOCKS5,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7520
-8.220.205.172:8008,SOCKS5,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7514
-8.220.205.172:8888,SOCKS5,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7551
-8.213.128.6:888,SOCKS5,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",10207
-8.213.128.6:8090,SOCKS5,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",8944
-8.220.204.92:1200,SOCKS5,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7521
-52.78.144.96:1080,SOCKS5,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,5905
-8.220.204.92:8090,SOCKS5,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7512
-152.70.237.238:3128,SOCKS5,South Korea,KR,🇰🇷,2,low,No,Oracle Corporation,1774
-146.56.191.98:14785,SOCKS5,South Korea,KR,🇰🇷,2,low,No,Oracle Corporation,9774
-61.78.63.200:30001,SOCKS5,South Korea,KR,🇰🇷,3,low,No,Korea Telecom,1533
+8.220.204.215:8888,SOCKS5,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7487
+8.220.204.215:808,SOCKS5,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7487
+8.220.204.215:443,SOCKS5,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7486
+121.169.46.116:1090,SOCKS5,South Korea,KR,🇰🇷,0,low,No,Korea Telecom,1871
+43.164.136.189:1080,SOCKS5,South Korea,KR,🇰🇷,0,low,No,Shenzhen Tencent Computer Systems Company Limited,1332
+8.213.134.213:3129,SOCKS5,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7515
+121.169.46.116:1090,SOCKS5,South Korea,KR,🇰🇷,0,low,No,Korea Telecom,1564
+43.164.136.189:1080,SOCKS5,South Korea,KR,🇰🇷,0,low,No,Shenzhen Tencent Computer Systems Company Limited,2664
+8.213.134.213:202,SOCKS5,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7498
+8.213.134.213:18080,SOCKS5,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8553
+8.220.204.92:443,SOCKS5,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7478
+8.220.204.92:5060,SOCKS5,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7479
+8.220.204.92:100,SOCKS5,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7489
+8.220.205.172:55443,SOCKS5,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7480
+8.220.205.172:9020,SOCKS5,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7485
+8.220.205.172:9098,SOCKS5,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",9341
+8.213.156.191:202,SOCKS5,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",8514
+8.213.156.191:9080,SOCKS5,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7479
+8.213.156.191:808,SOCKS5,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7496
+8.220.204.215:8008,SOCKS5,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7488
+8.220.204.215:90,SOCKS5,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7489
+8.220.204.92:8123,SOCKS5,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7478
+8.220.204.92:55443,SOCKS5,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7487
+8.213.128.6:50,SOCKS5,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",8772
+8.213.128.6:8090,SOCKS5,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",15390
+8.213.128.6:41,SOCKS5,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",8883
+8.220.204.92:1200,SOCKS5,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7498
+152.70.237.238:3128,SOCKS5,South Korea,KR,🇰🇷,2,low,No,Oracle Corporation,6819
+152.70.237.238:3128,SOCKS5,South Korea,KR,🇰🇷,2,low,No,Oracle Corporation,1799
+61.78.63.200:30001,SOCKS5,South Korea,KR,🇰🇷,3,low,No,Korea Telecom,1487
+61.78.63.200:30001,SOCKS5,South Korea,KR,🇰🇷,3,low,No,Korea Telecom,2146
