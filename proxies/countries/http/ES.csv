@@ -1,3 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-95.60.60.204:3128,HTTP,Spain,ES,🇪🇸,0,low,No,Vodafone Espana S.A.U.,8460
-66.163.118.99:10006,HTTP,Spain,ES,🇪🇸,0,low,Yes,GTHost,2637
+66.163.118.99:10006,HTTP,Spain,ES,🇪🇸,0,low,Yes,GTHost,851
+2.139.38.192:3128,HTTP,Spain,ES,🇪🇸,1,low,No,RIMA (Red IP Multi Acceso),10557
+141.227.128.55:3128,HTTP,Spain,ES,🇪🇸,44,medium,No,OVH SAS,8673
+141.227.128.55:3128,HTTP,Spain,ES,🇪🇸,44,medium,No,OVH SAS,9266
