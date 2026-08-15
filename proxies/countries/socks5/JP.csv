@@ -1,31 +1,33 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-8.221.138.111:19,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7502
-8.221.138.111:9080,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",8737
-103.75.118.84:1080,SOCKS5,Japan,JP,🇯🇵,0,low,No,BrainStorm Network,3647
-47.91.29.151:9200,SOCKS5,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,7520
-47.91.29.151:9091,SOCKS5,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,7528
-47.91.29.151:4002,SOCKS5,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,7519
-103.75.118.84:1080,SOCKS5,Japan,JP,🇯🇵,0,low,No,BrainStorm Network,2568
-8.221.141.88:548,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",12335
-8.221.141.88:9098,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7498
-47.74.46.81:8443,SOCKS5,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7499
-8.221.141.88:9036,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7515
-47.74.46.81:9080,SOCKS5,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7501
-8.221.139.222:666,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7511
-47.74.46.81:102,SOCKS5,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7500
-8.221.139.222:6379,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7497
-8.221.139.222:8026,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7498
-118.194.228.2:10808,SOCKS5,Japan,JP,🇯🇵,0,low,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,5012
-8.221.138.111:10002,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7498
-47.91.29.151:8888,SOCKS5,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,7496
-8.221.141.88:7634,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7511
-8.221.141.88:1081,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7502
-47.74.46.81:9090,SOCKS5,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,14675
-47.74.46.81:8000,SOCKS5,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7517
-47.91.29.151:6969,SOCKS5,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,7510
-141.147.146.174:1080,SOCKS5,Japan,JP,🇯🇵,2,low,No,Oracle Corporation,6166
-35.78.252.142:6978,SOCKS5,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",830
-101.36.104.239:10808,SOCKS5,Japan,JP,🇯🇵,25,medium,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1337
-209.182.234.151:40000,SOCKS5,Japan,JP,🇯🇵,67,high,No,"HIVELOCITY, Inc.",7764
-101.36.104.46:10808,SOCKS5,Japan,JP,🇯🇵,100,very_high,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1389
-101.36.104.46:10808,SOCKS5,Japan,JP,🇯🇵,100,very_high,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1354
+8.221.138.111:19,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7413
+8.221.138.111:9080,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7415
+103.75.118.84:1080,SOCKS5,Japan,JP,🇯🇵,0,low,No,BrainStorm Network,4535
+47.91.29.151:81,SOCKS5,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,7415
+8.221.139.222:4002,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7422
+8.221.139.222:5060,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7419
+103.75.118.84:1080,SOCKS5,Japan,JP,🇯🇵,0,low,No,BrainStorm Network,2449
+8.221.139.222:3128,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7410
+8.221.141.88:8081,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7446
+8.221.141.88:4301,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7433
+8.221.141.88:8443,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7426
+47.74.46.81:8443,SOCKS5,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7417
+47.74.46.81:9080,SOCKS5,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7416
+45.76.104.16:1080,SOCKS5,Japan,JP,🇯🇵,0,low,No,The Constant Company,1239
+47.74.46.81:102,SOCKS5,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7417
+118.194.228.2:10808,SOCKS5,Japan,JP,🇯🇵,0,low,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,6424
+38.54.50.148:1080,SOCKS5,Japan,JP,🇯🇵,0,low,No,Kaopu Cloud HK Limited,3394
+8.221.138.111:8192,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7415
+8.221.138.111:10002,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7416
+47.91.29.151:3129,SOCKS5,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,7416
+47.91.29.151:41451,SOCKS5,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,7417
+47.91.29.151:8888,SOCKS5,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,7429
+8.221.141.88:7634,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7423
+8.221.141.88:1081,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7427
+8.221.139.222:800,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7417
+47.74.46.81:8000,SOCKS5,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7417
+34.84.162.206:38081,SOCKS5,Japan,JP,🇯🇵,2,low,Yes,Google LLC,4876
+35.78.252.142:6978,SOCKS5,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",692
+101.36.104.239:10808,SOCKS5,Japan,JP,🇯🇵,25,medium,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1152
+101.36.104.239:10808,SOCKS5,Japan,JP,🇯🇵,25,medium,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1174
+101.36.104.46:10808,SOCKS5,Japan,JP,🇯🇵,100,very_high,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1688
+101.36.104.46:10808,SOCKS5,Japan,JP,🇯🇵,100,very_high,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1339

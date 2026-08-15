@@ -1,50 +1,54 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-45.114.142.178:443,HTTPS,India,IN,🇮🇳,0,low,No,PSRHoldings,2533
-203.193.169.112:443,HTTPS,India,IN,🇮🇳,0,low,No,"Software Technology Parks of India, Society",3053
-52.140.7.131:443,HTTPS,India,IN,🇮🇳,0,low,No,Microsoft Corporation,3071
-3.109.65.43:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,2668
-210.89.42.212:443,HTTPS,India,IN,🇮🇳,0,low,No,Web Werks India Pvt. Ltd.,2929
-103.1.100.17:443,HTTPS,India,IN,🇮🇳,0,low,No,Gujarat Telelink Pvt Ltd.,2970
-103.104.73.130:443,HTTPS,India,IN,🇮🇳,0,low,No,Web Werks India Pvt. Ltd.,3148
-5.178.98.214:443,HTTPS,India,IN,🇮🇳,0,low,No,Serverwala Cloud Datacenters Private Limited,3007
-210.89.42.108:443,HTTPS,India,IN,🇮🇳,0,low,No,Web Werks India Pvt. Ltd.,3087
-4.240.88.77:443,HTTPS,India,IN,🇮🇳,0,low,No,Microsoft Corporation,2904
-163.223.186.141:443,HTTPS,India,IN,🇮🇳,0,low,No,Devpeter Datacenter Private Limited,3293
-20.235.106.55:443,HTTPS,India,IN,🇮🇳,0,low,No,Microsoft Corporation,2694
-4.213.225.50:443,HTTPS,India,IN,🇮🇳,0,low,No,Microsoft Corporation,2824
-14.99.141.239:443,HTTPS,India,IN,🇮🇳,0,low,No,Tata Teleservices LTD - Tata Indicom - Cdma Division,3303
-20.219.163.207:443,HTTPS,India,IN,🇮🇳,0,low,No,Microsoft Corporation,2955
-103.251.94.188:443,HTTPS,India,IN,🇮🇳,0,low,No,Web Werks India Pvt Ltd,3479
-103.251.94.10:443,HTTPS,India,IN,🇮🇳,0,low,No,Web Werks India Pvt Ltd,3573
-3.7.231.200:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc,2689
-217.145.69.109:443,HTTPS,India,IN,🇮🇳,0,low,No,Serverwala Cloud Datacenters Private Limited,2827
-182.156.203.41:443,HTTPS,India,IN,🇮🇳,0,low,No,Ttsl-isp Division,2873
-13.127.196.227:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc,2728
-35.154.0.137:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,2728
-65.1.30.113:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon.com,2719
-3.110.20.129:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,2607
-98.70.81.29:443,HTTPS,India,IN,🇮🇳,0,low,No,BellSouth.net Inc.,2592
-202.162.232.76:443,HTTPS,India,IN,🇮🇳,0,low,No,Tata Communications Limited,2693
-3.6.32.251:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc,2710
-65.0.68.234:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon.com,2800
-13.232.233.63:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,2842
-3.111.253.23:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,2717
-13.235.75.49:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,2614
-15.206.173.208:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,2754
-165.231.253.210:443,HTTPS,India,IN,🇮🇳,0,low,Yes,Orion Network Limited,2612
-165.231.253.210:9443,HTTPS,India,IN,🇮🇳,0,low,Yes,Orion Network Limited,3661
-165.231.253.242:443,HTTPS,India,IN,🇮🇳,0,low,Yes,Orion Network Limited,2538
-103.26.207.94:443,HTTPS,India,IN,🇮🇳,0,low,Yes,Leapswitch Networks Private Limited,2747
-165.231.253.66:9443,HTTPS,India,IN,🇮🇳,0,low,Yes,Orion Network Limited,2562
-3.108.98.11:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,2503
-52.66.121.218:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,2534
-165.231.253.58:9443,HTTPS,India,IN,🇮🇳,0,low,Yes,Orion Network Limited,2520
-49.50.72.246:443,HTTPS,India,IN,🇮🇳,0,low,No,Cyfuture India Pvt. Ltd.,2734
-13.235.75.49:6060,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,2479
-103.239.146.98:443,HTTPS,India,IN,🇮🇳,0,low,No,Fiberpipe communications pvt. ltd,2860
-34.93.103.38:443,HTTPS,India,IN,🇮🇳,2,low,No,Google LLC,2796
-34.93.13.41:443,HTTPS,India,IN,🇮🇳,2,low,No,Google LLC,3070
-34.93.139.69:443,HTTPS,India,IN,🇮🇳,2,low,No,Google LLC,2838
-13.201.217.41:443,HTTPS,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",3032
-157.245.96.148:443,HTTPS,India,IN,🇮🇳,53,medium,No,"DigitalOcean, LLC",3186
-128.199.19.32:443,HTTPS,India,IN,🇮🇳,53,medium,No,"DigitalOcean, LLC",3103
+45.114.142.178:443,HTTPS,India,IN,🇮🇳,0,low,No,PSRHoldings,2721
+203.193.169.112:443,HTTPS,India,IN,🇮🇳,0,low,No,"Software Technology Parks of India, Society",3481
+52.140.7.131:443,HTTPS,India,IN,🇮🇳,0,low,No,Microsoft Corporation,3164
+3.109.65.43:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,3125
+210.89.42.212:443,HTTPS,India,IN,🇮🇳,0,low,No,Web Werks India Pvt. Ltd.,2948
+103.1.100.17:443,HTTPS,India,IN,🇮🇳,0,low,No,Gujarat Telelink Pvt Ltd.,2955
+103.104.73.130:443,HTTPS,India,IN,🇮🇳,0,low,No,Web Werks India Pvt. Ltd.,3529
+5.178.98.214:443,HTTPS,India,IN,🇮🇳,0,low,No,Serverwala Cloud Datacenters Private Limited,3331
+210.89.42.108:443,HTTPS,India,IN,🇮🇳,0,low,No,Web Werks India Pvt. Ltd.,3257
+4.240.88.77:443,HTTPS,India,IN,🇮🇳,0,low,No,Microsoft Corporation,3156
+163.223.186.141:443,HTTPS,India,IN,🇮🇳,0,low,No,Devpeter Datacenter Private Limited,3482
+20.235.106.55:443,HTTPS,India,IN,🇮🇳,0,low,No,Microsoft Corporation,3246
+4.213.225.50:443,HTTPS,India,IN,🇮🇳,0,low,No,Microsoft Corporation,3313
+14.99.141.239:443,HTTPS,India,IN,🇮🇳,0,low,No,Tata Teleservices LTD - Tata Indicom - Cdma Division,3737
+20.219.163.207:443,HTTPS,India,IN,🇮🇳,0,low,No,Microsoft Corporation,3379
+103.251.94.10:443,HTTPS,India,IN,🇮🇳,0,low,No,Web Werks India Pvt Ltd,3387
+103.251.94.188:443,HTTPS,India,IN,🇮🇳,0,low,No,Web Werks India Pvt Ltd,3636
+3.7.231.200:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc,3354
+217.145.69.109:443,HTTPS,India,IN,🇮🇳,0,low,No,Serverwala Cloud Datacenters Private Limited,2962
+182.156.203.41:443,HTTPS,India,IN,🇮🇳,0,low,No,Ttsl-isp Division,3066
+65.1.30.113:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon.com,2930
+13.127.196.227:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc,3103
+35.154.0.137:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,3152
+3.110.20.129:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,2829
+98.70.81.29:443,HTTPS,India,IN,🇮🇳,0,low,No,BellSouth.net Inc.,3184
+202.162.232.76:443,HTTPS,India,IN,🇮🇳,0,low,No,Tata Communications Limited,3184
+3.6.32.251:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc,2995
+65.0.68.234:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon.com,2952
+13.232.233.63:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,3007
+3.111.253.23:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,2860
+13.235.75.49:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,2812
+15.206.173.208:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,2842
+165.231.253.210:9443,HTTPS,India,IN,🇮🇳,0,low,Yes,Orion Network Limited,3791
+165.231.253.210:443,HTTPS,India,IN,🇮🇳,0,low,Yes,Orion Network Limited,3685
+165.231.253.242:443,HTTPS,India,IN,🇮🇳,0,low,Yes,Orion Network Limited,5375
+103.26.207.94:443,HTTPS,India,IN,🇮🇳,0,low,Yes,Leapswitch Networks Private Limited,2888
+165.231.253.66:9443,HTTPS,India,IN,🇮🇳,0,low,Yes,Orion Network Limited,3893
+98.130.11.240:8443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon.com,5621
+3.108.98.11:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,2920
+52.66.121.218:443,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,3193
+165.231.253.58:9443,HTTPS,India,IN,🇮🇳,0,low,Yes,Orion Network Limited,2744
+49.50.72.246:443,HTTPS,India,IN,🇮🇳,0,low,No,Cyfuture India Pvt. Ltd.,3011
+13.235.75.49:6060,HTTPS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,2913
+103.239.146.98:443,HTTPS,India,IN,🇮🇳,0,low,No,Fiberpipe communications pvt. ltd,3084
+40.192.121.249:7382,HTTPS,India,IN,🇮🇳,1,low,No,"Amazon.com, Inc.",5817
+34.93.103.38:443,HTTPS,India,IN,🇮🇳,2,low,No,Google LLC,3277
+34.93.13.41:443,HTTPS,India,IN,🇮🇳,2,low,No,Google LLC,3379
+34.93.139.69:443,HTTPS,India,IN,🇮🇳,2,low,No,Google LLC,3131
+13.201.217.41:443,HTTPS,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",3125
+13.206.73.237:16546,HTTPS,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",7508
+43.205.113.210:32323,HTTPS,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",8861
+157.245.96.148:443,HTTPS,India,IN,🇮🇳,53,medium,No,"DigitalOcean, LLC",3070
+128.199.19.32:443,HTTPS,India,IN,🇮🇳,53,medium,No,"DigitalOcean, LLC",3219
