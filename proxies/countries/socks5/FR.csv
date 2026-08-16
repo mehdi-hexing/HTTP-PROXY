@@ -1,9 +1,14 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-15.237.108.20:54588,SOCKS5,France,FR,🇫🇷,5,low,No,Amazon Technologies Inc.,504
-109.172.55.177:1082,SOCKS5,France,FR,🇫🇷,22,medium,No,Global Connectivity Solutions LLP,696
-62.133.62.18:1082,SOCKS5,France,FR,🇫🇷,22,medium,No,Global Connectivity Solutions LLP,703
-51.15.253.45:8080,SOCKS5,France,FR,🇫🇷,31,medium,No,SCALEWAY,6015
-51.159.97.242:10006,SOCKS5,France,FR,🇫🇷,31,medium,No,SCALEWAY,485
-51.159.97.242:10006,SOCKS5,France,FR,🇫🇷,31,medium,No,SCALEWAY,490
-152.228.134.176:48080,SOCKS5,France,FR,🇫🇷,44,medium,No,OVH SAS,1631
-94.23.21.76:9050,SOCKS5,France,FR,🇫🇷,44,medium,No,OVH SAS,3533
+31.24.251.15:1080,SOCKS5,France,FR,🇫🇷,0,low,No,BitWeb LLC,2016
+15.237.108.20:54588,SOCKS5,France,FR,🇫🇷,5,low,No,Amazon Technologies Inc.,563
+109.172.55.177:1082,SOCKS5,France,FR,🇫🇷,22,medium,No,Global Connectivity Solutions LLP,2884
+109.172.55.227:1082,SOCKS5,France,FR,🇫🇷,22,medium,No,Global Connectivity Solutions LLP,783
+62.133.62.27:1082,SOCKS5,France,FR,🇫🇷,22,medium,Yes,Global Connectivity Solutions LLP,781
+62.133.62.18:1082,SOCKS5,France,FR,🇫🇷,22,medium,No,Global Connectivity Solutions LLP,802
+62.133.62.18:1082,SOCKS5,France,FR,🇫🇷,22,medium,No,Global Connectivity Solutions LLP,802
+51.159.97.242:10006,SOCKS5,France,FR,🇫🇷,31,medium,No,SCALEWAY,555
+51.159.97.242:10006,SOCKS5,France,FR,🇫🇷,31,medium,No,SCALEWAY,617
+45.95.233.128:1082,SOCKS5,France,FR,🇫🇷,33,medium,No,Global Connectivity Solutions LLP,815
+45.95.233.88:1082,SOCKS5,France,FR,🇫🇷,33,medium,No,Global Connectivity Solutions LLP,2884
+45.95.233.88:1082,SOCKS5,France,FR,🇫🇷,33,medium,No,Global Connectivity Solutions LLP,2851
+152.228.134.176:48080,SOCKS5,France,FR,🇫🇷,44,medium,No,OVH SAS,2803

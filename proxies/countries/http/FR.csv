@@ -1,5 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,1665
-191.44.125.11:8080,HTTP,France,FR,🇫🇷,0,low,Yes,High Speed For Internet Services L.L.C,21913
-37.59.125.131:8888,HTTP,France,FR,🇫🇷,7,low,Yes,OVH SAS,3582
-51.159.97.242:10006,HTTP,France,FR,🇫🇷,31,medium,No,SCALEWAY,4712
+37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,2253
+37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,3893
+37.59.125.131:8888,HTTP,France,FR,🇫🇷,7,low,Yes,OVH SAS,3048
+163.172.189.255:3128,HTTP,France,FR,🇫🇷,31,medium,No,Scaleway SAS,13687
+163.172.129.144:3128,HTTP,France,FR,🇫🇷,31,medium,No,Scaleway SAS,12067
+217.182.195.221:30009,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,4359
+217.182.195.221:30003,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,18678
+79.137.78.133:8013,HTTP,France,FR,🇫🇷,44,medium,Yes,OVH SAS,1137
