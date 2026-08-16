@@ -1,3 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-51.161.54.150:443,HTTPS,Colombia,CO,🇨🇴,0,low,No,OVH SAS,1403
-190.85.38.68:443,HTTPS,Colombia,CO,🇨🇴,1,low,No,Telmex Colombia S.A.,2666
+51.161.54.150:443,HTTPS,Colombia,CO,🇨🇴,0,low,No,OVH SAS,1222
+190.85.38.68:443,HTTPS,Colombia,CO,🇨🇴,1,low,No,Telmex Colombia S.A.,2223
+149.88.111.1:443,HTTPS,Colombia,CO,🇨🇴,41,medium,Yes,Datacamp Limited,2062
+149.88.111.1:9443,HTTPS,Colombia,CO,🇨🇴,41,medium,Yes,Datacamp Limited,2229
+149.88.111.14:9443,HTTPS,Colombia,CO,🇨🇴,41,medium,Yes,Datacamp Limited,2318
