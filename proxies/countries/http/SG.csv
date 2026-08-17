@@ -1,21 +1,30 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-47.237.107.41:20000,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7925
-47.237.2.245:119,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8907
-47.237.113.119:10,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",9283
-47.237.92.86:88,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7939
-8.219.229.53:1081,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",9377
-47.237.113.119:999,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7921
-47.237.2.245:1234,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8083
-47.237.107.41:2000,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7948
-47.237.92.86:8123,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",15122
-8.219.229.53:9080,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7931
-43.160.242.118:3128,HTTP,Singapore,SG,🇸🇬,0,low,Yes,Shenzhen Tencent Computer Systems Company Limited,1988
-103.147.109.250:3128,HTTP,Singapore,SG,🇸🇬,0,low,No,Duke Host Pte. Ltd.,13849
-103.147.109.250:3128,HTTP,Singapore,SG,🇸🇬,0,low,No,Duke Host Pte. Ltd.,2520
-47.237.113.119:9999,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7942
-45.149.93.241:8090,HTTP,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi,16119
-47.237.2.245:2002,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7916
-38.180.9.158:4422,HTTP,Singapore,SG,🇸🇬,16,low,Yes,M247 Europe SRL,1683
-103.164.55.81:3128,HTTP,Singapore,SG,🇸🇬,22,medium,No,Contabo Asia Private Limited,1580
-152.42.167.241:3128,HTTP,Singapore,SG,🇸🇬,51,medium,Yes,"DigitalOcean, LLC",1662
-152.42.167.241:3128,HTTP,Singapore,SG,🇸🇬,51,medium,Yes,"DigitalOcean, LLC",2072
+47.237.107.41:20000,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",9109
+47.237.2.245:119,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7937
+47.237.113.119:10,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7935
+47.237.92.86:88,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8308
+8.219.229.53:1081,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7948
+31.57.178.211:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi,13831
+47.237.113.119:999,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7942
+47.237.2.245:1234,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8125
+47.237.107.41:2000,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8821
+8.219.229.53:3128,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",10596
+8.219.229.53:1026,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",11372
+8.219.229.53:3129,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7946
+43.160.242.118:3128,HTTP,Singapore,SG,🇸🇬,0,low,Yes,Shenzhen Tencent Computer Systems Company Limited,3613
+47.237.92.86:1080,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7930
+103.147.109.250:3128,HTTP,Singapore,SG,🇸🇬,0,low,No,Duke Host Pte. Ltd.,2776
+103.147.109.250:3128,HTTP,Singapore,SG,🇸🇬,0,low,No,Duke Host Pte. Ltd.,2024
+47.237.113.119:9999,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7940
+47.237.2.245:2002,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7959
+54.255.249.161:7547,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.,6706
+13.212.26.15:6727,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,2434
+18.142.95.213:1111,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,2077
+18.142.95.213:7679,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,3103
+18.142.95.213:59226,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,4940
+18.142.95.213:10000,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,3265
+13.214.155.223:8082,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,19072
+38.180.9.158:4422,HTTP,Singapore,SG,🇸🇬,16,low,Yes,M247 Europe SRL,1629
+103.164.55.81:3128,HTTP,Singapore,SG,🇸🇬,22,medium,No,Contabo Asia Private Limited,1565
+152.42.167.241:3128,HTTP,Singapore,SG,🇸🇬,51,medium,Yes,"DigitalOcean, LLC",1678
+188.166.179.50:3128,HTTP,Singapore,SG,🇸🇬,55,medium,No,"DigitalOcean, LLC",27741
