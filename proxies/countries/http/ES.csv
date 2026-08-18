@@ -1,5 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-185.226.195.249:2222,HTTP,Spain,ES,🇪🇸,0,low,No,Pinkbear SLU,8072
-80.78.128.94:8080,HTTP,Spain,ES,🇪🇸,0,low,No,"CLOUDWIFI, SL",5461
-66.163.118.99:10006,HTTP,Spain,ES,🇪🇸,0,low,Yes,GTHost,1646
-2.139.38.192:3128,HTTP,Spain,ES,🇪🇸,1,low,No,RIMA (Red IP Multi Acceso),8434
+66.163.118.99:10006,HTTP,Spain,ES,🇪🇸,0,low,Yes,GTHost,19880
+95.60.60.204:3128,HTTP,Spain,ES,🇪🇸,0,low,No,Vodafone Espana S.A.U.,8829
+2.139.38.192:3128,HTTP,Spain,ES,🇪🇸,1,low,No,RIMA (Red IP Multi Acceso),9407
+51.92.173.133:47702,HTTP,Spain,ES,🇪🇸,3,low,No,"Amazon.com, Inc.",5262
+51.49.153.183:58367,HTTP,Spain,ES,🇪🇸,23,medium,No,"Amazon.com, Inc.",5203
+66.163.118.105:10006,HTTP,Spain,ES,🇪🇸,57,medium,Yes,GTHost,12527
