@@ -1,15 +1,36 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-103.75.118.84:1080,SOCKS5,Japan,JP,🇯🇵,0,low,No,BrainStorm Network,6666
-45.76.104.16:1080,SOCKS5,Japan,JP,🇯🇵,0,low,No,The Constant Company,8516
-103.75.118.84:1080,SOCKS5,Japan,JP,🇯🇵,0,low,No,BrainStorm Network,3984
-118.194.228.2:10808,SOCKS5,Japan,JP,🇯🇵,0,low,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1202
-118.194.228.2:10808,SOCKS5,Japan,JP,🇯🇵,0,low,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,2234
-34.84.162.206:38081,SOCKS5,Japan,JP,🇯🇵,2,low,Yes,Google LLC,1801
-152.70.107.226:1080,SOCKS5,Japan,JP,🇯🇵,2,low,No,Oracle Corporation,1655
-138.3.218.141:54261,SOCKS5,Japan,JP,🇯🇵,2,low,No,Oracle Corporation,11962
-152.70.107.226:1080,SOCKS5,Japan,JP,🇯🇵,2,low,No,Oracle Corporation,1535
-34.84.162.206:38081,SOCKS5,Japan,JP,🇯🇵,2,low,Yes,Google LLC,10275
-101.36.104.239:10808,SOCKS5,Japan,JP,🇯🇵,25,medium,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1233
-101.36.104.239:10808,SOCKS5,Japan,JP,🇯🇵,25,medium,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,2372
-152.32.203.130:10808,SOCKS5,Japan,JP,🇯🇵,25,medium,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,3731
-101.36.104.46:10808,SOCKS5,Japan,JP,🇯🇵,100,very_high,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,2124
+47.91.29.151:194,SOCKS5,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,7311
+8.221.138.111:19,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7315
+47.74.46.81:6606,SOCKS5,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7334
+8.221.139.222:9080,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7317
+8.221.139.222:9098,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7319
+8.221.139.222:199,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7390
+103.75.118.84:1080,SOCKS5,Japan,JP,🇯🇵,0,low,No,BrainStorm Network,4170
+103.75.118.84:1080,SOCKS5,Japan,JP,🇯🇵,0,low,No,BrainStorm Network,3249
+118.194.228.2:10808,SOCKS5,Japan,JP,🇯🇵,0,low,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,6917
+47.91.29.151:8087,SOCKS5,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,7311
+47.91.29.151:6666,SOCKS5,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,7309
+8.221.141.88:9036,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7328
+8.221.141.88:50,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7343
+45.76.104.16:1080,SOCKS5,Japan,JP,🇯🇵,0,low,No,The Constant Company,5050
+47.91.29.151:33427,SOCKS5,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,7320
+8.221.141.88:1027,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7323
+118.194.228.2:10808,SOCKS5,Japan,JP,🇯🇵,0,low,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,5913
+8.221.138.111:8081,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7319
+8.221.138.111:100,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7361
+8.221.138.111:46691,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7315
+8.221.139.222:39,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7308
+47.74.46.81:37777,SOCKS5,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,15781
+8.221.139.222:8081,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7786
+8.221.139.222:8028,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7315
+47.74.46.81:8118,SOCKS5,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7312
+47.74.46.81:3129,SOCKS5,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7313
+47.91.29.151:6969,SOCKS5,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,7312
+8.221.141.88:503,SOCKS5,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7311
+47.91.29.151:1080,SOCKS5,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,8070
+152.70.107.226:1080,SOCKS5,Japan,JP,🇯🇵,2,low,No,Oracle Corporation,7114
+34.84.162.206:38081,SOCKS5,Japan,JP,🇯🇵,2,low,Yes,Google LLC,1704
+101.36.104.239:10808,SOCKS5,Japan,JP,🇯🇵,25,medium,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1221
+101.36.104.239:10808,SOCKS5,Japan,JP,🇯🇵,25,medium,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1522
+152.32.203.130:10808,SOCKS5,Japan,JP,🇯🇵,25,medium,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,795
+101.36.104.46:10808,SOCKS5,Japan,JP,🇯🇵,100,very_high,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1200

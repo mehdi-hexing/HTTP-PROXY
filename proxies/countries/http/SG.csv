@@ -1,24 +1,29 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-47.237.107.41:20000,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8063
-47.237.2.245:119,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8057
-43.160.255.142:7890,HTTP,Singapore,SG,🇸🇬,0,low,Yes,Aceville Pte.ltd,8715
-47.237.113.119:10,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8079
-47.237.92.86:88,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8100
-8.219.229.53:1081,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8073
-8.219.97.248:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Alibaba Cloud (Singapore) Private Limited,4556
-47.237.113.119:5060,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8278
-47.237.2.245:1234,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8926
-47.237.107.41:2000,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",9212
-8.219.229.53:9080,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8102
-43.160.242.118:3128,HTTP,Singapore,SG,🇸🇬,0,low,Yes,Shenzhen Tencent Computer Systems Company Limited,3961
-47.237.92.86:1080,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8065
-47.237.113.119:9999,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8054
-47.237.2.245:2002,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8086
-13.214.151.56:8081,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,2010
-38.180.9.158:4422,HTTP,Singapore,SG,🇸🇬,16,low,Yes,M247 Europe SRL,1874
-152.42.167.241:3128,HTTP,Singapore,SG,🇸🇬,51,medium,Yes,"DigitalOcean, LLC",14073
-152.42.167.241:3128,HTTP,Singapore,SG,🇸🇬,51,medium,Yes,"DigitalOcean, LLC",8035
-159.223.52.199:3128,HTTP,Singapore,SG,🇸🇬,52,medium,Yes,"DigitalOcean, LLC",15969
-167.71.217.74:3129,HTTP,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",2103
-167.71.217.74:3129,HTTP,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",1827
-153.76.249.177:20202,HTTP,Singapore,SG,🇸🇬,55,medium,No,"Kamatera, Inc.",22544
+8.219.97.248:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Alibaba Cloud (Singapore) Private Limited,3673
+47.237.107.41:20000,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7819
+47.237.2.245:119,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7816
+47.237.113.119:10,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7823
+47.237.153.201:8000,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",13083
+47.237.92.86:88,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7820
+8.219.229.53:1081,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7827
+47.237.2.245:1234,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7839
+47.237.107.41:2000,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7835
+47.237.113.119:16044,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7907
+47.237.113.119:8008,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7847
+47.237.92.86:8123,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",15014
+8.219.229.53:9080,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7815
+43.160.242.118:3128,HTTP,Singapore,SG,🇸🇬,0,low,Yes,Shenzhen Tencent Computer Systems Company Limited,4561
+47.237.2.245:2002,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7816
+47.237.92.86:115,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7817
+54.255.249.161:2299,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.,5081
+54.255.249.161:8798,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.,1881
+54.255.249.161:16811,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.,9260
+18.142.95.213:1111,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,2973
+18.142.95.213:7679,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,1941
+13.212.26.15:59939,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,4171
+13.214.151.56:8081,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,1477
+13.250.95.3:8082,HTTP,Singapore,SG,🇸🇬,3,low,No,"Amazon.com, Inc.",19084
+38.180.9.158:4422,HTTP,Singapore,SG,🇸🇬,16,low,Yes,M247 Europe SRL,1606
+103.164.55.81:3128,HTTP,Singapore,SG,🇸🇬,22,medium,No,Contabo Asia Private Limited,1980
+152.42.167.241:3128,HTTP,Singapore,SG,🇸🇬,51,medium,Yes,"DigitalOcean, LLC",1689
+152.42.167.241:3128,HTTP,Singapore,SG,🇸🇬,51,medium,Yes,"DigitalOcean, LLC",10825
