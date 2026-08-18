@@ -1,18 +1,12 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,1497
-191.44.125.9:8080,HTTP,France,FR,🇫🇷,0,low,Yes,High Speed For Internet Services L.L.C,16307
-191.44.125.14:8080,HTTP,France,FR,🇫🇷,0,low,Yes,High Speed For Internet Services L.L.C,7238
-158.178.199.157:80,HTTP,France,FR,🇫🇷,2,low,No,Oracle Corporation,1567
-158.178.199.157:80,HTTP,France,FR,🇫🇷,2,low,No,Oracle Corporation,1308
-51.44.97.6:8091,HTTP,France,FR,🇫🇷,3,low,No,"Amazon.com, Inc.",1136
-51.44.97.6:20999,HTTP,France,FR,🇫🇷,3,low,No,"Amazon.com, Inc.",1595
-51.44.97.6:2398,HTTP,France,FR,🇫🇷,3,low,No,"Amazon.com, Inc.",2192
-13.38.217.179:29788,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,5584
-52.47.115.41:9469,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,4650
-13.38.217.179:8028,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,1619
-13.38.217.179:24584,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,1028
-13.38.217.179:9100,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,2627
-37.59.125.131:8888,HTTP,France,FR,🇫🇷,7,low,Yes,OVH SAS,1291
-217.182.195.221:30007,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,6051
-217.182.195.221:30004,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,19840
-79.137.78.133:8003,HTTP,France,FR,🇫🇷,44,medium,Yes,OVH SAS,1277
+37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,4286
+191.44.125.6:8080,HTTP,France,FR,🇫🇷,0,low,No,High Speed For Internet Services L.L.C,2729
+13.38.217.179:39170,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,1979
+13.38.27.183:46662,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,4196
+13.38.217.179:31523,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,1056
+13.38.217.179:24584,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,1936
+52.47.115.41:33819,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,2289
+37.59.125.131:8888,HTTP,France,FR,🇫🇷,7,low,Yes,OVH SAS,4222
+217.182.195.221:30002,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,8761
+164.132.198.195:3128,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,830
+79.137.78.133:8003,HTTP,France,FR,🇫🇷,44,medium,Yes,OVH SAS,1058

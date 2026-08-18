@@ -1,41 +1,33 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-47.237.107.41:8080,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7556
-8.219.229.53:8081,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7556
-47.237.107.41:3129,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7970
-43.134.53.69:1080,SOCKS5,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,5387
-43.160.255.142:7890,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,Aceville Pte.ltd,6182
-47.237.92.86:443,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7565
-43.160.255.142:7890,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,Aceville Pte.ltd,4113
-192.229.85.39:33142,SOCKS5,Singapore,SG,🇸🇬,0,low,No,Antbox Networks Limited,15267
-47.237.113.119:10,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7562
-8.219.229.53:1081,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7555
-47.237.113.119:999,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7560
-8.219.229.53:3128,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7558
-47.237.113.119:8123,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7558
-47.237.2.245:8081,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7567
-43.106.60.21:1080,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",2281
-47.237.2.245:2002,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7556
-47.237.2.245:31281,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7556
-47.237.107.41:808,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7558
-47.237.107.41:20000,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7558
-177.5.74.74:1080,SOCKS5,Singapore,SG,🇸🇬,0,low,No,Hong Kong Communications International CO,5077
-47.237.107.41:6379,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7559
-47.237.92.86:69,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7568
-47.237.92.86:3129,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7561
-47.237.92.86:80,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7560
-47.237.113.119:9080,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7559
-47.237.113.119:16044,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7557
-47.237.113.119:16010,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7565
-43.134.34.29:7890,SOCKS5,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,3697
-8.219.229.53:5060,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7561
-43.134.34.29:7890,SOCKS5,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,4465
-8.219.229.53:10000,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7554
-140.245.53.190:1088,SOCKS5,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation,3572
-13.215.27.14:1080,SOCKS5,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,1727
-45.77.37.39:2049,SOCKS5,Singapore,SG,🇸🇬,45,medium,No,The Constant Company,5674
-165.22.240.206:1080,SOCKS5,Singapore,SG,🇸🇬,52,medium,Yes,"DigitalOcean, LLC",5083
-178.128.53.12:1080,SOCKS5,Singapore,SG,🇸🇬,55,medium,No,"DigitalOcean, LLC",5365
-178.128.82.131:10808,SOCKS5,Singapore,SG,🇸🇬,55,medium,No,"DigitalOcean, LLC",11654
-178.128.82.131:10808,SOCKS5,Singapore,SG,🇸🇬,55,medium,No,"DigitalOcean, LLC",9548
-45.43.63.37:10808,SOCKS5,Singapore,SG,🇸🇬,74,high,No,Zenlayer Inc,2545
-45.43.63.37:10808,SOCKS5,Singapore,SG,🇸🇬,74,high,No,Zenlayer Inc,2916
+47.237.107.41:8080,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7700
+8.219.229.53:8081,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7693
+47.237.107.41:3129,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7695
+8.219.229.53:3129,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8536
+47.237.92.86:443,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7707
+43.160.255.142:7890,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,Aceville Pte.ltd,8007
+47.237.113.119:999,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7698
+47.237.2.245:5060,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7694
+47.237.113.119:8123,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7708
+47.237.2.245:80,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7691
+47.237.2.245:8081,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7687
+47.237.107.41:20000,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7697
+47.237.107.41:6379,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7717
+8.219.229.53:176,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7737
+47.237.107.41:2000,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7691
+47.237.92.86:69,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8141
+177.5.74.74:1080,SOCKS5,Singapore,SG,🇸🇬,0,low,No,Hong Kong Communications International CO,8166
+47.237.92.86:3129,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7703
+8.219.229.53:59394,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7691
+47.237.92.86:80,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7764
+8.219.229.53:111,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7691
+43.160.245.155:8080,SOCKS5,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,7184
+47.237.113.119:6379,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",10760
+47.237.113.119:9999,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",11840
+47.237.2.245:808,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7699
+47.237.113.119:14,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7703
+140.245.53.190:1088,SOCKS5,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation,3867
+152.69.211.50:40001,SOCKS5,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation,2054
+178.128.82.131:10808,SOCKS5,Singapore,SG,🇸🇬,55,medium,No,"DigitalOcean, LLC",6712
+178.128.82.131:10808,SOCKS5,Singapore,SG,🇸🇬,55,medium,No,"DigitalOcean, LLC",3823
+45.43.63.37:10808,SOCKS5,Singapore,SG,🇸🇬,74,high,No,Zenlayer Inc,1910
+45.43.63.37:10808,SOCKS5,Singapore,SG,🇸🇬,74,high,No,Zenlayer Inc,1926
