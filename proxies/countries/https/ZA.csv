@@ -1,13 +1,18 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-196.21.109.82:443,HTTPS,South Africa,ZA,🇿🇦,0,low,No,TENET,3632
-196.21.61.67:443,HTTPS,South Africa,ZA,🇿🇦,0,low,No,TENET,4382
-196.21.187.115:443,HTTPS,South Africa,ZA,🇿🇦,0,low,No,TENET (The UNINET Project),4326
-45.220.232.12:443,HTTPS,South Africa,ZA,🇿🇦,0,low,No,eNetworks (Pty) Ltd,3574
-41.77.155.164:443,HTTPS,South Africa,ZA,🇿🇦,0,low,No,eNetworks (Pty) Ltd,3818
-198.54.223.176:443,HTTPS,South Africa,ZA,🇿🇦,0,low,No,TENET (The UNINET Project),3800
-196.21.60.44:443,HTTPS,South Africa,ZA,🇿🇦,0,low,No,TENET,3894
-129.151.160.199:443,HTTPS,South Africa,ZA,🇿🇦,2,low,No,Oracle Corporation,3443
-213.139.10.33:9443,HTTPS,South Africa,ZA,🇿🇦,19,low,Yes,Datacamp Limited,3545
-213.139.10.46:9443,HTTPS,South Africa,ZA,🇿🇦,19,low,Yes,Datacamp Limited,3400
-108.181.120.26:443,HTTPS,South Africa,ZA,🇿🇦,44,medium,Yes,Psychz Networks,3722
-108.181.120.26:9443,HTTPS,South Africa,ZA,🇿🇦,44,medium,Yes,Psychz Networks,3734
+196.21.109.82:443,HTTPS,South Africa,ZA,🇿🇦,0,low,No,TENET,3203
+196.21.61.67:443,HTTPS,South Africa,ZA,🇿🇦,0,low,No,TENET,4333
+196.21.187.115:443,HTTPS,South Africa,ZA,🇿🇦,0,low,No,TENET (The UNINET Project),3794
+45.220.232.12:443,HTTPS,South Africa,ZA,🇿🇦,0,low,No,eNetworks (Pty) Ltd,3115
+41.77.155.164:443,HTTPS,South Africa,ZA,🇿🇦,0,low,No,eNetworks (Pty) Ltd,2998
+198.54.223.176:443,HTTPS,South Africa,ZA,🇿🇦,0,low,No,TENET (The UNINET Project),2766
+16.28.32.67:26118,HTTPS,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,4791
+196.21.60.44:443,HTTPS,South Africa,ZA,🇿🇦,0,low,No,TENET,3055
+13.246.6.135:51404,HTTPS,South Africa,ZA,🇿🇦,0,low,No,Amazon Technologies Inc,7628
+129.151.160.199:443,HTTPS,South Africa,ZA,🇿🇦,2,low,No,Oracle Corporation,3483
+13.245.171.157:8084,HTTPS,South Africa,ZA,🇿🇦,3,low,No,"Amazon.com, Inc.",4306
+13.244.203.188:15769,HTTPS,South Africa,ZA,🇿🇦,3,low,No,"Amazon.com, Inc.",6743
+13.245.171.157:9100,HTTPS,South Africa,ZA,🇿🇦,3,low,No,"Amazon.com, Inc.",6548
+213.139.10.33:9443,HTTPS,South Africa,ZA,🇿🇦,19,low,Yes,Datacamp Limited,2729
+213.139.10.46:9443,HTTPS,South Africa,ZA,🇿🇦,19,low,Yes,Datacamp Limited,2717
+108.181.120.26:443,HTTPS,South Africa,ZA,🇿🇦,44,medium,Yes,Psychz Networks,3221
+108.181.120.26:9443,HTTPS,South Africa,ZA,🇿🇦,44,medium,Yes,Psychz Networks,3046

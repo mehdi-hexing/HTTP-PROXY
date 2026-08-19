@@ -1,20 +1,29 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-8.211.200.183:84,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7712
-8.211.195.173:10000,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7719
-8.211.194.78:6379,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7714
-8.211.194.85:8443,HTTP,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7713
-8.211.200.183:1720,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7719
-8.211.195.173:4145,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7709
-8.211.194.85:312,HTTP,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7712
-8.211.194.85:100,HTTP,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7710
-8.211.194.78:5800,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7749
-8.211.195.139:8081,HTTP,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7798
-82.102.11.164:3460,HTTP,United Kingdom,GB,🇬🇧,0,low,No,Redstation Limited,1544
-8.211.200.183:81,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7705
-8.211.194.78:8999,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7700
-8.211.194.85:9090,HTTP,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8076
-18.170.25.193:53656,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,2270
-18.170.25.193:35620,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,3279
-81.168.119.85:5443,HTTP,United Kingdom,GB,🇬🇧,33,medium,Yes,Iomart Cloud Services Limited,9285
-212.58.132.5:8888,HTTP,United Kingdom,GB,🇬🇧,36,medium,Yes,"NSFOCUS, Inc.",3762
-91.231.186.236:8080,HTTP,United Kingdom,GB,🇬🇧,53,medium,No,Clouvider Limited,2942
+8.211.200.183:84,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7403
+8.211.195.173:10000,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7670
+8.211.194.78:6379,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7459
+8.211.195.139:8001,HTTP,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",9097
+8.211.194.85:8443,HTTP,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8147
+8.211.200.183:1720,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7405
+8.211.194.85:312,HTTP,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7405
+8.211.194.85:100,HTTP,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7422
+8.211.195.173:3333,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7421
+8.211.195.173:10001,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7459
+8.211.194.78:5800,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7423
+8.211.195.139:8081,HTTP,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7782
+82.102.11.164:3460,HTTP,United Kingdom,GB,🇬🇧,0,low,No,Redstation Limited,1094
+8.211.200.183:81,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7410
+8.211.194.78:8999,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7419
+13.41.196.179:6124,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,1873
+18.170.25.193:46044,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,887
+13.41.196.179:9207,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,4134
+13.41.196.179:23970,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,5597
+18.170.25.193:53656,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,4542
+13.41.196.179:594,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,3514
+185.231.59.189:8080,HTTP,United Kingdom,GB,🇬🇧,20,medium,No,BitCommand LLC,10021
+81.168.119.85:443,HTTP,United Kingdom,GB,🇬🇧,33,medium,Yes,Iomart Cloud Services Limited,26021
+81.168.119.85:5443,HTTP,United Kingdom,GB,🇬🇧,33,medium,Yes,Iomart Cloud Services Limited,5769
+212.58.132.5:8888,HTTP,United Kingdom,GB,🇬🇧,36,medium,Yes,"NSFOCUS, Inc.",4345
+212.58.132.5:8888,HTTP,United Kingdom,GB,🇬🇧,36,medium,Yes,"NSFOCUS, Inc.",2220
+91.231.186.236:8080,HTTP,United Kingdom,GB,🇬🇧,53,medium,No,Clouvider Limited,3911
+57.128.159.156:21,HTTP,United Kingdom,GB,🇬🇧,82,high,Yes,OVH SAS,20118

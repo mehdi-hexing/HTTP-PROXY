@@ -1,14 +1,15 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,19401
-37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,1285
-5.250.181.197:3128,HTTP,France,FR,🇫🇷,0,low,No,IONOS SE,20126
-13.38.27.183:46662,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,2089
-13.38.27.183:35577,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,4834
-13.38.27.183:56018,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,1536
-13.38.27.183:8185,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,4549
-13.38.27.183:25160,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,2286
-13.38.217.179:7706,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,2708
-13.38.27.183:26223,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,6863
-37.59.125.131:8888,HTTP,France,FR,🇫🇷,7,low,Yes,OVH SAS,7206
-51.210.105.6:3128,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,19289
-79.137.78.133:8010,HTTP,France,FR,🇫🇷,44,medium,Yes,OVH SAS,1547
+37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,5731
+191.44.125.9:8080,HTTP,France,FR,🇫🇷,0,low,Yes,High Speed For Internet Services L.L.C,6059
+191.44.125.11:8080,HTTP,France,FR,🇫🇷,0,low,No,High Speed For Internet Services L.L.C,14522
+191.44.125.5:8080,HTTP,France,FR,🇫🇷,0,low,No,High Speed For Internet Services L.L.C,6426
+51.44.97.6:8091,HTTP,France,FR,🇫🇷,3,low,No,"Amazon.com, Inc.",1089
+51.44.97.6:8118,HTTP,France,FR,🇫🇷,3,low,No,"Amazon.com, Inc.",1074
+51.44.97.6:20999,HTTP,France,FR,🇫🇷,3,low,No,"Amazon.com, Inc.",4205
+13.38.217.179:29788,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,4064
+13.38.27.183:9827,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,2319
+37.59.125.131:8888,HTTP,France,FR,🇫🇷,7,low,Yes,OVH SAS,7981
+51.210.105.6:3128,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,21751
+217.182.195.221:30007,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,10536
+217.182.195.221:30008,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,15783
+79.137.78.133:8008,HTTP,France,FR,🇫🇷,44,medium,Yes,OVH SAS,8456

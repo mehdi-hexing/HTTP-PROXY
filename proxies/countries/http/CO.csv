@@ -1,42 +1,68 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-190.242.60.137:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Liberty Networks De Colombia,14364
-181.78.208.227:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,9458
-179.1.113.129:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,12371
-201.234.186.225:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Level 3 Colombia S.A,7358
-177.93.39.76:999,HTTP,Colombia,CO,🇨🇴,0,low,No,TV AZTECA SUCURSAL COLOMBIA,5040
-181.78.20.11:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,8553
-179.49.162.133:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Integra Multisolutions,6186
-190.131.205.150:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Columbus Networks Colombia,11383
-152.200.200.217:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Colombia Telecomunicaciones S.a. ESP BIC,7227
-200.10.31.45:8081,HTTP,Colombia,CO,🇨🇴,0,low,No,Super Redes S.A.S,6998
-190.26.209.126:999,HTTP,Colombia,CO,🇨🇴,0,low,No,ETB - Colombia,9074
-181.78.73.117:8080,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,9398
-181.174.231.58:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Sinergy Soluciones Integrales,9204
-38.19.226.5:999,HTTP,Colombia,CO,🇨🇴,0,low,Yes,Cogent Communications,1217
-177.73.155.246:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Dobleclick Software E Ingeneria,9448
-181.174.231.30:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Sinergy Soluciones Integrales,11231
-186.194.161.201:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Telenet Digital S.A.S,12474
-38.19.226.25:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Cogent Communications,1226
-38.191.42.202:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Servinet Comunicaciones S.A.S.,3339
-186.33.52.250:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,8901
-38.19.43.105:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Super Redes,4884
-200.10.29.73:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Super Redes S.A.S,10488
-179.1.127.91:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,12373
-190.60.55.61:8080,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,15048
-38.199.26.44:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Cogent Communications,5432
-179.1.126.46:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,6046
-179.1.126.25:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,6609
-181.78.74.252:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,1250
-181.78.74.253:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,1265
-181.129.97.34:999,HTTP,Colombia,CO,🇨🇴,0,low,No,EPM Telecomunicaciones S.A. E.S.P.,8414
-191.102.68.201:999,HTTP,Colombia,CO,🇨🇴,0,low,No,TV AZTECA SUCURSAL COLOMBIA,4350
-38.191.204.40:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Hola Telecomunicacines Colombia S.A.S,14603
-190.60.61.50:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,6543
-38.19.43.75:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Super Redes,17377
-45.173.10.212:999,HTTP,Colombia,CO,🇨🇴,0,low,No,M&M INVERSIONES MORENO SAS,13502
-181.78.169.130:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,10800
-190.26.209.122:999,HTTP,Colombia,CO,🇨🇴,0,low,No,ETB - Colombia,9497
-38.19.40.9:8083,HTTP,Colombia,CO,🇨🇴,0,low,No,Super Redes,11402
-38.19.238.161:999,HTTP,Colombia,CO,🇨🇴,0,low,No,RED PLANET TELECOMUNICACIONES,11885
-179.1.178.10:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,8449
-38.51.243.217:999,HTTP,Colombia,CO,🇨🇴,12,low,No,Intercomm de Narino,5999
+152.231.27.124:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Colombiatel Telecomunicaciones,2520
+38.211.76.65:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Cogent Communications,11152
+45.172.218.67:3028,HTTP,Colombia,CO,🇨🇴,0,low,No,Intermegamundo Partners S.A.S.,4762
+38.19.43.140:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Super Redes,11091
+45.172.218.67:3028,HTTP,Colombia,CO,🇨🇴,0,low,No,Intermegamundo Partners S.A.S.,12300
+38.199.30.82:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Conexion Comercializacion De Servicios De Telecomunicaciones Empalmeria Y Construccion De Redes HFC Del SUR Colombia,4102
+177.93.57.42:999,HTTP,Colombia,CO,🇨🇴,0,low,No,TV AZTECA SUCURSAL COLOMBIA,3776
+45.65.137.218:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Telecomunicaciones Del Catatumbo S.A.S,11670
+64.204.90.17:999,HTTP,Colombia,CO,🇨🇴,0,low,No,GTT Americas,10782
+45.167.126.128:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Sepcom Comunicaciones SAS,12258
+179.1.126.25:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,9143
+190.60.61.42:8080,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,6002
+179.49.162.133:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Integra Multisolutions,14885
+190.131.205.150:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Columbus Networks Colombia,9667
+181.78.233.10:443,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,26163
+200.10.31.45:8081,HTTP,Colombia,CO,🇨🇴,0,low,No,Super Redes S.A.S,6406
+181.79.95.65:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,7088
+38.19.41.225:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Super Redes S.A.S,8724
+209.14.118.116:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Cogent Communications,8206
+186.31.197.3:8080,HTTP,Colombia,CO,🇨🇴,0,low,No,ETB - Colombia,2842
+186.96.111.214:999,HTTP,Colombia,CO,🇨🇴,0,low,No,TV AZTECA SUCURSAL COLOMBIA,15345
+179.1.182.23:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,10818
+186.148.182.105:999,HTTP,Colombia,CO,🇨🇴,0,low,No,TV AZTECA SUCURSAL COLOMBIA,12660
+38.19.43.75:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Super Redes,19401
+179.1.131.142:8080,HTTP,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,2902
+38.19.226.5:999,HTTP,Colombia,CO,🇨🇴,0,low,Yes,Cogent Communications,846
+186.33.51.9:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,12117
+38.19.43.105:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Super Redes,20126
+181.225.107.53:999,HTTP,Colombia,CO,🇨🇴,0,low,No,TV AZTECA SUCURSAL COLOMBIA,9067
+181.174.228.189:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Sinergy Soluciones Integrales,1920
+38.191.204.24:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Hola Telecomunicacines Colombia S.A.S,6958
+24.152.58.108:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Atenea Telecomunicaciones,6421
+38.156.76.112:999,HTTP,Colombia,CO,🇨🇴,0,low,No,INTERNET Y TELEVISIÓN,1050
+200.10.28.13:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Super Redes S.A.S,18362
+177.73.155.245:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Dobleclick Software E Ingeneria,9461
+191.102.68.201:999,HTTP,Colombia,CO,🇨🇴,0,low,No,TV AZTECA SUCURSAL COLOMBIA,8700
+38.191.212.81:999,HTTP,Colombia,CO,🇨🇴,0,low,No,TV&MÁS S.A.S,1889
+181.129.252.124:999,HTTP,Colombia,CO,🇨🇴,0,low,No,EPM Telecomunicaciones S.A. E.S.P.,15780
+64.204.90.177:999,HTTP,Colombia,CO,🇨🇴,0,low,No,GTT Americas,7291
+200.110.173.240:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Media Commerce Partners S.A,10005
+190.60.55.61:8080,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,6380
+200.10.30.5:8083,HTTP,Colombia,CO,🇨🇴,0,low,No,Super Redes S.A.S,5772
+38.199.31.148:9992,HTTP,Colombia,CO,🇨🇴,0,low,No,Conexion Comercializacion De Servicios De Telecomunicaciones Empalmeria Y Construccion De Redes HFC Del SUR Colombia,14167
+190.60.34.250:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,15137
+38.191.80.23:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Grupo Servinet S.A.S.,11274
+190.60.55.61:8080,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,11556
+179.1.178.10:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,8611
+170.239.205.31:999,HTTP,Colombia,CO,🇨🇴,0,low,No,FIBERNET,15125
+38.19.43.5:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Super Redes,13231
+152.231.27.25:8087,HTTP,Colombia,CO,🇨🇴,0,low,No,Colombiatel Telecomunicaciones,6052
+38.191.211.56:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Servicios De Telecomunicaciones E Informatica S.A.S.,9323
+181.78.74.253:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,984
+181.78.74.252:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,951
+179.1.131.129:8080,HTTP,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,13426
+190.2.214.66:999,HTTP,Colombia,CO,🇨🇴,0,low,No,TV AZTECA SUCURSAL COLOMBIA,18339
+38.191.80.23:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Grupo Servinet S.A.S.,6776
+170.254.228.90:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Media Commerce Partners S.A,946
+200.35.34.134:999,HTTP,Colombia,CO,🇨🇴,0,low,No,UNE EPM TELECOMUNICACIONES S.A,2989
+179.1.196.218:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,9186
+181.79.95.65:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,5457
+45.179.200.65:999,HTTP,Colombia,CO,🇨🇴,0,low,No,NET&COM LTDA,12718
+45.179.246.65:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Genionet Telecomunicaciones S.A.S,8102
+186.33.57.213:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,5145
+181.225.107.53:999,HTTP,Colombia,CO,🇨🇴,0,low,No,TV AZTECA SUCURSAL COLOMBIA,6478
+186.180.20.18:8080,HTTP,Colombia,CO,🇨🇴,1,low,No,EPM Telecomunicaciones S.A. E.S.P.,7118
+186.97.176.171:999,HTTP,Colombia,CO,🇨🇴,1,low,No,EPM Telecomunicaciones S.A. E.S.P.,10765
+179.1.76.147:8080,HTTP,Colombia,CO,🇨🇴,1,low,No,Internexa S.a. E.S.P,17107
