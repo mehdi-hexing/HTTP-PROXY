@@ -1,16 +1,18 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-192.158.15.201:60684,HTTP,Canada,CA,🇨🇦,0,low,No,Ontario Inc.,2508
-15.235.21.254:8080,HTTP,Canada,CA,🇨🇦,0,low,No,OVH SAS,472
-15.235.21.254:8080,HTTP,Canada,CA,🇨🇦,0,low,No,OVH SAS,526
-184.70.113.34:3128,HTTP,Canada,CA,🇨🇦,2,low,No,Shaw Communications,13597
-184.70.113.34:3128,HTTP,Canada,CA,🇨🇦,2,low,No,Shaw Communications,853
-99.79.33.107:3128,HTTP,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",15494
-40.176.175.23:30575,HTTP,Canada,CA,🇨🇦,3,low,No,"Amazon.com, Inc.",2313
-40.177.99.164:17166,HTTP,Canada,CA,🇨🇦,3,low,No,"Amazon.com, Inc.",1059
-40.176.175.23:45970,HTTP,Canada,CA,🇨🇦,3,low,No,"Amazon.com, Inc.",2051
-40.177.99.164:53702,HTTP,Canada,CA,🇨🇦,3,low,No,"Amazon.com, Inc.",2442
-40.176.175.23:34364,HTTP,Canada,CA,🇨🇦,3,low,No,"Amazon.com, Inc.",2880
-3.99.158.157:8118,HTTP,Canada,CA,🇨🇦,12,low,No,Amazon Technologies Inc.,2448
-35.183.127.162:50907,HTTP,Canada,CA,🇨🇦,12,low,No,Amazon Technologies Inc.,1607
-16.52.81.236:57783,HTTP,Canada,CA,🇨🇦,12,low,No,Amazon.com,1292
-3.99.158.157:54722,HTTP,Canada,CA,🇨🇦,12,low,No,Amazon Technologies Inc.,1802
+15.235.21.254:8080,HTTP,Canada,CA,🇨🇦,0,low,No,OVH SAS,737
+15.235.21.254:8080,HTTP,Canada,CA,🇨🇦,0,low,No,OVH SAS,1060
+99.79.58.74:13071,HTTP,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",1489
+99.79.58.74:22507,HTTP,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",1673
+99.79.58.74:16618,HTTP,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",2385
+40.176.175.23:20224,HTTP,Canada,CA,🇨🇦,3,low,No,"Amazon.com, Inc.",5527
+40.176.175.23:15864,HTTP,Canada,CA,🇨🇦,3,low,No,"Amazon.com, Inc.",3984
+40.176.175.23:20744,HTTP,Canada,CA,🇨🇦,3,low,No,"Amazon.com, Inc.",1674
+40.176.175.23:10809,HTTP,Canada,CA,🇨🇦,3,low,No,"Amazon.com, Inc.",4107
+40.177.99.164:8585,HTTP,Canada,CA,🇨🇦,3,low,No,"Amazon.com, Inc.",2329
+40.176.175.23:30055,HTTP,Canada,CA,🇨🇦,3,low,No,"Amazon.com, Inc.",1071
+35.183.127.162:50907,HTTP,Canada,CA,🇨🇦,12,low,No,Amazon Technologies Inc.,4709
+15.223.237.12:6790,HTTP,Canada,CA,🇨🇦,12,low,No,Amazon Technologies Inc.,886
+3.99.158.157:443,HTTP,Canada,CA,🇨🇦,12,low,No,Amazon Technologies Inc.,3445
+16.52.81.236:24666,HTTP,Canada,CA,🇨🇦,12,low,No,Amazon.com,2412
+35.183.127.162:49648,HTTP,Canada,CA,🇨🇦,12,low,No,Amazon Technologies Inc.,1920
+16.52.81.236:30001,HTTP,Canada,CA,🇨🇦,12,low,No,Amazon.com,308

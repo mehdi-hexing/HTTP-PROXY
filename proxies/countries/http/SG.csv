@@ -1,18 +1,31 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-47.237.107.41:20000,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8070
-47.237.2.245:119,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",9213
-47.237.113.119:10,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8076
-47.237.92.86:88,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8103
-8.219.229.53:1081,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8062
-47.237.113.119:6379,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",16313
-47.237.2.245:1234,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8085
-47.237.107.41:2000,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8084
-8.219.229.53:9080,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8086
-43.160.242.118:3128,HTTP,Singapore,SG,🇸🇬,0,low,Yes,Shenzhen Tencent Computer Systems Company Limited,7617
-47.237.92.86:1080,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",10076
-47.237.2.245:2002,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8087
-13.214.151.56:8081,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,2598
-13.214.205.160:8024,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,2542
-152.42.167.241:3128,HTTP,Singapore,SG,🇸🇬,51,medium,Yes,"DigitalOcean, LLC",3406
-152.42.167.241:3128,HTTP,Singapore,SG,🇸🇬,51,medium,Yes,"DigitalOcean, LLC",3036
-159.223.52.199:3128,HTTP,Singapore,SG,🇸🇬,52,medium,Yes,"DigitalOcean, LLC",3346
+8.219.97.248:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Alibaba Cloud (Singapore) Private Limited,2243
+47.237.107.41:20000,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8147
+47.237.2.245:119,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8161
+47.237.113.119:10,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8568
+47.237.92.86:88,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8123
+8.219.229.53:1081,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8120
+8.219.97.248:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Alibaba Cloud (Singapore) Private Limited,6277
+47.237.113.119:999,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8159
+47.237.2.245:1234,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8200
+47.237.107.41:2000,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8733
+8.219.229.53:9080,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8172
+47.237.92.86:1080,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8167
+47.237.2.245:2002,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",9143
+47.237.107.41:85,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8169
+47.237.107.41:8096,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8195
+8.219.229.53:13,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8126
+54.255.249.161:7547,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.,3227
+54.255.249.161:8081,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.,5289
+54.255.249.161:50130,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.,5970
+13.212.26.15:46348,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,5545
+18.142.95.213:11290,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,6188
+13.212.26.15:10001,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,6288
+13.214.205.160:8024,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,4317
+13.250.95.3:8082,HTTP,Singapore,SG,🇸🇬,3,low,No,"Amazon.com, Inc.",13917
+51.79.199.104:3128,HTTP,Singapore,SG,🇸🇬,4,low,No,OVH SAS,5788
+51.79.199.104:3129,HTTP,Singapore,SG,🇸🇬,4,low,No,OVH SAS,6104
+103.164.55.81:3128,HTTP,Singapore,SG,🇸🇬,22,medium,No,Contabo Asia Private Limited,3323
+152.42.167.241:3128,HTTP,Singapore,SG,🇸🇬,51,medium,Yes,"DigitalOcean, LLC",3263
+152.42.167.241:3128,HTTP,Singapore,SG,🇸🇬,51,medium,Yes,"DigitalOcean, LLC",6850
+178.128.29.255:3128,HTTP,Singapore,SG,🇸🇬,55,medium,Yes,"DigitalOcean, LLC",1940
