@@ -1,17 +1,35 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-129.97.50.72:443,HTTPS,Canada,CA,🇨🇦,0,low,No,University of Waterloo,1084
-181.215.52.16:443,HTTPS,Canada,CA,🇨🇦,0,low,No,Windscribe,1310
-181.215.52.2:9443,HTTPS,Canada,CA,🇨🇦,0,low,No,Windscribe,970
-181.215.52.20:9443,HTTPS,Canada,CA,🇨🇦,0,low,No,Windscribe,990
-132.208.244.66:443,HTTPS,Canada,CA,🇨🇦,0,low,No,Reseau d'Informations Scientifiques du Quebec (RISQ Inc.),1022
-181.215.52.25:9443,HTTPS,Canada,CA,🇨🇦,0,low,No,Windscribe,966
-99.79.128.139:443,HTTPS,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",979
-69.70.52.198:443,HTTPS,Canada,CA,🇨🇦,3,low,No,Videotron Ltee,1930
-15.223.66.131:443,HTTPS,Canada,CA,🇨🇦,12,low,No,Amazon Technologies Inc.,951
-15.222.13.132:443,HTTPS,Canada,CA,🇨🇦,12,low,No,Amazon Technologies Inc.,945
-192.95.37.111:443,HTTPS,Canada,CA,🇨🇦,37,medium,No,OVH SAS,1398
-159.203.22.247:443,HTTPS,Canada,CA,🇨🇦,51,medium,Yes,"DigitalOcean, LLC",1687
-15.235.104.62:443,HTTPS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,1189
-198.100.153.39:443,HTTPS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,1519
-15.235.104.61:443,HTTPS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,1617
-66.70.170.84:443,HTTPS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,1793
+129.97.50.72:443,HTTPS,Canada,CA,🇨🇦,0,low,No,University of Waterloo,1073
+181.215.52.6:9443,HTTPS,Canada,CA,🇨🇦,0,low,No,Windscribe,1111
+181.215.52.101:9443,HTTPS,Canada,CA,🇨🇦,0,low,No,Windscribe,1315
+181.215.52.16:443,HTTPS,Canada,CA,🇨🇦,0,low,No,Windscribe,1299
+181.215.52.11:443,HTTPS,Canada,CA,🇨🇦,0,low,No,Windscribe,1090
+181.215.52.122:9443,HTTPS,Canada,CA,🇨🇦,0,low,No,Windscribe,1018
+181.215.52.2:9443,HTTPS,Canada,CA,🇨🇦,0,low,No,Windscribe,1016
+181.215.52.40:9443,HTTPS,Canada,CA,🇨🇦,0,low,No,Windscribe,965
+181.215.52.192:9443,HTTPS,Canada,CA,🇨🇦,0,low,Yes,Windscribe,979
+181.215.52.20:9443,HTTPS,Canada,CA,🇨🇦,0,low,No,Windscribe,979
+132.208.244.66:443,HTTPS,Canada,CA,🇨🇦,0,low,No,Reseau d'Informations Scientifiques du Quebec (RISQ Inc.),988
+181.215.52.25:9443,HTTPS,Canada,CA,🇨🇦,0,low,No,Windscribe,1061
+99.79.128.139:443,HTTPS,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",1066
+69.70.52.198:443,HTTPS,Canada,CA,🇨🇦,3,low,No,Videotron Ltee,1553
+15.223.66.131:443,HTTPS,Canada,CA,🇨🇦,12,low,No,Amazon Technologies Inc.,904
+15.222.13.132:443,HTTPS,Canada,CA,🇨🇦,12,low,No,Amazon Technologies Inc.,960
+192.95.37.111:443,HTTPS,Canada,CA,🇨🇦,37,medium,No,OVH SAS,1011
+149.88.98.161:9443,HTTPS,Canada,CA,🇨🇦,41,medium,Yes,Datacamp Limited,792
+149.88.98.177:9443,HTTPS,Canada,CA,🇨🇦,41,medium,Yes,Datacamp Limited,777
+149.88.98.65:9443,HTTPS,Canada,CA,🇨🇦,41,medium,Yes,Datacamp Limited,816
+149.88.98.81:9443,HTTPS,Canada,CA,🇨🇦,41,medium,Yes,Datacamp Limited,788
+198.44.142.51:443,HTTPS,Canada,CA,🇨🇦,50,medium,Yes,"tzulo, inc.",993
+198.44.157.43:443,HTTPS,Canada,CA,🇨🇦,50,medium,Yes,"tzulo, inc.",874
+198.44.157.43:9443,HTTPS,Canada,CA,🇨🇦,50,medium,Yes,"tzulo, inc.",859
+159.203.22.247:443,HTTPS,Canada,CA,🇨🇦,51,medium,Yes,"DigitalOcean, LLC",1210
+15.235.104.62:443,HTTPS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,1032
+198.100.153.39:443,HTTPS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,981
+15.235.104.61:443,HTTPS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,1225
+66.70.170.84:443,HTTPS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,1142
+95.173.219.14:443,HTTPS,Canada,CA,🇨🇦,61,high,Yes,Datacamp Limited,320
+95.173.219.14:9443,HTTPS,Canada,CA,🇨🇦,61,high,Yes,Datacamp Limited,324
+198.44.142.27:9443,HTTPS,Canada,CA,🇨🇦,100,very_high,Yes,"tzulo, inc.",1014
+198.44.142.35:9443,HTTPS,Canada,CA,🇨🇦,100,very_high,Yes,"tzulo, inc.",1012
+198.44.142.43:443,HTTPS,Canada,CA,🇨🇦,100,very_high,Yes,"tzulo, inc.",1003
