@@ -1,42 +1,67 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-8.215.12.103:144,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7654
-8.215.15.163:6379,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,"Alibaba (US) Technology Co., Ltd.",7565
-103.187.162.75:8199,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,PT Misqot Sejahtera Indonesia,4856
-8.215.15.163:3128,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,"Alibaba (US) Technology Co., Ltd.",7562
-149.129.226.9:194,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7563
-8.215.3.250:9797,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7565
-149.129.226.9:93,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7561
-8.215.3.250:19,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7561
-149.129.255.179:4002,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7560
-223.25.109.146:8199,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,SinergiNet,6327
-103.236.190.197:1080,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,PT Victory Network Indonesia,4809
-149.129.226.9:82,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7559
-149.129.255.179:1081,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7608
-8.215.15.163:8010,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,"Alibaba (US) Technology Co., Ltd.",7561
-103.169.254.155:1080,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,PT Master Star Network,3926
-8.215.25.3:2080,SOCKS5,Indonesia,ID,🇮🇩,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",1321
-149.129.255.179:8081,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7569
-103.134.220.49:1080,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,PT GLOBAL MEDIA PRATAMA SOLUSINDO,3998
-103.142.255.33:69,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,PT.CITRA BERDIKARI NUSANTARA,4062
-8.215.25.3:2080,SOCKS5,Indonesia,ID,🇮🇩,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",1316
-103.142.255.33:69,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,PT.CITRA BERDIKARI NUSANTARA,4834
-103.174.122.197:8199,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,PT Jaya Sejahtra Nugraha,7085
-103.169.254.155:1080,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,PT Master Star Network,8870
-103.165.128.75:1080,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,PT iForte Global Internet,6801
-8.215.3.250:8000,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7562
-8.215.3.250:264,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7564
-8.215.12.103:4006,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7559
-8.215.3.250:3128,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7561
-8.215.12.103:8060,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7567
-8.215.12.103:8010,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7566
-8.215.15.163:8088,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,"Alibaba (US) Technology Co., Ltd.",7560
-149.129.226.9:1111,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7566
-149.129.226.9:80,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7568
-149.129.226.9:8000,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7576
-149.129.255.179:8018,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,9302
-8.215.15.163:8081,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,"Alibaba (US) Technology Co., Ltd.",8565
-149.129.255.179:9090,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7562
-8.215.15.163:8123,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,"Alibaba (US) Technology Co., Ltd.",7562
-43.252.237.169:1080,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,PT Usaha Adi Sanggoro,3966
-149.129.255.179:9091,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7565
-103.187.162.75:8199,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,PT Misqot Sejahtera Indonesia,2269
+8.215.12.103:144,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7588
+8.215.12.103:90,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7637
+8.215.15.163:6379,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,"Alibaba (US) Technology Co., Ltd.",7594
+8.215.15.163:3128,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,"Alibaba (US) Technology Co., Ltd.",7598
+149.129.226.9:194,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7591
+8.215.3.250:9797,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7583
+49.0.0.175:1080,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,PT Usaha Adi Sanggoro,2753
+8.215.12.103:8000,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,8474
+149.129.226.9:93,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7586
+8.215.3.250:19,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7591
+8.215.12.103:8080,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7585
+149.129.255.179:4002,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7598
+149.129.226.9:82,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7593
+149.129.255.179:1081,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7589
+8.215.15.163:8010,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,"Alibaba (US) Technology Co., Ltd.",7589
+8.215.3.250:9999,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7600
+8.215.3.250:8081,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7589
+8.215.15.163:9080,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,"Alibaba (US) Technology Co., Ltd.",7603
+149.129.255.179:8081,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7600
+8.215.3.250:8443,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7592
+8.215.12.103:8007,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7630
+8.215.3.250:18080,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7583
+8.215.15.163:5060,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,"Alibaba (US) Technology Co., Ltd.",7605
+149.129.255.179:9988,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7601
+103.119.60.219:1080,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,PT. Eka Mas Republik,1560
+103.142.255.33:69,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,PT.CITRA BERDIKARI NUSANTARA,5912
+103.134.220.49:1080,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,PT GLOBAL MEDIA PRATAMA SOLUSINDO,1740
+202.43.165.140:10802,SOCKS5,Indonesia,ID,🇮🇩,0,low,Yes,DTPNet,4689
+103.142.255.33:69,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,PT.CITRA BERDIKARI NUSANTARA,3786
+49.0.0.175:1080,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,PT Usaha Adi Sanggoro,4780
+149.129.255.179:18080,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7585
+8.215.15.163:8443,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,"Alibaba (US) Technology Co., Ltd.",7594
+149.129.255.179:9098,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7590
+149.129.226.9:1080,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7631
+103.191.218.119:69,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,PT Replay Inti Media,2949
+149.129.226.9:8443,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7579
+149.129.226.9:8080,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7589
+103.76.149.140:1080,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,PT. Java Digital Nusantara,3631
+103.174.122.197:8199,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,PT Jaya Sejahtra Nugraha,5810
+223.25.110.37:8199,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,SinergiNet,5943
+223.25.109.163:8199,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,SinergiNet,1868
+103.39.49.101:1082,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,PT. Mega Mentari Mandiri,3889
+8.215.12.103:4006,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7614
+8.215.12.103:8060,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7590
+8.215.12.103:8010,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,9517
+8.215.15.163:8088,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,"Alibaba (US) Technology Co., Ltd.",7580
+8.215.3.250:9000,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7596
+8.215.3.250:8123,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7583
+8.215.3.250:443,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7583
+149.129.226.9:9090,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7590
+8.215.12.103:8002,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7590
+8.215.12.103:9090,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,8694
+149.129.255.179:8018,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7593
+8.215.15.163:8081,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,"Alibaba (US) Technology Co., Ltd.",7597
+149.129.255.179:9090,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7590
+8.215.15.163:8123,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,"Alibaba (US) Technology Co., Ltd.",7579
+8.215.12.103:2012,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,7589
+149.129.255.179:9091,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7583
+8.215.15.163:8080,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,"Alibaba (US) Technology Co., Ltd.",7598
+149.129.226.9:3128,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7697
+149.129.226.9:3129,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7593
+149.129.226.9:4002,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7595
+103.187.162.75:8199,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,PT Misqot Sejahtera Indonesia,2719
+149.129.226.9:41,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7608
+149.129.226.9:1337,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7606
+103.247.120.51:10800,SOCKS5,Indonesia,ID,🇮🇩,31,medium,No,GMEDIA,5131
