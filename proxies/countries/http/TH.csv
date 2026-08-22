@@ -1,45 +1,32 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-106.0.168.138:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,Ministry of Education - EMISC,12979
-8.213.195.191:4006,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,7989
-8.213.197.208:18080,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8224
-202.28.194.139:31280,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Office of Info.Tech. Admin. for Educational Development,2256
-110.164.128.124:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,Triple T Broadband Public Company Limited,10870
-8.213.222.157:45,HTTP,Thailand,TH,🇹🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7978
-8.213.222.247:9080,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8008
-8.213.215.187:4002,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8175
-14.207.199.94:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,Advanced Wireless Network Company Limited,5746
-103.10.228.119:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,CATBB,13579
-106.0.158.114:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,Ministry of Education - EMISC,8240
-8.213.197.208:808,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7982
-203.172.136.211:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,Ministry of Education - EMISC,15100
-8.213.195.191:80,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,8576
-8.213.195.191:8443,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,8094
-8.213.222.247:3128,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",12261
-8.213.222.247:30000,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",12723
-8.213.197.208:100,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7989
-8.213.195.191:8080,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,7995
-8.213.195.191:104,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,7989
-8.213.222.247:3129,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8037
-8.213.222.157:41,HTTP,Thailand,TH,🇹🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7984
-110.164.128.124:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,Triple T Broadband Public Company Limited,16563
-8.213.215.187:106,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8265
-124.121.35.191:8080,HTTP,Thailand,TH,🇹🇭,1,low,No,TRUEBB,17020
-118.172.184.25:8180,HTTP,Thailand,TH,🇹🇭,2,low,No,TOT Public Company Limited,20603
-1.10.226.245:8080,HTTP,Thailand,TH,🇹🇭,2,low,No,TOT Public Company Limited,4083
-1.10.226.245:8080,HTTP,Thailand,TH,🇹🇭,2,low,No,TOT Public Company Limited,8768
-43.208.237.116:9999,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3288
-43.208.237.116:31280,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2356
-43.208.237.116:1894,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",5462
-43.208.237.116:52234,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3335
-43.208.134.144:9638,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",5134
-43.208.243.207:29654,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3211
-43.208.237.116:8865,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3560
-43.208.237.116:20172,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2364
-43.208.237.116:22496,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2373
-43.209.173.229:27145,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3501
-43.208.237.116:41113,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2435
-43.208.134.144:1256,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3338
-43.208.243.207:8559,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2259
-184.82.171.107:8080,HTTP,Thailand,TH,🇹🇭,4,low,No,AIS-Fibre,21179
-58.136.94.90:8080,HTTP,Thailand,TH,🇹🇭,4,low,No,AIS-Fibre,1841
-49.48.113.75:8080,HTTP,Thailand,TH,🇹🇭,5,low,No,Triple T Broadband Public Company Limited,6617
+106.0.168.138:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,Ministry of Education - EMISC,7100
+8.213.195.191:4006,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,10184
+202.28.194.139:31280,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Office of Info.Tech. Admin. for Educational Development,2242
+8.213.222.157:45,HTTP,Thailand,TH,🇹🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8542
+8.213.222.247:9080,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8481
+8.213.215.187:4002,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8150
+8.213.197.208:808,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",11706
+8.213.195.191:80,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,8114
+8.213.195.191:8443,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,8148
+8.213.222.247:3000,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8107
+8.213.222.157:5060,HTTP,Thailand,TH,🇹🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8375
+8.213.215.187:10000,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8123
+8.213.197.208:100,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",11223
+8.213.195.191:8080,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,8286
+8.213.195.191:104,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,8309
+8.213.222.247:9999,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",9835
+8.213.215.187:106,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",10945
+103.10.231.189:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,CATBB,2208
+49.229.100.235:8080,HTTP,Thailand,TH,🇹🇭,2,low,No,Advanced Wireless Network Company Limited,2011
+180.180.175.11:8080,HTTP,Thailand,TH,🇹🇭,2,low,No,TOT Public Company Limited,18653
+101.51.131.47:8080,HTTP,Thailand,TH,🇹🇭,2,low,No,TOT Public Company Limited,15607
+1.10.226.245:8080,HTTP,Thailand,TH,🇹🇭,2,low,No,TOT Public Company Limited,19405
+43.208.243.207:12905,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3412
+43.209.173.229:9942,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3402
+43.208.243.207:8888,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3500
+43.209.173.229:34543,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",5604
+43.208.237.116:213,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",5905
+43.208.134.144:25811,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3098
+43.208.134.144:9898,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3526
+58.136.94.90:8080,HTTP,Thailand,TH,🇹🇭,4,low,No,AIS-Fibre,1985
+180.183.151.89:3128,HTTP,Thailand,TH,🇹🇭,5,low,No,Triple T Broadband Public Company Limited,18544
