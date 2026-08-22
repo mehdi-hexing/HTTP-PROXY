@@ -1,33 +1,23 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-66.42.49.247:8443,HTTPS,Singapore,SG,🇸🇬,0,low,No,SGP VULTR,3352
-66.42.59.169:8888,HTTPS,Singapore,SG,🇸🇬,0,low,No,SGP VULTR,3327
-23.106.249.52:2569,HTTPS,Singapore,SG,🇸🇬,0,low,Yes,Leaseweb Singapore Pte. Ltd.,3508
-23.106.249.54:6550,HTTPS,Singapore,SG,🇸🇬,0,low,Yes,Leaseweb Singapore Pte. Ltd.,5045
-23.106.249.34:21125,HTTPS,Singapore,SG,🇸🇬,0,low,Yes,Leaseweb Singapore Pte. Ltd.,6809
-35.247.136.78:443,HTTPS,Singapore,SG,🇸🇬,0,low,No,Google LLC,4309
-202.79.220.178:443,HTTPS,Singapore,SG,🇸🇬,0,low,No,Equinix (EMEA) Acquisition Enterprises B.V.,2725
-52.187.116.36:443,HTTPS,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,2811
-4.193.133.242:443,HTTPS,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,2650
-154.26.138.78:443,HTTPS,Singapore,SG,🇸🇬,0,low,No,Cogent Communications,6656
-154.26.139.27:443,HTTPS,Singapore,SG,🇸🇬,0,low,No,Cogent Communications,2527
-35.198.241.84:443,HTTPS,Singapore,SG,🇸🇬,0,low,No,Google LLC,2480
-47.84.230.119:6443,HTTPS,Singapore,SG,🇸🇬,0,low,No,Alibaba.com LLC,2791
-154.26.138.75:443,HTTPS,Singapore,SG,🇸🇬,0,low,No,Cogent Communications,3230
-47.129.206.123:443,HTTPS,Singapore,SG,🇸🇬,0,low,No,Amazon Technologies Inc,2752
-154.26.139.29:443,HTTPS,Singapore,SG,🇸🇬,0,low,No,Cogent Communications,2393
-207.148.70.171:8443,HTTPS,Singapore,SG,🇸🇬,0,low,No,SGP VULTR,2340
-111.223.75.195:443,HTTPS,Singapore,SG,🇸🇬,1,low,No,Starhub Ltd.,2416
-35.187.237.178:443,HTTPS,Singapore,SG,🇸🇬,2,low,No,Google LLC,2399
-51.79.173.71:443,HTTPS,Singapore,SG,🇸🇬,4,low,No,OVH SAS,4930
-82.102.25.50:9443,HTTPS,Singapore,SG,🇸🇬,25,medium,Yes,M247 LTD Singapore Infrastructure,3749
-82.102.25.210:9443,HTTPS,Singapore,SG,🇸🇬,25,medium,Yes,M247 LTD Singapore Infrastructure,2312
-149.88.99.210:443,HTTPS,Singapore,SG,🇸🇬,41,medium,Yes,Datacamp Limited,3131
-156.146.56.97:9443,HTTPS,Singapore,SG,🇸🇬,41,medium,Yes,Datacamp Limited,2371
-149.88.99.209:9443,HTTPS,Singapore,SG,🇸🇬,41,medium,Yes,Datacamp Limited,2395
-152.233.9.239:9443,HTTPS,Singapore,SG,🇸🇬,41,medium,Yes,Datacamp Limited,2341
-156.146.56.110:9443,HTTPS,Singapore,SG,🇸🇬,41,medium,Yes,Datacamp Limited,2405
-128.199.207.200:443,HTTPS,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",2367
-165.22.60.108:443,HTTPS,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",2448
-143.198.192.178:443,HTTPS,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",2686
-103.107.198.226:9443,HTTPS,Singapore,SG,🇸🇬,62,high,Yes,GSL Networks Pty LTD,2350
-103.107.198.242:9443,HTTPS,Singapore,SG,🇸🇬,62,high,Yes,GSL Networks Pty LTD,2365
+66.42.49.247:8443,HTTPS,Singapore,SG,🇸🇬,0,low,No,SGP VULTR,3231
+66.42.59.169:8888,HTTPS,Singapore,SG,🇸🇬,0,low,No,SGP VULTR,2986
+23.106.249.34:21125,HTTPS,Singapore,SG,🇸🇬,0,low,Yes,Leaseweb Singapore Pte. Ltd.,3430
+23.106.249.54:6550,HTTPS,Singapore,SG,🇸🇬,0,low,Yes,Leaseweb Singapore Pte. Ltd.,4231
+23.106.249.52:2569,HTTPS,Singapore,SG,🇸🇬,0,low,Yes,Leaseweb Singapore Pte. Ltd.,4664
+35.247.136.78:443,HTTPS,Singapore,SG,🇸🇬,0,low,No,Google LLC,4011
+202.79.220.178:443,HTTPS,Singapore,SG,🇸🇬,0,low,No,Equinix (EMEA) Acquisition Enterprises B.V.,2989
+52.187.116.36:443,HTTPS,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,3128
+4.193.133.242:443,HTTPS,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,2822
+35.198.241.84:443,HTTPS,Singapore,SG,🇸🇬,0,low,No,Google LLC,2784
+154.26.139.27:443,HTTPS,Singapore,SG,🇸🇬,0,low,No,Cogent Communications,3981
+47.84.230.119:6443,HTTPS,Singapore,SG,🇸🇬,0,low,No,Alibaba.com LLC,2757
+35.187.237.178:443,HTTPS,Singapore,SG,🇸🇬,2,low,No,Google LLC,2862
+51.79.173.71:443,HTTPS,Singapore,SG,🇸🇬,4,low,No,OVH SAS,3606
+149.88.99.210:443,HTTPS,Singapore,SG,🇸🇬,41,medium,Yes,Datacamp Limited,3232
+156.146.56.97:9443,HTTPS,Singapore,SG,🇸🇬,41,medium,Yes,Datacamp Limited,3241
+149.88.99.209:9443,HTTPS,Singapore,SG,🇸🇬,41,medium,Yes,Datacamp Limited,2741
+128.199.207.200:443,HTTPS,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",2733
+165.22.60.108:443,HTTPS,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",2877
+143.198.192.178:443,HTTPS,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",2971
+103.107.198.226:9443,HTTPS,Singapore,SG,🇸🇬,62,high,Yes,GSL Networks Pty LTD,2660
+103.107.198.242:9443,HTTPS,Singapore,SG,🇸🇬,62,high,Yes,GSL Networks Pty LTD,2748

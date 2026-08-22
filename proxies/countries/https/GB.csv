@@ -1,48 +1,29 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-152.71.251.13:443,HTTPS,United Kingdom,GB,🇬🇧,0,low,No,The Nottingham Trent University,2093
-146.177.5.114:8090,HTTPS,United Kingdom,GB,🇬🇧,0,low,No,Rackspace,2018
-46.17.91.114:3000,HTTPS,United Kingdom,GB,🇬🇧,0,low,No,Compuweb Communications Services,2163
-46.17.91.18:3000,HTTPS,United Kingdom,GB,🇬🇧,0,low,No,Compuweb Communications Services,2122
-92.119.176.4:443,HTTPS,United Kingdom,GB,🇬🇧,0,low,Yes,M247 Europe SRL,1723
-23.106.56.52:15767,HTTPS,United Kingdom,GB,🇬🇧,9,low,Yes,Leaseweb UK Limited,2180
-45.56.228.8:443,HTTPS,United Kingdom,GB,🇬🇧,13,low,No,Navarino Single Member S.A.,1854
-62.171.162.111:443,HTTPS,United Kingdom,GB,🇬🇧,13,low,No,Contabo GmbH,3118
-3.10.161.152:443,HTTPS,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,2277
-18.169.247.230:443,HTTPS,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,1793
-35.179.34.132:443,HTTPS,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,1829
-18.170.25.193:35977,HTTPS,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,3376
-23.106.56.11:7714,HTTPS,United Kingdom,GB,🇬🇧,18,low,Yes,Leaseweb UK Limited,1855
-23.106.56.35:16927,HTTPS,United Kingdom,GB,🇬🇧,40,medium,Yes,Leaseweb UK Limited,1844
-193.36.118.210:9443,HTTPS,United Kingdom,GB,🇬🇧,41,medium,Yes,EstNOC OU,1967
-193.36.118.210:443,HTTPS,United Kingdom,GB,🇬🇧,41,medium,Yes,EstNOC OU,1951
-193.36.118.226:9443,HTTPS,United Kingdom,GB,🇬🇧,41,medium,Yes,EstNOC OU,1983
-95.179.235.43:8443,HTTPS,United Kingdom,GB,🇬🇧,42,medium,No,"The Constant Company, LLC",2281
-23.106.56.43:19881,HTTPS,United Kingdom,GB,🇬🇧,50,medium,Yes,Leaseweb UK Limited,1783
-104.248.172.167:443,HTTPS,United Kingdom,GB,🇬🇧,52,medium,Yes,"DigitalOcean, LLC",2941
-46.101.22.14:443,HTTPS,United Kingdom,GB,🇬🇧,55,medium,No,"DigitalOcean, LLC",1999
-107.152.33.202:8888,HTTPS,United Kingdom,GB,🇬🇧,57,medium,No,"tzulo, inc.",2337
-84.233.178.33:9443,HTTPS,United Kingdom,GB,🇬🇧,57,medium,Yes,Datacamp Limited,1776
-185.163.110.194:443,HTTPS,United Kingdom,GB,🇬🇧,60,high,Yes,M247 Europe IPs,2280
-185.163.110.194:9443,HTTPS,United Kingdom,GB,🇬🇧,60,high,Yes,M247 Europe IPs,2277
-37.120.233.18:9443,HTTPS,United Kingdom,GB,🇬🇧,73,high,Yes,M247 Europe SRL,1792
-37.120.233.18:443,HTTPS,United Kingdom,GB,🇬🇧,73,high,Yes,M247 Europe SRL,1813
-37.221.113.146:443,HTTPS,United Kingdom,GB,🇬🇧,73,high,Yes,M247 Europe SRL,1747
-37.221.113.146:9443,HTTPS,United Kingdom,GB,🇬🇧,73,high,Yes,M247 Europe SRL,1762
-92.119.176.5:443,HTTPS,United Kingdom,GB,🇬🇧,73,high,Yes,M247 Europe SRL,1889
-92.119.176.6:443,HTTPS,United Kingdom,GB,🇬🇧,73,high,Yes,M247 Europe SRL,1867
-92.119.176.3:443,HTTPS,United Kingdom,GB,🇬🇧,73,high,Yes,M247 Europe SRL,1901
-37.120.233.34:9443,HTTPS,United Kingdom,GB,🇬🇧,73,high,Yes,M247 Europe SRL,1817
-37.120.233.50:9443,HTTPS,United Kingdom,GB,🇬🇧,73,high,Yes,M247 Europe SRL,1790
-37.120.233.50:443,HTTPS,United Kingdom,GB,🇬🇧,73,high,Yes,M247 Europe SRL,1824
-37.221.113.194:443,HTTPS,United Kingdom,GB,🇬🇧,73,high,Yes,M247 Europe SRL,1708
-37.221.113.194:9443,HTTPS,United Kingdom,GB,🇬🇧,73,high,Yes,M247 Europe SRL,1733
-37.221.113.130:443,HTTPS,United Kingdom,GB,🇬🇧,73,high,Yes,M247 Europe SRL,1712
-37.221.113.130:9443,HTTPS,United Kingdom,GB,🇬🇧,73,high,Yes,M247 Europe SRL,1749
-23.106.56.19:7579,HTTPS,United Kingdom,GB,🇬🇧,74,high,Yes,Leaseweb UK Limited,1793
-212.102.63.92:443,HTTPS,United Kingdom,GB,🇬🇧,74,high,Yes,DataCamp Limited,1713
-212.102.63.92:9443,HTTPS,United Kingdom,GB,🇬🇧,74,high,Yes,DataCamp Limited,1717
-84.17.50.214:9443,HTTPS,United Kingdom,GB,🇬🇧,78,high,Yes,Datacamp Limited,1790
-84.17.50.129:9443,HTTPS,United Kingdom,GB,🇬🇧,78,high,Yes,Datacamp Limited,1754
-84.17.50.193:9443,HTTPS,United Kingdom,GB,🇬🇧,78,high,Yes,Datacamp Limited,1754
-84.17.50.157:9443,HTTPS,United Kingdom,GB,🇬🇧,78,high,Yes,Datacamp Limited,1777
-23.106.56.54:6157,HTTPS,United Kingdom,GB,🇬🇧,88,high,Yes,Leaseweb UK Limited,2973
+152.71.251.13:443,HTTPS,United Kingdom,GB,🇬🇧,0,low,No,The Nottingham Trent University,1547
+146.177.5.114:8090,HTTPS,United Kingdom,GB,🇬🇧,0,low,No,Rackspace,1518
+46.17.91.114:3000,HTTPS,United Kingdom,GB,🇬🇧,0,low,No,Compuweb Communications Services,1770
+46.17.91.18:3000,HTTPS,United Kingdom,GB,🇬🇧,0,low,No,Compuweb Communications Services,1523
+23.106.56.52:15767,HTTPS,United Kingdom,GB,🇬🇧,9,low,Yes,Leaseweb UK Limited,1524
+45.56.228.8:443,HTTPS,United Kingdom,GB,🇬🇧,13,low,No,Navarino Single Member S.A.,1345
+62.171.162.111:443,HTTPS,United Kingdom,GB,🇬🇧,13,low,No,Contabo GmbH,2550
+3.10.161.152:443,HTTPS,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,1642
+18.169.247.230:443,HTTPS,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,1358
+35.179.34.132:443,HTTPS,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,1312
+23.106.56.11:7714,HTTPS,United Kingdom,GB,🇬🇧,18,low,Yes,Leaseweb UK Limited,1680
+23.106.56.35:16927,HTTPS,United Kingdom,GB,🇬🇧,40,medium,Yes,Leaseweb UK Limited,1567
+193.36.118.210:9443,HTTPS,United Kingdom,GB,🇬🇧,41,medium,Yes,EstNOC OU,1426
+193.36.118.210:443,HTTPS,United Kingdom,GB,🇬🇧,41,medium,Yes,EstNOC OU,1425
+95.179.235.43:8443,HTTPS,United Kingdom,GB,🇬🇧,42,medium,No,"The Constant Company, LLC",1893
+23.106.56.43:19881,HTTPS,United Kingdom,GB,🇬🇧,50,medium,Yes,Leaseweb UK Limited,1361
+104.248.172.167:443,HTTPS,United Kingdom,GB,🇬🇧,52,medium,Yes,"DigitalOcean, LLC",1532
+46.101.22.14:443,HTTPS,United Kingdom,GB,🇬🇧,55,medium,No,"DigitalOcean, LLC",1488
+107.152.33.202:8888,HTTPS,United Kingdom,GB,🇬🇧,57,medium,No,"tzulo, inc.",883
+84.233.178.33:9443,HTTPS,United Kingdom,GB,🇬🇧,57,medium,Yes,Datacamp Limited,1300
+185.163.110.194:443,HTTPS,United Kingdom,GB,🇬🇧,60,high,Yes,M247 Europe IPs,1794
+185.163.110.194:9443,HTTPS,United Kingdom,GB,🇬🇧,60,high,Yes,M247 Europe IPs,1868
+37.120.233.18:9443,HTTPS,United Kingdom,GB,🇬🇧,73,high,Yes,M247 Europe SRL,1311
+37.120.233.18:443,HTTPS,United Kingdom,GB,🇬🇧,73,high,Yes,M247 Europe SRL,1324
+37.221.113.146:443,HTTPS,United Kingdom,GB,🇬🇧,73,high,Yes,M247 Europe SRL,1243
+37.221.113.146:9443,HTTPS,United Kingdom,GB,🇬🇧,73,high,Yes,M247 Europe SRL,1293
+23.106.56.19:7579,HTTPS,United Kingdom,GB,🇬🇧,74,high,Yes,Leaseweb UK Limited,1323
+23.106.56.54:6157,HTTPS,United Kingdom,GB,🇬🇧,88,high,Yes,Leaseweb UK Limited,1572
