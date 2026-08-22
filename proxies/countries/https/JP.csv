@@ -1,36 +1,47 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-45.146.129.17:443,HTTPS,Japan,JP,🇯🇵,0,low,Yes,WorldStream B.V.,2428
-45.12.89.187:443,HTTPS,Japan,JP,🇯🇵,0,low,No,xTom Japan Corporation,2432
-43.165.186.3:443,HTTPS,Japan,JP,🇯🇵,0,low,No,Shenzhen Tencent Computer Systems Company Limited,3740
-47.74.1.217:443,HTTPS,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,1841
-47.74.58.225:443,HTTPS,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,1866
-133.18.200.207:343,HTTPS,Japan,JP,🇯🇵,0,low,No,KAGOYA JAPAN Inc.,1916
-133.242.152.27:443,HTTPS,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,2090
-133.167.87.173:443,HTTPS,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,1895
-153.126.214.29:443,HTTPS,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,2821
-160.16.144.120:443,HTTPS,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,2641
-160.16.226.26:443,HTTPS,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,2423
-133.9.6.9:443,HTTPS,Japan,JP,🇯🇵,0,low,No,WASEDA University,3308
-8.216.10.222:443,HTTPS,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",2576
-210.236.6.162:443,HTTPS,Japan,JP,🇯🇵,0,low,No,CCCN,2707
-210.236.6.168:443,HTTPS,Japan,JP,🇯🇵,0,low,No,CCCN,2577
-210.236.6.164:443,HTTPS,Japan,JP,🇯🇵,0,low,No,CCCN,2412
-210.236.6.165:443,HTTPS,Japan,JP,🇯🇵,0,low,No,CCCN,2799
-210.236.6.167:443,HTTPS,Japan,JP,🇯🇵,0,low,No,CCCN,2852
-8.216.57.38:443,HTTPS,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",2102
-8.209.206.232:443,HTTPS,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",2065
-14.137.237.91:443,HTTPS,Japan,JP,🇯🇵,0,low,No,ALPHA-JP-SUB,1863
-103.127.242.229:7000,HTTPS,Japan,JP,🇯🇵,0,low,No,JT TELECOM INTERNATIONAL PTE.LTD.,3567
-8.211.142.38:443,HTTPS,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",2034
-47.245.60.99:443,HTTPS,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,1941
-180.131.255.118:443,HTTPS,Japan,JP,🇯🇵,0,low,No,GLBB Japan KK,2328
-133.9.6.10:443,HTTPS,Japan,JP,🇯🇵,0,low,No,WASEDA University,3055
-52.196.49.70:443,HTTPS,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,2262
-3.113.38.132:443,HTTPS,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,2547
-18.180.147.187:443,HTTPS,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,2030
-3.112.210.73:443,HTTPS,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,2052
-3.113.219.14:443,HTTPS,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1714
-184.168.123.21:443,HTTPS,Japan,JP,🇯🇵,1,low,No,"GoDaddy.com, LLC",3104
-175.134.18.237:443,HTTPS,Japan,JP,🇯🇵,3,low,No,Kddi Corporation,1952
-64.176.51.83:8443,HTTPS,Japan,JP,🇯🇵,29,medium,No,"The Constant Company, LLC",2180
-37.120.210.146:9443,HTTPS,Japan,JP,🇯🇵,73,high,Yes,M247 Europe SRL,1600
+45.12.89.187:443,HTTPS,Japan,JP,🇯🇵,0,low,No,xTom Japan Corporation,1754
+45.146.129.17:443,HTTPS,Japan,JP,🇯🇵,0,low,Yes,WorldStream B.V.,2445
+43.165.186.3:443,HTTPS,Japan,JP,🇯🇵,0,low,No,Shenzhen Tencent Computer Systems Company Limited,3021
+47.74.58.225:443,HTTPS,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,1521
+47.74.1.217:443,HTTPS,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,1516
+133.18.200.207:343,HTTPS,Japan,JP,🇯🇵,0,low,No,KAGOYA JAPAN Inc.,1918
+133.242.152.27:443,HTTPS,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,1777
+133.167.87.173:443,HTTPS,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,1556
+153.126.214.29:443,HTTPS,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,2150
+160.16.144.120:443,HTTPS,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,1713
+133.9.6.9:443,HTTPS,Japan,JP,🇯🇵,0,low,No,WASEDA University,1748
+160.16.226.26:443,HTTPS,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,1638
+8.216.10.222:443,HTTPS,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",1714
+210.236.6.162:443,HTTPS,Japan,JP,🇯🇵,0,low,No,CCCN,1854
+210.236.6.165:443,HTTPS,Japan,JP,🇯🇵,0,low,No,CCCN,1852
+210.236.6.168:443,HTTPS,Japan,JP,🇯🇵,0,low,No,CCCN,1846
+210.236.6.164:443,HTTPS,Japan,JP,🇯🇵,0,low,No,CCCN,1826
+210.236.6.167:443,HTTPS,Japan,JP,🇯🇵,0,low,No,CCCN,1773
+8.216.57.38:443,HTTPS,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",1607
+8.209.206.232:443,HTTPS,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",2045
+14.137.237.91:443,HTTPS,Japan,JP,🇯🇵,0,low,No,ALPHA-JP-SUB,2365
+103.127.242.229:7000,HTTPS,Japan,JP,🇯🇵,0,low,No,JT TELECOM INTERNATIONAL PTE.LTD.,2249
+8.211.142.38:443,HTTPS,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",1556
+47.245.60.99:443,HTTPS,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,1549
+180.131.255.118:443,HTTPS,Japan,JP,🇯🇵,0,low,No,GLBB Japan KK,2177
+133.9.6.10:443,HTTPS,Japan,JP,🇯🇵,0,low,No,WASEDA University,2428
+56.155.73.159:3071,HTTPS,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",5713
+15.152.75.215:34980,HTTPS,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,6208
+8.209.216.13:443,HTTPS,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",1512
+8.211.129.128:443,HTTPS,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",1557
+8.211.131.159:443,HTTPS,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",1489
+56.155.73.159:4145,HTTPS,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",4782
+8.211.170.103:443,HTTPS,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",1880
+20.89.45.135:443,HTTPS,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation,2175
+52.196.49.70:443,HTTPS,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1763
+3.113.38.132:443,HTTPS,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1819
+18.180.147.187:443,HTTPS,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1940
+3.112.210.73:443,HTTPS,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1564
+3.113.219.14:443,HTTPS,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1601
+184.168.123.21:443,HTTPS,Japan,JP,🇯🇵,1,low,No,"GoDaddy.com, LLC",2290
+3.114.202.248:443,HTTPS,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,2183
+175.134.18.237:443,HTTPS,Japan,JP,🇯🇵,3,low,No,Kddi Corporation,1669
+140.238.50.134:1234,HTTPS,Japan,JP,🇯🇵,5,low,No,Oracle Corporation,2461
+64.176.51.83:8443,HTTPS,Japan,JP,🇯🇵,29,medium,No,"The Constant Company, LLC",1654
+37.120.210.146:9443,HTTPS,Japan,JP,🇯🇵,73,high,Yes,M247 Europe SRL,1474
+37.120.210.66:9443,HTTPS,Japan,JP,🇯🇵,73,high,Yes,M247 Europe SRL,1499
