@@ -1,22 +1,25 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-47.250.155.254:9080,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7533
-47.250.155.254:1080,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7533
-47.250.159.65:801,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7527
-47.250.11.111:1000,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,Alibaba Cloud LLC,7528
-47.250.11.111:8181,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,Alibaba Cloud LLC,7529
-47.250.11.111:8080,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,Alibaba Cloud LLC,7537
-47.250.159.65:8005,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",8533
-47.250.159.65:8002,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7531
-47.250.51.110:8081,SOCKS5,Malaysia,MY,🇲🇾,0,low,Yes,Alibaba Cloud LLC,7531
-47.250.177.202:6379,SOCKS5,Malaysia,MY,🇲🇾,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8973
-47.250.51.110:50070,SOCKS5,Malaysia,MY,🇲🇾,0,low,Yes,Alibaba Cloud LLC,7550
-47.250.51.110:55443,SOCKS5,Malaysia,MY,🇲🇾,0,low,Yes,Alibaba Cloud LLC,7531
-47.250.177.202:8888,SOCKS5,Malaysia,MY,🇲🇾,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7534
-47.250.155.254:3129,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7538
-47.250.177.202:4145,SOCKS5,Malaysia,MY,🇲🇾,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7533
-47.250.155.254:3128,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7531
-47.250.155.254:10004,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7538
-47.250.159.65:10002,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7529
-47.250.159.65:4145,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7535
-47.250.159.65:59394,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7547
-47.250.177.202:70,SOCKS5,Malaysia,MY,🇲🇾,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7529
+47.250.177.202:5060,SOCKS5,Malaysia,MY,🇲🇾,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7573
+47.250.177.202:9080,SOCKS5,Malaysia,MY,🇲🇾,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7579
+47.250.155.254:8081,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7572
+47.250.177.202:8008,SOCKS5,Malaysia,MY,🇲🇾,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7560
+47.250.155.254:8004,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7576
+47.250.155.254:6379,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7586
+47.250.159.65:801,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7572
+47.250.11.111:1000,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,Alibaba Cloud LLC,7571
+47.250.11.111:8181,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,Alibaba Cloud LLC,7574
+47.250.159.65:8005,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7575
+47.250.11.111:8080,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,Alibaba Cloud LLC,7579
+47.250.159.65:8002,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7565
+47.250.51.110:8081,SOCKS5,Malaysia,MY,🇲🇾,0,low,Yes,Alibaba Cloud LLC,7563
+47.250.51.110:50070,SOCKS5,Malaysia,MY,🇲🇾,0,low,Yes,Alibaba Cloud LLC,7582
+47.250.51.110:55443,SOCKS5,Malaysia,MY,🇲🇾,0,low,Yes,Alibaba Cloud LLC,7562
+47.250.177.202:9091,SOCKS5,Malaysia,MY,🇲🇾,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7584
+47.250.177.202:8000,SOCKS5,Malaysia,MY,🇲🇾,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7579
+47.250.155.254:1000,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7575
+47.250.177.202:139,SOCKS5,Malaysia,MY,🇲🇾,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7571
+47.250.155.254:8181,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7572
+47.250.155.254:8888,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7572
+47.250.159.65:10002,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7563
+47.250.159.65:4145,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7574
+47.250.159.65:59394,SOCKS5,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7572
