@@ -1,55 +1,30 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-34.134.231.117:3129,HTTP,United States,US,🇺🇸,0,low,No,Google LLC,15628
-34.134.231.117:3129,HTTP,United States,US,🇺🇸,0,low,No,Google LLC,20022
-49.51.244.112:8888,HTTP,United States,US,🇺🇸,0,low,No,OPHL,16953
-43.153.82.179:8888,HTTP,United States,US,🇺🇸,0,low,No,Shenzhen Tencent Computer Systems Company Limited,9765
-43.153.82.179:8888,HTTP,United States,US,🇺🇸,0,low,No,Shenzhen Tencent Computer Systems Company Limited,5647
-43.153.28.68:3128,HTTP,United States,US,🇺🇸,0,low,No,Shenzhen Tencent Computer Systems Company Limited,1108
-49.51.253.118:8888,HTTP,United States,US,🇺🇸,0,low,No,OPHL,3855
-31.172.79.14:18080,HTTP,United States,US,🇺🇸,0,low,No,FORNEX,10350
-199.7.149.90:3128,HTTP,United States,US,🇺🇸,0,low,No,EXO BROADBAND,94
-199.7.149.90:3128,HTTP,United States,US,🇺🇸,0,low,No,EXO BROADBAND,83
-199.7.149.96:3128,HTTP,United States,US,🇺🇸,0,low,No,EXO BROADBAND,53
-199.7.149.96:3128,HTTP,United States,US,🇺🇸,0,low,No,EXO BROADBAND,54
-23.185.192.66:8181,HTTP,United States,US,🇺🇸,0,low,No,"Swayzee Telephone Company, Inc.",2454
-153.72.68.0:8080,HTTP,United States,US,🇺🇸,1,low,No,Google LLC,1364
-34.43.46.91:443,HTTP,United States,US,🇺🇸,2,low,Yes,Google LLC,393
-34.43.46.91:80,HTTP,United States,US,🇺🇸,2,low,Yes,Google LLC,392
-68.225.17.237:4228,HTTP,United States,US,🇺🇸,4,low,No,Cox Communications Inc.,6041
-68.225.17.237:4228,HTTP,United States,US,🇺🇸,4,low,No,Cox Communications Inc.,4395
-5.161.50.82:8118,HTTP,United States,US,🇺🇸,5,low,No,Hetzner Online GmbH,7748
-5.161.50.82:8118,HTTP,United States,US,🇺🇸,5,low,No,Hetzner Online GmbH,4428
-64.130.54.246:3128,HTTP,United States,US,🇺🇸,6,low,No,TeraSwitch Networks Inc.,5031
-47.251.74.38:9098,HTTP,United States,US,🇺🇸,7,low,Yes,Alibaba Cloud LLC,10155
-47.252.11.233:9050,HTTP,United States,US,🇺🇸,7,low,Yes,Alibaba Cloud LLC,7029
-47.252.11.233:20,HTTP,United States,US,🇺🇸,7,low,Yes,Alibaba Cloud LLC,7026
-47.254.36.213:50,HTTP,United States,US,🇺🇸,7,low,Yes,Alibaba Cloud LLC,10171
-47.251.87.199:20125,HTTP,United States,US,🇺🇸,7,low,No,Alibaba Cloud LLC,7373
-47.251.87.74:8983,HTTP,United States,US,🇺🇸,7,low,Yes,Alibaba Cloud LLC,7379
-47.252.18.37:20,HTTP,United States,US,🇺🇸,7,low,No,Alibaba Cloud LLC,7041
-47.251.74.38:8080,HTTP,United States,US,🇺🇸,7,low,Yes,Alibaba Cloud LLC,7423
-47.252.11.233:5060,HTTP,United States,US,🇺🇸,7,low,Yes,Alibaba Cloud LLC,7037
-47.251.74.38:199,HTTP,United States,US,🇺🇸,7,low,Yes,Alibaba Cloud LLC,7373
-47.251.73.54:1080,HTTP,United States,US,🇺🇸,7,low,No,Alibaba Cloud LLC,7374
-47.254.36.213:5060,HTTP,United States,US,🇺🇸,7,low,Yes,Alibaba Cloud LLC,7357
-47.252.18.37:81,HTTP,United States,US,🇺🇸,7,low,No,Alibaba Cloud LLC,7044
-47.254.36.213:3129,HTTP,United States,US,🇺🇸,7,low,Yes,Alibaba Cloud LLC,8976
-47.251.87.74:85,HTTP,United States,US,🇺🇸,7,low,Yes,Alibaba Cloud LLC,7352
-47.252.11.233:8085,HTTP,United States,US,🇺🇸,7,low,Yes,Alibaba Cloud LLC,7043
-47.251.73.54:8888,HTTP,United States,US,🇺🇸,7,low,No,Alibaba Cloud LLC,8300
-184.57.87.36:80,HTTP,United States,US,🇺🇸,9,low,No,Charter Communications,11427
-44.193.20.213:8081,HTTP,United States,US,🇺🇸,10,low,No,Amazon.com,139
-47.90.167.27:9050,HTTP,United States,US,🇺🇸,17,low,Yes,Alibaba.com LLC,7047
-47.89.159.212:137,HTTP,United States,US,🇺🇸,17,low,No,Alibaba.com LLC,7090
-47.90.149.238:41,HTTP,United States,US,🇺🇸,17,low,Yes,Alibaba.com LLC,7041
-47.90.149.238:9080,HTTP,United States,US,🇺🇸,17,low,Yes,Alibaba.com LLC,7713
-47.90.167.27:8080,HTTP,United States,US,🇺🇸,17,low,Yes,Alibaba.com LLC,7082
-47.90.149.238:4002,HTTP,United States,US,🇺🇸,17,low,Yes,Alibaba.com LLC,7061
-209.145.54.41:3129,HTTP,United States,US,🇺🇸,39,medium,No,Contabo Inc.,4972
-140.82.62.31:50000,HTTP,United States,US,🇺🇸,45,medium,No,The Constant Company,148
-64.112.184.210:3128,HTTP,United States,US,🇺🇸,50,medium,Yes,Hosted Backbone,70
-64.112.184.210:3128,HTTP,United States,US,🇺🇸,50,medium,Yes,Hosted Backbone,279
-45.66.249.187:8080,HTTP,United States,US,🇺🇸,55,medium,No,BlueVPS OU,12676
-45.66.249.187:3128,HTTP,United States,US,🇺🇸,55,medium,No,BlueVPS OU,9386
-45.66.249.187:8181,HTTP,United States,US,🇺🇸,55,medium,No,BlueVPS OU,775
-45.66.249.187:8080,HTTP,United States,US,🇺🇸,55,medium,No,BlueVPS OU,876
+192.73.243.98:3128,HTTP,United States,US,🇺🇸,0,low,No,"NetActuate, Inc",20707
+67.207.92.87:3129,HTTP,United States,US,🇺🇸,0,low,No,"DigitalOcean, LLC",18832
+199.7.149.90:3128,HTTP,United States,US,🇺🇸,0,low,No,EXO BROADBAND,425
+199.7.149.90:3128,HTTP,United States,US,🇺🇸,0,low,No,EXO BROADBAND,437
+199.7.149.96:3128,HTTP,United States,US,🇺🇸,0,low,No,EXO BROADBAND,413
+199.7.149.96:3128,HTTP,United States,US,🇺🇸,0,low,No,EXO BROADBAND,391
+47.77.186.212:3128,HTTP,United States,US,🇺🇸,0,low,No,Alibaba.com LLC,4919
+23.185.192.66:8181,HTTP,United States,US,🇺🇸,0,low,No,"Swayzee Telephone Company, Inc.",1166
+153.72.68.0:8080,HTTP,United States,US,🇺🇸,1,low,No,Google LLC,1304
+34.69.61.247:80,HTTP,United States,US,🇺🇸,2,low,Yes,Google LLC,385
+34.20.222.122:3128,HTTP,United States,US,🇺🇸,2,low,No,Google LLC,14762
+68.225.17.237:4228,HTTP,United States,US,🇺🇸,4,low,No,Cox Communications Inc.,9849
+104.161.23.122:5070,HTTP,United States,US,🇺🇸,4,low,No,Input Output Flood LLC,7283
+5.161.50.82:8118,HTTP,United States,US,🇺🇸,5,low,No,Hetzner Online GmbH,6837
+178.156.206.253:8118,HTTP,United States,US,🇺🇸,6,low,No,Hetzner Online GmbH,15297
+24.119.238.146:10000,HTTP,United States,US,🇺🇸,6,low,No,"CABLE ONE, INC.",8955
+47.251.74.38:9098,HTTP,United States,US,🇺🇸,7,low,Yes,Alibaba Cloud LLC,15149
+47.251.74.38:8080,HTTP,United States,US,🇺🇸,7,low,Yes,Alibaba Cloud LLC,12075
+47.251.74.38:8009,HTTP,United States,US,🇺🇸,7,low,Yes,Alibaba Cloud LLC,9977
+47.252.52.58:8081,HTTP,United States,US,🇺🇸,7,low,No,Alibaba Cloud LLC,5113
+67.20.129.199:8080,HTTP,United States,US,🇺🇸,10,low,No,"Hargray Communications Group, Inc.",15346
+44.193.20.213:8081,HTTP,United States,US,🇺🇸,10,low,No,Amazon.com,1166
+155.94.155.175:8888,HTTP,United States,US,🇺🇸,14,low,No,HostPapa,5785
+64.112.184.210:3128,HTTP,United States,US,🇺🇸,50,medium,Yes,Hosted Backbone,379
+64.112.184.210:3128,HTTP,United States,US,🇺🇸,50,medium,Yes,Hosted Backbone,367
+167.172.250.185:999,HTTP,United States,US,🇺🇸,52,medium,Yes,"DigitalOcean, LLC",17050
+45.66.249.187:3128,HTTP,United States,US,🇺🇸,55,medium,No,BlueVPS OU,332
+45.66.249.187:8181,HTTP,United States,US,🇺🇸,55,medium,No,BlueVPS OU,1131
+45.66.249.187:8080,HTTP,United States,US,🇺🇸,55,medium,No,BlueVPS OU,1880
