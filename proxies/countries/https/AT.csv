@@ -1,6 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-195.192.209.130:443,HTTPS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,1882
-195.192.209.130:8443,HTTPS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,1911
-195.192.209.130:9443,HTTPS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,2109
-146.70.244.18:9443,HTTPS,Austria,AT,🇦🇹,40,medium,Yes,M247 Europe SRL,1824
-146.70.244.2:9443,HTTPS,Austria,AT,🇦🇹,40,medium,Yes,M247 Europe SRL,1885
+195.192.209.130:443,HTTPS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,2179
+178.115.238.253:443,HTTPS,Austria,AT,🇦🇹,0,low,No,customers with static IP,2921
+195.192.209.130:9443,HTTPS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,2125
+195.192.209.130:8443,HTTPS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,2223
+146.70.244.18:9443,HTTPS,Austria,AT,🇦🇹,35,medium,Yes,M247 Europe SRL,1628
+146.70.244.2:9443,HTTPS,Austria,AT,🇦🇹,35,medium,Yes,M247 Europe SRL,1671

@@ -1,11 +1,22 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-47.237.113.119:10,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",10895
-157.20.43.1:8090,HTTP,Singapore,SG,🇸🇬,0,low,No,ERX,7059
-8.219.97.248:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Alibaba Cloud (Singapore) Private Limited,7521
-43.160.242.118:3128,HTTP,Singapore,SG,🇸🇬,0,low,Yes,Shenzhen Tencent Computer Systems Company Limited,7267
-168.107.86.167:8888,HTTP,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation,1673
-13.214.205.160:8024,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,12265
-103.164.55.81:3128,HTTP,Singapore,SG,🇸🇬,22,medium,No,Contabo Asia Private Limited,1807
-152.42.167.241:3128,HTTP,Singapore,SG,🇸🇬,51,medium,Yes,"DigitalOcean, LLC",2222
-152.42.167.241:3128,HTTP,Singapore,SG,🇸🇬,51,medium,Yes,"DigitalOcean, LLC",5539
-159.223.52.199:3128,HTTP,Singapore,SG,🇸🇬,52,medium,Yes,"DigitalOcean, LLC",1660
+47.237.107.41:20000,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",11054
+31.57.178.255:8181,HTTP,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi,13720
+45.149.93.219:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi,11219
+47.237.2.245:1234,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",14145
+45.149.93.120:8015,HTTP,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi,6813
+43.134.7.146:4000,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,5676
+31.58.158.214:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi,10259
+47.237.107.41:3129,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",18324
+54.255.249.161:1533,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.,6977
+43.160.242.118:3128,HTTP,Singapore,SG,🇸🇬,1,low,Yes,Shenzhen Tencent Computer Systems Company Limited,6793
+54.255.249.161:16811,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.,3754
+54.255.249.161:10036,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.,5221
+13.214.205.160:8024,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.,8853
+168.107.86.167:8888,HTTP,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation,5815
+103.164.55.81:3128,HTTP,Singapore,SG,🇸🇬,22,medium,No,Contabo Asia Private Limited,1957
+45.77.246.231:80,HTTP,Singapore,SG,🇸🇬,42,medium,No,The Constant Company,6047
+149.28.137.172:8888,HTTP,Singapore,SG,🇸🇬,42,medium,No,The Constant Company,15514
+152.42.167.241:3128,HTTP,Singapore,SG,🇸🇬,51,medium,Yes,"DigitalOcean, LLC",2008
+152.42.167.241:3128,HTTP,Singapore,SG,🇸🇬,51,medium,Yes,"DigitalOcean, LLC",2430
+143.198.85.218:3128,HTTP,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",17658
+188.166.179.50:3128,HTTP,Singapore,SG,🇸🇬,53,medium,No,"DigitalOcean, LLC",6354

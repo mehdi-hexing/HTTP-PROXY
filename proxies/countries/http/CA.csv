@@ -1,3 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-15.235.21.254:8080,HTTP,Canada,CA,🇨🇦,0,low,No,OVH SAS,1617
-15.235.21.254:8080,HTTP,Canada,CA,🇨🇦,0,low,No,OVH SAS,1258
+40.176.175.23:38995,HTTP,Canada,CA,🇨🇦,3,low,No,"Amazon.com, Inc.",6377
+216.8.145.99:80,HTTP,Canada,CA,🇨🇦,17,low,No,Managed Network Systems Inc,10208
+144.217.89.217:8080,HTTP,Canada,CA,🇨🇦,36,medium,Yes,OVH SAS,20611
+51.79.71.106:8080,HTTP,Canada,CA,🇨🇦,54,medium,No,OVH SAS,3177

@@ -1,4 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-185.191.204.98:9443,HTTPS,Israel,IL,🇮🇱,33,medium,Yes,Rachamim Aviel Twito,2048
-169.150.248.17:443,HTTPS,Israel,IL,🇮🇱,33,medium,Yes,Datacamp Limited,2110
-169.150.248.17:9443,HTTPS,Israel,IL,🇮🇱,33,medium,Yes,Datacamp Limited,2054
+51.16.42.227:11692,HTTPS,Israel,IL,🇮🇱,0,low,No,"Amazon.com, Inc.",6171
+51.16.42.227:7443,HTTPS,Israel,IL,🇮🇱,0,low,No,"Amazon.com, Inc.",3030
+51.16.4.39:59257,HTTPS,Israel,IL,🇮🇱,0,low,No,"Amazon.com, Inc.",3080
+185.191.204.98:9443,HTTPS,Israel,IL,🇮🇱,11,low,Yes,Rachamim Aviel Twito,1851
+169.150.248.17:443,HTTPS,Israel,IL,🇮🇱,33,medium,Yes,Datacamp Limited,1911
+169.150.248.17:9443,HTTPS,Israel,IL,🇮🇱,33,medium,Yes,Datacamp Limited,1959
