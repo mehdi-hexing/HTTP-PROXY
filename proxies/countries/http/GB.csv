@@ -1,8 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-82.102.11.164:3460,HTTP,United Kingdom,GB,🇬🇧,0,low,No,Redstation Limited,1489
-8.211.194.85:312,HTTP,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",12400
-8.211.194.78:5800,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",20386
-18.170.25.193:11683,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Amazon Technologies Inc.,2786
-13.41.196.179:23970,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Amazon Technologies Inc.,4495
-172.237.101.182:3128,HTTP,United Kingdom,GB,🇬🇧,26,medium,No,"Akamai Technologies, Inc.",17600
-81.19.210.10:80,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,Hydra Communications Ltd,14510
+81.168.119.85:443,HTTP,United Kingdom,GB,🇬🇧,0,low,Yes,Iomart Cloud Services Limited,11211
+154.72.67.190:8080,HTTP,United Kingdom,GB,🇬🇧,0,low,No,RAHA-LTZ,16083
+8.211.194.85:808,HTTP,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",12419
+8.211.195.173:4145,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",14618
+82.102.11.164:3460,HTTP,United Kingdom,GB,🇬🇧,0,low,No,Redstation Limited,1318
+8.211.194.78:8999,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",13866
+81.168.119.85:443,HTTP,United Kingdom,GB,🇬🇧,0,low,Yes,Iomart Cloud Services Limited,4961
+81.168.119.85:5443,HTTP,United Kingdom,GB,🇬🇧,0,low,Yes,Iomart Cloud Services Limited,17971
+18.170.25.193:18361,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Amazon Technologies Inc.,1285
+91.231.186.236:8181,HTTP,United Kingdom,GB,🇬🇧,56,medium,Yes,Clouvider Limited,3045

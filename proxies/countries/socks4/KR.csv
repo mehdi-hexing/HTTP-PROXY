@@ -1,19 +1,29 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-8.220.204.215:808,SOCKS4,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",6408
-8.213.156.191:9098,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",6337
-121.139.218.165:43295,SOCKS4,South Korea,KR,🇰🇷,0,low,No,Korea Telecom,6396
-8.213.128.6:37,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",4938
-8.213.128.6:8181,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",4419
-8.213.128.6:55443,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",9014
-8.220.204.92:8888,SOCKS4,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",10406
-8.220.205.172:11,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7344
-43.155.215.149:20000,SOCKS4,South Korea,KR,🇰🇷,0,low,No,Shenzhen Tencent Computer Systems Company Limited,4965
-8.213.128.6:8082,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",10959
-8.213.128.6:81,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",5019
-8.213.128.6:84,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",5791
-8.220.204.92:8090,SOCKS4,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",6367
-8.213.134.213:55443,SOCKS4,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7803
-8.220.205.172:9000,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",9449
-8.213.156.191:10000,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",6336
-115.136.121.54:9050,SOCKS4,South Korea,KR,🇰🇷,1,low,No,LG POWERCOMM,3025
-115.136.121.54:9050,SOCKS4,South Korea,KR,🇰🇷,1,low,No,LG POWERCOMM,5245
+8.213.156.191:9098,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",4579
+8.213.156.191:80,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",4536
+8.213.156.191:221,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",4559
+8.220.204.215:8080,SOCKS4,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",6337
+8.213.128.6:9080,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",5836
+8.213.128.6:9090,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",4567
+8.213.128.6:123,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",4561
+8.220.204.92:90,SOCKS4,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",6404
+8.220.204.92:8008,SOCKS4,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",6366
+8.220.204.92:5060,SOCKS4,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",6347
+8.220.205.172:8081,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",4562
+8.220.204.215:30001,SOCKS4,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",6485
+8.213.128.6:1234,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",6717
+8.213.128.6:82,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",4542
+8.213.134.213:55443,SOCKS4,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",5968
+8.213.128.6:5566,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",4538
+8.220.204.92:12000,SOCKS4,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",6916
+8.213.156.191:10000,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",4538
+8.220.205.172:8090,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",6455
+8.220.205.172:30001,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",6453
+8.213.156.191:888,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",4536
+150.109.247.86:8443,SOCKS4,South Korea,KR,🇰🇷,0,low,No,Aceville Pte.ltd,1775
+150.109.247.86:8443,SOCKS4,South Korea,KR,🇰🇷,0,low,No,Aceville Pte.ltd,1384
+8.213.156.191:1036,SOCKS4,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",4882
+211.209.210.50:1080,SOCKS4,South Korea,KR,🇰🇷,2,low,No,SK Broadband Co Ltd,3073
+175.203.138.160:5678,SOCKS4,South Korea,KR,🇰🇷,3,low,No,Korea Telecom,5605
+221.157.45.249:80,SOCKS4,South Korea,KR,🇰🇷,4,low,No,Korea Telecom,6631
+221.157.45.249:80,SOCKS4,South Korea,KR,🇰🇷,4,low,No,Korea Telecom,4564
