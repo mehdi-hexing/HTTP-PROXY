@@ -1,29 +1,20 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-85.234.100.149:1080,HTTP,Germany,DE,🇩🇪,0,low,Yes,Global Connectivity Solutions LLP,13113
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,1284
-195.133.65.238:10909,HTTP,Germany,DE,🇩🇪,0,low,No,Chsl ONE LTD,14819
-204.76.203.9:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Pfcloud UG,1192
-91.26.188.170:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,4329
-8.211.49.86:8081,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7778
-8.211.49.86:9050,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7780
-8.211.42.167:80,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",20835
-204.76.203.9:8080,HTTP,Germany,DE,🇩🇪,0,low,Yes,Pfcloud UG,1200
-8.211.49.86:9095,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7862
-86.53.111.249:8080,HTTP,Germany,DE,🇩🇪,0,low,No,GTT Communications Inc.,5575
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,1317
-152.53.136.178:10000,HTTP,Germany,DE,🇩🇪,0,low,No,Location: DE,9773
-50.114.58.111:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Sculk Ltd.,1536
-3.121.130.230:8024,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,1314
-3.121.130.230:47199,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,1503
-63.179.134.206:16811,HTTP,Germany,DE,🇩🇪,4,low,No,Amazon.com,1586
-63.181.83.210:11,HTTP,Germany,DE,🇩🇪,4,low,No,Amazon.com,3418
-63.179.134.206:42029,HTTP,Germany,DE,🇩🇪,4,low,No,Amazon.com,2624
-116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,1243
-159.69.45.217:1082,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,8266
-91.107.188.68:8084,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,8918
-91.107.188.68:8083,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,12551
-173.249.50.95:3128,HTTP,Germany,DE,🇩🇪,14,low,No,Contabo GmbH,17382
-80.241.214.192:3128,HTTP,Germany,DE,🇩🇪,14,low,Yes,Contabo GmbH,9299
-80.241.214.192:3128,HTTP,Germany,DE,🇩🇪,14,low,Yes,Contabo GmbH,8977
-158.220.99.85:4545,HTTP,Germany,DE,🇩🇪,14,low,No,Contabo GmbH,7473
-217.160.249.182:8888,HTTP,Germany,DE,🇩🇪,46,medium,No,IONOS SE,1824
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,1275
+204.76.203.9:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Pfcloud UG,1417
+204.76.203.9:8080,HTTP,Germany,DE,🇩🇪,0,low,Yes,Pfcloud UG,1215
+8.209.96.245:8999,HTTP,Germany,DE,🇩🇪,0,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,13686
+8.211.49.86:9028,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",9084
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,1286
+50.114.58.111:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Sculk Ltd.,1347
+3.127.27.51:102,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,2829
+3.127.27.51:33619,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,2063
+3.127.27.51:9088,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,1828
+3.121.130.230:47199,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,5993
+63.181.83.210:2677,HTTP,Germany,DE,🇩🇪,4,low,No,Amazon.com,2268
+63.181.83.210:59337,HTTP,Germany,DE,🇩🇪,4,low,No,Amazon.com,1301
+116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,1246
+159.69.45.217:1081,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,12664
+159.69.45.217:1082,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,22435
+80.241.214.192:3128,HTTP,Germany,DE,🇩🇪,14,low,Yes,Contabo GmbH,6244
+80.241.214.192:3128,HTTP,Germany,DE,🇩🇪,14,low,Yes,Contabo GmbH,5486
+31.25.236.95:3128,HTTP,Germany,DE,🇩🇪,38,medium,No,Massivegrid LTD,7192
