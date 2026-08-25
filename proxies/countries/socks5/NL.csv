@@ -1,44 +1,59 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-139.28.240.201:1082,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,Global Connectivity Solutions LLP,4842
-139.28.240.202:1082,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,Global Connectivity Solutions LLP,710
-5.255.117.250:1080,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,The Infrastructure Group B.V.,742
-104.194.132.112:9054,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,RouterHosting LLC,2623
-5.255.123.162:1080,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,The Infrastructure Group B.V.,5189
-46.161.27.244:995,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,NForce Entertainment B.V.,12929
-147.45.169.78:49153,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,"Timeweb, LLP",903
-66.151.32.105:1080,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,Hostkey B.V.,6144
-5.255.117.250:1080,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,The Infrastructure Group B.V.,2809
-154.83.140.247:1080,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,Datagear LLP,1639
-132.243.120.54:10808,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,Clodo Cloud Service CO. L.L.C,7048
-132.243.120.54:808,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,Clodo Cloud Service CO. L.L.C,6667
-45.74.31.30:9090,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,6720
-45.74.31.30:9009,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,9772
-45.74.31.30:12057,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,11482
-45.74.31.30:8466,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,1373
-45.74.31.30:8570,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,4503
-45.74.31.30:5114,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,11097
-45.74.31.42:12901,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,6785
-45.74.31.42:28904,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,7163
-45.74.31.30:15169,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,6778
-85.17.145.160:9150,SOCKS5,Netherlands,NL,🇳🇱,2,low,No,LeaseWeb Netherlands B.V.,11323
-144.124.253.249:1080,SOCKS5,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,2566
-89.169.13.59:1303,SOCKS5,Netherlands,NL,🇳🇱,4,low,No,SERV.HOST GROUP LTD,4186
-72.56.73.224:80,SOCKS5,Netherlands,NL,🇳🇱,6,low,No,"Timeweb, LLP",7662
-79.137.196.250:1080,SOCKS5,Netherlands,NL,🇳🇱,6,low,No,Aeza International LTD,4982
-45.150.33.211:1081,SOCKS5,Netherlands,NL,🇳🇱,6,low,No,Aeza International LTD,4503
-72.56.27.122:1081,SOCKS5,Netherlands,NL,🇳🇱,6,low,No,"Timeweb, LLP",7416
-72.56.94.27:1081,SOCKS5,Netherlands,NL,🇳🇱,6,low,No,"Timeweb, LLP",11174
-72.56.27.122:1081,SOCKS5,Netherlands,NL,🇳🇱,6,low,No,"Timeweb, LLP",4302
-5.255.113.177:1080,SOCKS5,Netherlands,NL,🇳🇱,8,low,No,The Infrastructure Group B.V.,4624
-5.255.113.177:1080,SOCKS5,Netherlands,NL,🇳🇱,8,low,No,The Infrastructure Group B.V.,5703
-95.215.8.84:30755,SOCKS5,Netherlands,NL,🇳🇱,9,low,No,Baykov Ilya Sergeevich,2343
-161.35.90.93:1081,SOCKS5,Netherlands,NL,🇳🇱,52,medium,No,"DigitalOcean, LLC",4241
-188.166.120.48:1080,SOCKS5,Netherlands,NL,🇳🇱,52,medium,No,"DigitalOcean, LLC",11124
-178.62.230.185:7497,SOCKS5,Netherlands,NL,🇳🇱,52,medium,No,"DigitalOcean, LLC",721
-161.35.90.93:1083,SOCKS5,Netherlands,NL,🇳🇱,52,medium,No,"DigitalOcean, LLC",1876
-188.166.120.48:1080,SOCKS5,Netherlands,NL,🇳🇱,52,medium,No,"DigitalOcean, LLC",3945
-161.35.90.93:1082,SOCKS5,Netherlands,NL,🇳🇱,52,medium,No,"DigitalOcean, LLC",3785
-171.22.183.64:12347,SOCKS5,Netherlands,NL,🇳🇱,58,medium,No,BlueVPS OU,1694
-195.211.124.50:1080,SOCKS5,Netherlands,NL,🇳🇱,67,high,No,CGI GLOBAL LIMITED,8572
-5.255.99.75:1080,SOCKS5,Netherlands,NL,🇳🇱,100,very_high,No,The Infrastructure Group B.V.,7823
-5.255.99.75:1080,SOCKS5,Netherlands,NL,🇳🇱,100,very_high,No,The Infrastructure Group B.V.,2950
+104.194.132.112:9051,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,RouterHosting LLC,17495
+139.28.240.202:1082,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,Global Connectivity Solutions LLP,1968
+5.255.123.162:1080,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,The Infrastructure Group B.V.,12933
+139.28.240.202:1082,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,Global Connectivity Solutions LLP,1954
+5.255.123.162:1080,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,The Infrastructure Group B.V.,5114
+5.255.117.250:1080,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,The Infrastructure Group B.V.,937
+66.151.32.105:1080,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,Hostkey B.V.,1893
+45.10.42.68:1080,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,"Timeweb, LLP",3904
+132.243.120.54:10809,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,Clodo Cloud Service CO. L.L.C,984
+132.243.120.54:10808,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,Clodo Cloud Service CO. L.L.C,4367
+132.243.120.54:10809,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,Clodo Cloud Service CO. L.L.C,1098
+37.49.224.167:1080,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,ESTOXY OU,8225
+144.31.86.244:8443,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,U1 DIGITAL SERVICES LTD,14429
+45.74.31.30:4829,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,4978
+45.74.31.30:7949,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,4612
+45.74.31.30:20804,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,6672
+45.74.31.42:4511,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,6780
+45.74.31.42:6495,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,9496
+45.74.31.30:4426,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,9078
+45.74.31.30:7949,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,9570
+45.74.31.30:20804,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,9870
+45.74.31.30:7784,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,11793
+45.74.31.42:9002,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,13145
+45.74.31.42:9000,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,4207
+45.74.31.42:9002,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,3831
+45.74.31.42:8142,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,8764
+45.74.31.42:4930,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,3069
+45.74.31.30:5669,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,7263
+45.74.31.30:33578,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,5852
+45.74.31.30:23281,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,9145
+45.74.31.42:27560,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,7921
+45.74.31.42:4930,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,6339
+45.74.31.30:8080,SOCKS5,Netherlands,NL,🇳🇱,0,low,Yes,Secure Internet LLC,10544
+144.124.227.88:3129,SOCKS5,Netherlands,NL,🇳🇱,3,low,Yes,Servers Tech Fzco,3293
+144.124.227.88:3129,SOCKS5,Netherlands,NL,🇳🇱,3,low,Yes,Servers Tech Fzco,1848
+5.35.71.232:10808,SOCKS5,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,786
+146.103.125.38:9051,SOCKS5,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,10312
+144.124.232.204:1080,SOCKS5,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1279
+144.124.253.249:1080,SOCKS5,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,6953
+213.165.38.49:1080,SOCKS5,Netherlands,NL,🇳🇱,4,low,No,Aeza International LTD,1049
+213.165.38.49:1080,SOCKS5,Netherlands,NL,🇳🇱,4,low,No,Aeza International LTD,1054
+72.56.73.224:80,SOCKS5,Netherlands,NL,🇳🇱,6,low,No,"Timeweb, LLP",9701
+77.110.103.146:1080,SOCKS5,Netherlands,NL,🇳🇱,6,low,No,Aeza International LTD,1119
+89.208.106.37:32712,SOCKS5,Netherlands,NL,🇳🇱,6,low,No,Aeza International LTD,1284
+5.255.117.127:1080,SOCKS5,Netherlands,NL,🇳🇱,8,low,No,The Infrastructure Group B.V.,6929
+5.255.113.177:1080,SOCKS5,Netherlands,NL,🇳🇱,8,low,No,The Infrastructure Group B.V.,10347
+5.255.103.55:1080,SOCKS5,Netherlands,NL,🇳🇱,8,low,No,The Infrastructure Group B.V.,9872
+5.255.103.55:1080,SOCKS5,Netherlands,NL,🇳🇱,8,low,No,The Infrastructure Group B.V.,15412
+178.18.147.109:9050,SOCKS5,Netherlands,NL,🇳🇱,33,medium,No,TAKEHOST OU,11959
+45.63.43.188:50000,SOCKS5,Netherlands,NL,🇳🇱,42,medium,No,The Constant Company,877
+45.63.43.188:50000,SOCKS5,Netherlands,NL,🇳🇱,42,medium,No,The Constant Company,885
+128.199.37.92:1080,SOCKS5,Netherlands,NL,🇳🇱,52,medium,No,"DigitalOcean, LLC",9124
+161.35.90.93:1082,SOCKS5,Netherlands,NL,🇳🇱,52,medium,No,"DigitalOcean, LLC",3827
+161.35.90.93:1083,SOCKS5,Netherlands,NL,🇳🇱,52,medium,No,"DigitalOcean, LLC",11301
+161.35.90.93:1082,SOCKS5,Netherlands,NL,🇳🇱,52,medium,No,"DigitalOcean, LLC",2913
+195.211.124.50:1080,SOCKS5,Netherlands,NL,🇳🇱,67,high,No,CGI GLOBAL LIMITED,8903
+5.255.99.75:1080,SOCKS5,Netherlands,NL,🇳🇱,100,very_high,No,The Infrastructure Group B.V.,8475
+5.255.99.75:1080,SOCKS5,Netherlands,NL,🇳🇱,100,very_high,No,The Infrastructure Group B.V.,3898
