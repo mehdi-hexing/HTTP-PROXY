@@ -1,24 +1,30 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-176.111.37.5:39811,HTTP,Hong Kong,HK,🇭🇰,0,low,Yes,Cogento Backbone Limited,1312
-176.111.37.216:39811,HTTP,Hong Kong,HK,🇭🇰,0,low,Yes,Cogento Backbone Limited,1189
-176.111.37.5:39811,HTTP,Hong Kong,HK,🇭🇰,0,low,Yes,Cogento Backbone Limited,1377
-8.210.17.35:8004,HTTP,Hong Kong,HK,🇭🇰,0,low,No,"Alibaba (US) Technology Co., Ltd.",11043
-47.238.130.212:20,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC,14128
-176.111.37.216:39811,HTTP,Hong Kong,HK,🇭🇰,0,low,Yes,Cogento Backbone Limited,1283
-43.99.100.108:3128,HTTP,Hong Kong,HK,🇭🇰,0,low,No,"Alibaba (US) Technology Co., Ltd.",1520
-8.210.17.35:14,HTTP,Hong Kong,HK,🇭🇰,0,low,No,"Alibaba (US) Technology Co., Ltd.",18968
-47.76.144.139:9443,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC,16167
-47.238.130.212:4145,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC,11936
-47.238.130.212:9050,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC,10936
-8.210.93.183:8213,HTTP,Hong Kong,HK,🇭🇰,0,low,No,"Alibaba (US) Technology Co., Ltd.",4137
-47.238.130.212:1337,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC,10865
-47.76.144.139:8000,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC,11930
-103.146.230.23:7890,HTTP,Hong Kong,HK,🇭🇰,0,low,No,cognetcloud INC,9519
-103.211.103.170:3128,HTTP,Hong Kong,HK,🇭🇰,0,low,No,haoxiangyun,1263
-47.57.69.227:3128,HTTP,Hong Kong,HK,🇭🇰,0,low,No,"Alibaba (US) Technology Co., Ltd.",1480
-154.219.110.27:3128,HTTP,Hong Kong,HK,🇭🇰,0,low,No,cognetcloud INC,4898
-156.245.244.137:7890,HTTP,Hong Kong,HK,🇭🇰,0,low,No,HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED,8897
-101.47.74.252:8888,HTTP,Hong Kong,HK,🇭🇰,1,low,No,Great Wall Broadband Network,21943
-101.47.74.252:8888,HTTP,Hong Kong,HK,🇭🇰,1,low,No,Great Wall Broadband Network,20186
-101.47.75.240:5000,HTTP,Hong Kong,HK,🇭🇰,1,low,No,Great Wall Broadband Network,5173
-101.47.75.240:5000,HTTP,Hong Kong,HK,🇭🇰,1,low,No,Great Wall Broadband Network,6162
+210.176.114.190:8080,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Hong Kong Telecommunications (HKT) Limited Business Internet,7303
+176.111.37.216:39811,HTTP,Hong Kong,HK,🇭🇰,0,low,Yes,Cogento Backbone Limited,1493
+176.111.37.5:39811,HTTP,Hong Kong,HK,🇭🇰,0,low,Yes,Cogento Backbone Limited,3603
+18.162.200.96:45981,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Amazon Technologies Inc.,2162
+8.217.64.30:11080,HTTP,Hong Kong,HK,🇭🇰,0,low,No,"Alibaba (US) Technology Co., Ltd.",16735
+47.238.130.212:20,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC,11658
+165.154.7.156:8888,HTTP,Hong Kong,HK,🇭🇰,0,low,Yes,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1494
+176.111.37.216:39811,HTTP,Hong Kong,HK,🇭🇰,0,low,Yes,Cogento Backbone Limited,1453
+18.163.33.4:4476,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Amazon Technologies Inc.,3497
+43.99.100.108:3128,HTTP,Hong Kong,HK,🇭🇰,0,low,No,"Alibaba (US) Technology Co., Ltd.",1327
+18.163.33.4:42862,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Amazon Technologies Inc.,4369
+47.76.189.189:8899,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC,20686
+8.210.17.35:1080,HTTP,Hong Kong,HK,🇭🇰,0,low,No,"Alibaba (US) Technology Co., Ltd.",22777
+47.238.130.212:4145,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC,11604
+47.238.130.212:9050,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC,13140
+47.238.128.246:10022,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC,16676
+118.193.37.78:3128,HTTP,Hong Kong,HK,🇭🇰,0,low,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,16535
+103.146.230.23:7890,HTTP,Hong Kong,HK,🇭🇰,0,low,No,cognetcloud INC,12187
+103.211.103.170:3128,HTTP,Hong Kong,HK,🇭🇰,0,low,No,haoxiangyun,1153
+154.219.110.27:3128,HTTP,Hong Kong,HK,🇭🇰,0,low,No,cognetcloud INC,13618
+18.162.200.96:38771,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Amazon Technologies Inc.,6570
+43.199.29.225:24780,HTTP,Hong Kong,HK,🇭🇰,3,low,No,"Amazon.com, Inc.",2013
+43.199.29.225:58737,HTTP,Hong Kong,HK,🇭🇰,3,low,No,"Amazon.com, Inc.",1698
+43.198.209.12:39989,HTTP,Hong Kong,HK,🇭🇰,3,low,No,"Amazon.com, Inc.",2746
+43.199.29.225:10280,HTTP,Hong Kong,HK,🇭🇰,3,low,No,"Amazon.com, Inc.",2354
+43.199.29.225:8085,HTTP,Hong Kong,HK,🇭🇰,3,low,No,"Amazon.com, Inc.",4830
+43.199.29.225:19200,HTTP,Hong Kong,HK,🇭🇰,3,low,No,"Amazon.com, Inc.",2144
+43.198.22.151:22330,HTTP,Hong Kong,HK,🇭🇰,3,low,No,"Amazon.com, Inc.",6617
+43.199.29.225:31166,HTTP,Hong Kong,HK,🇭🇰,3,low,No,"Amazon.com, Inc.",2746
