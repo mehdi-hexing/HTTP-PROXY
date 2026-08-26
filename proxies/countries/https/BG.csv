@@ -1,6 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-46.10.214.92:443,HTTPS,Bulgaria,BG,🇧🇬,0,low,No,Vivacom Bulgaria EAD,2164
-94.155.48.4:443,HTTPS,Bulgaria,BG,🇧🇬,0,low,No,ITD Network,3121
-169.150.237.1:9443,HTTPS,Bulgaria,BG,🇧🇬,41,medium,Yes,Datacamp Limited,2115
-109.204.88.17:443,HTTPS,Bulgaria,BG,🇧🇬,56,medium,Yes,Datacamp Limited,2092
-185.216.32.226:443,HTTPS,Bulgaria,BG,🇧🇬,67,high,Yes,M247 Europe SRL,2283
+46.10.214.92:443,HTTPS,Bulgaria,BG,🇧🇬,0,low,No,Vivacom Bulgaria EAD,1815
+94.155.48.4:443,HTTPS,Bulgaria,BG,🇧🇬,0,low,No,ITD Network,2862
+169.150.237.1:9443,HTTPS,Bulgaria,BG,🇧🇬,41,medium,Yes,Datacamp Limited,1691
+109.204.88.17:443,HTTPS,Bulgaria,BG,🇧🇬,56,medium,Yes,Datacamp Limited,1691
+150.241.139.6:9443,HTTPS,Bulgaria,BG,🇧🇬,56,medium,No,Datacamp Limited,2703
+150.241.139.102:9443,HTTPS,Bulgaria,BG,🇧🇬,56,medium,No,Datacamp Limited,4246
+185.216.32.226:443,HTTPS,Bulgaria,BG,🇧🇬,67,high,Yes,M247 Europe SRL,1905
