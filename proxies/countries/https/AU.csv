@@ -1,22 +1,24 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-4.198.140.211:443,HTTPS,Australia,AU,🇦🇺,0,low,No,Microsoft Corporation,2470
-16.51.62.173:1230,HTTPS,Australia,AU,🇦🇺,0,low,No,Amazon.com,5082
-203.31.65.32:443,HTTPS,Australia,AU,🇦🇺,0,low,No,Hosted Network Pty Ltd,2106
-16.26.99.200:5361,HTTPS,Australia,AU,🇦🇺,0,low,No,"Amazon.com, Inc.",6815
-16.26.154.68:1509,HTTPS,Australia,AU,🇦🇺,0,low,No,"Amazon.com, Inc.",7897
-159.13.44.228:443,HTTPS,Australia,AU,🇦🇺,2,low,No,Oracle Corporation,2008
-140.238.205.29:443,HTTPS,Australia,AU,🇦🇺,4,low,No,Oracle Corporation,2436
-54.253.183.151:9090,HTTPS,Australia,AU,🇦🇺,5,low,No,"Amazon.com, Inc.",7115
-103.62.50.130:9443,HTTPS,Australia,AU,🇦🇺,6,low,Yes,GSL Networks Pty LTD,2041
-3.104.149.52:443,HTTPS,Australia,AU,🇦🇺,7,low,No,Amazon Technologies Inc.,1954
-103.108.92.82:9443,HTTPS,Australia,AU,🇦🇺,26,medium,Yes,5G NETWORK OPERATIONS PTY LTD,2333
-103.108.94.162:9443,HTTPS,Australia,AU,🇦🇺,26,medium,Yes,5G NETWORK OPERATIONS PTY LTD,1813
-103.108.95.226:9443,HTTPS,Australia,AU,🇦🇺,26,medium,Yes,5G NETWORK OPERATIONS PTY LTD,2170
-134.199.161.93:443,HTTPS,Australia,AU,🇦🇺,52,medium,No,"DigitalOcean, LLC",1870
-209.38.89.114:443,HTTPS,Australia,AU,🇦🇺,52,medium,No,"DigitalOcean, LLC",2042
-209.38.19.229:443,HTTPS,Australia,AU,🇦🇺,52,medium,No,"DigitalOcean, LLC",1895
-209.38.82.52:443,HTTPS,Australia,AU,🇦🇺,52,medium,No,"DigitalOcean, LLC",1864
-209.38.19.186:443,HTTPS,Australia,AU,🇦🇺,52,medium,No,"DigitalOcean, LLC",1864
-103.77.232.74:443,HTTPS,Australia,AU,🇦🇺,62,high,Yes,Intergrid Group Pty Ltd,1971
-103.77.232.74:9443,HTTPS,Australia,AU,🇦🇺,62,high,Yes,Intergrid Group Pty Ltd,1972
-103.107.197.146:9443,HTTPS,Australia,AU,🇦🇺,62,high,Yes,GSL Networks Pty LTD,2497
+16.26.143.154:46842,HTTPS,Australia,AU,🇦🇺,0,low,No,"Amazon.com, Inc.",7555
+4.198.140.211:443,HTTPS,Australia,AU,🇦🇺,0,low,No,Microsoft Corporation,3400
+203.31.65.32:443,HTTPS,Australia,AU,🇦🇺,0,low,No,Hosted Network Pty Ltd,2737
+16.26.143.154:2024,HTTPS,Australia,AU,🇦🇺,0,low,No,"Amazon.com, Inc.",8263
+16.51.148.102:48982,HTTPS,Australia,AU,🇦🇺,0,low,No,Amazon.com,7248
+159.13.44.228:443,HTTPS,Australia,AU,🇦🇺,2,low,No,Oracle Corporation,3038
+140.238.205.29:443,HTTPS,Australia,AU,🇦🇺,4,low,No,Oracle Corporation,3030
+54.253.183.151:7224,HTTPS,Australia,AU,🇦🇺,5,low,No,"Amazon.com, Inc.",9833
+54.253.183.151:18076,HTTPS,Australia,AU,🇦🇺,5,low,No,"Amazon.com, Inc.",8017
+54.253.183.151:9090,HTTPS,Australia,AU,🇦🇺,5,low,No,"Amazon.com, Inc.",8154
+103.62.50.130:9443,HTTPS,Australia,AU,🇦🇺,6,low,Yes,GSL Networks Pty LTD,2667
+3.104.149.52:443,HTTPS,Australia,AU,🇦🇺,7,low,No,Amazon Technologies Inc.,2817
+103.108.92.82:9443,HTTPS,Australia,AU,🇦🇺,26,medium,Yes,5G NETWORK OPERATIONS PTY LTD,2970
+103.108.94.162:9443,HTTPS,Australia,AU,🇦🇺,26,medium,Yes,5G NETWORK OPERATIONS PTY LTD,2333
+103.108.95.226:9443,HTTPS,Australia,AU,🇦🇺,26,medium,Yes,5G NETWORK OPERATIONS PTY LTD,2763
+134.199.161.93:443,HTTPS,Australia,AU,🇦🇺,52,medium,No,"DigitalOcean, LLC",2576
+209.38.89.114:443,HTTPS,Australia,AU,🇦🇺,52,medium,No,"DigitalOcean, LLC",2736
+209.38.19.229:443,HTTPS,Australia,AU,🇦🇺,52,medium,No,"DigitalOcean, LLC",2473
+209.38.82.52:443,HTTPS,Australia,AU,🇦🇺,52,medium,No,"DigitalOcean, LLC",2446
+209.38.19.186:443,HTTPS,Australia,AU,🇦🇺,52,medium,No,"DigitalOcean, LLC",2463
+103.77.232.74:443,HTTPS,Australia,AU,🇦🇺,62,high,Yes,Intergrid Group Pty Ltd,2757
+103.77.232.74:9443,HTTPS,Australia,AU,🇦🇺,62,high,Yes,Intergrid Group Pty Ltd,3184
+103.107.197.146:9443,HTTPS,Australia,AU,🇦🇺,62,high,Yes,GSL Networks Pty LTD,3241

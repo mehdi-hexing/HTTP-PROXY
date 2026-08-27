@@ -1,21 +1,12 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-194.183.1.205:8080,HTTP,Italy,IT,🇮🇹,0,low,No,UNIDATA S.p.A.,23588
-79.54.119.155:8081,HTTP,Italy,IT,🇮🇹,0,low,No,INTERBUSINESS,27276
-95.254.142.165:3128,HTTP,Italy,IT,🇮🇹,0,low,No,Telecom Italia S.p.A,10887
-188.217.172.202:8080,HTTP,Italy,IT,🇮🇹,1,low,No,VODAFONE,13955
-84.8.248.36:3128,HTTP,Italy,IT,🇮🇹,2,low,No,Oracle Corporation,22972
-15.161.131.175:7429,HTTP,Italy,IT,🇮🇹,3,low,No,"Amazon.com, Inc.",1418
-15.161.131.175:20882,HTTP,Italy,IT,🇮🇹,3,low,No,"Amazon.com, Inc.",2437
-15.161.59.54:36800,HTTP,Italy,IT,🇮🇹,3,low,No,"Amazon.com, Inc.",3212
-15.161.59.54:28796,HTTP,Italy,IT,🇮🇹,3,low,No,"Amazon.com, Inc.",4466
-15.161.59.54:26614,HTTP,Italy,IT,🇮🇹,3,low,No,"Amazon.com, Inc.",5367
-15.161.59.54:2458,HTTP,Italy,IT,🇮🇹,3,low,No,"Amazon.com, Inc.",3342
-15.160.116.45:18081,HTTP,Italy,IT,🇮🇹,16,low,No,Amazon Technologies Inc,2914
-15.160.116.45:5516,HTTP,Italy,IT,🇮🇹,16,low,No,Amazon Technologies Inc,2636
-15.160.116.45:49345,HTTP,Italy,IT,🇮🇹,16,low,No,Amazon Technologies Inc,4901
-15.160.132.166:9254,HTTP,Italy,IT,🇮🇹,16,low,No,Amazon Technologies Inc,1756
-15.160.132.166:7171,HTTP,Italy,IT,🇮🇹,16,low,No,Amazon Technologies Inc,4406
-15.160.132.166:10000,HTTP,Italy,IT,🇮🇹,16,low,No,Amazon Technologies Inc,3074
-15.160.132.166:38100,HTTP,Italy,IT,🇮🇹,16,low,No,Amazon Technologies Inc,1954
-15.160.132.166:8123,HTTP,Italy,IT,🇮🇹,16,low,No,Amazon Technologies Inc,1950
-15.160.132.166:1111,HTTP,Italy,IT,🇮🇹,16,low,No,Amazon Technologies Inc,1968
+185.191.106.0:8081,HTTP,Italy,IT,🇮🇹,0,low,No,Mywic Costumers,9432
+95.254.142.165:3128,HTTP,Italy,IT,🇮🇹,0,low,No,Telecom Italia S.p.A,4467
+15.161.59.54:26614,HTTP,Italy,IT,🇮🇹,3,low,No,"Amazon.com, Inc.",4603
+15.161.131.175:55,HTTP,Italy,IT,🇮🇹,3,low,No,"Amazon.com, Inc.",3878
+15.161.131.175:30006,HTTP,Italy,IT,🇮🇹,3,low,No,"Amazon.com, Inc.",3953
+15.161.131.175:8050,HTTP,Italy,IT,🇮🇹,3,low,No,"Amazon.com, Inc.",4028
+15.161.59.54:51846,HTTP,Italy,IT,🇮🇹,3,low,No,"Amazon.com, Inc.",1022
+15.161.59.54:13321,HTTP,Italy,IT,🇮🇹,3,low,No,"Amazon.com, Inc.",1214
+15.161.59.54:5691,HTTP,Italy,IT,🇮🇹,3,low,No,"Amazon.com, Inc.",3957
+15.160.116.45:25901,HTTP,Italy,IT,🇮🇹,16,low,No,Amazon Technologies Inc,1235
+15.160.132.166:27575,HTTP,Italy,IT,🇮🇹,16,low,No,Amazon Technologies Inc,2369
