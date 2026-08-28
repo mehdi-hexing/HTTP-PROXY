@@ -1,20 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-191.44.125.8:8080,HTTP,France,FR,🇫🇷,0,low,Yes,High Speed For Internet Services L.L.C,17363
-51.44.97.6:2025,HTTP,France,FR,🇫🇷,3,low,No,"Amazon.com, Inc.",3315
-13.38.27.183:999,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,1938
-13.38.27.183:9827,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,2008
-13.38.217.179:6969,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,6092
-13.38.27.183:9071,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,2096
-35.180.75.159:8157,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,5965
-13.38.27.183:10000,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,5205
-35.180.138.2:32650,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,2977
-52.47.115.41:1485,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,1571
-13.36.211.95:4145,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,2587
-13.36.211.95:42603,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,4804
-37.59.125.131:8888,HTTP,France,FR,🇫🇷,7,low,Yes,OVH SAS,1682
-104.105.202.246:8080,HTTP,France,FR,🇫🇷,26,medium,No,"Akamai Technologies, Inc.",3165
-217.182.195.221:30006,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,6925
-51.146.240.4:3128,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,3361
-51.146.240.4:8181,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,3334
-51.146.240.4:8080,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,7327
-51.146.240.4:43,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,3613
+13.38.27.183:8090,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,3123
+13.38.27.183:39593,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,2814
+13.38.27.183:50145,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,2230
+37.59.125.131:8888,HTTP,France,FR,🇫🇷,7,low,Yes,OVH SAS,7520
+51.146.240.4:8181,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,7428
+51.146.240.4:8080,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,6209
