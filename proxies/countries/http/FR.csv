@@ -1,15 +1,17 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-191.44.125.15:8080,HTTP,France,FR,🇫🇷,0,low,Yes,High Speed For Internet Services L.L.C,10540
-13.38.27.183:8090,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,909
-13.38.27.183:35577,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,1891
-52.47.115.41:32838,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,971
-13.38.27.183:10000,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,6908
-52.47.115.41:51777,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,7617
-13.38.217.179:19111,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,6606
-13.36.211.95:4145,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,1353
-13.38.72.189:23784,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,965
-13.38.72.189:4634,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,1077
-37.59.125.131:8888,HTTP,France,FR,🇫🇷,7,low,Yes,OVH SAS,6211
-51.146.240.4:3128,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,3187
-51.146.240.4:8181,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,7904
-51.146.240.4:8080,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,3845
+191.44.125.5:8080,HTTP,France,FR,🇫🇷,0,low,No,High Speed For Internet Services L.L.C,7945
+45.13.116.196:21537,HTTP,France,FR,🇫🇷,0,low,No,ABJP,26203
+82.64.186.155:8080,HTTP,France,FR,🇫🇷,0,low,No,ProXad network / Free SA,13536
+158.178.199.157:80,HTTP,France,FR,🇫🇷,2,low,No,Oracle Corporation,1165
+158.178.199.157:80,HTTP,France,FR,🇫🇷,2,low,No,Oracle Corporation,1166
+37.59.125.131:8888,HTTP,France,FR,🇫🇷,7,low,Yes,OVH SAS,1797
+104.105.202.246:8080,HTTP,France,FR,🇫🇷,26,medium,No,"Akamai Technologies, Inc.",1113
+104.105.202.246:3128,HTTP,France,FR,🇫🇷,26,medium,No,"Akamai Technologies, Inc.",1081
+163.172.129.144:3128,HTTP,France,FR,🇫🇷,34,medium,No,Scaleway SAS,20070
+163.172.129.144:3128,HTTP,France,FR,🇫🇷,34,medium,No,Scaleway SAS,16678
+152.228.134.176:48080,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,15318
+141.94.220.45:3128,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,15713
+51.146.240.4:3128,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,1327
+51.146.240.4:8181,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,1217
+51.146.240.4:43,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,3502
+51.146.240.4:8080,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,3367

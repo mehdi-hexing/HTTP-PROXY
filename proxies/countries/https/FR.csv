@@ -1,49 +1,50 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-81.93.27.76:443,HTTPS,France,FR,🇫🇷,0,low,No,Sewan Communications,1860
-194.254.206.88:443,HTTPS,France,FR,🇫🇷,0,low,No,Renater,1896
-178.237.108.214:443,HTTPS,France,FR,🇫🇷,0,low,No,Eolas - Business & Decision Group - datacenter MA,1617
-195.200.166.126:443,HTTPS,France,FR,🇫🇷,0,low,No,Pacwan Network,1743
-164.160.68.42:443,HTTPS,France,FR,🇫🇷,0,low,No,Telco OI SAS,5145
-89.234.183.82:443,HTTPS,France,FR,🇫🇷,0,low,No,Groupe PulseHeberg,1665
-164.160.68.11:443,HTTPS,France,FR,🇫🇷,0,low,No,Telco OI SAS,8034
-217.108.6.203:443,HTTPS,France,FR,🇫🇷,0,low,No,Orange S.A.,1790
-149.12.210.39:443,HTTPS,France,FR,🇫🇷,0,low,No,Cogent Communications,1759
-164.160.68.21:443,HTTPS,France,FR,🇫🇷,0,low,No,Telco OI SAS,4143
-164.160.68.44:443,HTTPS,France,FR,🇫🇷,0,low,No,Telco OI SAS,4444
-164.160.68.18:443,HTTPS,France,FR,🇫🇷,0,low,No,Telco OI SAS,4053
-31.172.173.58:443,HTTPS,France,FR,🇫🇷,0,low,No,Sarl Ard-com,2596
-147.210.214.62:443,HTTPS,France,FR,🇫🇷,0,low,No,Renater,1510
-147.210.214.60:443,HTTPS,France,FR,🇫🇷,0,low,No,Renater,1465
-193.49.168.97:443,HTTPS,France,FR,🇫🇷,0,low,No,Renater,1352
-193.49.168.100:443,HTTPS,France,FR,🇫🇷,0,low,No,Renater,1355
-91.193.106.60:443,HTTPS,France,FR,🇫🇷,0,low,No,Axess OnLine SARL,1474
-82.64.46.151:8007,HTTPS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,1691
-82.64.46.151:443,HTTPS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,1800
-82.64.46.151:8013,HTTPS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,1629
-82.64.67.179:443,HTTPS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,1528
-82.64.46.151:8012,HTTPS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,1664
-37.59.112.197:443,HTTPS,France,FR,🇫🇷,17,low,No,OVH SAS,1448
-37.59.110.73:443,HTTPS,France,FR,🇫🇷,17,low,No,OVH SAS,1575
-51.15.135.81:443,HTTPS,France,FR,🇫🇷,34,medium,No,SCALEWAY,1550
-62.210.147.2:443,HTTPS,France,FR,🇫🇷,34,medium,No,Scaleway SAS,1803
-62.210.27.111:443,HTTPS,France,FR,🇫🇷,34,medium,No,Scaleway SAS,2110
-62.210.70.194:443,HTTPS,France,FR,🇫🇷,34,medium,No,Scaleway SAS,1712
-31.59.103.214:443,HTTPS,France,FR,🇫🇷,40,medium,No,CGI GLOBAL LIMITED,3922
-84.17.43.225:9443,HTTPS,France,FR,🇫🇷,41,medium,Yes,Datacamp Limited,1262
-213.139.9.174:9443,HTTPS,France,FR,🇫🇷,41,medium,Yes,Datacamp Limited,1279
-213.139.9.142:9443,HTTPS,France,FR,🇫🇷,41,medium,Yes,Datacamp Limited,1282
-213.139.9.129:9443,HTTPS,France,FR,🇫🇷,41,medium,Yes,Datacamp Limited,1279
-149.102.245.65:9443,HTTPS,France,FR,🇫🇷,41,medium,Yes,Datacamp Limited,1458
-51.38.179.176:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,1609
-51.91.251.117:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,1696
-164.132.229.148:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,1596
-51.75.21.24:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,1673
-79.137.85.144:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,1554
-178.32.221.95:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,1633
-146.70.253.226:9443,HTTPS,France,FR,🇫🇷,49,medium,Yes,M247 Europe SRL,1309
-146.70.253.162:9443,HTTPS,France,FR,🇫🇷,49,medium,Yes,M247 Europe SRL,1311
-146.70.253.194:9443,HTTPS,France,FR,🇫🇷,49,medium,Yes,M247 Europe SRL,1318
-138.199.47.193:9443,HTTPS,France,FR,🇫🇷,70,high,Yes,Datacamp Limited,1297
-138.199.47.247:9443,HTTPS,France,FR,🇫🇷,70,high,Yes,Datacamp Limited,1251
-37.120.158.194:443,HTTPS,France,FR,🇫🇷,72,high,Yes,M247 Europe SRL,1350
-37.120.158.226:443,HTTPS,France,FR,🇫🇷,72,high,Yes,M247 Europe SRL,1337
+81.93.27.76:443,HTTPS,France,FR,🇫🇷,0,low,No,Sewan Communications,2155
+194.254.206.88:443,HTTPS,France,FR,🇫🇷,0,low,No,Renater,2446
+178.237.108.214:443,HTTPS,France,FR,🇫🇷,0,low,No,Eolas - Business & Decision Group - datacenter MA,1918
+164.160.68.11:443,HTTPS,France,FR,🇫🇷,0,low,No,Telco OI SAS,5230
+164.160.68.42:443,HTTPS,France,FR,🇫🇷,0,low,No,Telco OI SAS,5788
+195.200.166.126:443,HTTPS,France,FR,🇫🇷,0,low,No,Pacwan Network,2129
+89.234.183.82:443,HTTPS,France,FR,🇫🇷,0,low,No,Groupe PulseHeberg,2008
+217.108.6.203:443,HTTPS,France,FR,🇫🇷,0,low,No,Orange S.A.,2549
+149.12.210.39:443,HTTPS,France,FR,🇫🇷,0,low,No,Cogent Communications,2234
+164.160.68.44:443,HTTPS,France,FR,🇫🇷,0,low,No,Telco OI SAS,4431
+164.160.68.21:443,HTTPS,France,FR,🇫🇷,0,low,No,Telco OI SAS,4852
+164.160.68.18:443,HTTPS,France,FR,🇫🇷,0,low,No,Telco OI SAS,4534
+92.153.196.68:443,HTTPS,France,FR,🇫🇷,0,low,No,France Telecom Orange,2084
+31.172.173.58:443,HTTPS,France,FR,🇫🇷,0,low,No,Sarl Ard-com,2034
+147.210.214.62:443,HTTPS,France,FR,🇫🇷,0,low,No,Renater,1998
+147.210.214.60:443,HTTPS,France,FR,🇫🇷,0,low,No,Renater,1954
+193.49.168.97:443,HTTPS,France,FR,🇫🇷,0,low,No,Renater,1847
+193.49.168.100:443,HTTPS,France,FR,🇫🇷,0,low,No,Renater,1871
+91.193.106.60:443,HTTPS,France,FR,🇫🇷,0,low,No,Axess OnLine SARL,1945
+82.64.46.151:8007,HTTPS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,2110
+82.64.46.151:443,HTTPS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,2184
+82.64.46.151:8013,HTTPS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,2136
+82.64.67.179:443,HTTPS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,1912
+82.64.46.151:8012,HTTPS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,2108
+37.59.112.197:443,HTTPS,France,FR,🇫🇷,17,low,No,OVH SAS,1993
+37.59.110.73:443,HTTPS,France,FR,🇫🇷,17,low,No,OVH SAS,2102
+51.15.135.81:443,HTTPS,France,FR,🇫🇷,34,medium,No,SCALEWAY,2035
+62.210.147.2:443,HTTPS,France,FR,🇫🇷,34,medium,No,Scaleway SAS,2073
+62.210.27.111:443,HTTPS,France,FR,🇫🇷,34,medium,No,Scaleway SAS,2105
+62.210.70.194:443,HTTPS,France,FR,🇫🇷,34,medium,No,Scaleway SAS,2040
+31.59.103.214:443,HTTPS,France,FR,🇫🇷,40,medium,No,CGI GLOBAL LIMITED,4504
+84.17.43.225:9443,HTTPS,France,FR,🇫🇷,41,medium,Yes,Datacamp Limited,1851
+213.139.9.174:9443,HTTPS,France,FR,🇫🇷,41,medium,Yes,Datacamp Limited,1829
+213.139.9.142:9443,HTTPS,France,FR,🇫🇷,41,medium,Yes,Datacamp Limited,1816
+213.139.9.129:9443,HTTPS,France,FR,🇫🇷,41,medium,Yes,Datacamp Limited,1832
+149.102.245.65:9443,HTTPS,France,FR,🇫🇷,41,medium,Yes,Datacamp Limited,1862
+51.38.179.176:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,1928
+51.91.251.117:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,1925
+164.132.229.148:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,2090
+51.75.21.24:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,2029
+79.137.85.144:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,2022
+178.32.221.95:443,HTTPS,France,FR,🇫🇷,44,medium,No,OVH SAS,2106
+146.70.253.226:9443,HTTPS,France,FR,🇫🇷,49,medium,Yes,M247 Europe SRL,1774
+146.70.253.162:9443,HTTPS,France,FR,🇫🇷,49,medium,Yes,M247 Europe SRL,1763
+146.70.253.194:9443,HTTPS,France,FR,🇫🇷,49,medium,Yes,M247 Europe SRL,1779
+138.199.47.193:9443,HTTPS,France,FR,🇫🇷,70,high,Yes,Datacamp Limited,1821
+138.199.47.247:9443,HTTPS,France,FR,🇫🇷,70,high,Yes,Datacamp Limited,1814
+37.120.158.194:443,HTTPS,France,FR,🇫🇷,72,high,Yes,M247 Europe SRL,1784
+37.120.158.226:443,HTTPS,France,FR,🇫🇷,72,high,Yes,M247 Europe SRL,1793
