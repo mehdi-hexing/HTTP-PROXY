@@ -1,21 +1,27 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-192.252.210.233:4145,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,745
-192.252.210.233:4145,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,743
-8.211.195.139:100,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8003
-8.211.195.139:1000,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",9740
-8.211.200.183:9098,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",5841
-81.168.119.85:443,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,Iomart Cloud Services Limited,7509
-8.211.194.78:8005,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",8016
-8.211.194.78:138,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4410
-8.211.194.78:9098,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4400
-8.211.195.139:8000,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",6596
-8.211.195.139:8443,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",6624
-8.211.200.183:5060,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",5222
-8.211.194.78:312,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4417
-8.211.194.85:9090,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4456
-8.211.195.173:9089,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4502
-8.211.195.139:1081,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",6594
-3.10.170.234:3128,SOCKS4,United Kingdom,GB,🇬🇧,15,low,No,Amazon Technologies Inc.,1459
-87.239.251.202:1081,SOCKS4,United Kingdom,GB,🇬🇧,20,medium,No,First Server Limited,4657
-87.239.251.202:1081,SOCKS4,United Kingdom,GB,🇬🇧,20,medium,No,First Server Limited,7482
-88.80.186.173:19100,SOCKS4,United Kingdom,GB,🇬🇧,48,medium,No,"Akamai Technologies, Inc.",13228
+192.252.210.233:4145,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,539
+192.252.210.233:4145,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,539
+8.211.200.183:9080,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4268
+8.211.200.183:1080,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4255
+8.211.200.183:3128,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4265
+8.211.194.78:8005,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4265
+8.211.194.78:138,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4251
+8.211.194.78:9098,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4269
+8.211.195.139:80,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4281
+8.211.195.139:8008,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4291
+8.211.195.139:28737,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4287
+8.211.194.85:312,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4333
+8.211.194.85:4002,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4252
+8.211.194.85:4444,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4255
+8.211.200.183:6969,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4258
+8.211.200.183:1000,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4269
+8.211.200.183:84,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4252
+8.211.194.78:312,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4252
+8.211.194.85:9090,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4262
+8.211.195.139:8334,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4273
+8.211.195.173:9089,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4278
+8.211.200.183:81,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4262
+8.211.195.139:1081,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4280
+38.242.156.163:9050,SOCKS4,United Kingdom,GB,🇬🇧,14,low,No,Contabo GmbH,10504
+3.10.170.234:3128,SOCKS4,United Kingdom,GB,🇬🇧,15,low,No,Amazon Technologies Inc.,369
+87.239.251.202:1081,SOCKS4,United Kingdom,GB,🇬🇧,20,medium,No,First Server Limited,3621
