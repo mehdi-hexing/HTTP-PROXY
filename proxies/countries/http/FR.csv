@@ -1,17 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-191.44.125.5:8080,HTTP,France,FR,🇫🇷,0,low,No,High Speed For Internet Services L.L.C,7945
-45.13.116.196:21537,HTTP,France,FR,🇫🇷,0,low,No,ABJP,26203
-82.64.186.155:8080,HTTP,France,FR,🇫🇷,0,low,No,ProXad network / Free SA,13536
-158.178.199.157:80,HTTP,France,FR,🇫🇷,2,low,No,Oracle Corporation,1165
-158.178.199.157:80,HTTP,France,FR,🇫🇷,2,low,No,Oracle Corporation,1166
-37.59.125.131:8888,HTTP,France,FR,🇫🇷,7,low,Yes,OVH SAS,1797
-104.105.202.246:8080,HTTP,France,FR,🇫🇷,26,medium,No,"Akamai Technologies, Inc.",1113
-104.105.202.246:3128,HTTP,France,FR,🇫🇷,26,medium,No,"Akamai Technologies, Inc.",1081
-163.172.129.144:3128,HTTP,France,FR,🇫🇷,34,medium,No,Scaleway SAS,20070
-163.172.129.144:3128,HTTP,France,FR,🇫🇷,34,medium,No,Scaleway SAS,16678
-152.228.134.176:48080,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,15318
-141.94.220.45:3128,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,15713
-51.146.240.4:3128,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,1327
-51.146.240.4:8181,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,1217
-51.146.240.4:43,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,3502
-51.146.240.4:8080,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,3367
+191.44.125.6:8080,HTTP,France,FR,🇫🇷,0,low,No,High Speed For Internet Services L.L.C,16810
+191.44.125.66:8080,HTTP,France,FR,🇫🇷,0,low,Yes,High Speed For Internet Services L.L.C,10668
+37.59.125.131:8888,HTTP,France,FR,🇫🇷,7,low,Yes,OVH SAS,2292
+62.133.62.137:3128,HTTP,France,FR,🇫🇷,26,medium,No,Global Connectivity Solutions LLP,859
+51.178.49.241:3129,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,7331
+51.146.240.4:3128,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,9717
+51.146.240.4:8181,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,3417
+51.146.240.4:8080,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,1865
+51.146.240.4:43,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,7548
+51.146.240.4:8080,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,3769
