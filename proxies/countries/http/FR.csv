@@ -1,8 +1,24 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-37.59.125.131:8888,HTTP,France,FR,🇫🇷,7,low,Yes,OVH SAS,7903
-146.59.147.182:3128,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,21221
-51.146.240.4:3128,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,1372
-51.146.240.4:8181,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,892
-51.146.240.4:8080,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,1051
-51.146.240.4:43,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,6831
-51.146.240.4:8080,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,1255
+37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,4228
+191.44.125.8:8080,HTTP,France,FR,🇫🇷,0,low,Yes,High Speed For Internet Services L.L.C,12202
+45.13.116.235:21537,HTTP,France,FR,🇫🇷,0,low,No,ABJP,15618
+5.250.179.191:3128,HTTP,France,FR,🇫🇷,0,low,No,IONOS SE,19945
+5.250.179.191:3128,HTTP,France,FR,🇫🇷,0,low,No,IONOS SE,19998
+15.224.107.208:47953,HTTP,France,FR,🇫🇷,2,low,No,"Amazon.com, Inc.",1938
+51.44.97.6:27465,HTTP,France,FR,🇫🇷,3,low,No,"Amazon.com, Inc.",1929
+15.237.108.20:8180,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,2012
+13.38.27.183:26223,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,2888
+13.38.27.183:9071,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,4057
+52.47.115.41:9012,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,6473
+52.47.115.41:24331,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,2431
+52.47.115.41:53645,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,2466
+13.38.72.189:23784,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,2432
+37.59.125.131:8888,HTTP,France,FR,🇫🇷,7,low,Yes,OVH SAS,21715
+51.159.156.201:3128,HTTP,France,FR,🇫🇷,34,medium,No,SCALEWAY,1030
+149.202.47.125:3128,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,3754
+149.202.47.125:3128,HTTP,France,FR,🇫🇷,44,medium,No,OVH SAS,5559
+51.146.240.4:3128,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,1247
+51.146.240.4:8181,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,877
+51.146.240.4:8080,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,1044
+51.146.240.4:43,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,1495
+51.146.240.4:8080,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,3029
