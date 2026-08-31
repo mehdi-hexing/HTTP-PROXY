@@ -1,23 +1,12 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,10945
-191.44.125.6:8080,HTTP,France,FR,🇫🇷,0,low,No,High Speed For Internet Services L.L.C,1455
-191.44.125.7:8080,HTTP,France,FR,🇫🇷,0,low,No,High Speed For Internet Services L.L.C,8550
-51.44.97.6:43005,HTTP,France,FR,🇫🇷,3,low,No,"Amazon.com, Inc.",1236
-51.44.97.6:8689,HTTP,France,FR,🇫🇷,3,low,No,"Amazon.com, Inc.",1281
-15.237.108.20:9002,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,955
-15.237.108.20:53449,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,4015
-52.47.115.41:47115,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,2003
-52.47.115.41:53645,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,1932
-13.38.72.189:23784,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,1917
-13.38.72.189:4634,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,1009
-13.38.27.183:47926,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,2129
-35.180.138.2:5050,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,1312
-13.38.217.179:9066,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,1967
-13.38.72.189:8181,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,1033
-37.59.125.131:8888,HTTP,France,FR,🇫🇷,7,low,Yes,OVH SAS,1178
-51.159.66.158:3128,HTTP,France,FR,🇫🇷,34,medium,No,SCALEWAY,25357
-51.146.240.4:3128,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,2605
-51.146.240.4:8181,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,5728
-51.146.240.4:8080,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,2634
-51.146.240.4:43,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,6158
-51.146.240.4:8080,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,2031
+191.44.125.15:8080,HTTP,France,FR,🇫🇷,0,low,Yes,High Speed For Internet Services L.L.C,8262
+13.38.217.179:8028,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,753
+13.38.27.183:39593,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,844
+13.38.27.183:25160,HTTP,France,FR,🇫🇷,4,low,No,Amazon Technologies Inc.,2165
+37.187.92.9:1030,HTTP,France,FR,🇫🇷,6,low,No,OVH SAS,2595
+37.59.125.131:8888,HTTP,France,FR,🇫🇷,7,low,Yes,OVH SAS,2989
+51.178.49.241:3129,HTTP,France,FR,🇫🇷,43,medium,No,OVH SAS,9890
+51.146.240.4:8181,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,3369
+51.146.240.4:8080,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,2021
+51.146.240.4:43,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,4037
+51.146.240.4:8080,HTTP,France,FR,🇫🇷,56,medium,No,Datacamp Limited,1785

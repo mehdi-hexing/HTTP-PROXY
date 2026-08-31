@@ -1,47 +1,33 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-8.211.51.115:104,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7574
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,912
-8.211.49.86:87,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",9337
-8.211.49.86:5060,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7570
-8.209.96.245:4002,HTTP,Germany,DE,🇩🇪,0,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,7581
-8.211.42.167:8083,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7557
-47.91.89.3:9080,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,7544
-204.76.203.9:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Pfcloud UG,857
-8.211.51.115:4145,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7541
-8.211.49.86:8081,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7566
-8.211.49.86:9050,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7573
-8.211.42.167:80,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",12778
-8.209.96.245:8080,HTTP,Germany,DE,🇩🇪,0,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,14022
-47.91.89.3:80,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,7571
-204.76.203.9:8080,HTTP,Germany,DE,🇩🇪,0,low,Yes,Pfcloud UG,884
-47.91.89.3:8099,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,10013
-8.209.96.245:8999,HTTP,Germany,DE,🇩🇪,0,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,7578
-86.53.111.249:8080,HTTP,Germany,DE,🇩🇪,0,low,No,GTT Communications Inc.,5993
-8.211.42.167:4153,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7576
-86.53.111.249:8080,HTTP,Germany,DE,🇩🇪,0,low,No,GTT Communications Inc.,4230
-8.211.49.86:9028,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7544
-185.204.170.179:1146,HTTP,Germany,DE,🇩🇪,0,low,No,Arvancloud Global Technologies L.L.C,10733
-31.76.20.131:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Play2go International Limited,17706
-51.102.184.122:42020,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",1350
-202.61.195.65:1080,HTTP,Germany,DE,🇩🇪,0,low,No,powered by ANX,1074
-3.127.27.51:33619,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,3130
-63.179.134.206:3128,HTTP,Germany,DE,🇩🇪,4,low,No,Amazon.com,2794
-63.181.83.210:51942,HTTP,Germany,DE,🇩🇪,4,low,No,Amazon.com,4012
-130.61.112.125:443,HTTP,Germany,DE,🇩🇪,4,low,No,Oracle Corporation,1024
-116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,929
-116.202.172.187:11000,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,998
-37.220.83.34:3128,HTTP,Germany,DE,🇩🇪,6,low,No,"Timeweb, LLP",923
-64.188.57.128:3128,HTTP,Germany,DE,🇩🇪,6,low,No,"Timeweb, LLP",1031
-37.220.83.34:3128,HTTP,Germany,DE,🇩🇪,6,low,No,"Timeweb, LLP",1439
-64.188.57.128:3128,HTTP,Germany,DE,🇩🇪,6,low,No,"Timeweb, LLP",25654
-162.55.178.253:8080,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,9530
-185.166.196.14:3128,HTTP,Germany,DE,🇩🇪,6,low,No,"Timeweb, LLP",12992
-159.195.43.169:8888,HTTP,Germany,DE,🇩🇪,11,low,No,netcup GmbH,10561
-157.173.120.204:3128,HTTP,Germany,DE,🇩🇪,14,low,Yes,Contabo GmbH,1630
-173.212.222.244:8888,HTTP,Germany,DE,🇩🇪,14,low,No,Contabo GmbH,19386
-194.163.175.167:40000,HTTP,Germany,DE,🇩🇪,14,low,No,Contabo GmbH,980
-169.58.34.213:3129,HTTP,Germany,DE,🇩🇪,14,low,No,Contabo GmbH,12700
-54.37.73.95:8080,HTTP,Germany,DE,🇩🇪,50,medium,No,OVH SAS,11419
-206.81.27.105:3128,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",10482
-206.81.27.105:3128,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",888
-46.203.233.116:3128,HTTP,Germany,DE,🇩🇪,54,medium,No,Freakhosting LTD,17590
+8.211.51.115:104,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7494
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,823
+8.211.49.86:87,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7502
+8.211.49.86:5060,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",10818
+8.209.96.245:4002,HTTP,Germany,DE,🇩🇪,0,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,7497
+8.211.42.167:8083,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7487
+47.91.89.3:9080,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,7558
+92.205.186.129:1080,HTTP,Germany,DE,🇩🇪,0,low,No,Host Europe GmbH,32491
+204.76.203.9:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Pfcloud UG,931
+8.211.49.86:8081,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",10802
+8.211.49.86:9050,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",8664
+47.91.89.3:80,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,10769
+47.91.89.3:1081,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,7519
+8.211.42.167:1081,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7490
+8.211.42.167:6379,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7488
+8.209.96.245:18080,HTTP,Germany,DE,🇩🇪,0,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,7487
+204.76.203.9:8080,HTTP,Germany,DE,🇩🇪,0,low,Yes,Pfcloud UG,804
+8.211.51.115:88,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7491
+47.91.89.3:8099,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,7494
+8.209.96.245:1081,HTTP,Germany,DE,🇩🇪,0,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,7496
+8.211.42.167:4153,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7494
+8.211.49.86:9028,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7489
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,860
+3.121.130.230:18944,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,1121
+116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,861
+116.202.172.187:11000,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,2872
+162.55.178.253:8080,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,10521
+194.163.175.167:40000,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,12760
+176.125.242.58:3128,HTTP,Germany,DE,🇩🇪,24,medium,No,Alexhost SRL,18526
+176.125.242.58:3128,HTTP,Germany,DE,🇩🇪,24,medium,No,Alexhost SRL,18120
+82.22.184.158:3128,HTTP,Germany,DE,🇩🇪,52,medium,No,Freakhosting LTD,5587
+164.92.182.55:8080,HTTP,Germany,DE,🇩🇪,53,medium,No,"DigitalOcean, LLC",2081
