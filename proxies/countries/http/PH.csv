@@ -1,46 +1,74 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-8.212.165.164:808,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8213
-126.209.124.147:8089,HTTP,Philippines,PH,🇵🇭,0,low,No,Infinivan Incorporated,13417
-161.248.190.99:8080,HTTP,Philippines,PH,🇵🇭,0,low,No,Gemstar Cable TV - Agusan Del SUR,8347
-8.220.136.174:20002,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8176
-8.212.168.170:1000,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8138
-8.220.141.8:1234,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8171
-8.220.141.8:13,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8149
-126.209.110.120:8087,HTTP,Philippines,PH,🇵🇭,0,low,No,Infinivan Incorporated,12715
-8.212.151.166:4100,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8137
-8.212.165.164:41890,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8190
-210.213.204.76:9999,HTTP,Philippines,PH,🇵🇭,0,low,No,Philippine Long Distance Telephone Co.,15017
-8.212.168.170:45,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8121
-8.220.136.174:4006,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8131
-8.220.141.8:1081,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8152
-8.212.151.166:1081,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8122
-8.212.165.164:3129,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8174
-8.212.168.170:3128,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8123
-8.220.136.174:18080,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8219
-8.220.141.8:50,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8160
-122.49.215.147:8084,HTTP,Philippines,PH,🇵🇭,0,low,No,Ignite Telecommunications Inc,6960
-103.25.220.170:8085,HTTP,Philippines,PH,🇵🇭,0,low,No,Imjwanklik Internet Communication Services,16992
-8.212.151.166:1024,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8121
-143.44.244.111:8081,HTTP,Philippines,PH,🇵🇭,2,low,No,ComClark Network & Technology Corp,7136
-139.135.141.12:8095,HTTP,Philippines,PH,🇵🇭,2,low,No,ComClark Network & Technology Corp,11174
-180.191.122.34:8082,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,18980
-120.28.76.192:8082,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,12232
-49.151.214.123:8082,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,7018
-180.191.254.36:8181,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,2967
-120.28.169.31:5050,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,12990
-58.69.194.136:8081,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,16318
-180.194.78.50:8082,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,8255
-112.198.200.44:8082,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,19117
-180.191.140.96:8081,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,14199
-180.191.59.109:8082,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,14089
-124.217.6.117:8080,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,14137
-180.191.124.149:8081,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,2003
-124.106.83.244:8083,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,16361
-49.151.193.51:8082,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,14625
-115.147.16.205:5050,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,9367
-124.105.198.111:8087,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,11276
-180.191.252.107:8082,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,4078
-180.190.24.218:8080,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,10705
-49.145.57.85:5050,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,11542
-112.205.49.117:8080,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,12586
-112.205.49.117:8080,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,6741
+8.212.165.164:808,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8125
+8.220.136.174:20002,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8145
+8.212.168.170:1000,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",10027
+126.209.106.110:8087,HTTP,Philippines,PH,🇵🇭,0,low,No,Infinivan Incorporated,6013
+8.220.141.8:1234,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8136
+8.220.141.8:13,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8130
+49.157.158.178:8084,HTTP,Philippines,PH,🇵🇭,0,low,No,Eastern Telecommunications Philippines,8122
+45.195.249.150:8080,HTTP,Philippines,PH,🇵🇭,0,low,No,Soon Bodywerkz Auto Pte. LTD,9206
+126.209.110.120:8087,HTTP,Philippines,PH,🇵🇭,0,low,No,Infinivan Incorporated,8241
+103.25.220.170:8085,HTTP,Philippines,PH,🇵🇭,0,low,No,Imjwanklik Internet Communication Services,12992
+103.25.220.18:8085,HTTP,Philippines,PH,🇵🇭,0,low,No,Imjwanklik Internet Communication Services,15243
+8.212.151.166:4100,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8133
+8.212.165.164:41890,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8237
+203.20.42.56:8082,HTTP,Philippines,PH,🇵🇭,0,low,No,RNDS Network,16055
+8.212.168.170:45,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8156
+8.220.136.174:4006,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8116
+8.220.141.8:999,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8176
+8.212.151.166:1081,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8107
+161.248.190.99:8080,HTTP,Philippines,PH,🇵🇭,0,low,No,Gemstar Cable TV - Agusan Del SUR,7301
+8.212.165.164:3129,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8173
+8.212.165.164:51235,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8199
+160.30.141.21:8080,HTTP,Philippines,PH,🇵🇭,0,low,No,Glercimor Network and Data Solution,11864
+8.212.168.170:3128,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8177
+8.220.136.174:18080,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8138
+126.209.3.199:5050,HTTP,Philippines,PH,🇵🇭,0,low,No,Infinivan Incorporated,5276
+8.220.141.8:30001,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8178
+8.212.151.166:1024,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8131
+8.212.165.164:8080,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",9414
+203.20.42.67:8082,HTTP,Philippines,PH,🇵🇭,0,low,No,RNDS Network,17511
+139.135.182.132:8081,HTTP,Philippines,PH,🇵🇭,2,low,No,ComClark Network & Technology Corp,9633
+136.239.223.206:8080,HTTP,Philippines,PH,🇵🇭,2,low,No,Converge Information and Communications Technology Solutions,4400
+180.191.124.149:8081,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,23364
+120.28.76.192:8082,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,16257
+180.190.185.211:9999,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,6873
+126.209.17.226:8080,HTTP,Philippines,PH,🇵🇭,3,low,No,Infinivan Incorporated,4987
+58.69.61.25:8082,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,13992
+119.93.87.65:8080,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,16143
+120.28.139.2:8082,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,20405
+124.106.83.244:8083,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,11822
+120.28.169.31:5050,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,5347
+58.69.194.136:8081,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,11494
+122.3.207.67:8089,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,4035
+180.191.137.111:8082,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,7163
+180.191.138.172:8082,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,7450
+180.191.152.7:8082,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,10474
+112.198.52.194:8080,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,2209
+120.28.117.92:8081,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,9130
+180.191.233.215:8082,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,11856
+124.105.40.93:8181,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,7651
+180.191.143.157:8081,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,2964
+126.209.17.234:8080,HTTP,Philippines,PH,🇵🇭,3,low,No,Infinivan Incorporated,4138
+180.191.124.188:5555,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,10208
+203.177.237.153:8080,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,5728
+112.209.38.87:8081,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,7373
+122.52.189.109:8080,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,10545
+180.191.1.195:8081,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,13338
+49.151.193.51:8082,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,8788
+180.191.21.49:8081,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,19837
+124.105.198.111:8087,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,8871
+120.28.211.162:8081,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,10687
+180.191.152.7:8082,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,6718
+180.191.121.111:9090,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,12227
+180.191.137.251:5050,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,6285
+58.69.194.136:8081,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,12436
+49.149.201.100:9999,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,7055
+115.147.31.8:8080,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,10485
+49.145.57.85:5050,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,5863
+49.145.60.27:8080,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,6068
+180.191.127.78:8080,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,12708
+115.147.58.42:5050,HTTP,Philippines,PH,🇵🇭,8,low,No,Philippine Long Distance Telephone Co.,13234
+124.217.67.142:8082,HTTP,Philippines,PH,🇵🇭,8,low,No,Philippine Long Distance Telephone Co.,2922
+124.217.110.148:8082,HTTP,Philippines,PH,🇵🇭,8,low,No,Philippine Long Distance Telephone Co.,16177
+124.83.99.75:8082,HTTP,Philippines,PH,🇵🇭,8,low,No,Philippine Long Distance Telephone Co.,4445
