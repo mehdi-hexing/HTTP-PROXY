@@ -1,31 +1,55 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-8.220.204.92:443,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7952
-8.213.156.191:7010,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7957
-8.213.134.213:8083,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7934
-8.220.204.215:443,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7957
-8.220.205.172:9080,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7929
-119.28.233.241:3128,HTTP,South Korea,KR,🇰🇷,0,low,No,ComsenzNet,11884
-54.180.117.151:32592,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,3183
-8.213.156.191:8888,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7946
-8.220.204.92:80,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7938
-8.220.205.172:9000,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7936
-8.213.128.6:4153,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",10636
-8.213.128.6:8118,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",9243
-8.213.128.6:8019,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7945
-8.220.204.215:9098,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7945
-8.213.134.213:8008,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7963
-8.220.204.92:8123,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7940
-8.220.204.92:1081,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7950
-54.180.117.151:443,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,2270
-8.213.128.6:1111,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7972
-8.220.204.215:4002,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7950
-8.213.134.213:514,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",10488
-8.213.156.191:10000,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",9327
-8.220.205.172:30001,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",10569
-13.125.44.24:80,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,2762
-8.220.204.92:8090,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7933
-1.231.81.166:3128,HTTP,South Korea,KR,🇰🇷,2,low,No,SK Broadband Co Ltd,1718
-193.122.96.242:3128,HTTP,South Korea,KR,🇰🇷,2,low,No,Oracle Corporation,17759
-43.203.140.58:31283,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",4492
-43.203.140.58:20673,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",4455
-43.203.140.58:28715,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",5503
+8.220.204.92:443,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7855
+8.213.156.191:7010,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7845
+8.213.128.6:4006,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7855
+8.213.134.213:8083,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",9140
+8.220.204.215:443,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7856
+8.220.205.172:9080,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",10246
+15.164.225.200:27337,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,2003
+15.164.225.200:55486,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,2327
+43.155.203.19:3128,HTTP,South Korea,KR,🇰🇷,0,low,No,Shenzhen Tencent Computer Systems Company Limited,14011
+8.213.156.191:8888,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7878
+8.220.204.92:80,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7857
+54.180.117.151:58201,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,3422
+8.220.205.172:9000,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7855
+8.213.128.6:4153,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7853
+8.213.128.6:8118,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7865
+8.220.204.215:9098,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7851
+8.213.134.213:8008,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7865
+54.180.117.151:26248,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,2101
+54.180.117.151:16317,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,2109
+15.164.225.200:53536,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,2169
+54.180.117.151:10145,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,2128
+54.180.117.151:34264,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,2094
+54.180.117.151:6981,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,2081
+15.164.225.200:7080,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,5424
+119.28.233.241:3128,HTTP,South Korea,KR,🇰🇷,0,low,No,ComsenzNet,18639
+15.164.225.200:58164,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,5244
+8.220.204.92:8123,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7855
+8.220.204.92:1081,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7850
+8.213.128.6:1111,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7863
+8.213.134.213:514,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7851
+8.220.204.215:4002,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7857
+8.213.156.191:10000,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7853
+8.220.205.172:30001,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7868
+13.125.44.24:80,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,6600
+8.220.204.92:8090,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7859
+13.209.65.136:30223,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,5347
+13.209.65.136:8103,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,3386
+112.216.54.226:12121,HTTP,South Korea,KR,🇰🇷,1,low,No,LG DACOM Corporation,1624
+43.164.136.235:3128,HTTP,South Korea,KR,🇰🇷,1,low,No,Shenzhen Tencent Computer Systems Company Limited,1986
+1.231.81.166:3128,HTTP,South Korea,KR,🇰🇷,2,low,No,SK Broadband Co Ltd,1622
+43.200.179.23:30976,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",3049
+43.203.140.58:45641,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",5164
+43.200.179.23:39157,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",2556
+43.203.140.58:39714,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",2532
+43.200.174.95:36468,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",2184
+43.200.174.95:40001,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",2135
+43.203.140.58:47980,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",4111
+43.203.140.58:3000,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",1954
+43.200.179.23:57710,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",3579
+43.200.179.23:47118,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",2345
+43.202.49.10:29125,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",2260
+43.202.49.10:9002,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",3486
+211.217.231.234:8080,HTTP,South Korea,KR,🇰🇷,4,low,No,Korea Telecom,21904
+152.67.221.233:8008,HTTP,South Korea,KR,🇰🇷,4,low,No,Oracle Corporation,15437
