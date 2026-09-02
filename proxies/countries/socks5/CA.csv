@@ -1,5 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-138.197.148.194:9050,SOCKS5,Canada,CA,🇨🇦,53,medium,No,"DigitalOcean, LLC",8540
-51.222.104.72:1080,SOCKS5,Canada,CA,🇨🇦,55,medium,No,OVH SAS,10666
-51.222.104.72:1080,SOCKS5,Canada,CA,🇨🇦,55,medium,No,OVH SAS,4755
-151.145.63.243:1080,SOCKS5,Canada,CA,🇨🇦,100,very_high,No,Oracle Corporation,11916
+45.133.16.88:1080,SOCKS5,Canada,CA,🇨🇦,0,low,No,ITGLOBAL,3600
+45.133.16.88:1080,SOCKS5,Canada,CA,🇨🇦,0,low,No,ITGLOBAL,588
+38.49.210.79:40000,SOCKS5,Canada,CA,🇨🇦,22,medium,No,Rica Web Services,4020
+38.49.210.79:40000,SOCKS5,Canada,CA,🇨🇦,22,medium,No,Rica Web Services,3987
+185.196.61.251:1080,SOCKS5,Canada,CA,🇨🇦,40,medium,No,"BrainStorm Network, Inc",1522
+51.222.104.72:1080,SOCKS5,Canada,CA,🇨🇦,55,medium,No,OVH SAS,5482
+51.222.104.72:1080,SOCKS5,Canada,CA,🇨🇦,55,medium,No,OVH SAS,11053
+151.145.63.243:1080,SOCKS5,Canada,CA,🇨🇦,100,very_high,No,Oracle Corporation,16142
