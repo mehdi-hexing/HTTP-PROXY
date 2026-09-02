@@ -1,15 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-80.211.24.177:3128,HTTP,Italy,IT,🇮🇹,0,low,Yes,Aruba S.p.A.,7506
-93.187.25.12:58080,HTTP,Italy,IT,🇮🇹,0,low,No,Consorzio Terrecablate,3411
-15.161.131.175:20882,HTTP,Italy,IT,🇮🇹,3,low,No,"Amazon.com, Inc.",1163
-15.161.59.54:50,HTTP,Italy,IT,🇮🇹,3,low,No,"Amazon.com, Inc.",2269
-15.161.59.54:55560,HTTP,Italy,IT,🇮🇹,3,low,No,"Amazon.com, Inc.",4244
-15.161.59.54:12842,HTTP,Italy,IT,🇮🇹,3,low,No,"Amazon.com, Inc.",4390
-35.152.37.123:44297,HTTP,Italy,IT,🇮🇹,3,low,No,"Amazon.com, Inc.",4508
-15.161.131.175:21253,HTTP,Italy,IT,🇮🇹,3,low,No,"Amazon.com, Inc.",1335
-15.160.116.17:80,HTTP,Italy,IT,🇮🇹,18,low,No,Amazon Technologies Inc,1170
-15.160.116.45:39597,HTTP,Italy,IT,🇮🇹,18,low,No,Amazon Technologies Inc,2350
-15.160.16.72:3809,HTTP,Italy,IT,🇮🇹,18,low,No,Amazon Technologies Inc,1762
-15.160.16.72:8080,HTTP,Italy,IT,🇮🇹,18,low,No,Amazon Technologies Inc,1590
-15.160.67.218:53326,HTTP,Italy,IT,🇮🇹,18,low,No,Amazon Technologies Inc,1267
-15.160.132.166:40450,HTTP,Italy,IT,🇮🇹,18,low,No,Amazon Technologies Inc,1516
+85.235.150.219:3128,HTTP,Italy,IT,🇮🇹,0,low,No,Aruba S.p.A.,25221
+85.208.200.185:8081,HTTP,Italy,IT,🇮🇹,0,low,No,HAL Service SpA,9154
+15.161.59.54:28796,HTTP,Italy,IT,🇮🇹,3,low,No,"Amazon.com, Inc.",1796
+15.160.67.218:53326,HTTP,Italy,IT,🇮🇹,18,low,No,Amazon Technologies Inc,10429
