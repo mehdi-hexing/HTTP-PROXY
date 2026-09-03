@@ -1,35 +1,50 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-8.211.51.115:104,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7590
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,971
-79.132.143.144:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Fornex Hosting S.L.,23434
-8.211.49.86:87,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7591
-8.211.42.167:8083,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7592
-47.91.89.3:9080,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,9597
-204.76.203.9:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Pfcloud UG,1895
-8.211.51.115:4145,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7601
-8.211.49.86:8081,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7551
-8.211.49.86:9050,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",9571
-47.91.89.3:40000,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,10533
-212.193.4.164:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Chsl ONE LTD,18761
-204.76.203.9:8080,HTTP,Germany,DE,🇩🇪,0,low,Yes,Pfcloud UG,931
-8.211.51.115:88,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",10684
-212.193.4.164:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Chsl ONE LTD,2748
-47.91.89.3:1111,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,7613
-8.211.49.86:9028,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7577
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,970
-8.211.42.167:8888,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7602
-3.121.130.230:48007,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,1367
-3.121.130.230:8426,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,2205
-8.209.96.245:8080,HTTP,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,11846
-3.121.130.230:8470,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,4001
-3.121.130.230:8254,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,911
-3.121.130.230:41590,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,2013
-8.209.96.245:8999,HTTP,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,7593
-3.122.224.70:27644,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,2476
-3.122.224.70:5775,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,5263
-3.122.224.70:6667,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,1344
-116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,972
-116.202.172.187:11000,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,1081
-13.140.170.132:3128,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,20143
-194.163.175.167:40000,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,6664
-164.92.182.55:8080,HTTP,Germany,DE,🇩🇪,53,medium,No,"DigitalOcean, LLC",1357
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,816
+8.211.49.86:87,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7529
+8.211.49.86:5060,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7505
+8.211.42.167:8083,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",12310
+47.91.89.3:9080,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,10744
+213.135.6.5:8080,HTTP,Germany,DE,🇩🇪,0,low,No,intersaar GmbH,13030
+204.76.203.9:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Pfcloud UG,773
+8.211.49.86:8081,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",10773
+8.211.42.167:6379,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",11129
+47.91.89.3:40000,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,10679
+204.76.203.9:8080,HTTP,Germany,DE,🇩🇪,0,low,Yes,Pfcloud UG,766
+86.53.111.249:8080,HTTP,Germany,DE,🇩🇪,0,low,No,GTT Communications Inc.,1655
+8.211.42.167:4153,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7521
+86.53.111.249:8080,HTTP,Germany,DE,🇩🇪,0,low,No,GTT Communications Inc.,13370
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,783
+130.17.24.37:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Fornex Hosting S.L.,19543
+144.31.116.142:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Senko Digital LLC,1024
+144.31.118.56:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Senko Digital LLC,892
+185.204.170.179:1125,HTTP,Germany,DE,🇩🇪,0,low,No,Arvancloud Global Technologies L.L.C,17311
+2.27.63.250:8888,HTTP,Germany,DE,🇩🇪,0,low,No,Kyonix Networks Limited,1034
+8.209.96.245:4002,HTTP,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,11971
+3.121.130.230:43974,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,1959
+3.121.130.230:9443,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,4354
+8.209.96.245:8080,HTTP,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,13481
+81.200.154.152:8888,HTTP,Germany,DE,🇩🇪,3,low,No,"Timeweb, LLP",8435
+3.121.130.230:28160,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,6892
+3.127.27.51:48112,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,2330
+3.127.27.51:16020,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,4539
+3.122.224.70:5775,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,1897
+18.157.159.247:57047,HTTP,Germany,DE,🇩🇪,3,low,No,"Amazon.com, Inc.",3947
+35.159.62.164:37226,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,1317
+3.123.254.15:15444,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,819
+63.181.83.210:30803,HTTP,Germany,DE,🇩🇪,4,low,No,Amazon.com,1788
+63.181.83.210:38581,HTTP,Germany,DE,🇩🇪,4,low,No,Amazon.com,1815
+63.181.83.210:59337,HTTP,Germany,DE,🇩🇪,4,low,No,Amazon.com,1174
+63.179.134.206:8090,HTTP,Germany,DE,🇩🇪,4,low,No,Amazon.com,1706
+63.181.83.210:21390,HTTP,Germany,DE,🇩🇪,4,low,No,Amazon.com,1989
+63.179.134.206:9051,HTTP,Germany,DE,🇩🇪,4,low,No,Amazon.com,1719
+63.181.83.210:19854,HTTP,Germany,DE,🇩🇪,4,low,No,Amazon.com,773
+63.181.83.210:48360,HTTP,Germany,DE,🇩🇪,4,low,No,Amazon.com,1145
+63.180.203.233:12848,HTTP,Germany,DE,🇩🇪,4,low,No,Amazon.com,2373
+63.181.83.210:51313,HTTP,Germany,DE,🇩🇪,4,low,No,Amazon.com,819
+63.179.134.206:9090,HTTP,Germany,DE,🇩🇪,4,low,No,Amazon.com,4461
+63.181.83.210:52265,HTTP,Germany,DE,🇩🇪,4,low,No,Amazon.com,1915
+63.179.134.206:42830,HTTP,Germany,DE,🇩🇪,4,low,No,Amazon.com,4283
+116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,847
+116.202.172.187:11000,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,873
+159.195.43.169:8888,HTTP,Germany,DE,🇩🇪,11,low,No,netcup GmbH,10854
+161.97.119.1:8888,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,14680
