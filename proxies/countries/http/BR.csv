@@ -1,32 +1,44 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-170.81.131.70:3128,HTTP,Brazil,BR,🇧🇷,0,low,No,IFTNET Telecomunicacoes Ltda,15529
-170.81.102.168:6666,HTTP,Brazil,BR,🇧🇷,0,low,No,Viva Tecnologia Telecom,14852
-200.182.232.34:80,HTTP,Brazil,BR,🇧🇷,0,low,No,Claro S.A,4618
-179.48.80.9:8085,HTTP,Brazil,BR,🇧🇷,0,low,No,Fbnet Telecom,14565
-170.247.200.138:8088,HTTP,Brazil,BR,🇧🇷,0,low,No,PIX PROVEDOR DE INTERNET LTDA - ME,10284
-187.103.105.20:8085,HTTP,Brazil,BR,🇧🇷,0,low,No,BR.Digital Telecom,15437
-189.50.45.46:1995,HTTP,Brazil,BR,🇧🇷,0,low,No,Total Telecom LTDA-ME,16933
-138.99.248.202:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,CERTTO TELECOMUNICAÇÕES LTDA EPP,7138
-137.131.173.3:3128,HTTP,Brazil,BR,🇧🇷,2,low,No,Oracle Corporation,1014
-201.62.82.4:8080,HTTP,Brazil,BR,🇧🇷,3,low,No,Life Tecnologia Ltda.,14241
-15.229.231.89:1976,HTTP,Brazil,BR,🇧🇷,3,low,No,"Amazon.com, Inc.",1885
-18.231.126.121:43034,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,3081
-18.231.214.206:47897,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,1404
-18.231.214.206:35873,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,2340
-18.228.228.159:15988,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,2371
-18.228.228.159:6308,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,4756
-18.231.126.121:40092,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,1413
-18.231.126.121:17943,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,1425
-18.231.214.206:7564,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,2980
-18.231.126.121:8070,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,1438
-18.231.214.206:10000,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,1900
-167.250.23.211:9090,HTTP,Brazil,BR,🇧🇷,4,low,No,OnNet Telecomunicações LTDA,2837
-18.230.23.72:8989,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,1603
-18.228.228.159:30594,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,4455
-18.228.228.159:5435,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,1503
-18.230.23.72:9100,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,2494
-201.20.79.182:8088,HTTP,Brazil,BR,🇧🇷,5,low,Yes,DB3 SERVICOS DE TELECOMUNICACOES S.A,17360
-190.83.40.166:3128,HTTP,Brazil,BR,🇧🇷,6,low,No,Jose DAS Gracas Soares De Lima Eireli,7499
-177.130.25.76:8080,HTTP,Brazil,BR,🇧🇷,6,low,No,Help Internet,8147
-201.23.119.74:3128,HTTP,Brazil,BR,🇧🇷,8,low,No,Directnet Prestacao de Servicos Ltda.,18473
-138.122.140.194:3128,HTTP,Brazil,BR,🇧🇷,10,low,No,Netway Informatica Ltda,1397
+201.140.209.33:3128,HTTP,Brazil,BR,🇧🇷,0,low,No,Norte Line Telecomunicacoes Ltda.,10049
+201.182.204.18:9999,HTTP,Brazil,BR,🇧🇷,0,low,No,Conect Fiber Telecomunicacoes Ltda - ME,12950
+143.0.203.173:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Genesysnet Provedor De Internet Ltda ME,14106
+170.81.102.168:6666,HTTP,Brazil,BR,🇧🇷,0,low,No,Viva Tecnologia Telecom,12729
+170.84.147.216:8087,HTTP,Brazil,BR,🇧🇷,0,low,No,Direct Telecom Ltda,5960
+45.168.244.10:9090,HTTP,Brazil,BR,🇧🇷,0,low,No,Maxima Internet Banda Larga,6125
+168.181.151.168:8081,HTTP,Brazil,BR,🇧🇷,0,low,No,TELLIUS & ALLNET TELECOMUNICAÇÕES DAS AMÉRICAS,9515
+170.84.93.123:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Bomfim E Sousa Ltda,14648
+138.0.207.246:8082,HTTP,Brazil,BR,🇧🇷,0,low,No,Nets Telecomunicacoes Ltda,3549
+143.208.84.57:8589,HTTP,Brazil,BR,🇧🇷,0,low,No,V. GRAZIOLI & CIA. LTDA. - ME,21851
+45.234.218.5:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Access Internet,16120
+131.100.26.163:8180,HTTP,Brazil,BR,🇧🇷,0,low,No,EVEO Serviços de Internet Ltda.,8975
+45.180.84.105:443,HTTP,Brazil,BR,🇧🇷,0,low,No,AN TELECOM,3771
+168.195.168.182:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,SkyNet Telecomunicações,12728
+45.183.11.194:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,V1 Informática,9069
+170.84.93.122:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Bomfim E Sousa Ltda,6121
+200.251.41.61:8002,HTTP,Brazil,BR,🇧🇷,0,low,No,Claro S.A,15513
+177.39.109.1:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Printnet telecomunicaçoes,14345
+45.183.236.181:8085,HTTP,Brazil,BR,🇧🇷,0,low,No,Wlan Network Ltda,3715
+186.250.202.104:8080,HTTP,Brazil,BR,🇧🇷,1,low,No,G6 Internet,15853
+177.70.77.201:20183,HTTP,Brazil,BR,🇧🇷,2,low,No,RazaoInfo Internet Ltda,9870
+137.131.173.3:3128,HTTP,Brazil,BR,🇧🇷,2,low,No,Oracle Corporation,3484
+170.239.220.6:8080,HTTP,Brazil,BR,🇧🇷,3,low,No,Companhia Itabirana Telecomunicações Ltda,13293
+15.229.231.89:56357,HTTP,Brazil,BR,🇧🇷,3,low,No,"Amazon.com, Inc.",5037
+15.229.231.89:8236,HTTP,Brazil,BR,🇧🇷,3,low,No,"Amazon.com, Inc.",3151
+15.229.231.89:57998,HTTP,Brazil,BR,🇧🇷,3,low,No,"Amazon.com, Inc.",3712
+18.231.126.121:38978,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,2980
+18.231.126.121:41515,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,4142
+177.74.221.80:8080,HTTP,Brazil,BR,🇧🇷,4,low,No,UNIFIQUE TELECOMUNICACOES S/A,12680
+18.231.126.121:344,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,9057
+18.228.228.159:8282,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,1824
+18.228.228.159:13282,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,3659
+18.231.214.206:53656,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,4511
+167.250.23.211:9090,HTTP,Brazil,BR,🇧🇷,4,low,No,OnNet Telecomunicações LTDA,14524
+18.231.126.121:1081,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,3069
+18.231.214.206:443,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,2660
+189.27.197.27:3128,HTTP,Brazil,BR,🇧🇷,5,low,No,Vivo,8818
+177.190.200.209:8085,HTTP,Brazil,BR,🇧🇷,5,low,No,Ctinet Solucoes EM Conectividade E Informatica LTD,14564
+190.83.40.166:3128,HTTP,Brazil,BR,🇧🇷,6,low,No,Jose DAS Gracas Soares De Lima Eireli,22749
+177.130.25.76:8080,HTTP,Brazil,BR,🇧🇷,6,low,No,Help Internet,19957
+190.83.40.166:3128,HTTP,Brazil,BR,🇧🇷,6,low,No,Jose DAS Gracas Soares De Lima Eireli,15688
+189.124.85.77:33333,HTTP,Brazil,BR,🇧🇷,6,low,No,Vero S.A,13050
+177.87.30.63:8080,HTTP,Brazil,BR,🇧🇷,9,low,No,WordNet Internet Banda Larga,8025
