@@ -1,16 +1,28 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-8.213.222.157:4000,SOCKS5,Thailand,TH,🇹🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",9335
-8.213.222.157:8119,SOCKS5,Thailand,TH,🇹🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",9289
-8.213.197.208:8000,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",11478
-8.213.222.157:51,SOCKS5,Thailand,TH,🇹🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8074
-8.213.222.157:31433,SOCKS5,Thailand,TH,🇹🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",9332
-8.213.197.208:8085,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",9553
-8.213.222.157:41,SOCKS5,Thailand,TH,🇹🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7722
-8.213.195.191:13,SOCKS5,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,7730
-8.213.195.191:34567,SOCKS5,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,7712
-8.213.222.157:88,SOCKS5,Thailand,TH,🇹🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7723
-8.213.197.208:9091,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",9599
-8.213.195.191:3129,SOCKS5,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,9502
-43.164.3.124:1080,SOCKS5,Thailand,TH,🇹🇭,1,low,No,Shenzhen Tencent Computer Systems Company Limited,3650
-43.164.3.124:1080,SOCKS5,Thailand,TH,🇹🇭,1,low,No,Shenzhen Tencent Computer Systems Company Limited,2887
-125.24.156.113:7080,SOCKS5,Thailand,TH,🇹🇭,1,low,No,TOT Public Company Limited,3267
+8.213.195.191:8081,SOCKS5,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,9305
+8.213.215.187:4002,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8650
+8.213.215.187:176,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7738
+8.213.215.187:8081,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7659
+8.213.222.157:4000,SOCKS5,Thailand,TH,🇹🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7610
+8.213.195.191:8008,SOCKS5,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,7775
+8.213.222.247:8443,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7594
+8.213.222.247:666,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7595
+8.213.222.247:8083,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7597
+8.213.195.191:9191,SOCKS5,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,8545
+8.213.195.191:8080,SOCKS5,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,10090
+8.213.195.191:37,SOCKS5,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,8233
+8.213.222.157:51,SOCKS5,Thailand,TH,🇹🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7598
+8.213.215.187:5269,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7602
+8.213.215.187:3128,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7594
+8.213.215.187:30000,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7606
+8.213.222.247:9090,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7589
+8.213.222.247:18081,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7585
+8.213.222.247:81,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7589
+8.213.197.208:8085,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7608
+8.213.195.191:34567,SOCKS5,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,8398
+8.213.197.208:9091,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7609
+8.213.197.208:6969,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7602
+8.213.222.157:8999,SOCKS5,Thailand,TH,🇹🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7595
+43.164.3.124:1080,SOCKS5,Thailand,TH,🇹🇭,1,low,No,Shenzhen Tencent Computer Systems Company Limited,1605
+43.164.3.124:1080,SOCKS5,Thailand,TH,🇹🇭,1,low,No,Shenzhen Tencent Computer Systems Company Limited,1581
+125.24.156.113:7080,SOCKS5,Thailand,TH,🇹🇭,1,low,No,TOT Public Company Limited,3863

@@ -1,10 +1,55 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-56.155.73.159:14745,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",2033
-56.155.73.159:34896,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",1947
-56.155.73.159:25492,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",4949
-47.91.29.151:6666,HTTP,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,8002
-8.221.138.111:40,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",14118
-13.208.246.143:36266,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,1863
-16.208.77.160:8282,HTTP,Japan,JP,🇯🇵,2,low,No,"Amazon.com, Inc.",5170
-168.138.202.218:3128,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,10808
-158.101.89.163:3123,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,14911
+47.91.29.151:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,7740
+47.74.46.81:9098,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,10953
+8.221.138.111:9080,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7558
+8.221.139.222:3128,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7563
+8.221.141.88:9507,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7568
+47.91.29.151:31281,HTTP,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,7600
+8.221.139.222:8028,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7774
+47.74.46.81:80,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7567
+8.221.141.88:8080,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7557
+8.221.138.111:8192,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7558
+8.221.138.111:35,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7565
+56.155.73.215:4559,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",2240
+15.152.75.215:15247,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,1839
+56.155.73.215:8088,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",5222
+13.208.238.59:987,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,2992
+47.74.46.81:9090,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,8332
+47.91.29.151:6666,HTTP,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,7569
+8.221.141.88:7500,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7554
+8.221.138.111:40,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7563
+8.221.139.222:800,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7555
+13.208.238.59:83,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,2929
+13.208.166.217:48408,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,3392
+61.118.38.234:60808,HTTP,Japan,JP,🇯🇵,0,low,No,Open Computer Network,9331
+13.208.166.217:35520,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,1397
+13.208.166.217:9112,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,1398
+13.208.166.217:8118,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,1404
+13.208.238.59:28914,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,1958
+13.208.238.59:9057,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,6173
+13.208.246.143:10082,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,1982
+56.155.73.215:49313,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",3542
+13.208.41.249:57648,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,4837
+56.155.7.175:17490,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",1908
+8.221.141.88:4063,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7560
+13.208.41.249:29171,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,5070
+56.155.73.159:51205,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",2771
+18.183.174.103:8254,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,3196
+18.183.174.103:47787,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1621
+54.238.215.10:8888,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,2147
+43.206.240.252:15275,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",8063
+35.78.212.217:32053,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1949
+35.78.252.142:59622,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1930
+43.206.240.252:15866,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",4987
+43.207.141.180:21,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",3114
+43.207.132.28:23765,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1714
+43.207.132.28:54410,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",3230
+35.78.212.217:17219,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",9832
+35.78.252.142:30018,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",3878
+35.78.212.217:8171,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1899
+43.207.141.180:782,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",5805
+43.207.225.199:36011,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",5829
+43.207.225.199:41024,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1304
+43.207.113.167:2551,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",2962
+140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,7187
+140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,6167
