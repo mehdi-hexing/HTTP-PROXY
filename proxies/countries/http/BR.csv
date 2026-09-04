@@ -1,33 +1,17 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-45.180.84.105:443,HTTP,Brazil,BR,🇧🇷,0,low,No,AN TELECOM,7839
-170.81.102.163:6666,HTTP,Brazil,BR,🇧🇷,0,low,No,Viva Tecnologia Telecom,9187
-187.19.201.217:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Brisanet Servicos De Telecomunicacoes S.A,16107
-186.227.246.82:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Rede Exitus Ltda,18743
-131.100.26.163:8180,HTTP,Brazil,BR,🇧🇷,0,low,No,EVEO Serviços de Internet Ltda.,9558
-186.226.167.191:3128,HTTP,Brazil,BR,🇧🇷,0,low,No,Infortel Comunicacoes Ltda,17652
-168.181.151.168:8081,HTTP,Brazil,BR,🇧🇷,0,low,No,TELLIUS & ALLNET TELECOMUNICAÇÕES DAS AMÉRICAS,3758
-189.126.66.189:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Provedornet Telecom. e Serviços de Internet Ltda,18174
-186.216.208.98:3128,HTTP,Brazil,BR,🇧🇷,0,low,No,Clicknet Brasil Informatica E Telecomunicacoes LT,5695
-201.71.24.65:8082,HTTP,Brazil,BR,🇧🇷,0,low,No,TESSI - Serviços de Telecomunicação Ltda,10450
-200.3.197.49:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Inacio Miguel Scherer,9774
-201.20.42.46:3127,HTTP,Brazil,BR,🇧🇷,0,low,No,Equinix (EMEA) Acquisition Enterprises B.V.,5162
-186.216.51.176:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Metroflex Telecomunicacoes Ltda,10507
-186.216.208.98:3128,HTTP,Brazil,BR,🇧🇷,0,low,No,Clicknet Brasil Informatica E Telecomunicacoes LT,3721
-45.168.244.255:9090,HTTP,Brazil,BR,🇧🇷,0,low,No,Maxima Internet Banda Larga,12439
-15.229.231.89:10826,HTTP,Brazil,BR,🇧🇷,3,low,No,"Amazon.com, Inc.",5035
-201.48.196.138:8080,HTTP,Brazil,BR,🇧🇷,3,low,No,ALGAR TELECOM S/A,10636
-18.231.214.206:55810,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,1983
-18.231.126.121:344,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,3305
-187.94.220.85:8080,HTTP,Brazil,BR,🇧🇷,4,low,No,Acesse Comunicação Ltda,21328
-18.231.126.121:40092,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,6080
-18.228.228.159:8282,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,6764
-177.193.203.146:8080,HTTP,Brazil,BR,🇧🇷,4,low,No,Claro NXT Telecomunicacoes Ltda,12719
-18.231.126.121:55016,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,4371
-18.231.214.206:80,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,1780
-177.125.210.246:8080,HTTP,Brazil,BR,🇧🇷,5,low,No,Giga Mais Fibra Telecomunicacoes S.A.,7305
-201.157.235.197:8080,HTTP,Brazil,BR,🇧🇷,5,low,No,TASCOM TELECOMUNICAÇÕES LTDA,12111
-177.190.200.209:8085,HTTP,Brazil,BR,🇧🇷,5,low,No,Ctinet Solucoes EM Conectividade E Informatica LTD,11100
-168.197.104.45:8080,HTTP,Brazil,BR,🇧🇷,7,low,No,Gtba Telecom Ltda ME,2844
-138.122.140.194:3128,HTTP,Brazil,BR,🇧🇷,10,low,No,Netway Informatica Ltda,7831
-186.65.104.52:2024,HTTP,Brazil,BR,🇧🇷,33,medium,No,Bahiadados Telecom Ltda.,13038
-191.160.36.7:8080,HTTP,Brazil,BR,🇧🇷,100,very_high,No,MAXSERV COMERCIO E SERVIÇOS LTDA ME,15768
+187.19.201.217:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Brisanet Servicos De Telecomunicacoes S.A,18963
+186.227.246.82:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Rede Exitus Ltda,13410
+200.182.232.34:80,HTTP,Brazil,BR,🇧🇷,0,low,No,Claro S.A,12347
+187.19.200.217:8090,HTTP,Brazil,BR,🇧🇷,0,low,No,Brisanet Servicos De Telecomunicacoes S.A,15866
+45.175.171.71:8085,HTTP,Brazil,BR,🇧🇷,0,low,No,Inffotreini Provedores e Informatica LTDA - ME,14145
+186.216.51.176:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Metroflex Telecomunicacoes Ltda,9742
+170.84.147.216:8087,HTTP,Brazil,BR,🇧🇷,0,low,No,Direct Telecom Ltda,12650
+177.70.77.201:20183,HTTP,Brazil,BR,🇧🇷,2,low,No,RazaoInfo Internet Ltda,11613
+177.70.77.201:20183,HTTP,Brazil,BR,🇧🇷,2,low,No,RazaoInfo Internet Ltda,9318
+45.227.195.121:8082,HTTP,Brazil,BR,🇧🇷,4,low,No,Mhnet Telecom,8753
+18.230.23.72:6354,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,1794
+18.230.23.72:31514,HTTP,Brazil,BR,🇧🇷,4,low,No,Amazon Technologies Inc.,4478
+201.149.127.22:8080,HTTP,Brazil,BR,🇧🇷,6,low,No,Garra Telecom Ltda,9587
+186.235.255.220:8080,HTTP,Brazil,BR,🇧🇷,9,low,No,Tiago Silva Provedores ME,12502
+186.235.255.220:8080,HTTP,Brazil,BR,🇧🇷,9,low,No,Tiago Silva Provedores ME,17251
+143.208.152.62:3180,HTTP,Brazil,BR,🇧🇷,33,medium,No,Fibra Empresas Ltda,12766
