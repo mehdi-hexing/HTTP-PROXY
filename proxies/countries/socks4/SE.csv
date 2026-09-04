@@ -1,8 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-87.120.196.132:35000,SOCKS4,Sweden,SE,🇸🇪,0,low,No,Node Host Limited,13958
-143.246.197.187:1080,SOCKS4,Sweden,SE,🇸🇪,0,low,No,Alexhost SRL,6663
-85.228.42.180:4153,SOCKS4,Sweden,SE,🇸🇪,1,low,No,Bredbandsbolaget,3364
-79.76.59.115:1080,SOCKS4,Sweden,SE,🇸🇪,2,low,No,Oracle Corporation,5700
-79.76.52.220:1080,SOCKS4,Sweden,SE,🇸🇪,2,low,No,Oracle Corporation,6266
-79.76.52.220:1080,SOCKS4,Sweden,SE,🇸🇪,2,low,No,Oracle Corporation,5235
-79.76.59.115:1080,SOCKS4,Sweden,SE,🇸🇪,2,low,No,Oracle Corporation,5068
+143.246.197.187:1081,SOCKS4,Sweden,SE,🇸🇪,0,low,No,Alexhost SRL,4581
+85.228.42.180:4153,SOCKS4,Sweden,SE,🇸🇪,1,low,No,Bredbandsbolaget,1033
+79.76.59.115:1080,SOCKS4,Sweden,SE,🇸🇪,2,low,No,Oracle Corporation,2033
+185.197.74.126:2080,SOCKS4,Sweden,SE,🇸🇪,3,low,No,Aeza International LTD,2078

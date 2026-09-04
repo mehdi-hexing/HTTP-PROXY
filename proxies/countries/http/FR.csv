@@ -1,25 +1,27 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,14169
-37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,8099
-77.239.124.129:3128,HTTP,France,FR,🇫🇷,0,low,No,Banatsync SRL,1193
-13.38.27.183:999,HTTP,France,FR,🇫🇷,2,low,No,Amazon Technologies Inc.,1582
-13.38.217.179:7024,HTTP,France,FR,🇫🇷,2,low,No,Amazon Technologies Inc.,7317
-52.47.115.41:40153,HTTP,France,FR,🇫🇷,2,low,No,Amazon Technologies Inc.,1821
-52.47.115.41:42067,HTTP,France,FR,🇫🇷,2,low,No,Amazon Technologies Inc.,1829
-52.47.115.41:23089,HTTP,France,FR,🇫🇷,2,low,No,Amazon Technologies Inc.,1753
-52.47.115.41:47115,HTTP,France,FR,🇫🇷,2,low,No,Amazon Technologies Inc.,2449
-13.38.27.183:6890,HTTP,France,FR,🇫🇷,2,low,No,Amazon Technologies Inc.,1411
-13.38.217.179:42820,HTTP,France,FR,🇫🇷,2,low,No,Amazon Technologies Inc.,5936
-35.180.138.2:32650,HTTP,France,FR,🇫🇷,2,low,No,Amazon Technologies Inc.,1761
-52.47.115.41:1485,HTTP,France,FR,🇫🇷,2,low,No,Amazon Technologies Inc.,4985
-13.38.72.189:8181,HTTP,France,FR,🇫🇷,2,low,No,Amazon Technologies Inc.,2263
-51.44.97.6:8118,HTTP,France,FR,🇫🇷,3,low,No,"Amazon.com, Inc.",2252
-35.181.173.200:7726,HTTP,France,FR,🇫🇷,3,low,No,"Amazon.com, Inc.",1846
-35.181.173.200:57672,HTTP,France,FR,🇫🇷,3,low,No,"Amazon.com, Inc.",3266
-51.44.97.6:1372,HTTP,France,FR,🇫🇷,3,low,No,"Amazon.com, Inc.",4292
-37.59.125.131:8888,HTTP,France,FR,🇫🇷,6,low,Yes,OVH SAS,1403
-37.58.221.247:3128,HTTP,France,FR,🇫🇷,33,medium,No,Adista SAS,1327
-95.182.97.238:1081,HTTP,France,FR,🇫🇷,42,medium,No,CGI GLOBAL LIMITED,10852
-217.182.195.221:30006,HTTP,France,FR,🇫🇷,43,medium,No,OVH SAS,6874
-79.137.78.133:8007,HTTP,France,FR,🇫🇷,43,medium,No,OVH SAS,1481
-79.137.78.31:3128,HTTP,France,FR,🇫🇷,43,medium,No,OVH SAS,1182
+37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,3293
+37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,4645
+191.44.125.14:8080,HTTP,France,FR,🇫🇷,0,low,Yes,High Speed For Internet Services L.L.C,21320
+191.44.125.6:8080,HTTP,France,FR,🇫🇷,0,low,No,High Speed For Internet Services L.L.C,5678
+52.47.115.41:40153,HTTP,France,FR,🇫🇷,2,low,No,Amazon Technologies Inc.,4866
+13.38.27.183:10000,HTTP,France,FR,🇫🇷,2,low,No,Amazon Technologies Inc.,5347
+35.180.75.159:6844,HTTP,France,FR,🇫🇷,2,low,No,Amazon Technologies Inc.,1977
+35.180.201.54:43143,HTTP,France,FR,🇫🇷,2,low,No,Amazon Technologies Inc.,4049
+13.38.27.183:47926,HTTP,France,FR,🇫🇷,2,low,No,Amazon Technologies Inc.,1227
+13.38.27.183:8785,HTTP,France,FR,🇫🇷,2,low,No,Amazon Technologies Inc.,1570
+15.224.107.208:8083,HTTP,France,FR,🇫🇷,2,low,No,"Amazon.com, Inc.",2190
+35.180.138.2:5050,HTTP,France,FR,🇫🇷,2,low,No,Amazon Technologies Inc.,1510
+13.38.217.179:9066,HTTP,France,FR,🇫🇷,2,low,No,Amazon Technologies Inc.,2240
+13.36.211.95:45944,HTTP,France,FR,🇫🇷,2,low,No,Amazon Technologies Inc.,1173
+15.224.107.208:29392,HTTP,France,FR,🇫🇷,2,low,No,"Amazon.com, Inc.",2052
+35.180.75.159:1718,HTTP,France,FR,🇫🇷,2,low,No,Amazon Technologies Inc.,3392
+15.224.107.208:8181,HTTP,France,FR,🇫🇷,2,low,No,"Amazon.com, Inc.",4915
+35.180.201.54:28808,HTTP,France,FR,🇫🇷,2,low,No,Amazon Technologies Inc.,4055
+35.180.138.2:50582,HTTP,France,FR,🇫🇷,2,low,No,Amazon Technologies Inc.,1993
+15.188.238.238:23538,HTTP,France,FR,🇫🇷,3,low,No,"Amazon.com, Inc.",1295
+15.188.238.238:42842,HTTP,France,FR,🇫🇷,3,low,No,"Amazon.com, Inc.",4446
+37.59.125.131:8888,HTTP,France,FR,🇫🇷,6,low,Yes,OVH SAS,2197
+163.172.189.255:3128,HTTP,France,FR,🇫🇷,28,medium,No,Scaleway SAS,22708
+51.159.156.201:3128,HTTP,France,FR,🇫🇷,35,medium,No,SCALEWAY,9627
+95.182.97.238:3128,HTTP,France,FR,🇫🇷,42,medium,No,CGI GLOBAL LIMITED,22308
+51.77.148.27:3128,HTTP,France,FR,🇫🇷,43,medium,No,OVH SAS,18653
