@@ -1,21 +1,45 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-47.250.51.110:6379,HTTP,Malaysia,MY,🇲🇾,0,low,Yes,Alibaba Cloud LLC,9188
-56.68.116.64:25065,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",5304
-47.250.11.111:51,HTTP,Malaysia,MY,🇲🇾,0,low,No,Alibaba Cloud LLC,8404
-47.250.11.111:199,HTTP,Malaysia,MY,🇲🇾,0,low,No,Alibaba Cloud LLC,8746
-47.250.155.254:80,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",10497
-47.250.155.254:111,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",10262
-47.250.177.202:80,HTTP,Malaysia,MY,🇲🇾,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8185
-47.250.159.65:55443,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",8208
-47.250.51.110:9098,HTTP,Malaysia,MY,🇲🇾,0,low,Yes,Alibaba Cloud LLC,8190
-47.250.11.111:1337,HTTP,Malaysia,MY,🇲🇾,0,low,No,Alibaba Cloud LLC,8221
-47.250.155.254:31281,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",8188
-47.250.177.202:104,HTTP,Malaysia,MY,🇲🇾,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8196
-47.250.159.65:808,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",8690
-56.68.116.64:43710,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",5195
-47.250.155.254:8181,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",8183
-47.250.177.202:139,HTTP,Malaysia,MY,🇲🇾,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8876
-47.250.11.111:10000,HTTP,Malaysia,MY,🇲🇾,0,low,No,Alibaba Cloud LLC,8175
-43.216.197.62:34340,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",2417
-47.250.159.65:8011,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",8173
-43.217.201.189:31808,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",5347
+47.250.51.110:6379,HTTP,Malaysia,MY,🇲🇾,0,low,Yes,Alibaba Cloud LLC,7889
+47.250.11.111:51,HTTP,Malaysia,MY,🇲🇾,0,low,No,Alibaba Cloud LLC,7884
+47.250.11.111:199,HTTP,Malaysia,MY,🇲🇾,0,low,No,Alibaba Cloud LLC,7885
+47.250.155.254:80,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7881
+47.250.155.254:111,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7884
+47.250.177.202:80,HTTP,Malaysia,MY,🇲🇾,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7886
+47.250.159.65:55443,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",10707
+56.68.116.64:5019,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",2264
+56.68.116.64:35037,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",3309
+47.250.51.110:9098,HTTP,Malaysia,MY,🇲🇾,0,low,Yes,Alibaba Cloud LLC,7885
+47.250.11.111:1337,HTTP,Malaysia,MY,🇲🇾,0,low,No,Alibaba Cloud LLC,7884
+47.250.177.202:3128,HTTP,Malaysia,MY,🇲🇾,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",9675
+47.250.155.254:31281,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7886
+47.250.159.65:808,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7894
+56.68.116.64:2055,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",5557
+47.250.51.110:9000,HTTP,Malaysia,MY,🇲🇾,0,low,Yes,Alibaba Cloud LLC,7882
+47.250.177.202:10804,HTTP,Malaysia,MY,🇲🇾,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",16493
+47.250.155.254:8181,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7882
+47.250.11.111:10000,HTTP,Malaysia,MY,🇲🇾,0,low,No,Alibaba Cloud LLC,7891
+47.250.159.65:8011,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7894
+43.216.195.95:3128,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",2207
+43.217.201.189:32111,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",2122
+43.217.201.189:52116,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",2155
+43.217.201.189:10756,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",2715
+43.216.181.42:49008,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",3128
+43.216.197.62:44105,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",2148
+43.216.197.62:18637,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",2742
+43.216.197.62:31911,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",2117
+43.216.197.62:21008,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",2119
+47.250.177.202:8081,HTTP,Malaysia,MY,🇲🇾,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7879
+43.216.197.62:26032,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",2727
+43.217.201.189:36424,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",3157
+43.216.195.95:7777,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",2118
+43.216.195.95:15834,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",2674
+43.216.197.62:46979,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",2113
+43.216.197.62:45680,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",2717
+43.216.195.95:59976,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",5854
+43.216.195.95:2055,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",2138
+43.216.197.62:50596,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",2139
+43.216.197.62:5880,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",2733
+43.217.201.189:22873,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",3237
+43.216.197.62:44972,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Amazon.com, Inc.",2116
+47.250.51.110:31281,HTTP,Malaysia,MY,🇲🇾,0,low,Yes,Alibaba Cloud LLC,7885
+219.94.75.224:8080,HTTP,Malaysia,MY,🇲🇾,1,low,No,TMnet,6771

@@ -1,45 +1,56 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-8.213.197.208:18080,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8294
-8.213.195.191:4006,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,11195
-202.28.194.139:31280,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Office of Info.Tech. Admin. for Educational Development,2155
-47.81.56.193:8888,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba.com LLC,2588
-8.213.222.157:45,HTTP,Thailand,TH,🇹🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8308
-8.213.222.247:9080,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8273
-8.213.215.187:4002,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8284
-47.81.56.193:8888,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba.com LLC,2149
-8.213.197.208:808,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8291
-8.213.195.191:80,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,8289
-8.213.195.191:8443,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,10303
-8.213.222.247:3000,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8295
-8.213.222.157:5060,HTTP,Thailand,TH,🇹🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8297
-8.213.215.187:10000,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8275
-8.213.195.191:1080,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,8304
-8.213.197.208:100,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8282
-8.213.222.247:9999,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",10970
-8.213.215.187:106,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8311
-103.10.231.189:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,CATBB,2371
-8.213.195.191:34567,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,8300
-8.213.222.247:8090,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",10850
-43.208.237.116:9999,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3552
-43.208.243.207:8888,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3949
-43.208.134.144:1941,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",5901
-43.208.237.116:59325,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",6650
-43.208.243.207:29654,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3035
-43.208.243.207:9091,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3071
-43.208.243.207:57085,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",6443
-43.209.173.229:9595,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3944
-43.208.134.144:14569,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2843
-43.210.245.48:13094,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2479
-43.208.116.69:8180,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3453
-43.210.105.134:7070,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",5985
-43.208.243.207:38593,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3516
-43.208.191.81:41009,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2998
-43.208.191.81:28322,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3134
-43.208.191.81:6080,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3138
-43.208.237.116:10836,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3929
-43.208.191.81:35332,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2996
-43.209.173.229:8097,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2965
-43.210.3.92:15687,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3895
-43.210.245.48:22529,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3781
-183.88.214.84:8080,HTTP,Thailand,TH,🇹🇭,4,low,No,Triple T Broadband Public Company Limited,29972
-49.229.100.235:8080,HTTP,Thailand,TH,🇹🇭,10,low,No,Advanced Wireless Network Company Limited,2170
+8.213.195.191:4006,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,8015
+8.213.197.208:18080,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8123
+47.81.56.193:8888,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba.com LLC,2188
+202.28.194.139:31280,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Office of Info.Tech. Admin. for Educational Development,2199
+8.213.222.157:45,HTTP,Thailand,TH,🇹🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7984
+8.213.222.247:9080,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7982
+8.213.215.187:4002,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8003
+47.81.56.193:8888,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba.com LLC,1763
+8.213.197.208:808,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",9366
+8.213.195.191:80,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,7982
+8.213.195.191:8443,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,7986
+8.213.222.247:3000,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7980
+8.213.222.157:5060,HTTP,Thailand,TH,🇹🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7983
+8.213.215.187:10000,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8987
+8.213.195.191:1080,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,8675
+8.213.197.208:100,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",10078
+8.213.222.247:9999,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7982
+8.213.215.187:106,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8003
+103.10.231.189:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,CATBB,1759
+8.213.222.157:10000,HTTP,Thailand,TH,🇹🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",11063
+8.213.195.191:34567,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Alibaba Cloud (Singapore) Private Limited,7981
+8.213.222.247:8090,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8986
+125.27.192.162:8081,HTTP,Thailand,TH,🇹🇭,1,low,No,TOT Public Company Limited,9071
+180.180.175.11:8080,HTTP,Thailand,TH,🇹🇭,1,low,No,TOT Public Company Limited,18561
+101.109.77.90:8080,HTTP,Thailand,TH,🇹🇭,1,low,No,TOT Public Company Limited,14774
+43.208.237.116:121,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2445
+43.208.237.116:21,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2521
+43.208.237.116:37888,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2426
+43.208.237.116:3681,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2692
+43.208.237.116:34005,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3940
+43.208.237.116:22585,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2427
+43.209.173.229:1174,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",7360
+43.208.134.144:46537,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",5707
+43.208.243.207:8243,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2436
+43.208.243.207:39299,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",5703
+43.208.134.144:8470,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3167
+43.208.134.144:49192,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2632
+43.208.134.144:7106,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2384
+43.208.134.144:12847,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2609
+43.208.134.144:635,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2556
+43.208.134.144:50038,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2476
+43.208.134.144:3353,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2448
+43.209.173.229:17990,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3981
+43.208.243.207:3629,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2592
+43.208.237.116:443,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3672
+43.208.191.81:30002,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",5549
+43.208.134.144:18023,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2384
+43.209.173.229:43769,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3997
+43.208.134.144:14569,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2534
+43.208.237.116:22795,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",7884
+43.209.173.229:8097,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3390
+43.208.191.81:33883,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2255
+49.0.79.138:8080,HTTP,Thailand,TH,🇹🇭,4,low,No,AIS-Fibre,3811
+49.48.50.200:8080,HTTP,Thailand,TH,🇹🇭,4,low,No,Triple T Broadband Public Company Limited,8956
+49.229.100.235:8080,HTTP,Thailand,TH,🇹🇭,10,low,No,Advanced Wireless Network Company Limited,1813
