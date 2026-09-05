@@ -1,12 +1,24 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-8.211.194.78:3128,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",6411
-8.211.195.139:8001,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7843
-192.252.210.233:4145,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,855
-192.252.210.233:4145,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,853
-8.211.195.173:10000,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",6463
-8.211.195.173:100,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",6312
-8.211.194.78:143,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",8476
-8.211.195.139:8000,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7795
-8.211.200.183:81,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",6223
-161.97.129.202:9060,SOCKS4,United Kingdom,GB,🇬🇧,15,low,No,Contabo GmbH,13724
-3.10.170.234:3128,SOCKS4,United Kingdom,GB,🇬🇧,15,low,No,Amazon Technologies Inc.,1404
+8.211.194.78:80,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",9023
+8.211.195.173:28737,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",11894
+8.211.194.78:3128,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",6285
+8.211.200.183:80,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",6201
+8.211.195.139:6379,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8612
+192.252.210.233:4145,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,546
+192.252.210.233:4145,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,538
+8.211.195.139:4145,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",10019
+8.211.200.183:9080,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",8193
+8.211.194.85:312,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7006
+8.211.200.183:6379,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",13183
+8.211.200.183:2019,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4251
+8.211.200.183:45,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4254
+8.211.194.78:8008,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7925
+8.211.194.78:143,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4256
+8.211.195.139:8443,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",6459
+8.211.195.173:9080,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4334
+8.211.195.173:4145,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4256
+8.211.195.173:8072,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4243
+8.211.200.183:81,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4244
+8.211.194.78:8888,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4254
+3.10.170.234:3128,SOCKS4,United Kingdom,GB,🇬🇧,15,low,No,Amazon Technologies Inc.,346
+88.80.186.173:19100,SOCKS4,United Kingdom,GB,🇬🇧,52,medium,No,"Akamai Technologies, Inc.",1944

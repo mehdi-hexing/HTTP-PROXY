@@ -1,20 +1,32 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-8.211.200.183:6969,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",11589
-8.211.200.183:9080,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",12803
-8.211.194.85:9080,SOCKS5,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",16651
-192.252.210.233:4145,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,948
-8.211.194.85:3129,SOCKS5,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",10421
-144.91.111.48:1088,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Contabo GmbH,1637
-144.91.111.48:1088,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Contabo GmbH,1514
-8.211.200.183:100,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",9217
-8.211.194.85:20002,SOCKS5,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",16596
-192.252.210.233:4145,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,958
-213.199.47.140:1080,SOCKS5,United Kingdom,GB,🇬🇧,15,low,No,Contabo GmbH,1795
-144.91.121.61:1088,SOCKS5,United Kingdom,GB,🇬🇧,15,low,No,Contabo GmbH,2424
-18.170.25.193:7451,SOCKS5,United Kingdom,GB,🇬🇧,15,low,No,Amazon Technologies Inc.,983
-213.199.47.140:1080,SOCKS5,United Kingdom,GB,🇬🇧,15,low,No,Contabo GmbH,1723
-144.91.121.61:1088,SOCKS5,United Kingdom,GB,🇬🇧,15,low,No,Contabo GmbH,1801
-3.10.170.234:3128,SOCKS5,United Kingdom,GB,🇬🇧,15,low,No,Amazon Technologies Inc.,770
-194.164.125.208:57422,SOCKS5,United Kingdom,GB,🇬🇧,36,medium,No,IONOS SE,9368
-144.126.197.184:1088,SOCKS5,United Kingdom,GB,🇬🇧,53,medium,Yes,"DigitalOcean, LLC",1154
-144.126.197.184:1088,SOCKS5,United Kingdom,GB,🇬🇧,53,medium,Yes,"DigitalOcean, LLC",1122
+8.211.194.78:9080,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7249
+8.211.194.78:81,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7248
+8.211.200.183:6969,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7254
+8.211.200.183:9080,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7242
+192.252.210.233:4145,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,1282
+144.91.111.48:1088,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Contabo GmbH,2045
+144.91.111.48:1088,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Contabo GmbH,1546
+8.211.200.183:100,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7245
+8.211.200.183:8443,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7246
+8.211.200.183:2019,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",8749
+8.211.194.78:5800,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",8271
+8.211.194.78:111,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",10563
+8.211.194.78:8080,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7257
+8.211.195.173:5060,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",11466
+8.211.195.173:9080,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7270
+8.211.194.85:20002,SOCKS5,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8422
+192.252.210.233:4145,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,612
+8.211.195.139:443,SOCKS5,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",11745
+8.211.200.183:85,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7248
+8.211.200.183:1081,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7253
+132.145.53.143:1080,SOCKS5,United Kingdom,GB,🇬🇧,4,low,No,Oracle Corporation,7870
+213.199.47.140:1080,SOCKS5,United Kingdom,GB,🇬🇧,15,low,No,Contabo GmbH,1859
+144.91.121.61:1088,SOCKS5,United Kingdom,GB,🇬🇧,15,low,No,Contabo GmbH,1661
+144.91.83.39:9050,SOCKS5,United Kingdom,GB,🇬🇧,15,low,No,Contabo GmbH,13373
+213.199.47.140:1080,SOCKS5,United Kingdom,GB,🇬🇧,15,low,No,Contabo GmbH,10922
+161.97.129.202:9060,SOCKS5,United Kingdom,GB,🇬🇧,15,low,No,Contabo GmbH,14571
+3.10.170.234:3128,SOCKS5,United Kingdom,GB,🇬🇧,15,low,No,Amazon Technologies Inc.,484
+88.80.186.173:19100,SOCKS5,United Kingdom,GB,🇬🇧,52,medium,No,"Akamai Technologies, Inc.",7898
+88.80.186.173:19100,SOCKS5,United Kingdom,GB,🇬🇧,52,medium,No,"Akamai Technologies, Inc.",11760
+144.126.197.184:1088,SOCKS5,United Kingdom,GB,🇬🇧,53,medium,Yes,"DigitalOcean, LLC",4750
+144.126.197.184:1088,SOCKS5,United Kingdom,GB,🇬🇧,53,medium,Yes,"DigitalOcean, LLC",1311

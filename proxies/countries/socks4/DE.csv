@@ -1,21 +1,38 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-47.91.89.3:9080,SOCKS4,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,8315
-8.211.49.86:3129,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",6374
-8.211.49.86:10801,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",6377
-8.211.49.86:808,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",6401
-47.91.89.3:176,SOCKS4,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,6328
-185.158.251.251:50000,SOCKS4,Germany,DE,🇩🇪,0,low,No,servinga GmbH,11929
-109.123.251.109:1080,SOCKS4,Germany,DE,🇩🇪,0,low,No,Contabo GmbH,1595
-8.211.42.167:9080,SOCKS4,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4490
-47.91.89.3:8181,SOCKS4,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,6245
-47.91.89.3:193,SOCKS4,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,6228
-8.211.49.86:7777,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",6458
-8.211.42.167:8080,SOCKS4,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7323
-8.211.42.167:51,SOCKS4,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",6261
-8.209.96.245:8443,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,4450
-8.209.96.245:8081,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,4449
-8.209.96.245:8080,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,4455
-81.200.155.224:1080,SOCKS4,Germany,DE,🇩🇪,3,low,No,"Timeweb, LLP",3946
-91.107.243.254:9097,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,5584
-91.107.255.151:808,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,2348
-144.31.255.9:1080,SOCKS4,Germany,DE,🇩🇪,10,low,No,U1 DIGITAL SERVICES LTD,6349
+8.211.49.86:808,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",6368
+109.123.251.109:1080,SOCKS4,Germany,DE,🇩🇪,0,low,No,Contabo GmbH,3202
+195.133.65.238:10909,SOCKS4,Germany,DE,🇩🇪,0,low,No,Chsl ONE LTD,1818
+64.188.64.135:1080,SOCKS4,Germany,DE,🇩🇪,0,low,Yes,Play2go International Limited,9433
+8.211.42.167:9080,SOCKS4,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8168
+8.211.42.167:8888,SOCKS4,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8320
+8.211.49.86:7777,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",4295
+8.211.49.86:6666,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",4308
+8.211.49.86:2000,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",4486
+8.211.51.115:3333,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",8083
+47.91.89.3:202,SOCKS4,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,4298
+47.91.89.3:8888,SOCKS4,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,4307
+185.133.239.244:16299,SOCKS4,Germany,DE,🇩🇪,0,low,No,OCKNet GmbH,8111
+195.133.65.238:10909,SOCKS4,Germany,DE,🇩🇪,0,low,No,Chsl ONE LTD,3109
+217.60.245.29:4080,SOCKS4,Germany,DE,🇩🇪,0,low,No,Loginov Vladislav,4075
+8.211.42.167:8118,SOCKS4,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4289
+47.91.89.3:9119,SOCKS4,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,4291
+8.211.49.86:8085,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",5356
+8.211.51.115:88,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",5674
+8.211.51.115:202,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7199
+8.211.42.167:51,SOCKS4,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",5123
+8.211.42.167:111,SOCKS4,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7885
+89.168.67.102:1080,SOCKS4,Germany,DE,🇩🇪,2,low,No,Oracle Corporation,5865
+213.165.43.73:46650,SOCKS4,Germany,DE,🇩🇪,3,low,No,Aeza International LTD,5317
+8.209.96.245:1081,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,4295
+8.209.96.245:999,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,4299
+8.209.96.245:55443,SOCKS4,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,4290
+138.199.222.72:9050,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,12977
+49.12.99.250:9050,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,2783
+150.241.105.252:1080,SOCKS4,Germany,DE,🇩🇪,10,low,No,U1 DIGITAL SERVICES LTD,5912
+2.26.112.72:1080,SOCKS4,Germany,DE,🇩🇪,10,low,No,U1 DIGITAL SERVICES LTD,4950
+144.31.189.114:1080,SOCKS4,Germany,DE,🇩🇪,15,low,No,International Hosting Company Limited,1758
+173.249.20.169:9060,SOCKS4,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,13416
+158.220.99.85:4545,SOCKS4,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,21169
+158.220.99.85:4545,SOCKS4,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,23326
+84.200.205.35:1080,SOCKS4,Germany,DE,🇩🇪,19,low,No,"Ultahost, Inc.",2875
+152.53.183.107:8081,SOCKS4,Germany,DE,🇩🇪,19,low,No,netcup GmbH,6221
