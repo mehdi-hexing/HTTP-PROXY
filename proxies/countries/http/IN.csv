@@ -1,35 +1,41 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-52.140.40.92:80,HTTP,India,IN,🇮🇳,0,low,No,Microsoft Corporation,16653
-14.139.235.82:3128,HTTP,India,IN,🇮🇳,0,low,Yes,National Knowledge Network,2169
-103.26.110.125:84,HTTP,India,IN,🇮🇳,0,low,No,Niss Networks,18274
-103.26.110.125:82,HTTP,India,IN,🇮🇳,0,low,No,Niss Networks,25374
-210.16.85.42:8080,HTTP,India,IN,🇮🇳,0,low,No,Sri Vari Network Private Limited,17335
-103.41.97.225:84,HTTP,India,IN,🇮🇳,0,low,No,Pioneer Elabs Ltd.,5952
-103.48.68.30:83,HTTP,India,IN,🇮🇳,0,low,No,Country Online Services PVT LTD,12830
-13.126.183.60:10665,HTTP,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc,5287
-103.48.71.6:83,HTTP,India,IN,🇮🇳,0,low,No,Country Online Services PVT LTD,14610
-98.130.11.240:7598,HTTP,India,IN,🇮🇳,0,low,No,Amazon.com,5620
-103.70.44.6:8080,HTTP,India,IN,🇮🇳,0,low,No,Meghbela Cable & Broadband Services (P) Ltd,16491
-151.185.59.36:8080,HTTP,India,IN,🇮🇳,0,low,No,E2E Networks Limited,2288
-203.200.155.180:3128,HTTP,India,IN,🇮🇳,0,low,No,Tata Communications Limited,13574
-203.200.155.180:3128,HTTP,India,IN,🇮🇳,0,low,No,Tata Communications Limited,10900
-103.80.224.33:82,HTTP,India,IN,🇮🇳,0,low,No,Robust Pixel Connect Private Limited,4779
-103.139.200.230:8080,HTTP,India,IN,🇮🇳,0,low,No,Winnet Broadband Private Limited,17309
-13.126.183.60:6197,HTTP,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc,3137
-65.1.240.131:3001,HTTP,India,IN,🇮🇳,0,low,No,Amazon.com,1685
-65.1.240.131:3001,HTTP,India,IN,🇮🇳,0,low,No,Amazon.com,1699
-122.165.97.254:3128,HTTP,India,IN,🇮🇳,2,low,No,BHARTI,2504
-13.206.73.237:18119,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",3103
-18.60.247.31:19387,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",5932
-13.206.73.237:39300,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",2955
-18.60.247.31:35765,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",2135
-13.206.73.237:14028,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",2348
-13.206.73.237:44334,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",2616
-13.206.73.237:47299,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",2220
-13.206.73.237:54177,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",3272
-13.206.73.237:53478,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",2425
-13.206.73.237:8090,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",3554
-140.238.254.5:8080,HTTP,India,IN,🇮🇳,4,low,No,Oracle Corporation,8207
-140.238.254.5:8080,HTTP,India,IN,🇮🇳,4,low,No,Oracle Corporation,1676
-117.236.124.166:3128,HTTP,India,IN,🇮🇳,14,low,No,BSNL Internet,2029
-117.236.124.166:3128,HTTP,India,IN,🇮🇳,14,low,No,BSNL Internet,2050
+103.209.36.58:8080,HTTP,India,IN,🇮🇳,0,low,No,Aerpace,9779
+103.255.146.238:8080,HTTP,India,IN,🇮🇳,0,low,No,Pioneer Elabs Ltd,23823
+14.139.235.82:3128,HTTP,India,IN,🇮🇳,0,low,Yes,National Knowledge Network,3311
+13.126.183.60:27649,HTTP,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc,3286
+202.157.67.40:8080,HTTP,India,IN,🇮🇳,0,low,No,Data Infosys Ltd,1970
+3.110.68.130:56066,HTTP,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,3500
+161.248.176.2:8080,HTTP,India,IN,🇮🇳,0,low,No,SNA INTERNET PRIVATE LIMITED,13851
+103.153.250.65:83,HTTP,India,IN,🇮🇳,0,low,No,Purenet Telecom India Pvt. Ltd.,11961
+103.48.68.138:82,HTTP,India,IN,🇮🇳,0,low,No,Country Online Services PVT LTD,11798
+103.139.200.230:8080,HTTP,India,IN,🇮🇳,0,low,No,Winnet Broadband Private Limited,8028
+3.111.49.148:5896,HTTP,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,5378
+65.2.6.2:2565,HTTP,India,IN,🇮🇳,0,low,No,Amazon.com,5251
+65.1.240.131:3001,HTTP,India,IN,🇮🇳,0,low,No,Amazon.com,1675
+45.194.41.141:8080,HTTP,India,IN,🇮🇳,0,low,No,Real Time Data Services Private Limited,2351
+45.194.41.228:8080,HTTP,India,IN,🇮🇳,0,low,No,Real Time Data Services Private Limited,2340
+65.2.160.130:49005,HTTP,India,IN,🇮🇳,0,low,No,Amazon.com,3053
+65.2.160.130:1443,HTTP,India,IN,🇮🇳,0,low,No,Amazon.com,4004
+65.1.240.131:3001,HTTP,India,IN,🇮🇳,0,low,No,Amazon.com,1692
+111.92.88.27:3128,HTTP,India,IN,🇮🇳,1,low,No,Asianet Satellite Communications Pvt Ltd,11455
+136.233.127.168:3128,HTTP,India,IN,🇮🇳,1,low,No,Reliance Jio Infocomm Limited,16141
+144.24.146.160:3128,HTTP,India,IN,🇮🇳,2,low,No,Oracle Corporation,15117
+16.112.160.2:304,HTTP,India,IN,🇮🇳,2,low,No,"Amazon.com, Inc.",3692
+16.112.160.2:8083,HTTP,India,IN,🇮🇳,2,low,No,"Amazon.com, Inc.",2810
+16.112.160.2:8998,HTTP,India,IN,🇮🇳,2,low,No,"Amazon.com, Inc.",2718
+16.112.160.2:59583,HTTP,India,IN,🇮🇳,2,low,No,"Amazon.com, Inc.",2086
+18.60.247.31:39140,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",3376
+13.206.73.237:53341,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",3170
+13.206.73.237:14028,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",3723
+18.61.3.91:17768,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",3492
+18.61.3.91:3838,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",2181
+18.61.3.91:929,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",2674
+13.206.73.237:53478,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",3657
+13.206.73.237:172,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",5765
+18.61.230.250:17088,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",5215
+13.206.73.237:3886,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",3520
+18.60.247.31:18255,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",3051
+18.61.230.250:6666,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",3812
+18.61.230.250:6218,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",3815
+117.236.124.166:3128,HTTP,India,IN,🇮🇳,14,low,No,BSNL Internet,1750
+117.236.124.166:3128,HTTP,India,IN,🇮🇳,14,low,No,BSNL Internet,1721

@@ -1,15 +1,56 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-15.235.21.254:8080,HTTP,Canada,CA,🇨🇦,0,low,No,OVH SAS,427
-15.235.21.254:8080,HTTP,Canada,CA,🇨🇦,0,low,No,OVH SAS,600
-16.174.124.173:8006,HTTP,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",876
-35.183.127.162:45814,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,1797
-35.183.127.162:17396,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,1087
-3.96.59.229:28455,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,4055
-3.96.59.229:49148,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,3821
-35.183.29.62:9091,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,294
-35.183.29.62:26928,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,315
-35.183.29.62:9991,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,399
-35.183.29.62:13918,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,314
-35.183.29.62:14831,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,299
-184.75.221.82:3118,HTTP,Canada,CA,🇨🇦,26,medium,Yes,Amanah Tech Inc.,271
-45.154.204.203:9443,HTTP,Canada,CA,🇨🇦,40,medium,No,"BrainStorm Network, Inc",756
+16.54.225.12:100,HTTP,Canada,CA,🇨🇦,0,low,No,"Amazon.com, Inc.",4011
+16.174.78.75:3128,HTTP,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",2342
+16.174.124.173:5163,HTTP,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",973
+16.174.78.75:56135,HTTP,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",8603
+16.174.78.75:39924,HTTP,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",1037
+16.174.78.75:33220,HTTP,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",956
+16.174.78.75:45182,HTTP,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",958
+16.174.78.75:28319,HTTP,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",1034
+16.174.78.75:15439,HTTP,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",952
+16.174.78.75:30613,HTTP,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",964
+16.174.78.75:34090,HTTP,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",955
+16.174.78.75:54261,HTTP,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",5309
+16.174.78.75:19661,HTTP,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",965
+16.174.78.75:12493,HTTP,Canada,CA,🇨🇦,2,low,No,"Amazon.com, Inc.",1034
+40.176.175.23:15715,HTTP,Canada,CA,🇨🇦,3,low,No,"Amazon.com, Inc.",5398
+40.177.99.164:27054,HTTP,Canada,CA,🇨🇦,3,low,No,"Amazon.com, Inc.",1456
+40.177.99.164:25623,HTTP,Canada,CA,🇨🇦,3,low,No,"Amazon.com, Inc.",5058
+40.177.99.164:47489,HTTP,Canada,CA,🇨🇦,3,low,No,"Amazon.com, Inc.",1310
+40.176.90.140:40159,HTTP,Canada,CA,🇨🇦,3,low,No,"Amazon.com, Inc.",2201
+40.177.99.164:17096,HTTP,Canada,CA,🇨🇦,3,low,No,"Amazon.com, Inc.",2830
+40.176.90.140:21542,HTTP,Canada,CA,🇨🇦,3,low,No,"Amazon.com, Inc.",2215
+40.176.90.140:48402,HTTP,Canada,CA,🇨🇦,3,low,No,"Amazon.com, Inc.",1103
+35.182.12.78:9002,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,1896
+3.99.158.157:443,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,3326
+16.52.81.236:31501,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon.com,659
+35.183.127.162:9002,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,838
+16.52.81.236:12047,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon.com,1823
+16.52.81.236:9091,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon.com,354
+16.52.81.236:57589,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon.com,364
+3.99.158.157:13951,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,2160
+16.52.81.236:7777,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon.com,356
+35.183.29.62:24659,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,4149
+15.223.218.32:46673,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,3684
+15.223.218.32:59813,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,352
+15.223.218.32:59097,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,351
+3.99.158.157:21099,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,5262
+15.223.218.32:1080,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,650
+35.183.127.162:35639,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,1564
+16.52.81.236:9952,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon.com,4044
+3.96.59.229:6434,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,937
+3.96.59.229:49148,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,349
+3.99.158.157:4040,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,3956
+3.96.59.229:3125,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,337
+56.112.93.245:57677,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon.com,1377
+3.96.59.229:19404,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,335
+3.96.59.229:8888,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,340
+3.96.59.229:11111,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,375
+3.96.59.229:8103,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,540
+3.96.59.229:31580,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,338
+3.96.59.229:42738,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,347
+3.96.59.229:30525,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,361
+3.96.59.229:8123,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,347
+3.96.59.229:8254,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,314
+56.112.93.245:4212,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon.com,4280
+184.75.221.82:3118,HTTP,Canada,CA,🇨🇦,26,medium,Yes,Amanah Tech Inc.,322
