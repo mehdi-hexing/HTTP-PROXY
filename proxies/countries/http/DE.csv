@@ -1,29 +1,32 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,1090
-92.205.186.129:1080,HTTP,Germany,DE,🇩🇪,0,low,No,Host Europe GmbH,29170
-47.91.89.3:8099,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,13667
-8.211.42.167:4153,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",12673
-176.94.224.86:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Vodafone GmbH,8072
-2.27.63.250:8888,HTTP,Germany,DE,🇩🇪,0,low,No,Kyonix Networks Limited,1187
-47.91.89.3:4000,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,10782
-2.27.63.250:8118,HTTP,Germany,DE,🇩🇪,0,low,No,Kyonix Networks Limited,1274
-212.65.190.199:7272,HTTP,Germany,DE,🇩🇪,0,low,No,Oblcom Swiss AG,12211
-2.26.50.223:8443,HTTP,Germany,DE,🇩🇪,0,low,No,Play2go International Limited,2117
-2.56.246.77:80,HTTP,Germany,DE,🇩🇪,0,low,No,SMARTNET Germany GmbH,1196
-158.180.19.230:1080,HTTP,Germany,DE,🇩🇪,2,low,No,Oracle Corporation,9425
-8.209.96.245:1081,HTTP,Germany,DE,🇩🇪,3,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,17755
-159.69.103.146:5555,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,1123
-167.233.89.17:1084,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,1934
-167.233.169.253:1083,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,2014
-167.233.148.141:1083,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,4274
-167.233.169.253:1081,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,2990
-167.233.169.253:1082,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,1849
-167.233.169.253:1085,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,3267
-167.233.169.253:1084,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,4453
-167.233.148.141:1081,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,1992
-167.233.148.141:1085,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,2129
-159.195.22.223:8888,HTTP,Germany,DE,🇩🇪,11,low,No,netcup GmbH,1361
-159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,11,low,No,netcup GmbH,16957
-194.163.175.167:40000,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,3542
-152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,19,low,No,netcup GmbH,4303
-139.162.134.21:3128,HTTP,Germany,DE,🇩🇪,54,medium,No,"Akamai Technologies, Inc.",11913
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,925
+8.211.42.167:8083,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",12956
+47.91.89.3:9080,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,10768
+8.211.51.115:88,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",11865
+86.53.111.249:8080,HTTP,Germany,DE,🇩🇪,0,low,No,GTT Communications Inc.,12969
+86.53.111.249:8080,HTTP,Germany,DE,🇩🇪,0,low,No,GTT Communications Inc.,8659
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,920
+8.211.49.86:9028,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",18463
+185.204.170.179:1147,HTTP,Germany,DE,🇩🇪,0,low,No,Arvancloud Global Technologies L.L.C,16405
+8.211.42.167:8888,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7592
+195.133.65.238:10909,HTTP,Germany,DE,🇩🇪,0,low,No,Chsl ONE LTD,5993
+47.91.89.3:4000,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,7573
+2.26.50.223:8443,HTTP,Germany,DE,🇩🇪,0,low,No,Play2go International Limited,1902
+2.26.50.223:8443,HTTP,Germany,DE,🇩🇪,0,low,No,Play2go International Limited,1991
+2.56.246.77:80,HTTP,Germany,DE,🇩🇪,0,low,No,SMARTNET Germany GmbH,8636
+116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,968
+116.202.172.187:11000,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,991
+167.233.89.17:1084,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,1622
+167.233.169.253:1083,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,2588
+167.233.148.141:1083,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,3618
+167.233.169.253:1082,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,1975
+167.233.169.253:1081,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,5813
+167.233.169.253:1085,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,3596
+167.233.169.253:1084,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,6477
+167.233.148.141:1081,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,2715
+167.233.148.141:1085,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,5024
+167.233.148.141:1084,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,3094
+159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,11,low,No,netcup GmbH,2159
+194.163.175.167:40000,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,13507
+194.163.175.167:40001,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,10959
+152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,19,low,No,netcup GmbH,3450

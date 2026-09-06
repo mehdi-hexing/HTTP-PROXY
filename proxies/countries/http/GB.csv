@@ -1,10 +1,12 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-8.211.194.85:9098,HTTP,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",10845
-8.211.200.183:8008,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",10844
-8.211.195.139:8081,HTTP,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",16538
-8.211.194.78:8999,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",10945
-8.211.195.173:1081,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",15705
-8.211.194.78:8888,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",14662
-3.10.170.234:3128,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Amazon Technologies Inc.,1531
-18.170.25.193:8011,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Amazon Technologies Inc.,1523
-81.19.210.10:80,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,Hydra Communications Ltd,1094
+8.211.200.183:84,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",10642
+8.211.200.183:8080,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",10630
+8.211.200.183:8008,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",13333
+8.211.194.78:5800,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",10745
+8.211.195.139:8081,HTTP,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",13190
+8.211.194.78:8999,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",10865
+185.231.59.189:8080,HTTP,United Kingdom,GB,🇬🇧,0,low,No,BitCommand LLC,18130
+8.211.195.139:3333,HTTP,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",15334
+8.211.194.78:8888,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",10187
+3.10.170.234:3128,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Amazon Technologies Inc.,1232
+172.239.117.103:8080,HTTP,United Kingdom,GB,🇬🇧,26,medium,No,"Akamai Technologies, Inc.",5934

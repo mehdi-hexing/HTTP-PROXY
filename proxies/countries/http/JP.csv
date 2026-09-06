@@ -1,17 +1,16 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-47.74.46.81:9098,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,10679
-8.221.138.111:9080,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",11713
-8.221.138.111:35,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",12617
-8.221.141.88:8064,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",11833
-47.91.29.151:6666,HTTP,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,8503
-8.221.141.88:7500,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",13788
-8.221.139.222:800,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",10686
-13.208.166.217:35520,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,1426
-13.208.166.217:8118,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,1472
-13.208.166.217:9112,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,1791
-56.155.73.159:53666,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",1532
-43.206.240.252:89,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1348
-35.78.212.217:900,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1336
-43.207.132.28:42946,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1413
-43.207.132.28:24150,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1339
-45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,76,high,No,Zenlayer Inc,12260
+47.74.46.81:9098,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,11782
+8.221.138.111:9080,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",16069
+47.91.29.151:33427,HTTP,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,14166
+47.74.46.81:1081,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,10993
+8.221.138.111:8192,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",18820
+8.221.138.111:35,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",19380
+140.227.61.201:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,6395
+47.91.29.151:6666,HTTP,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,11162
+8.221.141.88:7500,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",15756
+8.221.141.88:4063,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7765
+153.135.4.238:8080,HTTP,Japan,JP,🇯🇵,1,low,Yes,NTT Communications Corporation,7366
+153.135.4.238:8080,HTTP,Japan,JP,🇯🇵,1,low,Yes,NTT Communications Corporation,5500
+35.74.166.172:8080,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",21842
+139.162.89.198:3128,HTTP,Japan,JP,🇯🇵,54,medium,No,"Akamai Technologies, Inc.",21524
+45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,76,high,No,Zenlayer Inc,9066
