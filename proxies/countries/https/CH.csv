@@ -1,18 +1,19 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms)
-212.243.240.120:443,HTTPS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,2019
-45.131.254.246:443,HTTPS,Switzerland,CH,🇨🇭,0,low,No,hosttech GmbH,2236
-199.68.196.153:443,HTTPS,Switzerland,CH,🇨🇭,0,low,No,FORNEX,1953
-84.72.72.153:443,HTTPS,Switzerland,CH,🇨🇭,2,low,No,UPC Schweiz GmbH,2333
-16.18.37.186:42347,HTTPS,Switzerland,CH,🇨🇭,2,low,No,"Amazon.com, Inc.",2756
-16.18.37.186:22518,HTTPS,Switzerland,CH,🇨🇭,2,low,No,"Amazon.com, Inc.",3522
-146.70.126.34:9443,HTTPS,Switzerland,CH,🇨🇭,42,medium,Yes,M247 Europe Infra,1968
-146.70.126.50:9443,HTTPS,Switzerland,CH,🇨🇭,42,medium,Yes,M247 Europe Infra,1999
-149.88.27.33:9443,HTTPS,Switzerland,CH,🇨🇭,44,medium,Yes,Datacamp Limited,1969
-149.88.27.46:9443,HTTPS,Switzerland,CH,🇨🇭,44,medium,Yes,Datacamp Limited,1984
-169.150.197.247:9443,HTTPS,Switzerland,CH,🇨🇭,44,medium,Yes,Datacamp Limited,1940
-169.150.197.162:9443,HTTPS,Switzerland,CH,🇨🇭,44,medium,Yes,Datacamp Limited,1936
-169.150.197.234:9443,HTTPS,Switzerland,CH,🇨🇭,44,medium,Yes,Datacamp Limited,1924
-37.120.213.210:9443,HTTPS,Switzerland,CH,🇨🇭,50,medium,Yes,M247 Europe,1954
-37.120.213.194:9443,HTTPS,Switzerland,CH,🇨🇭,50,medium,Yes,M247 Europe,1969
-89.187.165.97:443,HTTPS,Switzerland,CH,🇨🇭,65,high,Yes,Datacamp Limited,1953
-89.187.165.97:9443,HTTPS,Switzerland,CH,🇨🇭,65,high,Yes,Datacamp Limited,1935
+212.243.240.120:443,HTTPS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,1479
+45.131.254.246:443,HTTPS,Switzerland,CH,🇨🇭,0,low,No,hosttech GmbH,1510
+199.68.196.153:443,HTTPS,Switzerland,CH,🇨🇭,0,low,No,FORNEX,1343
+84.72.72.153:443,HTTPS,Switzerland,CH,🇨🇭,2,low,No,UPC Schweiz GmbH,1541
+146.70.126.34:9443,HTTPS,Switzerland,CH,🇨🇭,42,medium,Yes,M247 Europe Infra,1307
+146.70.126.50:9443,HTTPS,Switzerland,CH,🇨🇭,42,medium,Yes,M247 Europe Infra,1348
+149.88.27.33:9443,HTTPS,Switzerland,CH,🇨🇭,44,medium,Yes,Datacamp Limited,1334
+149.88.27.46:9443,HTTPS,Switzerland,CH,🇨🇭,44,medium,Yes,Datacamp Limited,1348
+169.150.197.162:9443,HTTPS,Switzerland,CH,🇨🇭,44,medium,Yes,Datacamp Limited,1353
+169.150.197.247:9443,HTTPS,Switzerland,CH,🇨🇭,44,medium,Yes,Datacamp Limited,1349
+169.150.197.234:9443,HTTPS,Switzerland,CH,🇨🇭,44,medium,Yes,Datacamp Limited,1934
+37.120.213.210:9443,HTTPS,Switzerland,CH,🇨🇭,50,medium,Yes,M247 Europe,1297
+37.120.213.194:9443,HTTPS,Switzerland,CH,🇨🇭,50,medium,Yes,M247 Europe,1319
+216.152.150.180:443,HTTPS,Switzerland,CH,🇨🇭,59,medium,No,GTHost,1571
+216.152.150.179:443,HTTPS,Switzerland,CH,🇨🇭,59,medium,No,GTHost,1527
+216.152.150.178:443,HTTPS,Switzerland,CH,🇨🇭,59,medium,No,GTHost,1587
+89.187.165.97:443,HTTPS,Switzerland,CH,🇨🇭,65,high,Yes,Datacamp Limited,1326
+89.187.165.97:9443,HTTPS,Switzerland,CH,🇨🇭,65,high,Yes,Datacamp Limited,1326
