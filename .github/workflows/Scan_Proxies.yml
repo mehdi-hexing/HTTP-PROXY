@@ -8,9 +8,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: scan-proxies
+  cancel-in-progress: true
+
 jobs:
   run-scanner:
     runs-on: ubuntu-latest
+    timeout-minutes: 150
 
     steps:
     - name: Checkout Repository
@@ -26,12 +31,18 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Run Proxies Scan
-      run: python Scanner.py
-
-    - name: Commit and Push Changes
+    - name: Configure Git Identity
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+    - name: Run Proxies Scan
+      run: python Scanner.py
+      env:
+        CHECK_IRAN: "true"
+
+    - name: Final Commit and Push (safety net)
+      if: always()
+      run: |
         git add -f proxies/ Raw_Sources/ README.md
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update live proxies list" && git push)
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update live proxies list (final)" && git push)
