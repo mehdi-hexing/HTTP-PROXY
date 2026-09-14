@@ -13,9 +13,13 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 TARGET_URL = 'http://clients3.google.com/generate_204'
 SOCKS_TEST_URL = 'https://www.gstatic.com/generate_204'
 VERIFY_URL = 'https://api.ipify.org?format=json'
-TIMEOUT = 10
-MAX_THREADS = 50
-MAX_POOL_SIZE = 300000
+TIMEOUT = 8
+MAX_THREADS = 200
+MAX_POOL_SIZE = 10000
+
+CHECK_IRAN = os.environ.get("CHECK_IRAN", "false").lower() == "true"
+IRAN_CHECK_MAX = int(os.environ.get("IRAN_CHECK_MAX", "50"))  # per protocol
+IRAN_CHECK_THREADS = 8  # keep this low - it's hitting someone else's free service
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
@@ -158,6 +162,56 @@ def get_proxy_metadata(ip):
 
     metadata_fallback_counter.increment("both_sources_failed")
     return default_metadata
+
+def check_iran_reachability(ip):
+    """Uses the check-host.net pass-through on cloudflare-scamalytics.pages.dev
+    to ping this IP from check-host.net's Iran-based nodes. This answers a
+    different question than get_proxy_metadata()'s fraud/risk score: it tells
+    you whether the proxy is actually *reachable from inside Iran*, which is
+    the thing that matters for this project's users.
+
+    Confirmed live response shape (2026):
+    {
+      "ok": true, "is_accessible": true, "nodes_checked": 7,
+      "details": {
+        "ir1.node.check-host.net": {
+          "status": "OK", "sent": 4, "received": 4, "loss_percent": 0,
+          "ping_ms": 76.28, "ping_ms_min": 76.1, "ping_ms_avg": 76.28, "ping_ms_max": 76.4
+        }, ...
+      }
+    }
+    """
+    default = {"ir_reachable": "Unknown", "ir_latency": "", "ir_nodes_ok": ""}
+    url = f"https://cloudflare-scamalytics.pages.dev/checkhost/ping/ir/{ip}"
+    try:
+        response = requests.get(url, headers=HEADERS, timeout=40)
+        if response.status_code != 200:
+            return default
+        data = response.json()
+
+        if not data.get("ok"):
+            return default
+
+        details = data.get("details", {})
+        nodes_checked = data.get("nodes_checked", len(details))
+
+        ok_nodes = [n for n in details.values()
+                    if isinstance(n, dict) and n.get("status") == "OK"]
+
+        avg_pings = [n["ping_ms_avg"] for n in ok_nodes if isinstance(n.get("ping_ms_avg"), (int, float))]
+        avg_latency = round(sum(avg_pings) / len(avg_pings), 1) if avg_pings else ""
+
+        is_accessible = data.get("is_accessible", bool(ok_nodes))
+
+        return {
+            "ir_reachable": "Yes" if is_accessible else "No",
+            "ir_latency": avg_latency,
+            "ir_nodes_ok": f"{len(ok_nodes)}/{nodes_checked}",
+        }
+    except requests.exceptions.Timeout:
+        return {"ir_reachable": "Timeout", "ir_latency": "", "ir_nodes_ok": ""}
+    except Exception:
+        return default
 
 def check_proxy(proxy, protocol):
     cleaned_proxy = clean_proxy_string(proxy)
@@ -349,6 +403,30 @@ def process_protocol(protocol, proxy_list):
             if result:
                 results.append(result)
 
+    if CHECK_IRAN and results:
+        # Pick the shortlist by quality (lowest fraud score, then latency)
+        # BEFORE the final country-grouped sort below - otherwise "top N"
+        # would really just mean "first N alphabetically by country".
+        def quality_key(item):
+            try:
+                fraud_score = int(item.get("fraud_score", 101))
+            except (ValueError, TypeError):
+                fraud_score = 101
+            return (fraud_score, item.get("latency", 99999))
+        shortlist = sorted(results, key=quality_key)[:IRAN_CHECK_MAX]
+        print(f"{CYAN}Checking Iran reachability for the top {len(shortlist)} "
+              f"{protocol.upper()} proxies (of {len(results)} alive)...{RESET}")
+        with concurrent.futures.ThreadPoolExecutor(max_workers=IRAN_CHECK_THREADS) as executor:
+            futures = {executor.submit(check_iran_reachability, item["proxy"].split(':')[0]): item
+                       for item in shortlist}
+            for future in concurrent.futures.as_completed(futures):
+                item = futures[future]
+                item.update(future.result())
+        for item in results:
+            item.setdefault("ir_reachable", "Not Checked")
+            item.setdefault("ir_latency", "")
+            item.setdefault("ir_nodes_ok", "")
+
     results.sort(key=sort_key)
 
     global_txt = os.path.join(protocol_dir, "all.txt")
@@ -358,22 +436,32 @@ def process_protocol(protocol, proxy_list):
         for item in results:
             f.write(item["proxy"] + '\n')
 
+    csv_header = ["Proxy", "Protocol", "Country", "Country Code", "Flag", "Fraud Score", "Risk", "VPN", "ISP", "Latency (ms)"]
+    if CHECK_IRAN:
+        csv_header += ["Iran Reachable", "Iran Latency (ms)", "Iran Nodes OK"]
+
+    def csv_row(item):
+        row = [
+            item["proxy"],
+            item["protocol"].upper(),
+            item["country"],
+            item["country_code"],
+            item["flag"],
+            item["fraud_score"],
+            item["risk"],
+            item["vpn"],
+            item["isp"],
+            item.get("latency", "")
+        ]
+        if CHECK_IRAN:
+            row += [item.get("ir_reachable", ""), item.get("ir_latency", ""), item.get("ir_nodes_ok", "")]
+        return row
+
     with open(global_csv, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
-        writer.writerow(["Proxy", "Protocol", "Country", "Country Code", "Flag", "Fraud Score", "Risk", "VPN", "ISP", "Latency (ms)"])
+        writer.writerow(csv_header)
         for item in results:
-            writer.writerow([
-                item["proxy"],
-                item["protocol"].upper(),
-                item["country"],
-                item["country_code"],
-                item["flag"],
-                item["fraud_score"],
-                item["risk"],
-                item["vpn"],
-                item["isp"],
-                item.get("latency", "")
-            ])
+            writer.writerow(csv_row(item))
 
     by_country = {}
     for item in results:
@@ -394,20 +482,9 @@ def process_protocol(protocol, proxy_list):
 
         with open(csv_file, 'w', newline='', encoding='utf-8') as f:
             writer = csv.writer(f)
-            writer.writerow(["Proxy", "Protocol", "Country", "Country Code", "Flag", "Fraud Score", "Risk", "VPN", "ISP", "Latency (ms)"])
+            writer.writerow(csv_header)
             for item in items:
-                writer.writerow([
-                    item["proxy"],
-                    item["protocol"].upper(),
-                    item["country"],
-                    item["country_code"],
-                    item["flag"],
-                    item["fraud_score"],
-                    item["risk"],
-                    item["vpn"],
-                    item["isp"],
-                    item.get("latency", "")
-                ])
+                writer.writerow(csv_row(item))
 
     sub_dir = os.path.join("proxies", "subscriptions")
     os.makedirs(sub_dir, exist_ok=True)
@@ -555,6 +632,27 @@ def build_qrs_and_readme():
     with open(readme_path, 'w', encoding='utf-8') as f:
         f.write(new_content)
 
+def commit_and_push(message):
+    """Commits and pushes whatever's changed so far under Raw_Sources/ and
+    proxies/. Called after every protocol finishes, not just once at the very
+    end - so if the job gets killed (workflow timeout, runner hiccup, GitHub's
+    own 6h hard cap) partway through, the protocols that DID finish are
+    already saved instead of being lost along with everything else.
+    Best-effort: a failed commit/push here shouldn't crash the scan, since
+    the workflow's own final commit step is still there as a backstop."""
+    import subprocess
+    try:
+        subprocess.run(["git", "add", "-f", "proxies/", "Raw_Sources/"], check=True)
+        diff = subprocess.run(["git", "diff", "--cached", "--quiet"])
+        if diff.returncode == 0:
+            return  # nothing changed, skip an empty commit
+        subprocess.run(["git", "commit", "-m", message], check=True)
+        subprocess.run(["git", "push"], check=True)
+        print(f"{GREEN}  Pushed: {message}{RESET}")
+    except Exception as e:
+        print(f"{YELLOW}  Incremental commit/push skipped ({type(e).__name__}) - "
+              f"the workflow's final commit step will catch it if the job finishes.{RESET}")
+
 def main():
     print(f"{YELLOW}Initializing Proxies Scan...{RESET}")
     print(f"{CYAN}=== Start Fetching ==={RESET}")
@@ -597,9 +695,11 @@ def main():
     print(f"\n{CYAN}=== Start Scanning ==={RESET}")
     for proto in PROTOCOLS:
         process_protocol(proto, fetched_data[proto])
+        commit_and_push(f"Update {proto.upper()} proxies list")
 
     print(f"\n{CYAN}=== Generating QR Codes & Updating README ==={RESET}")
     build_qrs_and_readme()
+    commit_and_push("Update subscriptions, QR codes and README")
 
     print(f"\n{YELLOW}Reminder: free public proxies can go dead within minutes of being verified.{RESET}")
     print(f"{YELLOW}Use freshly-scanned proxies as soon as possible, and prefer lower values in the "
