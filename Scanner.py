@@ -19,13 +19,13 @@ MAX_POOL_SIZE = 20000
 
 CHECK_IRAN = os.environ.get("CHECK_IRAN", "false").lower() == "true"
 IRAN_CHECK_MAX = int(os.environ.get("IRAN_CHECK_MAX", "250"))  # per protocol
-IRAN_CHECK_THREADS = 8  # keep this low - it's hitting someone else's free service
+IRAN_CHECK_THREADS = 8  # keep this low
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 }
 
-PROTOCOLS = ['http', 'https', 'socks4', 'socks5']
+PROTOCOLS = ['http', 'http_tls', 'socks4', 'socks5']
 
 PROXY_SOURCES = {
     'http': [
@@ -38,7 +38,7 @@ PROXY_SOURCES = {
         'https://cdn.jsdelivr.net/gh/proxifly/free-proxy-list@main/proxies/protocols/http/data.txt',
         'https://www.proxy-list.download/api/v1/get?type=http',
     ],
-    'https': [
+    'http_tls': [
         'https://api.proxyscrape.com/v4/free-proxy-list/get?request=display_proxies&proxy_format=ipport&format=text&protocol=https',
         'https://api.proxyscrape.com/v2/?request=getproxies&protocol=https&timeout=10000&country=all',
         'https://raw.githubusercontent.com/proxyscrape/free-proxy-list/main/proxies/protocols/https.txt',
@@ -222,7 +222,7 @@ def check_proxy(proxy, protocol):
         proxy_url = f"socks5://{cleaned_proxy}"
     elif protocol == 'socks4':
         proxy_url = f"socks4://{cleaned_proxy}"
-    elif protocol == 'https':
+    elif protocol == 'http_tls':
         proxy_url = f"https://{cleaned_proxy}"
     else:
         proxy_url = f"http://{cleaned_proxy}"
@@ -311,6 +311,8 @@ def parse_proxifly_json(data):
         if not isinstance(entry, dict):
             continue
         proto = str(entry.get('protocol', '')).lower()
+        if proto == 'https':
+            proto = 'http_tls'
         ip = entry.get('ip')
         port = entry.get('port')
         if proto in buckets and ip and port:
@@ -371,13 +373,30 @@ def fetch_proxies(protocol, extra_proxies=None):
     print(f"{GREEN}Total unique {protocol.upper()} proxies after merging: {len(proxies)}.{RESET}")
     return proxies
 
+def _ir_nodes_ok_count(item):
+    """Parses the 'X/Y' string from check_iran_reachability into the
+    successful-node count X, for sorting checked proxies best-first."""
+    try:
+        return int(str(item.get("ir_nodes_ok", "")).split("/")[0])
+    except (ValueError, IndexError):
+        return -1
+
 def sort_key(item):
     country = item.get("country", "Unknown")
     try:
         fraud_score = int(item.get("fraud_score", 101))
     except (ValueError, TypeError):
         fraud_score = 101
-    return (country, fraud_score)
+
+    # Proxies that were actually ping-tested via cloudflare-scamalytics
+    # (CHECK_IRAN shortlist) sort first, ordered from the most successful
+    # Iran nodes to the fewest. Untested proxies (or when CHECK_IRAN is
+    # off) fall back to the original country/fraud_score ordering, which
+    # also serves as the tie-breaker within the checked group.
+    was_checked = item.get("ir_reachable", "") not in ("", "Not Checked")
+    ir_nodes_ok = _ir_nodes_ok_count(item) if was_checked else -1
+
+    return (0 if was_checked else 1, -ir_nodes_ok, country, fraud_score)
 
 def process_protocol(protocol, proxy_list):
     print(f"\n{YELLOW}--- Starting {protocol.upper()} Proxy Verification ---{RESET}")
@@ -506,8 +525,8 @@ def process_protocol(protocol, proxy_list):
             mahsang_configs.append(f"mahsa-http://Og==@{proxy}#{remark}")
             v2rayng_configs.append(f"http://Og@{proxy}#{remark}")
             exclave_configs.append(f"http://{proxy}#{remark}")
-        elif protocol == 'https':
-            exclave_configs.append(f"https://{proxy}#{remark}")
+        elif protocol == 'http_tls':
+            exclave_configs.append(f"http://{proxy}#{remark}")
         elif protocol == 'socks5':
             mahsang_configs.append(f"socks://Og==@{proxy}#{remark}")
             v2rayng_configs.append(f"socks://Og@{proxy}#{remark}")
@@ -586,7 +605,7 @@ def build_qrs_and_readme():
         ("mahsang_http.txt", "mahsang_http_qr.png"),
         ("v2rayng_http.txt", "v2rayng_http_qr.png"),
         ("exclave_http.txt", "exclave_http_qr.png"),
-        ("exclave_https.txt", "exclave_https_qr.png"),
+        ("exclave_http_tls.txt", "exclave_http_tls_qr.png"),
         ("exclave_socks4.txt", "exclave_socks4_qr.png"),
         ("v2rayng_socks5.txt", "v2rayng_socks5_qr.png"),
         ("exclave_socks5.txt", "exclave_socks5_qr.png")
@@ -609,7 +628,7 @@ def build_qrs_and_readme():
 | **MahsaNG** | HTTP | `{raw_prefix}/proxies/subscriptions/mahsang_http.txt` | <img src="{raw_prefix}/proxies/subscriptions/mahsang_http_qr.png" width="120"/> |
 | **V2rayNG** | HTTP | `{raw_prefix}/proxies/subscriptions/v2rayng_http.txt` | <img src="{raw_prefix}/proxies/subscriptions/v2rayng_http_qr.png" width="120"/> |
 | **Exclave** | HTTP | `{raw_prefix}/proxies/subscriptions/exclave_http.txt` | <img src="{raw_prefix}/proxies/subscriptions/exclave_http_qr.png" width="120"/> |
-| **Exclave** | HTTPS | `{raw_prefix}/proxies/subscriptions/exclave_https.txt` | <img src="{raw_prefix}/proxies/subscriptions/exclave_https_qr.png" width="120"/> |
+| **Exclave** | HTTP_TLS | `{raw_prefix}/proxies/subscriptions/exclave_http_tls.txt` | <img src="{raw_prefix}/proxies/subscriptions/exclave_http_tls_qr.png" width="120"/> |
 | **Exclave** | SOCKS4 | `{raw_prefix}/proxies/subscriptions/exclave_socks4.txt` | <img src="{raw_prefix}/proxies/subscriptions/exclave_socks4_qr.png" width="120"/> |
 | **V2rayNG** | SOCKS5 | `{raw_prefix}/proxies/subscriptions/v2rayng_socks5.txt` | <img src="{raw_prefix}/proxies/subscriptions/v2rayng_socks5_qr.png" width="120"/> |
 | **Exclave** | SOCKS5 | `{raw_prefix}/proxies/subscriptions/exclave_socks5.txt` | <img src="{raw_prefix}/proxies/subscriptions/exclave_socks5_qr.png" width="120"/> |
