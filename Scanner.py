@@ -15,10 +15,10 @@ SOCKS_TEST_URL = 'https://www.gstatic.com/generate_204'
 VERIFY_URL = 'https://api.ipify.org?format=json'
 TIMEOUT = 8
 MAX_THREADS = 200
-MAX_POOL_SIZE = 10000
+MAX_POOL_SIZE = 20000
 
 CHECK_IRAN = os.environ.get("CHECK_IRAN", "false").lower() == "true"
-IRAN_CHECK_MAX = int(os.environ.get("IRAN_CHECK_MAX", "50"))  # per protocol
+IRAN_CHECK_MAX = int(os.environ.get("IRAN_CHECK_MAX", "250"))  # per protocol
 IRAN_CHECK_THREADS = 8  # keep this low - it's hitting someone else's free service
 
 HEADERS = {
