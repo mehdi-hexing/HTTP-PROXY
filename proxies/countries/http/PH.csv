@@ -1,11 +1,15 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-126.209.110.120:8087,HTTP,Philippines,PH,🇵🇭,0,low,No,Infinivan Incorporated,10271,Yes,291.2,7/7
-8.212.165.164:4369,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",11153,No,,0/7
-8.212.151.166:4100,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8276,No,,0/7
-8.212.168.170:9080,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8322,No,,0/7
-8.220.136.174:20000,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",10770,No,,0/7
-8.220.136.174:20002,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",11064,No,,0/7
-8.220.141.8:8123,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",11291,Not Checked,,
-49.151.64.103:5050,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,13723,Not Checked,,
-49.145.49.96:8080,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,4234,Not Checked,,
-49.151.78.142:8080,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,16306,Not Checked,,
+8.212.165.164:5004,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8090,No,,0/7
+8.212.165.164:3128,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7977,No,,0/7
+8.212.151.166:4100,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8059,No,,0/7
+8.220.136.174:20000,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8008,No,,0/7
+8.220.136.174:20002,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8005,No,,0/7
+8.220.141.8:8123,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8042,No,,0/7
+8.212.168.170:9080,HTTP,Philippines,PH,🇵🇭,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",10688,Not Checked,,
+112.198.53.162:8081,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,9644,Not Checked,,
+119.93.30.233:8080,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,7995,Not Checked,,
+119.95.176.156:8082,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,4824,Not Checked,,
+180.191.21.49:8081,HTTP,Philippines,PH,🇵🇭,3,low,No,Globe Telecom,5297,Not Checked,,
+112.203.102.88:8082,HTTP,Philippines,PH,🇵🇭,3,low,No,Philippine Long Distance Telephone Co.,8721,Not Checked,,
+139.135.141.12:8095,HTTP,Philippines,PH,🇵🇭,3,low,No,ComClark Network & Technology Corp,11121,Not Checked,,
+203.177.217.222:8082,HTTP,Philippines,PH,🇵🇭,8,low,No,Globe Telecom,10363,Not Checked,,

@@ -1,11 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-8.213.128.6:8800,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",9128,Yes,332.6,7/7
-13.125.44.24:80,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,2174,No,,0/7
-8.220.204.215:8443,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7929,No,,0/7
-8.220.204.92:3129,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",8016,No,,0/7
-8.220.205.172:9098,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7893,No,,0/7
-8.213.156.191:3128,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7889,No,,0/7
-13.125.44.24:80,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,2267,No,,0/7
-8.220.204.92:19,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",11412,Not Checked,,
-1.231.81.166:3128,HTTP,South Korea,KR,🇰🇷,2,low,No,SK Broadband Co Ltd,1667,Not Checked,,
-1.231.81.166:3128,HTTP,South Korea,KR,🇰🇷,2,low,No,SK Broadband Co Ltd,1665,Not Checked,,
+8.220.204.215:5060,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7676,No,,0/7
+8.220.205.172:4002,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7693,No,,0/7
+8.213.156.191:800,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7681,No,,0/7
+13.125.44.24:80,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,1716,No,,0/7
+8.213.134.213:202,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",9939,Not Checked,,
+8.213.128.6:8008,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",9586,Not Checked,,
+8.213.128.6:8002,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",9725,Not Checked,,
+1.231.81.166:3128,HTTP,South Korea,KR,🇰🇷,2,low,No,SK Broadband Co Ltd,1337,Not Checked,,
+43.200.179.23:8197,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",1791,Not Checked,,
+43.200.179.23:7953,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",1811,Not Checked,,
+43.200.179.23:17981,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",1705,Not Checked,,
+43.200.179.23:59966,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",1790,Not Checked,,
