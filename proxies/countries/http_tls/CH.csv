@@ -1,17 +1,14 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-199.68.196.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,FORNEX,2687,Yes,103.4,7/7
-199.68.196.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,FORNEX,2606,Yes,103.4,7/7
-212.243.240.120:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,4250,Not Checked,,
-45.131.254.246:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,hosttech GmbH,3592,Not Checked,,
-212.243.240.120:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,4276,Not Checked,,
-45.131.254.246:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,hosttech GmbH,2947,Not Checked,,
-84.72.72.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,2,low,No,UPC Schweiz GmbH,3074,Not Checked,,
-84.72.72.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,2,low,No,UPC Schweiz GmbH,4633,Not Checked,,
-146.70.126.34:9443,HTTP_TLS,Switzerland,CH,🇨🇭,40,medium,Yes,M247 Europe Infra,3214,Not Checked,,
-146.70.126.34:9443,HTTP_TLS,Switzerland,CH,🇨🇭,40,medium,Yes,M247 Europe Infra,3805,Not Checked,,
-216.152.150.180:443,HTTP_TLS,Switzerland,CH,🇨🇭,61,high,No,GTHost,3389,Not Checked,,
-216.152.150.179:443,HTTP_TLS,Switzerland,CH,🇨🇭,61,high,No,GTHost,3599,Not Checked,,
-216.152.150.178:443,HTTP_TLS,Switzerland,CH,🇨🇭,61,high,No,GTHost,3882,Not Checked,,
-216.152.150.180:443,HTTP_TLS,Switzerland,CH,🇨🇭,61,high,No,GTHost,3087,Not Checked,,
-216.152.150.178:443,HTTP_TLS,Switzerland,CH,🇨🇭,61,high,No,GTHost,3069,Not Checked,,
-216.152.150.179:443,HTTP_TLS,Switzerland,CH,🇨🇭,61,high,No,GTHost,3105,Not Checked,,
+45.131.254.246:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,hosttech GmbH,2621,Yes,97.9,7/7
+199.68.196.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,FORNEX,2445,Yes,93.5,7/7
+212.243.240.120:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,4286,Not Checked,,
+212.243.240.120:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,4344,Not Checked,,
+45.131.254.246:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,hosttech GmbH,4267,Not Checked,,
+199.68.196.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,FORNEX,3379,Not Checked,,
+84.72.72.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,2,low,No,UPC Schweiz GmbH,2523,Not Checked,,
+84.72.72.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,2,low,No,UPC Schweiz GmbH,3469,Not Checked,,
+146.70.126.34:9443,HTTP_TLS,Switzerland,CH,🇨🇭,40,medium,Yes,M247 Europe Infra,2992,Not Checked,,
+146.70.126.34:9443,HTTP_TLS,Switzerland,CH,🇨🇭,40,medium,Yes,M247 Europe Infra,2393,Not Checked,,
+216.152.150.179:443,HTTP_TLS,Switzerland,CH,🇨🇭,61,high,No,GTHost,3722,Not Checked,,
+216.152.150.180:443,HTTP_TLS,Switzerland,CH,🇨🇭,61,high,No,GTHost,3763,Not Checked,,
+216.152.150.178:443,HTTP_TLS,Switzerland,CH,🇨🇭,61,high,No,GTHost,4063,Not Checked,,
