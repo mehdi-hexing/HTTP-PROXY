@@ -1,14 +1,17 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.131.254.246:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,hosttech GmbH,2621,Yes,97.9,7/7
-199.68.196.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,FORNEX,2445,Yes,93.5,7/7
-212.243.240.120:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,4286,Not Checked,,
-212.243.240.120:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,4344,Not Checked,,
-45.131.254.246:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,hosttech GmbH,4267,Not Checked,,
-199.68.196.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,FORNEX,3379,Not Checked,,
-84.72.72.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,2,low,No,UPC Schweiz GmbH,2523,Not Checked,,
-84.72.72.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,2,low,No,UPC Schweiz GmbH,3469,Not Checked,,
-146.70.126.34:9443,HTTP_TLS,Switzerland,CH,🇨🇭,40,medium,Yes,M247 Europe Infra,2992,Not Checked,,
-146.70.126.34:9443,HTTP_TLS,Switzerland,CH,🇨🇭,40,medium,Yes,M247 Europe Infra,2393,Not Checked,,
-216.152.150.179:443,HTTP_TLS,Switzerland,CH,🇨🇭,61,high,No,GTHost,3722,Not Checked,,
-216.152.150.180:443,HTTP_TLS,Switzerland,CH,🇨🇭,61,high,No,GTHost,3763,Not Checked,,
-216.152.150.178:443,HTTP_TLS,Switzerland,CH,🇨🇭,61,high,No,GTHost,4063,Not Checked,,
+199.68.196.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,FORNEX,2792,Yes,100.0,7/7
+45.131.254.246:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,hosttech GmbH,2685,Yes,107.1,7/7
+212.243.240.120:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,2641,No,,0/7
+212.243.240.120:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,5174,Not Checked,,
+45.131.254.246:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,hosttech GmbH,3433,Not Checked,,
+199.68.196.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,FORNEX,3124,Not Checked,,
+84.72.72.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,2,low,No,UPC Schweiz GmbH,5920,Not Checked,,
+84.72.72.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,2,low,No,UPC Schweiz GmbH,2733,Not Checked,,
+146.70.126.34:9443,HTTP_TLS,Switzerland,CH,🇨🇭,40,medium,Yes,M247 Europe Infra,2626,Not Checked,,
+146.70.126.34:9443,HTTP_TLS,Switzerland,CH,🇨🇭,40,medium,Yes,M247 Europe Infra,3444,Not Checked,,
+216.152.150.179:443,HTTP_TLS,Switzerland,CH,🇨🇭,61,high,No,GTHost,4890,Not Checked,,
+216.152.150.178:443,HTTP_TLS,Switzerland,CH,🇨🇭,61,high,No,GTHost,4867,Not Checked,,
+216.152.150.180:443,HTTP_TLS,Switzerland,CH,🇨🇭,61,high,No,GTHost,5050,Not Checked,,
+216.152.150.180:443,HTTP_TLS,Switzerland,CH,🇨🇭,61,high,No,GTHost,3405,Not Checked,,
+216.152.150.178:443,HTTP_TLS,Switzerland,CH,🇨🇭,61,high,No,GTHost,3087,Not Checked,,
+216.152.150.179:443,HTTP_TLS,Switzerland,CH,🇨🇭,61,high,No,GTHost,3136,Not Checked,,
