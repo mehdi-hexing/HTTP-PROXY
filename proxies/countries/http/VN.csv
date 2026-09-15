@@ -1,15 +1,17 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-14.251.13.20:8080,HTTP,Vietnam,VN,🇻🇳,0,low,Yes,VNPT,1962,Yes,347.8,7/7
-157.66.100.23:8888,HTTP,Vietnam,VN,🇻🇳,0,low,No,DIGIDATA,8747,Yes,344.7,7/7
-210.211.113.36:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,4704,No,,0/7
-210.211.113.34:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,4661,No,,0/7
-210.211.113.33:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,9126,No,,0/7
-113.22.24.247:30001,HTTP,Vietnam,VN,🇻🇳,4,low,No,FPT Telecom Company,23484,Not Checked,,
-58.187.104.62:2080,HTTP,Vietnam,VN,🇻🇳,4,low,No,FPT Telecom Company,3253,Not Checked,,
-58.187.104.62:2088,HTTP,Vietnam,VN,🇻🇳,4,low,No,FPT Telecom Company,2828,Not Checked,,
-58.187.104.62:2120,HTTP,Vietnam,VN,🇻🇳,4,low,No,FPT Telecom Company,6786,Not Checked,,
-58.187.104.62:2035,HTTP,Vietnam,VN,🇻🇳,4,low,No,FPT Telecom Company,8033,Not Checked,,
-58.187.104.62:2095,HTTP,Vietnam,VN,🇻🇳,4,low,No,FPT Telecom Company,14670,Not Checked,,
-58.187.104.62:2035,HTTP,Vietnam,VN,🇻🇳,4,low,No,FPT Telecom Company,3479,Not Checked,,
-58.187.104.62:2120,HTTP,Vietnam,VN,🇻🇳,4,low,No,FPT Telecom Company,7408,Not Checked,,
-116.101.1.175:2095,HTTP,Vietnam,VN,🇻🇳,8,low,No,Viettel Group,10714,Not Checked,,
+203.205.49.2:10112,HTTP,Vietnam,VN,🇻🇳,0,low,No,CMC Telecom Infrastructure Company,3432,Yes,270.9,7/7
+14.251.13.20:8080,HTTP,Vietnam,VN,🇻🇳,0,low,Yes,VNPT,2072,Yes,347.6,7/7
+113.160.155.121:19132,HTTP,Vietnam,VN,🇻🇳,0,low,No,VietNam Post and Telecom Corporation,8412,Yes,348.5,7/7
+210.211.113.34:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,3342,No,,0/7
+14.225.2.98:808,HTTP,Vietnam,VN,🇻🇳,0,low,No,Vietnam Posts and Telecommunications Group,4339,No,,0/7
+210.211.113.33:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,8986,No,,0/7
+58.187.104.62:2035,HTTP,Vietnam,VN,🇻🇳,4,low,No,FPT Telecom Company,5933,Not Checked,,
+58.187.104.62:2095,HTTP,Vietnam,VN,🇻🇳,4,low,No,FPT Telecom Company,8175,Not Checked,,
+58.187.104.62:2120,HTTP,Vietnam,VN,🇻🇳,4,low,No,FPT Telecom Company,10899,Not Checked,,
+58.187.104.62:2035,HTTP,Vietnam,VN,🇻🇳,4,low,No,FPT Telecom Company,15186,Not Checked,,
+58.187.104.62:2080,HTTP,Vietnam,VN,🇻🇳,4,low,No,FPT Telecom Company,4692,Not Checked,,
+58.187.104.62:2113,HTTP,Vietnam,VN,🇻🇳,4,low,No,FPT Telecom Company,8274,Not Checked,,
+58.187.104.62:2088,HTTP,Vietnam,VN,🇻🇳,4,low,No,FPT Telecom Company,6426,Not Checked,,
+58.187.104.62:2095,HTTP,Vietnam,VN,🇻🇳,4,low,No,FPT Telecom Company,10929,Not Checked,,
+116.109.130.228:8080,HTTP,Vietnam,VN,🇻🇳,8,low,No,Viettel Group,9789,Not Checked,,
+116.101.1.175:2095,HTTP,Vietnam,VN,🇻🇳,8,low,No,Viettel Group,5968,Not Checked,,
