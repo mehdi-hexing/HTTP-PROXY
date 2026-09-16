@@ -1,11 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-139.180.144.76:7890,HTTP,Singapore,SG,🇸🇬,0,low,No,SGP VULTR,9828,Yes,246.0,3/7
-47.237.92.86:80,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8066,No,,0/7
-8.219.229.53:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8049,No,,0/7
-47.237.107.41:8443,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8091,No,,0/7
-47.237.2.245:119,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8662,No,,0/7
-47.237.113.119:3129,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8071,No,,0/7
-45.149.93.120:8015,HTTP,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi,17584,Not Checked,,
-103.164.55.81:3128,HTTP,Singapore,SG,🇸🇬,18,low,No,Contabo Asia Private Limited,1790,Not Checked,,
-172.104.56.95:8888,HTTP,Singapore,SG,🇸🇬,56,medium,No,Akamai Technologies,14073,Not Checked,,
-172.104.56.95:8888,HTTP,Singapore,SG,🇸🇬,56,medium,No,Akamai Technologies,7126,Not Checked,,
+8.219.229.53:20,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7995,No,,0/7
+47.237.2.245:119,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7995,No,,0/7
+47.237.92.86:3129,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8010,No,,0/7
+47.237.113.119:3129,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7995,No,,0/7
+47.237.107.41:8081,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",12351,Not Checked,,
+103.164.55.81:3128,HTTP,Singapore,SG,🇸🇬,18,low,No,Contabo Asia Private Limited,1703,Not Checked,,
+103.164.55.81:3128,HTTP,Singapore,SG,🇸🇬,18,low,No,Contabo Asia Private Limited,2164,Not Checked,,
+207.148.124.152:6868,HTTP,Singapore,SG,🇸🇬,50,medium,No,Choopa,8215,Not Checked,,

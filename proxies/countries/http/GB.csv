@@ -1,7 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-8.211.194.78:5800,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",11357,Not Checked,,
-8.211.194.85:443,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",10753,Not Checked,,
-81.158.71.182:8888,HTTP,United Kingdom,GB,🇬🇧,5,low,No,BT Public Internet Service,13952,Not Checked,,
-3.10.170.234:3128,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,1331,Not Checked,,
-3.10.170.234:3128,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,1217,Not Checked,,
-213.171.212.110:8080,HTTP,United Kingdom,GB,🇬🇧,59,medium,No,IONOS SE,3974,Not Checked,,
+8.211.194.78:9000,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7577,No,,0/7
+8.211.200.183:3129,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",10876,Not Checked,,
+3.10.170.234:3128,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,2336,Not Checked,,
+194.164.22.24:8080,HTTP,United Kingdom,GB,🇬🇧,35,medium,No,IONOS SE,4147,Not Checked,,
