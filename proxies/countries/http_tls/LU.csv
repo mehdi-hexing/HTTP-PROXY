@@ -1,3 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-185.221.132.226:9443,HTTP_TLS,Luxembourg,LU,🇱🇺,45,medium,Yes,EstNOC OU,1462,Not Checked,,
-185.221.132.226:9443,HTTP_TLS,Luxembourg,LU,🇱🇺,45,medium,Yes,EstNOC OU,1533,Not Checked,,
+188.42.46.2:443,HTTP_TLS,Luxembourg,LU,🇱🇺,0,low,No,"Servers.com, Inc.",2360,Yes,89.4,7/7
+188.42.46.2:443,HTTP_TLS,Luxembourg,LU,🇱🇺,0,low,No,"Servers.com, Inc.",1722,Yes,88.9,6/7
+185.221.132.226:9443,HTTP_TLS,Luxembourg,LU,🇱🇺,45,medium,Yes,EstNOC OU,1666,Not Checked,,
+185.221.132.226:9443,HTTP_TLS,Luxembourg,LU,🇱🇺,45,medium,Yes,EstNOC OU,1613,Not Checked,,
