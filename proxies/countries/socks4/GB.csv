@@ -1,9 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-192.252.210.233:4145,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,628,Yes,225.0,6/7
-8.211.194.78:6379,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",6334,Not Checked,,
-8.211.194.85:193,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",10156,Not Checked,,
-8.211.194.85:10000,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",11482,Not Checked,,
-138.124.137.82:1080,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,ICUK Computing Services Limited,4055,Not Checked,,
-5.157.64.213:1080,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,IP River,2494,Not Checked,,
-161.97.107.63:9050,SOCKS4,United Kingdom,GB,🇬🇧,14,low,No,Contabo GmbH,10376,Not Checked,,
-3.10.170.234:3128,SOCKS4,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,434,Not Checked,,
+192.252.210.233:4145,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,720,Yes,226.8,6/7
+8.211.195.173:3129,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",6233,Not Checked,,
+8.211.194.85:144,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4337,Not Checked,,
+8.211.195.139:202,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",9510,Not Checked,,
+8.211.195.173:1234,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",10236,Not Checked,,
+8.211.195.139:8080,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7583,Not Checked,,
+8.211.195.139:8443,SOCKS4,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",6513,Not Checked,,
+5.157.64.213:1080,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,IP River,2491,Not Checked,,
+144.91.82.219:9050,SOCKS4,United Kingdom,GB,🇬🇧,14,low,No,Contabo GmbH,8195,Not Checked,,
+3.10.170.234:3128,SOCKS4,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,530,Not Checked,,
