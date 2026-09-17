@@ -1,10 +1,15 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-8.221.138.111:8072,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7591,No,,0/7
-8.221.138.111:100,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7583,No,,0/7
-47.74.46.81:11310,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7621,No,,0/7
-8.221.138.111:13,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7577,No,,0/7
-8.221.139.222:20,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",12363,Not Checked,,
-47.74.46.81:6606,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,10326,Not Checked,,
-54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1372,Not Checked,,
-16.208.77.160:49682,HTTP,Japan,JP,🇯🇵,2,low,No,"Amazon.com, Inc.",4672,Not Checked,,
-140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,5,low,No,Oracle Corporation,12027,Not Checked,,
+8.209.255.13:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",1329,No,,0/8
+47.74.46.81:6606,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7887,Not Checked,,
+8.221.138.111:8072,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7807,Not Checked,,
+8.221.138.111:100,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7830,Not Checked,,
+47.91.29.151:8081,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba.com LLC,7813,Not Checked,,
+47.74.46.81:11310,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7802,Not Checked,,
+8.221.139.222:8081,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7810,Not Checked,,
+8.221.139.222:6379,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7803,Not Checked,,
+8.221.141.88:1527,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",10947,Not Checked,,
+140.227.61.201:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,7470,Not Checked,,
+54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1868,Not Checked,,
+54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,2234,Not Checked,,
+209.182.234.151:40000,HTTP,Japan,JP,🇯🇵,67,high,No,"HIVELOCITY, Inc.",11059,Not Checked,,
+45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,82,high,No,Zenlayer Inc,10727,Not Checked,,

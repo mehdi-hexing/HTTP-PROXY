@@ -1,4 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-153.51.201.35:999,HTTP,Spain,ES,🇪🇸,0,low,No,Valor Information Technologies,1126,Timeout,,
-153.51.201.35:999,HTTP,Spain,ES,🇪🇸,0,low,No,Valor Information Technologies,1114,Timeout,,
-15.217.214.40:22532,HTTP,Spain,ES,🇪🇸,2,low,No,"Amazon.com, Inc.",1918,Not Checked,,
+153.51.201.35:999,HTTP,Spain,ES,🇪🇸,0,low,No,Valor Information Technologies,953,Yes,250.9,8/8
+185.174.80.7:3128,HTTP,Spain,ES,🇪🇸,0,low,No,Nolu Network S.L.,6180,Yes,116.0,7/8
+90.161.186.147:3128,HTTP,Spain,ES,🇪🇸,0,low,No,UNI2-ABI,14630,Not Checked,,
+90.161.220.67:3128,HTTP,Spain,ES,🇪🇸,0,low,No,UNI2-ABI,11041,Not Checked,,
+79.154.2.246:8080,HTTP,Spain,ES,🇪🇸,2,low,No,RIMA (Red IP Multi Acceso),8432,Not Checked,,

@@ -1,11 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-54.180.117.151:26155,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,3350,No,,0/7
-13.125.44.24:80,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,1722,No,,0/7
-8.220.205.172:1337,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",9609,Not Checked,,
-8.213.156.191:9091,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",8649,Not Checked,,
-8.213.128.6:993,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",8248,Not Checked,,
-8.220.204.92:443,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",10657,Not Checked,,
-112.216.54.226:12121,HTTP,South Korea,KR,🇰🇷,1,low,No,LG DACOM Corporation,1424,Not Checked,,
-1.231.81.166:3128,HTTP,South Korea,KR,🇰🇷,2,low,No,SK Broadband Co Ltd,1376,Not Checked,,
-140.245.66.105:8081,HTTP,South Korea,KR,🇰🇷,2,low,No,Oracle Corporation,16496,Not Checked,,
-1.231.81.166:3128,HTTP,South Korea,KR,🇰🇷,2,low,No,SK Broadband Co Ltd,1349,Not Checked,,
+47.80.60.84:3128,HTTP,South Korea,KR,🇰🇷,0,low,Yes,Alibaba.com LLC,1680,Yes,329.8,7/8
+13.125.44.24:80,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,3756,No,,0/8
+13.125.44.24:80,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,2195,No,,0/8
+8.213.156.191:3129,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7915,Not Checked,,
+8.220.205.172:4145,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7890,Not Checked,,
+8.213.128.6:55443,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",10074,Not Checked,,
+8.220.204.92:443,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7913,Not Checked,,
+8.213.134.213:8081,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7897,Not Checked,,
+1.231.81.166:3128,HTTP,South Korea,KR,🇰🇷,2,low,No,SK Broadband Co Ltd,1658,Not Checked,,
+1.231.81.166:3128,HTTP,South Korea,KR,🇰🇷,2,low,No,SK Broadband Co Ltd,1728,Not Checked,,
+140.245.66.105:8081,HTTP,South Korea,KR,🇰🇷,2,low,No,Oracle Corporation,10051,Not Checked,,
+121.174.186.199:8080,HTTP,South Korea,KR,🇰🇷,4,low,No,Korea Telecom,1795,Not Checked,,
