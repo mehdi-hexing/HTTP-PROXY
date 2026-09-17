@@ -1,15 +1,16 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,993,Yes,79.0,7/7
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,1101,Yes,79.3,7/7
-8.211.42.167:8888,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7621,No,,0/7
-8.209.96.245:45,HTTP,Germany,DE,🇩🇪,0,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,7944,No,,0/7
-47.91.89.3:1080,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,8621,Not Checked,,
-8.209.96.245:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,8356,Not Checked,,
-116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,4,low,No,Hetzner Online GmbH,1060,Not Checked,,
-185.65.202.28:8080,HTTP,Germany,DE,🇩🇪,4,low,No,Baykov Ilya Sergeevich,12454,Not Checked,,
-194.163.175.167:40001,HTTP,Germany,DE,🇩🇪,14,low,Yes,Contabo GmbH,7594,Not Checked,,
-194.163.175.167:40000,HTTP,Germany,DE,🇩🇪,14,low,Yes,Contabo GmbH,6497,Not Checked,,
-213.199.56.121:3128,HTTP,Germany,DE,🇩🇪,14,low,No,Contabo GmbH,18271,Not Checked,,
-152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,20,medium,No,netcup GmbH,1230,Not Checked,,
-152.53.183.107:8082,HTTP,Germany,DE,🇩🇪,20,medium,No,netcup GmbH,6133,Not Checked,,
-152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,20,medium,No,netcup GmbH,3513,Not Checked,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,842,Yes,78.5,7/7
+8.211.51.115:3128,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7597,No,,0/7
+8.211.49.86:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7493,No,,0/7
+8.211.49.86:2002,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7487,No,,0/7
+8.209.96.245:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,7486,No,,0/7
+8.211.42.167:5060,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7479,No,,0/7
+64.188.71.169:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Senko Digital LLC,12953,Not Checked,,
+116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,4,low,No,Hetzner Online GmbH,847,Not Checked,,
+116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,4,low,No,Hetzner Online GmbH,845,Not Checked,,
+159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,10,low,No,netcup GmbH,16619,Not Checked,,
+157.173.115.35:1081,HTTP,Germany,DE,🇩🇪,14,low,Yes,Contabo GmbH,9916,Not Checked,,
+157.173.115.35:1081,HTTP,Germany,DE,🇩🇪,14,low,Yes,Contabo GmbH,4284,Not Checked,,
+152.53.183.107:8082,HTTP,Germany,DE,🇩🇪,20,medium,No,netcup GmbH,3667,Not Checked,,
+152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,20,medium,No,netcup GmbH,7890,Not Checked,,
+141.95.53.104:9898,HTTP,Germany,DE,🇩🇪,50,medium,No,OVH SAS,1631,Not Checked,,
