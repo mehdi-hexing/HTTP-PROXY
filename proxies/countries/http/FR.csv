@@ -1,13 +1,19 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,2860,Yes,92.1,8/8
-20.199.5.38:3128,HTTP,France,FR,🇫🇷,0,low,No,Microsoft Corporation,12020,Not Checked,,
-20.199.5.38:3128,HTTP,France,FR,🇫🇷,0,low,No,Microsoft Corporation,12147,Not Checked,,
-191.44.91.60:8080,HTTP,France,FR,🇫🇷,0,low,No,High Speed For Internet Services L.L.C,7562,Not Checked,,
-37.59.125.131:8888,HTTP,France,FR,🇫🇷,9,low,Yes,OVH SAS,4394,Not Checked,,
-5.39.87.115:3128,HTTP,France,FR,🇫🇷,9,low,No,OVH SAS,11125,Not Checked,,
-156.67.110.124:10808,HTTP,France,FR,🇫🇷,9,low,No,Contabo Asia Private Limited,9090,Not Checked,,
-37.59.125.131:8888,HTTP,France,FR,🇫🇷,9,low,Yes,OVH SAS,2012,Not Checked,,
-79.137.78.133:8007,HTTP,France,FR,🇫🇷,41,medium,No,OVH SAS,1026,Not Checked,,
-217.182.195.221:30005,HTTP,France,FR,🇫🇷,41,medium,No,OVH SAS,4170,Not Checked,,
-217.182.195.221:30008,HTTP,France,FR,🇫🇷,41,medium,No,OVH SAS,1512,Not Checked,,
-152.228.134.176:48080,HTTP,France,FR,🇫🇷,41,medium,No,OVH SAS,3728,Not Checked,,
+20.199.5.38:3128,HTTP,France,FR,🇫🇷,0,low,No,Microsoft Corporation,1972,Yes,87.5,8/8
+37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,4051,Yes,93.8,7/8
+37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,1664,Yes,93.4,6/8
+191.44.91.53:8080,HTTP,France,FR,🇫🇷,0,low,No,High Speed For Internet Services L.L.C,19979,Not Checked,,
+15.237.108.20:54588,HTTP,France,FR,🇫🇷,1,low,No,Amazon Technologies Inc.,1111,Not Checked,,
+52.47.115.41:24331,HTTP,France,FR,🇫🇷,1,low,No,Amazon Technologies Inc.,1804,Not Checked,,
+52.47.115.41:8014,HTTP,France,FR,🇫🇷,1,low,No,Amazon Technologies Inc.,1378,Not Checked,,
+37.59.125.131:8888,HTTP,France,FR,🇫🇷,9,low,Yes,OVH SAS,3905,Not Checked,,
+5.39.87.115:3128,HTTP,France,FR,🇫🇷,9,low,No,OVH SAS,1211,Not Checked,,
+5.39.87.115:3128,HTTP,France,FR,🇫🇷,9,low,No,OVH SAS,1177,Not Checked,,
+37.59.125.131:8888,HTTP,France,FR,🇫🇷,9,low,Yes,OVH SAS,1541,Not Checked,,
+37.58.221.247:3128,HTTP,France,FR,🇫🇷,25,medium,No,Adista SAS,4436,Not Checked,,
+217.182.195.221:30002,HTTP,France,FR,🇫🇷,41,medium,No,OVH SAS,3833,Not Checked,,
+79.137.78.133:8011,HTTP,France,FR,🇫🇷,41,medium,No,OVH SAS,1498,Not Checked,,
+79.137.78.133:8014,HTTP,France,FR,🇫🇷,41,medium,No,OVH SAS,1549,Not Checked,,
+149.202.47.125:3128,HTTP,France,FR,🇫🇷,41,medium,No,OVH SAS,1192,Not Checked,,
+146.59.147.182:3128,HTTP,France,FR,🇫🇷,41,medium,No,OVH SAS,1202,Not Checked,,
+217.182.195.221:30004,HTTP,France,FR,🇫🇷,41,medium,No,OVH SAS,2526,Not Checked,,
