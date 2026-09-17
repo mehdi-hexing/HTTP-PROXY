@@ -1,3 +1,18 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-51.34.28.236:7999,HTTP,Switzerland,CH,🇨🇭,3,low,No,"Amazon.com, Inc.",2535,Not Checked,,
-185.195.71.218:18080,HTTP,Switzerland,CH,🇨🇭,15,low,Yes,Datasource AG,897,Not Checked,,
+147.161.246.246:10696,HTTP,Switzerland,CH,🇨🇭,0,low,No,Zscaler Switzerland GmbH,3996,Yes,262.2,7/7
+147.161.246.246:9443,HTTP,Switzerland,CH,🇨🇭,0,low,No,Zscaler Switzerland GmbH,3814,Yes,262.2,7/7
+147.161.246.246:11776,HTTP,Switzerland,CH,🇨🇭,0,low,No,Zscaler Switzerland GmbH,4196,Yes,262.2,7/7
+147.161.246.246:12284,HTTP,Switzerland,CH,🇨🇭,0,low,No,Zscaler Switzerland GmbH,3654,Yes,262.2,7/7
+147.161.246.246:10284,HTTP,Switzerland,CH,🇨🇭,0,low,No,Zscaler Switzerland GmbH,3591,Yes,262.2,7/7
+147.161.246.246:11477,HTTP,Switzerland,CH,🇨🇭,0,low,No,Zscaler Switzerland GmbH,4937,Yes,262.2,7/7
+147.161.246.246:12070,HTTP,Switzerland,CH,🇨🇭,0,low,No,Zscaler Switzerland GmbH,4936,Yes,262.2,7/7
+147.161.246.246:12573,HTTP,Switzerland,CH,🇨🇭,0,low,No,Zscaler Switzerland GmbH,4890,Yes,262.2,7/7
+147.161.246.246:11143,HTTP,Switzerland,CH,🇨🇭,0,low,No,Zscaler Switzerland GmbH,2934,Yes,288.7,7/7
+147.161.246.246:10088,HTTP,Switzerland,CH,🇨🇭,0,low,No,Zscaler Switzerland GmbH,4647,Yes,262.2,7/7
+147.161.246.246:11368,HTTP,Switzerland,CH,🇨🇭,0,low,No,Zscaler Switzerland GmbH,4426,Yes,262.2,7/7
+147.161.246.246:11921,HTTP,Switzerland,CH,🇨🇭,0,low,No,Zscaler Switzerland GmbH,4462,Yes,262.2,7/7
+147.161.246.246:11914,HTTP,Switzerland,CH,🇨🇭,0,low,No,Zscaler Switzerland GmbH,4485,Yes,262.2,7/7
+147.161.246.246:10878,HTTP,Switzerland,CH,🇨🇭,0,low,No,Zscaler Switzerland GmbH,5198,Yes,262.2,7/7
+147.161.246.246:11826,HTTP,Switzerland,CH,🇨🇭,0,low,No,Zscaler Switzerland GmbH,2639,Yes,262.2,7/7
+147.161.246.246:8800,HTTP,Switzerland,CH,🇨🇭,0,low,No,Zscaler Switzerland GmbH,2631,Yes,288.7,7/7
+185.195.71.218:18080,HTTP,Switzerland,CH,🇨🇭,15,low,Yes,Datasource AG,1234,Not Checked,,
