@@ -1,29 +1,16 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,2075,Yes,78.5,8/8
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,1260,Yes,78.5,8/8
-2.27.63.250:8118,HTTP,Germany,DE,🇩🇪,0,low,No,Kyonix Networks Limited,1072,Yes,91.1,8/8
-8.211.49.86:9098,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7561,No,,0/8
-8.211.49.86:3128,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7566,No,,0/8
-2.27.63.250:8118,HTTP,Germany,DE,🇩🇪,0,low,No,Kyonix Networks Limited,1019,Timeout,,
-2.27.63.250:8888,HTTP,Germany,DE,🇩🇪,0,low,No,Kyonix Networks Limited,1074,Unknown,,
-8.211.42.167:8005,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",13595,Not Checked,,
-8.209.96.245:80,HTTP,Germany,DE,🇩🇪,0,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,14354,Not Checked,,
-8.211.51.115:10,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",9384,Not Checked,,
-8.211.51.115:10243,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",11024,Not Checked,,
-185.204.170.179:1117,HTTP,Germany,DE,🇩🇪,0,low,No,Arvancloud Global Technologies L.L.C,15394,Not Checked,,
-185.204.170.179:1109,HTTP,Germany,DE,🇩🇪,0,low,No,Arvancloud Global Technologies L.L.C,12292,Not Checked,,
-185.204.170.179:1103,HTTP,Germany,DE,🇩🇪,0,low,No,Arvancloud Global Technologies L.L.C,15721,Not Checked,,
-185.204.170.179:1101,HTTP,Germany,DE,🇩🇪,0,low,No,Arvancloud Global Technologies L.L.C,13548,Not Checked,,
-185.204.170.179:1133,HTTP,Germany,DE,🇩🇪,0,low,No,Arvancloud Global Technologies L.L.C,11839,Not Checked,,
-3.121.130.230:8426,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon Technologies Inc.,1727,Not Checked,,
-116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,4,low,No,Hetzner Online GmbH,964,Not Checked,,
-167.233.76.72:3128,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,1571,Not Checked,,
-159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,10,low,No,netcup GmbH,19564,Not Checked,,
-158.220.99.85:4545,HTTP,Germany,DE,🇩🇪,14,low,No,Contabo GmbH,12848,Not Checked,,
-194.163.175.167:40001,HTTP,Germany,DE,🇩🇪,14,low,Yes,Contabo GmbH,19156,Not Checked,,
-213.136.72.147:3128,HTTP,Germany,DE,🇩🇪,14,low,No,Contabo GmbH,18469,Not Checked,,
-169.58.34.213:3137,HTTP,Germany,DE,🇩🇪,14,low,No,Contabo GmbH,13863,Not Checked,,
-157.173.115.35:1081,HTTP,Germany,DE,🇩🇪,14,low,Yes,Contabo GmbH,8615,Not Checked,,
-152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,20,medium,No,netcup GmbH,5568,Not Checked,,
-152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,20,medium,No,netcup GmbH,6918,Not Checked,,
-46.165.213.243:3128,HTTP,Germany,DE,🇩🇪,27,medium,No,LeaseWeb DE,2983,Not Checked,,
+2.27.63.250:8118,HTTP,Germany,DE,🇩🇪,0,low,No,Kyonix Networks Limited,1206,Yes,100.4,8/8
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,1164,Yes,77.9,8/8
+8.211.42.167:5060,HTTP,Germany,DE,🇩🇪,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7703,No,,0/8
+47.91.89.3:1080,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,7696,No,,0/8
+8.211.49.86:2002,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7711,No,,0/8
+8.211.49.86:1088,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7679,No,,0/8
+47.91.89.3:6379,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,7704,No,,0/8
+8.211.51.115:10,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7705,No,,0/8
+8.209.96.245:8443,HTTP,Germany,DE,🇩🇪,0,low,Yes,Alibaba.com Singapore E-Commerce Private Limited,10212,Not Checked,,
+116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,4,low,No,Hetzner Online GmbH,1294,Not Checked,,
+116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,4,low,No,Hetzner Online GmbH,1120,Not Checked,,
+213.136.72.147:3128,HTTP,Germany,DE,🇩🇪,14,low,No,Contabo GmbH,14653,Not Checked,,
+167.86.104.220:80,HTTP,Germany,DE,🇩🇪,14,low,No,Contabo GmbH,4840,Not Checked,,
+152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,20,medium,No,netcup GmbH,13955,Not Checked,,
+109.123.254.197:3128,HTTP,Germany,DE,🇩🇪,56,medium,Yes,Contabo GmbH,1485,Not Checked,,

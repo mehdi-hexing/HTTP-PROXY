@@ -1,13 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-47.74.46.81:9098,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7761,No,,0/8
-8.221.138.111:18080,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7759,No,,0/8
-8.221.139.222:8080,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7775,No,,0/8
-47.74.46.81:80,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7757,No,,0/8
-13.208.246.143:8989,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,2269,No,,0/8
-8.221.141.88:8080,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",11723,Not Checked,,
-52.195.147.51:9991,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1764,Not Checked,,
-52.195.147.51:9320,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1844,Not Checked,,
-54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,2127,Not Checked,,
-35.78.252.142:44993,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",5277,Not Checked,,
-35.78.212.217:111,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",2214,Not Checked,,
-35.78.212.217:9002,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",5205,Not Checked,,
+47.74.46.81:8081,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7631,No,,0/8
+47.91.29.151:41,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba.com LLC,7640,No,,0/8
+8.221.141.88:8064,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7638,No,,0/8
+8.221.141.88:1200,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7650,No,,0/8
+8.221.139.222:1029,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7646,No,,0/8
+8.221.138.111:2000,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7641,No,,0/8
+54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1513,Not Checked,,
+54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1359,Not Checked,,
+168.138.202.218:3128,HTTP,Japan,JP,🇯🇵,5,low,No,Oracle Corporation,1087,Not Checked,,
+209.182.234.151:40000,HTTP,Japan,JP,🇯🇵,67,high,No,"HIVELOCITY, Inc.",22988,Not Checked,,

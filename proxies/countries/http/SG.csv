@@ -1,17 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-8.219.97.248:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Alibaba Cloud (Singapore) Private Limited,2393,Yes,275.3,8/8
-31.57.178.141:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi,4940,Yes,295.9,8/8
-8.219.97.248:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Alibaba Cloud (Singapore) Private Limited,3401,Yes,275.3,8/8
-8.219.229.53:1026,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8073,No,,0/8
-47.237.2.245:119,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8066,No,,0/8
-47.237.2.245:8083,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8075,No,,0/8
-47.237.107.41:28,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8089,No,,0/8
-47.237.113.119:8081,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8047,No,,0/8
-47.237.113.119:6379,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8060,No,,0/8
-47.237.92.86:8118,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8048,No,,0/8
-54.255.249.161:30562,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.,2430,Not Checked,,
-54.255.249.161:54360,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.,2622,Not Checked,,
-13.212.163.219:8890,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,4843,Not Checked,,
-13.212.163.219:9828,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,3395,Not Checked,,
-13.251.124.107:3128,HTTP,Singapore,SG,🇸🇬,3,low,No,"Amazon.com, Inc.",1956,Not Checked,,
-172.104.56.95:8888,HTTP,Singapore,SG,🇸🇬,56,medium,No,Akamai Technologies,1814,Not Checked,,
+31.207.4.14:3128,HTTP,Singapore,SG,🇸🇬,0,low,No,Trunk Networks LTD,1989,Yes,224.8,8/8
+8.219.97.248:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Alibaba Cloud (Singapore) Private Limited,5370,Yes,274.6,8/8
+47.236.86.147:443,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",1602,Yes,272.2,8/8
+8.219.229.53:9080,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7927,No,,0/8
+47.237.113.119:8081,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7932,No,,0/8
+47.237.113.119:6379,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7930,No,,0/8
+47.237.92.86:8118,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7939,No,,0/8
+47.237.107.41:28,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7928,No,,0/8
+47.237.2.245:4145,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7924,No,,0/8
+103.164.55.81:3128,HTTP,Singapore,SG,🇸🇬,18,low,No,Contabo Asia Private Limited,1672,Not Checked,,
