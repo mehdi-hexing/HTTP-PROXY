@@ -1,5 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-5.101.181.130:1081,SOCKS5,Estonia,EE,🇪🇪,0,low,No,PAGM network,5224,Not Checked,,
-5.45.119.70:1080,SOCKS5,Estonia,EE,🇪🇪,0,low,No,PAGM network,1372,Not Checked,,
-5.45.119.70:1080,SOCKS5,Estonia,EE,🇪🇪,0,low,No,PAGM network,1714,Not Checked,,
-95.85.242.7:9050,SOCKS5,Estonia,EE,🇪🇪,10,low,No,OC NETWORKS LIMITED,19702,Not Checked,,
+5.45.119.70:1080,SOCKS5,Estonia,EE,🇪🇪,0,low,No,PAGM network,1348,Yes,97.2,8/8
+5.45.119.70:1080,SOCKS5,Estonia,EE,🇪🇪,0,low,No,PAGM network,1503,Yes,97.2,8/8
+132.243.168.30:9150,SOCKS5,Estonia,EE,🇪🇪,0,low,No,BlueVPS OU,2778,Not Checked,,
