@@ -1,12 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-192.252.210.233:4145,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,1022,Yes,220.5,7/8
-144.91.111.48:1088,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Contabo GmbH,1778,Not Checked,,
-144.91.111.48:1088,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Contabo GmbH,1851,Not Checked,,
-213.199.47.140:1080,SOCKS5,United Kingdom,GB,🇬🇧,14,low,No,Contabo GmbH,1543,Not Checked,,
-144.91.121.61:1088,SOCKS5,United Kingdom,GB,🇬🇧,14,low,No,Contabo GmbH,8980,Not Checked,,
-144.91.121.61:1088,SOCKS5,United Kingdom,GB,🇬🇧,14,low,No,Contabo GmbH,1820,Not Checked,,
-213.199.47.140:1080,SOCKS5,United Kingdom,GB,🇬🇧,14,low,No,Contabo GmbH,2136,Not Checked,,
-13.42.103.101:1080,SOCKS5,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,1901,Not Checked,,
-3.10.170.234:3128,SOCKS5,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,816,Not Checked,,
-13.42.103.101:1080,SOCKS5,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,1412,Not Checked,,
-144.126.197.184:1088,SOCKS5,United Kingdom,GB,🇬🇧,51,medium,No,"DigitalOcean, LLC",2787,Not Checked,,
+144.91.111.48:1088,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Contabo GmbH,2065,Yes,149.2,8/8
+144.91.111.48:1088,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Contabo GmbH,1296,Yes,149.2,8/8
+192.252.210.233:4145,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,667,Yes,230.6,7/8
+192.252.210.233:4145,SOCKS5,United Kingdom,GB,🇬🇧,0,low,No,Performive LLC,683,Yes,230.6,7/8
+144.91.121.61:1088,SOCKS5,United Kingdom,GB,🇬🇧,14,low,No,Contabo GmbH,1775,Not Checked,,
+213.199.47.140:1080,SOCKS5,United Kingdom,GB,🇬🇧,14,low,No,Contabo GmbH,4283,Not Checked,,
+3.10.170.234:3128,SOCKS5,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,543,Not Checked,,
+194.164.125.208:57422,SOCKS5,United Kingdom,GB,🇬🇧,35,medium,No,IONOS SE,5482,Not Checked,,
