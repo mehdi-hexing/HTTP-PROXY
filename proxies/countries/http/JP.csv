@@ -1,14 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-8.221.138.111:8192,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7531,No,,0/8
-8.221.138.111:80,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7534,No,,0/8
-56.155.73.215:4559,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",3956,No,,0/8
-166.1.61.57:1080,HTTP,Japan,JP,🇯🇵,0,low,No,Amarutu Technology Ltd,9080,Not Checked,,
-8.221.141.88:1200,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",10488,Not Checked,,
-8.221.141.88:8820,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",10424,Not Checked,,
-8.221.141.88:5678,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",10519,Not Checked,,
-47.74.46.81:98,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,11332,Not Checked,,
-52.195.147.51:8082,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1265,Not Checked,,
-52.195.147.51:49427,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,2765,Not Checked,,
-54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1250,Not Checked,,
-54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1218,Not Checked,,
-43.206.149.80:32611,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1990,Not Checked,,
+47.74.46.81:9098,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7761,No,,0/8
+8.221.138.111:18080,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7759,No,,0/8
+8.221.139.222:8080,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7775,No,,0/8
+47.74.46.81:80,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7757,No,,0/8
+13.208.246.143:8989,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,2269,No,,0/8
+8.221.141.88:8080,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",11723,Not Checked,,
+52.195.147.51:9991,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1764,Not Checked,,
+52.195.147.51:9320,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1844,Not Checked,,
+54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,2127,Not Checked,,
+35.78.252.142:44993,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",5277,Not Checked,,
+35.78.212.217:111,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",2214,Not Checked,,
+35.78.212.217:9002,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",5205,Not Checked,,
