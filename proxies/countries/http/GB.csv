@@ -1,16 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-8.211.194.85:8008,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7407,Not Checked,,
-8.211.194.78:138,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",8931,Not Checked,,
-8.211.194.78:3128,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7645,Not Checked,,
-8.211.195.173:1000,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7418,Not Checked,,
-8.211.200.183:1080,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7424,Not Checked,,
-8.211.200.183:1234,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7402,Not Checked,,
-8.211.200.183:6379,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7404,Not Checked,,
-8.211.195.139:1000,HTTP,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7425,Not Checked,,
-3.10.170.234:3128,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,1046,Not Checked,,
-18.170.25.193:1981,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,874,Not Checked,,
-18.175.170.244:3128,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,805,Not Checked,,
-3.10.170.234:3128,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,988,Not Checked,,
-18.170.25.193:9050,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,1843,Not Checked,,
-57.128.183.212:21,HTTP,United Kingdom,GB,🇬🇧,82,high,Yes,OVH SAS,11299,Not Checked,,
-57.129.128.223:3128,HTTP,United Kingdom,GB,🇬🇧,82,high,No,OVH SAS,14068,Not Checked,,
+8.211.195.139:9080,HTTP,United Kingdom,GB,🇬🇧,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7720,No,,0/8
+8.211.200.183:8081,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7728,No,,0/8
+8.211.194.78:20002,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7725,No,,0/8
+8.211.194.85:45,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7870,No,,0/8
+8.211.194.85:8081,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",10816,Not Checked,,
+8.211.195.173:8080,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",11774,Not Checked,,
+8.211.195.173:10001,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",11755,Not Checked,,
+3.10.170.234:3128,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,1756,Not Checked,,
+88.80.186.173:19180,HTTP,United Kingdom,GB,🇬🇧,47,medium,No,"Akamai Technologies, Inc.",2175,Not Checked,,
+88.80.186.173:19180,HTTP,United Kingdom,GB,🇬🇧,47,medium,No,"Akamai Technologies, Inc.",9125,Not Checked,,
