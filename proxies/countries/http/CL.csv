@@ -1,7 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.225.205.5:999,HTTP,Chile,CL,🇨🇱,0,low,No,Netdelsur Telecomunicaciones SPA,17372,Not Checked,,
-204.199.139.72:999,HTTP,Chile,CL,🇨🇱,0,low,No,Ingbell Chile SPA,18908,Not Checked,,
-186.10.150.185:8080,HTTP,Chile,CL,🇨🇱,4,low,No,Entel Chile S.A.,10537,Not Checked,,
-38.7.195.51:999,HTTP,Chile,CL,🇨🇱,63,high,No,Grupo ZGH SpA,6449,Not Checked,,
-38.7.195.52:999,HTTP,Chile,CL,🇨🇱,63,high,No,Grupo ZGH SpA,5649,Not Checked,,
-38.7.206.193:999,HTTP,Chile,CL,🇨🇱,63,high,No,Grupo ZGH SpA,2170,Not Checked,,
+181.74.82.91:999,HTTP,Chile,CL,🇨🇱,0,low,No,Telmex Servicios Empresariales S.A.,6458,Yes,305.1,8/8
+45.230.39.225:999,HTTP,Chile,CL,🇨🇱,0,low,No,Servicios Zonales De Internet Limitada,1053,Yes,277.1,8/8
+128.201.119.238:999,HTTP,Chile,CL,🇨🇱,0,low,No,COMERCIAL WASHINGTON ERNESTO OYARCE SAZO E.I.R.L. (SEÑALMAX),23799,Not Checked,,
+45.230.39.225:999,HTTP,Chile,CL,🇨🇱,0,low,No,Servicios Zonales De Internet Limitada,9856,Not Checked,,
+34.176.215.13:3128,HTTP,Chile,CL,🇨🇱,2,low,Yes,Google LLC,19345,Not Checked,,
+38.7.195.51:999,HTTP,Chile,CL,🇨🇱,63,high,No,Grupo ZGH SpA,15484,Not Checked,,
+38.7.223.128:999,HTTP,Chile,CL,🇨🇱,63,high,No,Grupo ZGH SpA,15034,Not Checked,,
+38.7.195.49:999,HTTP,Chile,CL,🇨🇱,63,high,No,Grupo ZGH SpA,7912,Not Checked,,
+38.7.195.50:999,HTTP,Chile,CL,🇨🇱,63,high,No,Grupo ZGH SpA,12037,Not Checked,,

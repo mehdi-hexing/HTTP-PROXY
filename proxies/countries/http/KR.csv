@@ -1,10 +1,16 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-8.213.128.6:8123,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",8085,Yes,544.0,8/8
-13.125.44.24:80,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,2109,No,,0/8
-13.125.44.24:80,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,2423,No,,0/8
-8.213.128.6:20,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",9842,Not Checked,,
-43.164.129.84:3128,HTTP,South Korea,KR,🇰🇷,0,low,No,Shenzhen Tencent Computer Systems Company Limited,10469,Not Checked,,
-1.231.81.166:3128,HTTP,South Korea,KR,🇰🇷,2,low,No,SK Broadband Co Ltd,1619,Not Checked,,
-1.231.81.166:3128,HTTP,South Korea,KR,🇰🇷,2,low,No,SK Broadband Co Ltd,1638,Not Checked,,
-146.56.110.131:8118,HTTP,South Korea,KR,🇰🇷,2,low,No,Oracle Corporation,11270,Not Checked,,
-43.203.140.58:1088,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",5349,Not Checked,,
+13.125.44.24:80,HTTP,South Korea,KR,🇰🇷,0,low,No,Amazon Technologies Inc.,2275,No,,0/8
+8.213.134.213:20002,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7900,Not Checked,,
+8.213.128.6:80,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",8255,Not Checked,,
+8.220.205.172:12000,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7923,Not Checked,,
+8.220.204.215:8889,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7908,Not Checked,,
+8.220.204.215:30001,HTTP,South Korea,KR,🇰🇷,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7940,Not Checked,,
+8.220.204.92:8081,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7939,Not Checked,,
+8.220.204.92:12000,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7938,Not Checked,,
+8.213.156.191:221,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7935,Not Checked,,
+8.213.156.191:9098,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7911,Not Checked,,
+43.164.129.84:3128,HTTP,South Korea,KR,🇰🇷,0,low,No,Shenzhen Tencent Computer Systems Company Limited,18981,Not Checked,,
+193.122.96.242:3128,HTTP,South Korea,KR,🇰🇷,2,low,No,Oracle Corporation,12231,Not Checked,,
+1.231.81.166:3128,HTTP,South Korea,KR,🇰🇷,2,low,No,SK Broadband Co Ltd,1689,Not Checked,,
+193.122.96.242:3128,HTTP,South Korea,KR,🇰🇷,2,low,No,Oracle Corporation,15992,Not Checked,,
+43.201.253.41:3128,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",1773,Not Checked,,
