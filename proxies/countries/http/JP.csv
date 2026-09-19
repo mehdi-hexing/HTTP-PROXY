@@ -1,7 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-47.91.29.151:1080,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba.com LLC,7560,No,,0/8
-8.221.138.111:8443,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7554,No,,0/8
-8.221.139.222:80,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",9731,Not Checked,,
-54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1315,Not Checked,,
-139.162.89.198:3128,HTTP,Japan,JP,🇯🇵,53,medium,No,"Akamai Technologies, Inc.",11399,Not Checked,,
-139.162.89.198:3128,HTTP,Japan,JP,🇯🇵,53,medium,No,"Akamai Technologies, Inc.",13954,Not Checked,,
+8.221.138.111:100,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7761,No,,0/8
+8.221.139.222:9098,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",10297,Not Checked,,
+47.74.46.81:102,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,11777,Not Checked,,
+47.91.29.151:81,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba.com LLC,9828,Not Checked,,
+8.221.141.88:8010,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",14778,Not Checked,,
+54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1765,Not Checked,,
+54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1911,Not Checked,,

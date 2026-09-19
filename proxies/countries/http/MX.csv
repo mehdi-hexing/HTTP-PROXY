@@ -1,10 +1,12 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-200.36.178.42:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Pegaso PCS,14573,Not Checked,,
-153.51.241.50:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Javier Tamayo Garcia,14932,Not Checked,,
-205.164.192.115:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,21060,Not Checked,,
-38.194.246.34:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,9806,Not Checked,,
-189.203.181.34:8080,HTTP,Mexico,MX,🇲🇽,0,low,No,Total Play Telecomunicaciones SA De CV,14500,Not Checked,,
-38.194.246.34:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,13215,Not Checked,,
-38.210.179.36:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Jair Lozano / Intercom Internet,15245,Not Checked,,
-131.196.246.4:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Lantointernet SA De CV,15051,Not Checked,,
-187.190.114.59:999,HTTP,Mexico,MX,🇲🇽,1,low,No,Total Play Telecomunicaciones SA De CV,10470,Not Checked,,
+38.194.246.34:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,4210,Yes,220.5,8/8
+189.51.168.164:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Comunicación por Fibra SA de CV,3156,Yes,238.3,8/8
+189.203.181.34:8080,HTTP,Mexico,MX,🇲🇽,0,low,No,Total Play Telecomunicaciones SA De CV,15923,Not Checked,,
+206.135.21.2:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Ientc S De RL De CV,20260,Not Checked,,
+38.194.246.34:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,12068,Not Checked,,
+153.51.241.50:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Javier Tamayo Garcia,11163,Not Checked,,
+38.49.159.54:999,HTTP,Mexico,MX,🇲🇽,0,low,No,IENTC S de RL de CV,12307,Not Checked,,
+187.188.171.231:10101,HTTP,Mexico,MX,🇲🇽,1,low,No,Total Play Telecomunicaciones SA De CV,17160,Not Checked,,
+187.251.230.15:8080,HTTP,Mexico,MX,🇲🇽,1,low,No,Total Play Telecomunicaciones SA De CV,9908,Not Checked,,
+187.190.58.152:80,HTTP,Mexico,MX,🇲🇽,1,low,No,Total Play Telecomunicaciones SA De CV,15143,Not Checked,,
+45.174.242.145:999,HTTP,Mexico,MX,🇲🇽,10,low,No,Sistemas Y Soluciones De Campeche SAS De CV,11119,Not Checked,,
