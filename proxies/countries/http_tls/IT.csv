@@ -1,21 +1,28 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-83.211.198.117:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Retelit Digital Services S.p.A.,3327,Yes,115.2,8/8
-194.243.172.243:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Telecom Italia S.p.A,2905,No,,0/8
-194.243.172.243:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Telecom Italia S.p.A,2901,No,,0/8
-185.68.191.63:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Elogic Srl,1970,No,,0/8
-185.68.191.63:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Elogic Srl,1919,No,,0/8
-93.63.43.131:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Fastweb SpA,5790,Not Checked,,
-37.207.230.114:9443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Telecom Italia S.p.A,4544,Not Checked,,
-5.158.70.34:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Orakom S.r.l.,4421,Not Checked,,
-138.66.66.136:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,InnovaPuglia SpA,3971,Not Checked,,
-83.103.36.213:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Fastweb Networks,3625,Not Checked,,
-2.228.224.4:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Fastweb Networks,4066,Not Checked,,
-93.63.43.131:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Fastweb SpA,3965,Not Checked,,
-37.207.230.114:9443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Telecom Italia S.p.A,4258,Not Checked,,
-5.158.70.34:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Orakom S.r.l.,4521,Not Checked,,
-138.66.66.229:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,InnovaPuglia SpA,4322,Not Checked,,
-138.66.65.52:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,InnovaPuglia SpA,3980,Not Checked,,
-188.219.81.246:443,HTTP_TLS,Italy,IT,🇮🇹,2,low,No,Vodafone,2129,Not Checked,,
-188.219.81.246:443,HTTP_TLS,Italy,IT,🇮🇹,2,low,No,Vodafone,2026,Not Checked,,
-15.160.108.18:443,HTTP_TLS,Italy,IT,🇮🇹,8,low,No,Amazon Technologies Inc,3862,Not Checked,,
-15.160.108.18:443,HTTP_TLS,Italy,IT,🇮🇹,8,low,No,Amazon Technologies Inc,3973,Not Checked,,
+138.66.66.229:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,InnovaPuglia SpA,1754,Yes,117.2,8/8
+138.66.65.52:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,InnovaPuglia SpA,1796,Yes,117.6,8/8
+83.103.36.213:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Fastweb Networks,2472,Yes,103.5,8/8
+138.66.66.136:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,InnovaPuglia SpA,2986,Yes,112.7,8/8
+185.68.191.63:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Elogic Srl,1440,No,,0/8
+185.68.191.63:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Elogic Srl,1417,No,,0/8
+93.63.43.131:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Fastweb SpA,2763,No,,0/8
+37.207.230.114:9443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Telecom Italia S.p.A,3543,Not Checked,,
+5.158.70.34:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Orakom S.r.l.,3485,Not Checked,,
+138.66.66.136:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,InnovaPuglia SpA,3534,Not Checked,,
+83.103.36.213:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Fastweb Networks,3717,Not Checked,,
+2.228.224.4:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Fastweb Networks,4295,Not Checked,,
+83.211.198.117:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Retelit Digital Services S.p.A.,3393,Not Checked,,
+93.63.43.131:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Fastweb SpA,3146,Not Checked,,
+5.158.70.34:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Orakom S.r.l.,3281,Not Checked,,
+37.207.230.114:9443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Telecom Italia S.p.A,3773,Not Checked,,
+138.66.66.229:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,InnovaPuglia SpA,3419,Not Checked,,
+138.66.65.52:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,InnovaPuglia SpA,4027,Not Checked,,
+2.228.224.4:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Fastweb Networks,3830,Not Checked,,
+83.211.198.117:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Retelit Digital Services S.p.A.,3453,Not Checked,,
+5.59.248.134:8443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Cinzia Tocci trading as Lumanex Srl,14806,Not Checked,,
+188.219.81.246:443,HTTP_TLS,Italy,IT,🇮🇹,2,low,No,Vodafone,1611,Not Checked,,
+188.219.81.246:443,HTTP_TLS,Italy,IT,🇮🇹,2,low,No,Vodafone,1573,Not Checked,,
+188.219.81.243:443,HTTP_TLS,Italy,IT,🇮🇹,2,low,No,Vodafone,1745,Not Checked,,
+188.219.81.243:443,HTTP_TLS,Italy,IT,🇮🇹,2,low,No,Vodafone,3092,Not Checked,,
+15.160.108.18:443,HTTP_TLS,Italy,IT,🇮🇹,8,low,No,Amazon Technologies Inc,3271,Not Checked,,
+15.160.108.18:443,HTTP_TLS,Italy,IT,🇮🇹,8,low,No,Amazon Technologies Inc,3566,Not Checked,,
