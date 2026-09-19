@@ -1,5 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-192.158.15.201:50877,SOCKS4,Canada,CA,🇨🇦,0,low,No,Ontario Inc.,3716,Not Checked,,
-45.73.0.118:5678,SOCKS4,Canada,CA,🇨🇦,2,low,No,Videotron Ltee,1799,Not Checked,,
-155.138.139.189:32768,SOCKS4,Canada,CA,🇨🇦,37,medium,No,The Constant Company,8264,Not Checked,,
-138.197.148.194:9050,SOCKS4,Canada,CA,🇨🇦,51,medium,No,"DigitalOcean, LLC",6938,Not Checked,,
+192.158.15.201:50877,SOCKS4,Canada,CA,🇨🇦,0,low,No,Ontario Inc.,243,Yes,175.6,8/8
+162.216.185.241:1084,SOCKS4,Canada,CA,🇨🇦,0,low,No,Lyttonnet,610,Yes,236.9,6/8
+162.216.185.241:1084,SOCKS4,Canada,CA,🇨🇦,0,low,No,Lyttonnet,1625,Not Checked,,
+45.73.0.118:5678,SOCKS4,Canada,CA,🇨🇦,2,low,No,Videotron Ltee,396,Not Checked,,
