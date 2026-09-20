@@ -1,7 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-151.243.196.252:1080,SOCKS5,Poland,PL,🇵🇱,0,low,No,Hostkey B.V.,2160,Not Checked,,
-194.88.150.90:1080,SOCKS5,Poland,PL,🇵🇱,0,low,No,NetCrafters OU,2979,Not Checked,,
-57.128.231.218:1004,SOCKS5,Poland,PL,🇵🇱,39,medium,No,OVH SAS,1387,Not Checked,,
-57.128.231.218:1000,SOCKS5,Poland,PL,🇵🇱,39,medium,No,OVH SAS,1480,Not Checked,,
-57.128.231.218:1001,SOCKS5,Poland,PL,🇵🇱,39,medium,No,OVH SAS,1171,Not Checked,,
-57.128.231.218:1000,SOCKS5,Poland,PL,🇵🇱,39,medium,No,OVH SAS,1469,Not Checked,,
+194.88.150.90:1080,SOCKS5,Poland,PL,🇵🇱,0,low,No,NetCrafters OU,1844,Yes,95.3,8/8
+57.128.231.218:1001,SOCKS5,Poland,PL,🇵🇱,39,medium,No,OVH SAS,1640,Not Checked,,
+57.128.231.218:1004,SOCKS5,Poland,PL,🇵🇱,39,medium,No,OVH SAS,1797,Not Checked,,

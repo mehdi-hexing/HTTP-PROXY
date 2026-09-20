@@ -1,3 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-43.160.245.155:8080,SOCKS5,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,4983,Not Checked,,
-43.106.60.21:1080,SOCKS5,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",2275,Not Checked,,
+47.237.138.184:1080,SOCKS5,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",1597,Yes,273.8,8/8
+43.160.245.155:8080,SOCKS5,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,10556,Not Checked,,
+139.180.144.76:7890,SOCKS5,Singapore,SG,🇸🇬,0,low,No,SGP VULTR,6344,Not Checked,,
+152.69.211.50:40001,SOCKS5,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation,1447,Not Checked,,
+138.199.25.13:3903,SOCKS5,Singapore,SG,🇸🇬,4,low,No,DataCamp Limited,2959,Not Checked,,
