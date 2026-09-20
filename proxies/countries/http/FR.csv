@@ -1,10 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,10739,Not Checked,,
-37.59.125.131:8888,HTTP,France,FR,🇫🇷,9,low,Yes,OVH SAS,4628,Not Checked,,
-156.67.110.124:10808,HTTP,France,FR,🇫🇷,9,low,No,Contabo Asia Private Limited,8659,Not Checked,,
-37.59.125.131:8888,HTTP,France,FR,🇫🇷,9,low,Yes,OVH SAS,4066,Not Checked,,
-156.67.110.124:10808,HTTP,France,FR,🇫🇷,9,low,No,Contabo Asia Private Limited,5845,Not Checked,,
-152.228.134.176:48080,HTTP,France,FR,🇫🇷,41,medium,No,OVH SAS,1257,Not Checked,,
-217.182.195.221:30006,HTTP,France,FR,🇫🇷,41,medium,No,OVH SAS,6174,Not Checked,,
-152.228.134.176:48080,HTTP,France,FR,🇫🇷,41,medium,No,OVH SAS,9060,Not Checked,,
-217.182.195.221:30005,HTTP,France,FR,🇫🇷,41,medium,No,OVH SAS,1803,Not Checked,,
+37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,3973,Yes,91.6,8/8
+191.44.91.53:8080,HTTP,France,FR,🇫🇷,0,low,No,High Speed For Internet Services L.L.C,21226,Not Checked,,
+191.44.91.53:8080,HTTP,France,FR,🇫🇷,0,low,No,High Speed For Internet Services L.L.C,11311,Not Checked,,
+37.59.125.131:8888,HTTP,France,FR,🇫🇷,9,low,Yes,OVH SAS,1698,Not Checked,,
+156.67.110.124:10808,HTTP,France,FR,🇫🇷,9,low,No,Contabo Asia Private Limited,2888,Not Checked,,
+37.59.125.131:8888,HTTP,France,FR,🇫🇷,9,low,Yes,OVH SAS,2012,Not Checked,,
+217.182.195.221:30007,HTTP,France,FR,🇫🇷,41,medium,No,OVH SAS,5772,Not Checked,,
+217.182.195.221:30004,HTTP,France,FR,🇫🇷,41,medium,No,OVH SAS,4086,Not Checked,,
