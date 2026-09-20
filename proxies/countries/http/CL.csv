@@ -1,7 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.230.39.225:999,HTTP,Chile,CL,🇨🇱,0,low,No,Servicios Zonales De Internet Limitada,7313,Not Checked,,
-181.74.82.91:999,HTTP,Chile,CL,🇨🇱,0,low,No,Telmex Servicios Empresariales S.A.,6593,Not Checked,,
-170.233.192.225:999,HTTP,Chile,CL,🇨🇱,0,low,No,MI INTERNET SPA,16225,Not Checked,,
-200.111.104.59:3129,HTTP,Chile,CL,🇨🇱,4,low,No,Entel Chile S.A.,15592,Not Checked,,
-38.7.195.52:999,HTTP,Chile,CL,🇨🇱,63,high,No,Grupo ZGH SpA,8186,Not Checked,,
-38.7.195.50:999,HTTP,Chile,CL,🇨🇱,63,high,No,Grupo ZGH SpA,9469,Not Checked,,
+207.248.0.193:999,HTTP,Chile,CL,🇨🇱,0,low,No,Grupo Metrowan Telecom SPA,3285,Yes,292.0,8/8
+151.241.86.129:999,HTTP,Chile,CL,🇨🇱,0,low,No,Vallenet SPA,8399,Not Checked,,
+201.238.242.36:999,HTTP,Chile,CL,🇨🇱,0,low,No,Gtd Internet S.A,10138,Not Checked,,
+200.111.104.59:3128,HTTP,Chile,CL,🇨🇱,4,low,No,Entel Chile S.A.,8505,Not Checked,,
+201.186.41.170:999,HTTP,Chile,CL,🇨🇱,5,low,No,Telefonica del Sur S.A.,7243,Not Checked,,
+190.121.52.125:999,HTTP,Chile,CL,🇨🇱,5,low,No,Telefonica del Sur S.A.,6846,Not Checked,,
+38.7.195.55:999,HTTP,Chile,CL,🇨🇱,63,high,No,Grupo ZGH SpA,9235,Not Checked,,

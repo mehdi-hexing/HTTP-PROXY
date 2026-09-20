@@ -1,15 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-8.222.175.80:6128,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",1909,Yes,275.8,8/8
-47.237.113.119:8118,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8148,Not Checked,,
-47.237.113.119:9080,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8151,Not Checked,,
-47.237.107.41:80,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8153,Not Checked,,
-47.237.113.119:8081,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8182,Not Checked,,
-47.237.2.245:3129,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8137,Not Checked,,
-8.219.97.248:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Alibaba Cloud (Singapore) Private Limited,8769,Not Checked,,
-8.219.229.53:80,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",9155,Not Checked,,
-47.237.92.86:86,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8152,Not Checked,,
-43.98.172.166:3128,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",6897,Not Checked,,
-13.251.124.107:3128,HTTP,Singapore,SG,🇸🇬,3,low,No,"Amazon.com, Inc.",14225,Not Checked,,
-192.46.230.254:3128,HTTP,Singapore,SG,🇸🇬,39,medium,No,Akamai Technologies,1815,Not Checked,,
-207.148.124.152:6868,HTTP,Singapore,SG,🇸🇬,50,medium,No,Choopa,2314,Not Checked,,
-167.172.84.23:3128,HTTP,Singapore,SG,🇸🇬,51,medium,No,"DigitalOcean, LLC",1886,Not Checked,,
+31.207.4.14:3128,HTTP,Singapore,SG,🇸🇬,0,low,No,Trunk Networks LTD,1855,Yes,225.6,8/8
+43.98.172.166:3128,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",2016,Yes,279.4,7/8
+47.237.2.245:2002,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7893,No,,0/8
+47.237.113.119:3128,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7911,No,,0/8
+8.219.229.53:80,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7901,No,,0/8
+47.237.107.41:9000,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7938,No,,0/8
+47.237.92.86:86,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7922,No,,0/8
+154.18.239.181:8085,HTTP,Singapore,SG,🇸🇬,30,medium,No,"Ultahost, Inc.",11410,Not Checked,,
+192.46.230.254:3128,HTTP,Singapore,SG,🇸🇬,39,medium,No,Akamai Technologies,1505,Not Checked,,
+167.172.84.23:3128,HTTP,Singapore,SG,🇸🇬,51,medium,No,"DigitalOcean, LLC",5663,Not Checked,,
