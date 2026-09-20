@@ -1,21 +1,26 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-115.74.7.224:8080,HTTP,Vietnam,VN,🇻🇳,0,low,No,VIETELxdsl,6726,Yes,308.4,8/8
-171.244.199.151:1337,HTTP,Vietnam,VN,🇻🇳,0,low,No,VIETEL,2964,Yes,321.8,8/8
-203.205.49.2:10172,HTTP,Vietnam,VN,🇻🇳,0,low,No,CMC Telecom Infrastructure Company,6715,Yes,271.3,8/8
-210.211.113.36:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,5390,No,,0/8
-210.211.113.33:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,6109,No,,0/8
-210.211.113.37:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,3737,No,,0/8
-210.211.113.35:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,2705,No,,0/8
-210.211.113.34:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,4157,No,,0/8
-14.225.68.207:1337,HTTP,Vietnam,VN,🇻🇳,0,low,No,Vietnam Posts and Telecommunications Group,3015,No,,0/8
-14.225.68.207:1337,HTTP,Vietnam,VN,🇻🇳,0,low,No,Vietnam Posts and Telecommunications Group,2399,No,,0/8
-113.161.59.136:8080,HTTP,Vietnam,VN,🇻🇳,0,low,No,VietNam Post and Telecom Corporation,21814,Not Checked,,
-203.205.49.2:10120,HTTP,Vietnam,VN,🇻🇳,0,low,No,CMC Telecom Infrastructure Company,11017,Not Checked,,
-14.225.2.98:808,HTTP,Vietnam,VN,🇻🇳,0,low,No,Vietnam Posts and Telecommunications Group,10190,Not Checked,,
-115.74.7.224:8080,HTTP,Vietnam,VN,🇻🇳,0,low,No,VIETELxdsl,14967,Not Checked,,
-210.211.113.36:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,9527,Not Checked,,
-118.69.182.184:8082,HTTP,Vietnam,VN,🇻🇳,3,low,No,Vietnam Internet Network Information Center,4934,Not Checked,,
-118.69.183.149:8080,HTTP,Vietnam,VN,🇻🇳,3,low,No,Vietnam Internet Network Information Center,14447,Not Checked,,
-183.80.201.42:8080,HTTP,Vietnam,VN,🇻🇳,4,low,No,FPT Telecom Company,11293,Not Checked,,
-27.67.54.178:8080,HTTP,Vietnam,VN,🇻🇳,8,low,No,Viettel Group,12072,Not Checked,,
-116.109.130.228:8080,HTTP,Vietnam,VN,🇻🇳,8,low,No,Viettel Group,17591,Not Checked,,
+103.82.20.76:8080,HTTP,Vietnam,VN,🇻🇳,0,low,No,INETACADEMY,7409,Yes,318.1,8/8
+113.160.130.183:8080,HTTP,Vietnam,VN,🇻🇳,0,low,No,VietNam Post and Telecom Corporation,5177,Yes,338.4,8/8
+171.244.199.151:1337,HTTP,Vietnam,VN,🇻🇳,0,low,No,VIETEL,6705,Yes,316.0,8/8
+103.102.131.30:3128,HTTP,Vietnam,VN,🇻🇳,0,low,No,VGP Joint Stock Company,5776,Yes,337.0,2/8
+163.181.207.167:9999,HTTP,Vietnam,VN,🇻🇳,0,low,No,"Zhejiang Taobao Network Co., Ltd",2545,Yes,286.2,2/8
+163.181.207.170:9999,HTTP,Vietnam,VN,🇻🇳,0,low,No,"Zhejiang Taobao Network Co., Ltd",2157,Yes,286.1,2/8
+163.181.207.170:9999,HTTP,Vietnam,VN,🇻🇳,0,low,No,"Zhejiang Taobao Network Co., Ltd",2249,Yes,285.3,2/8
+103.102.131.30:3128,HTTP,Vietnam,VN,🇻🇳,0,low,No,VGP Joint Stock Company,6322,Yes,319.1,2/8
+163.181.207.215:9999,HTTP,Vietnam,VN,🇻🇳,0,low,No,"Zhejiang Taobao Network Co., Ltd",2194,Yes,322.3,1/8
+210.211.113.36:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,6069,No,,0/8
+210.211.113.37:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,2353,No,,0/8
+210.211.113.34:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,5846,No,,0/8
+14.225.68.207:1337,HTTP,Vietnam,VN,🇻🇳,0,low,No,Vietnam Posts and Telecommunications Group,2207,No,,0/8
+14.225.68.207:1337,HTTP,Vietnam,VN,🇻🇳,0,low,No,Vietnam Posts and Telecommunications Group,2595,No,,0/8
+210.211.113.36:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,2830,No,,0/8
+210.211.113.33:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,3818,No,,0/8
+210.211.113.35:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,3876,No,,0/8
+14.185.228.161:8080,HTTP,Vietnam,VN,🇻🇳,0,low,No,VNPT,11062,Not Checked,,
+14.161.87.244:2001,HTTP,Vietnam,VN,🇻🇳,0,low,No,VNPT,10225,Not Checked,,
+14.225.2.98:808,HTTP,Vietnam,VN,🇻🇳,0,low,No,Vietnam Posts and Telecommunications Group,8830,Not Checked,,
+14.172.88.126:8080,HTTP,Vietnam,VN,🇻🇳,0,low,No,VNPT-VNNIC,14609,Not Checked,,
+101.96.98.153:8080,HTTP,Vietnam,VN,🇻🇳,0,low,No,NetNam Corporation,16812,Not Checked,,
+203.205.49.2:10029,HTTP,Vietnam,VN,🇻🇳,0,low,No,CMC Telecom Infrastructure Company,8763,Not Checked,,
+171.229.136.29:8080,HTTP,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,2128,Not Checked,,
+118.69.32.171:8080,HTTP,Vietnam,VN,🇻🇳,3,low,No,Vietnam Internet Network Information Center,7452,Not Checked,,
