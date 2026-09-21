@@ -1,5 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-34.124.190.108:8080,SOCKS5,Singapore,SG,🇸🇬,0,low,No,Google LLC,9528,Not Checked,,
-213.35.122.117:1080,SOCKS5,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation,1708,Not Checked,,
-152.69.211.50:40001,SOCKS5,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation,4665,Not Checked,,
-139.162.47.112:9050,SOCKS5,Singapore,SG,🇸🇬,53,medium,No,"Akamai Technologies, Inc.",7807,Not Checked,,
+139.180.152.53:1080,SOCKS5,Singapore,SG,🇸🇬,0,low,No,SGP VULTR,1379,Yes,237.9,8/8
+43.160.245.155:8080,SOCKS5,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,1447,Yes,280.7,8/8
+139.180.152.53:1080,SOCKS5,Singapore,SG,🇸🇬,0,low,No,SGP VULTR,1515,Yes,237.9,8/8
+152.69.211.50:40001,SOCKS5,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation,1815,Not Checked,,
+213.35.122.117:1080,SOCKS5,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation,1395,Not Checked,,
+140.245.104.198:10808,SOCKS5,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation,5898,Not Checked,,
+104.248.151.220:57554,SOCKS5,Singapore,SG,🇸🇬,51,medium,No,"DigitalOcean, LLC",7073,Not Checked,,
