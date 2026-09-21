@@ -1,3 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-38.253.85.3:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,Cogent Communications,13672,Not Checked,,
-38.75.82.218:999,HTTP,Dominican Republic,DO,🇩🇴,5,low,No,Cogent Communications,11439,Not Checked,,
+38.156.14.138:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,Cogent Communications,7752,Yes,222.4,7/8
+38.156.234.192:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"BITNET DOMINICANA, S.R.L",697,Timeout,,
+38.50.165.126:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"NEXTELECOM, S.R.L",19264,Not Checked,,
+38.156.23.28:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,Visnetwork SRL,17055,Not Checked,,
+38.75.82.217:999,HTTP,Dominican Republic,DO,🇩🇴,5,low,No,Cogent Communications,3401,Not Checked,,
+38.75.82.215:999,HTTP,Dominican Republic,DO,🇩🇴,5,low,No,Cogent Communications,10623,Not Checked,,

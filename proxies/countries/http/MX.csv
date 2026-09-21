@@ -1,7 +1,14 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-200.92.201.126:999,HTTP,Mexico,MX,🇲🇽,0,low,No,"Mega Cable, S.A. de C.V.",8596,No,,0/8
-189.51.168.164:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Comunicación por Fibra SA de CV,1537,No,,0/8
-38.194.246.34:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,12089,No,,0/8
-205.164.192.115:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,10469,No,,0/8
-189.150.120.38:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Uninet S.A. de C.V,9786,No,,0/8
-45.174.168.5:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Telecomunicaciones Otomies,16326,Not Checked,,
+189.51.168.164:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Comunicación por Fibra SA de CV,8207,Yes,234.7,8/8
+38.210.179.7:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Jair Lozano / Intercom Internet,4771,Yes,238.1,7/8
+38.210.201.144:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Soluciones de Tecnologia Jah sa de Cv,483,Timeout,,
+189.51.168.164:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Comunicación por Fibra SA de CV,506,Timeout,,
+205.164.192.115:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,13832,Not Checked,,
+38.49.152.197:999,HTTP,Mexico,MX,🇲🇽,0,low,No,IENTC S de RL de CV,14244,Not Checked,,
+45.189.252.233:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Tracered SA De CV,12553,Not Checked,,
+187.249.89.57:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Transtelco Inc,17580,Not Checked,,
+205.164.192.115:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,10209,Not Checked,,
+38.194.246.34:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,11451,Not Checked,,
+186.96.160.220:999,HTTP,Mexico,MX,🇲🇽,1,low,No,Total Play Telecomunicaciones SA De CV,12930,Not Checked,,
+187.190.58.124:8080,HTTP,Mexico,MX,🇲🇽,1,low,No,Total Play Telecomunicaciones SA De CV,7520,Not Checked,,
+187.188.171.231:10101,HTTP,Mexico,MX,🇲🇽,1,low,No,Total Play Telecomunicaciones SA De CV,8038,Not Checked,,

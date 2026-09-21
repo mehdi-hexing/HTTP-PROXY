@@ -1,14 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-5.129.254.51:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1238,No,,0/8
-5.129.254.5:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1224,No,,0/8
-45.132.252.25:49156,HTTP,Russia,RU,🇷🇺,0,low,No,Ihor Hosting LTD,1282,No,,0/8
-5.129.254.49:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1323,No,,0/8
-5.129.254.70:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1220,No,,0/8
-185.200.188.234:10001,HTTP,Russia,RU,🇷🇺,0,low,No,Ihor Hosting LTD,2481,No,,0/8
-77.73.68.222:65000,HTTP,Russia,RU,🇷🇺,0,low,No,Veesp datacenter,1271,No,,0/8
-195.19.217.200:3128,HTTP,Russia,RU,🇷🇺,0,low,No,MTS PJSC,9373,No,,0/8
-185.200.188.234:10001,HTTP,Russia,RU,🇷🇺,0,low,No,Ihor Hosting LTD,4836,No,,0/8
-45.132.252.25:49156,HTTP,Russia,RU,🇷🇺,0,low,No,Ihor Hosting LTD,1223,No,,0/8
-78.24.221.106:3128,HTTP,Russia,RU,🇷🇺,0,low,Yes,JSC IOT,8108,No,,0/8
-80.87.193.111:12345,HTTP,Russia,RU,🇷🇺,0,low,No,JSC IOT,9994,No,,0/8
-195.19.217.200:3128,HTTP,Russia,RU,🇷🇺,0,low,No,MTS PJSC,15153,Not Checked,,
+195.19.217.200:3128,HTTP,Russia,RU,🇷🇺,0,low,No,MTS PJSC,3682,Yes,265.4,7/8
+5.129.254.129:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1376,Yes,76.5,7/8
+185.200.188.234:10001,HTTP,Russia,RU,🇷🇺,0,low,No,Ihor Hosting LTD,1506,Yes,81.3,7/8
+45.132.252.25:49156,HTTP,Russia,RU,🇷🇺,0,low,No,Ihor Hosting LTD,1360,Yes,72.3,7/8
+5.129.254.51:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1806,Yes,75.6,7/8
+5.129.254.49:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1790,Yes,68.0,7/8
+5.129.254.154:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",2400,Yes,75.5,7/8
+5.129.254.70:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1859,No,,0/8
+195.190.107.62:3389,HTTP,Russia,RU,🇷🇺,0,low,No,"PJSC ""Vimpelcom""",13306,Not Checked,,
+91.236.238.103:8080,HTTP,Russia,RU,🇷🇺,0,low,No,TERICOM Ltd,16786,Not Checked,,
+91.233.223.147:3128,HTTP,Russia,RU,🇷🇺,0,low,Yes,Radist LTD,14264,Not Checked,,
+80.246.16.160:3128,HTTP,Russia,RU,🇷🇺,0,low,No,Server-Center JSC Network,13793,Not Checked,,

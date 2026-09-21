@@ -1,9 +1,18 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-190.97.236.128:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Viginet C.A,3053,No,,0/8
-190.97.229.118:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Viginet C.A,5542,No,,0/8
-154.62.127.105:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Cogent Communications,5430,No,,0/8
-201.71.2.26:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"INVERSIONES FAROCA, C.A.",12649,No,,0/8
-38.41.0.87:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,MDS TELECOM C.A.,10097,No,,0/8
-190.97.236.130:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Viginet C.A,937,Timeout,,
-190.97.236.130:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Viginet C.A,940,Timeout,,
-38.51.207.116:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Tecnoven Services C.A,18293,Not Checked,,
+190.97.236.128:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Viginet C.A,916,Yes,261.2,7/8
+154.59.56.74:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Cogent Communications,4222,Yes,238.4,7/8
+38.41.0.62:11201,HTTP,Venezuela,VE,🇻🇪,0,low,No,MDS TELECOM C.A.,6471,Yes,227.8,7/8
+190.97.236.130:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Viginet C.A,941,Yes,265.2,7/8
+154.59.56.74:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Cogent Communications,5156,Yes,238.4,7/8
+190.97.241.106:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Viginet C.A,1983,No,,0/8
+38.41.0.87:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,MDS TELECOM C.A.,2289,No,,0/8
+190.97.241.106:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Viginet C.A,883,Timeout,,
+154.59.56.76:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Cogent Communications,13568,Not Checked,,
+38.51.207.104:8080,HTTP,Venezuela,VE,🇻🇪,0,low,No,Tecnoven Services C.A,9391,Not Checked,,
+154.59.56.78:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Cogent Communications,9356,Not Checked,,
+201.71.2.26:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"INVERSIONES FAROCA, C.A.",8756,Not Checked,,
+190.94.213.132:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,IFX Networks Venezuela C.A.,12577,Not Checked,,
+38.172.160.16:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"RED SERVITEL, CA",13598,Not Checked,,
+190.89.29.110:999,HTTP,Venezuela,VE,🇻🇪,6,low,No,"CORPORACION FIBEX TELECOM, C.A.",8734,Not Checked,,
+190.89.29.29:999,HTTP,Venezuela,VE,🇻🇪,6,low,No,"CORPORACION FIBEX TELECOM, C.A.",11227,Not Checked,,
+45.173.199.2:999,HTTP,Venezuela,VE,🇻🇪,33,medium,No,360net C.A.,3121,Not Checked,,
