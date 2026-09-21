@@ -1,17 +1,17 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-46.29.140.237:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Rackforest Zrt.,2987,No,,0/8
-80.77.112.216:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Servergarden Kft.,3366,Not Checked,,
-193.201.185.68:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Rackforest Zrt.,3990,Not Checked,,
-193.201.185.155:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Rackforest Zrt.,4212,Not Checked,,
-193.201.185.63:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Rackforest Zrt.,3692,Not Checked,,
-46.29.140.237:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Rackforest Zrt.,3508,Not Checked,,
-193.226.205.54:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Invitech ICT Services Kft.,3752,Not Checked,,
-80.77.112.216:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Servergarden Kft.,4064,Not Checked,,
-193.201.185.68:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Rackforest Zrt.,4121,Not Checked,,
-193.201.185.155:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Rackforest Zrt.,3522,Not Checked,,
-193.201.185.63:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Rackforest Zrt.,3398,Not Checked,,
-193.226.205.54:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Invitech ICT Services Kft.,4200,Not Checked,,
-146.70.203.18:443,HTTP_TLS,Hungary,HU,🇭🇺,17,low,Yes,M247 Europe Infra,2225,Not Checked,,
-146.70.203.18:9443,HTTP_TLS,Hungary,HU,🇭🇺,17,low,Yes,M247 Europe Infra,2574,Not Checked,,
-79.127.182.225:9443,HTTP_TLS,Hungary,HU,🇭🇺,44,medium,Yes,Datacamp Limited,2300,Not Checked,,
-79.127.182.225:9443,HTTP_TLS,Hungary,HU,🇭🇺,44,medium,Yes,Datacamp Limited,2842,Not Checked,,
+80.77.112.216:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Servergarden Kft.,2928,Yes,89.4,8/8
+193.201.185.155:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Rackforest Zrt.,2679,No,,0/8
+193.201.185.63:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Rackforest Zrt.,2842,No,,0/8
+193.201.185.68:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Rackforest Zrt.,2811,No,,0/8
+193.201.185.155:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Rackforest Zrt.,2605,No,,0/8
+193.201.185.63:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Rackforest Zrt.,2437,No,,0/8
+46.29.140.237:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Rackforest Zrt.,2105,No,,0/8
+193.226.205.54:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Invitech ICT Services Kft.,2323,No,,0/8
+193.201.185.68:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Rackforest Zrt.,7906,Not Checked,,
+46.29.140.237:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Rackforest Zrt.,3776,Not Checked,,
+193.226.205.54:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Invitech ICT Services Kft.,3395,Not Checked,,
+80.77.112.216:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Servergarden Kft.,3755,Not Checked,,
+146.70.203.18:443,HTTP_TLS,Hungary,HU,🇭🇺,17,low,Yes,M247 Europe Infra,1777,Not Checked,,
+146.70.203.18:9443,HTTP_TLS,Hungary,HU,🇭🇺,17,low,Yes,M247 Europe Infra,1905,Not Checked,,
+79.127.182.225:9443,HTTP_TLS,Hungary,HU,🇭🇺,45,medium,Yes,Datacamp Limited,1720,Not Checked,,
+79.127.182.225:9443,HTTP_TLS,Hungary,HU,🇭🇺,45,medium,Yes,Datacamp Limited,2121,Not Checked,,
