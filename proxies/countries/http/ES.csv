@@ -1,5 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-153.51.201.35:999,HTTP,Spain,ES,🇪🇸,0,low,No,Valor Information Technologies,1235,Yes,250.5,8/8
-193.38.224.169:8081,HTTP,Spain,ES,🇪🇸,0,low,No,Citelia s.a.,11671,Not Checked,,
-2.139.41.14:3128,HTTP,Spain,ES,🇪🇸,2,low,No,RIMA (Red IP Multi Acceso),12928,Not Checked,,
-37.59.138.176:8080,HTTP,Spain,ES,🇪🇸,66,high,No,OVH SAS,11351,Not Checked,,
+153.51.201.35:999,HTTP,Spain,ES,🇪🇸,0,low,No,Valor Information Technologies,989,Timeout,,
+153.51.201.35:999,HTTP,Spain,ES,🇪🇸,0,low,No,Valor Information Technologies,985,Timeout,,
+187.33.151.110:3128,HTTP,Spain,ES,🇪🇸,0,low,No,Cloudi Nextgen SL,15676,Not Checked,,

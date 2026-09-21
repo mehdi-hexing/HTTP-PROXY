@@ -1,8 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-47.250.159.65:3129,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7888,Not Checked,,
-113.23.200.86:8081,HTTP,Malaysia,MY,🇲🇾,0,low,No,Extreme Broadband,11524,Not Checked,,
-47.250.51.110:31281,HTTP,Malaysia,MY,🇲🇾,0,low,Yes,Alibaba Cloud LLC,7882,Not Checked,,
-47.250.11.111:8080,HTTP,Malaysia,MY,🇲🇾,0,low,No,Alibaba Cloud LLC,7880,Not Checked,,
-47.250.177.202:5060,HTTP,Malaysia,MY,🇲🇾,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",7882,Not Checked,,
-47.250.155.254:8080,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",7893,Not Checked,,
-113.23.230.90:8080,HTTP,Malaysia,MY,🇲🇾,0,low,No,Extreme Broadband,11728,Not Checked,,
+47.250.51.110:8443,HTTP,Malaysia,MY,🇲🇾,0,low,Yes,Alibaba Cloud LLC,8184,No,,0/8
+47.250.177.202:8443,HTTP,Malaysia,MY,🇲🇾,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8164,No,,0/8
+47.250.177.202:80,HTTP,Malaysia,MY,🇲🇾,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",8175,No,,0/8
+47.250.155.254:8080,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",8158,No,,0/8
+47.250.159.65:9098,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",9077,No,,0/8
+47.250.11.111:51,HTTP,Malaysia,MY,🇲🇾,0,low,No,Alibaba Cloud LLC,9966,No,,0/8

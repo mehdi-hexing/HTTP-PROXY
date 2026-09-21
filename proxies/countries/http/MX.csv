@@ -1,35 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-201.159.20.108:999,HTTP,Mexico,MX,🇲🇽,0,low,No,"Konecta de Mexico, S. de R.L. de C.V.",4602,Yes,255.6,8/8
-38.194.246.34:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,2582,Yes,225.9,8/8
-154.27.196.156:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,2895,Yes,253.1,8/8
-189.51.168.164:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Comunicación por Fibra SA de CV,742,Yes,229.3,8/8
-89.45.209.131:8080,HTTP,Mexico,MX,🇲🇽,0,low,Yes,Optical Line Terminal SAS De CV,2183,Yes,215.5,8/8
-170.78.208.32:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Wantelco SAS de CV,4690,Yes,225.8,8/8
-200.56.129.234:8080,HTTP,Mexico,MX,🇲🇽,0,low,No,"Mega Cable, S.A. de C.V.",5036,Not Checked,,
-201.159.97.25:8081,HTTP,Mexico,MX,🇲🇽,0,low,No,Administradora de Servicios de Internet Sandur S.A. de C.V.,11182,Not Checked,,
-45.177.178.194:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Wantelco SAS de CV,12060,Not Checked,,
-45.188.76.238:999,HTTP,Mexico,MX,🇲🇽,0,low,No,ONT NETWORKS SA de CV,14092,Not Checked,,
-131.196.245.120:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Lantointernet SA De CV,11582,Not Checked,,
-45.7.64.8:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Maysnet SA De CV,7570,Not Checked,,
-38.52.199.1:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Kblex SA De CV,9849,Not Checked,,
-200.76.28.202:999,HTTP,Mexico,MX,🇲🇽,0,low,No,"Alestra, S. de R.L. de C.V.",16044,Not Checked,,
-38.194.231.66:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,9999,Not Checked,,
-38.194.246.34:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,10189,Not Checked,,
-205.164.192.115:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,17526,Not Checked,,
-38.210.179.7:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Jair Lozano / Intercom Internet,8410,Not Checked,,
-154.27.196.5:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,13408,Not Checked,,
-82.152.138.127:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Wantelco SAS de CV,9973,Not Checked,,
-154.27.196.5:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,5213,Not Checked,,
-201.159.97.25:8081,HTTP,Mexico,MX,🇲🇽,0,low,No,Administradora de Servicios de Internet Sandur S.A. de C.V.,21846,Not Checked,,
-201.139.115.206:8081,HTTP,Mexico,MX,🇲🇽,0,low,No,Kiwi Networks S A P I de CV,8357,Not Checked,,
-187.243.251.66:999,HTTP,Mexico,MX,🇲🇽,1,low,No,"Mega Cable, S.A. de C.V.",22035,Not Checked,,
-38.7.22.165:999,HTTP,Mexico,MX,🇲🇽,1,low,No,Internet Telefonia Y TV De Michoacan SA De CV,9129,Not Checked,,
-187.190.127.212:8081,HTTP,Mexico,MX,🇲🇽,1,low,No,Total Play Telecomunicaciones SA De CV,9789,Not Checked,,
-187.249.37.227:2024,HTTP,Mexico,MX,🇲🇽,1,low,No,Transtelco Inc,14118,Not Checked,,
-187.190.58.152:8081,HTTP,Mexico,MX,🇲🇽,1,low,No,Total Play Telecomunicaciones SA De CV,8353,Not Checked,,
-187.188.171.231:10101,HTTP,Mexico,MX,🇲🇽,1,low,No,Total Play Telecomunicaciones SA De CV,14073,Not Checked,,
-187.190.127.212:80,HTTP,Mexico,MX,🇲🇽,1,low,No,Total Play Telecomunicaciones SA De CV,7228,Not Checked,,
-45.174.242.128:999,HTTP,Mexico,MX,🇲🇽,10,low,No,Sistemas Y Soluciones De Campeche SAS De CV,8730,Not Checked,,
-45.174.242.128:999,HTTP,Mexico,MX,🇲🇽,10,low,No,Sistemas Y Soluciones De Campeche SAS De CV,13955,Not Checked,,
-45.174.243.20:999,HTTP,Mexico,MX,🇲🇽,10,low,No,Sistemas Y Soluciones De Campeche SAS De CV,11318,Not Checked,,
-103.88.234.239:40010,HTTP,Mexico,MX,🇲🇽,48,medium,No,Latitude.sh,729,Not Checked,,
+200.92.201.126:999,HTTP,Mexico,MX,🇲🇽,0,low,No,"Mega Cable, S.A. de C.V.",8596,No,,0/8
+189.51.168.164:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Comunicación por Fibra SA de CV,1537,No,,0/8
+38.194.246.34:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,12089,No,,0/8
+205.164.192.115:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,10469,No,,0/8
+189.150.120.38:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Uninet S.A. de C.V,9786,No,,0/8
+45.174.168.5:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Telecomunicaciones Otomies,16326,Not Checked,,
