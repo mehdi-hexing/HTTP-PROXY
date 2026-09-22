@@ -1,2 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-195.225.116.15:4145,SOCKS4,Switzerland,CH,🇨🇭,0,low,No,netz116,1310,Not Checked,,
+195.225.116.14:4145,SOCKS4,Switzerland,CH,🇨🇭,0,low,No,netz116,853,Yes,110.4,8/8
+188.244.117.60:9050,SOCKS4,Switzerland,CH,🇨🇭,33,medium,No,"HostHatch, LLC",12456,Not Checked,,
+188.244.117.60:9050,SOCKS4,Switzerland,CH,🇨🇭,33,medium,No,"HostHatch, LLC",10279,Not Checked,,
