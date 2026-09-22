@@ -1,5 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-207.248.0.193:999,HTTP,Chile,CL,🇨🇱,0,low,No,Grupo Metrowan Telecom SPA,8650,Not Checked,,
-38.7.195.53:999,HTTP,Chile,CL,🇨🇱,61,high,No,Grupo ZGH SpA,8756,Not Checked,,
-38.7.195.55:999,HTTP,Chile,CL,🇨🇱,61,high,No,Grupo ZGH SpA,7111,Not Checked,,
-38.7.195.49:999,HTTP,Chile,CL,🇨🇱,61,high,No,Grupo ZGH SpA,13622,Not Checked,,
+38.225.117.1:999,HTTP,Chile,CL,🇨🇱,0,low,No,Vallenet SPA,1469,Yes,287.7,8/8
+45.230.39.225:999,HTTP,Chile,CL,🇨🇱,0,low,No,Servicios Zonales De Internet Limitada,6419,Yes,278.6,8/8
+45.161.112.227:999,HTTP,Chile,CL,🇨🇱,0,low,No,Servicios E Inversiones Villasolis Ltda.,11821,Not Checked,,
+186.10.150.185:8080,HTTP,Chile,CL,🇨🇱,4,low,No,Entel Chile S.A.,4702,Not Checked,,
+38.7.195.51:999,HTTP,Chile,CL,🇨🇱,61,high,No,Grupo ZGH SpA,11035,Not Checked,,
+38.7.195.51:999,HTTP,Chile,CL,🇨🇱,61,high,No,Grupo ZGH SpA,10765,Not Checked,,
