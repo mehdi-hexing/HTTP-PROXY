@@ -1,4 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-178.48.13.177:80,SOCKS4,Hungary,HU,🇭🇺,0,low,No,UPC,1504,Not Checked,,
-46.107.230.122:1080,SOCKS4,Hungary,HU,🇭🇺,0,low,No,Szatmarnet,5889,Not Checked,,
-46.107.230.122:1080,SOCKS4,Hungary,HU,🇭🇺,0,low,No,Szatmarnet,2558,Not Checked,,
+178.48.13.177:80,SOCKS4,Hungary,HU,🇭🇺,0,low,No,UPC,1086,Yes,114.1,8/8
+84.2.239.42:4153,SOCKS4,Hungary,HU,🇭🇺,0,low,No,Magyar Telekom,1075,Yes,117.1,8/8
+84.2.239.42:4153,SOCKS4,Hungary,HU,🇭🇺,0,low,No,Magyar Telekom,2039,Not Checked,,
+89.132.170.211:4145,SOCKS4,Hungary,HU,🇭🇺,0,low,No,One Hungary Ltd.,1133,Not Checked,,
+91.147.235.162:4153,SOCKS4,Hungary,HU,🇭🇺,0,low,No,Magyar Telekom plc.,1494,Not Checked,,
+89.132.170.211:4145,SOCKS4,Hungary,HU,🇭🇺,0,low,No,One Hungary Ltd.,6108,Not Checked,,
+46.107.230.122:1080,SOCKS4,Hungary,HU,🇭🇺,0,low,No,Szatmarnet,2079,Not Checked,,

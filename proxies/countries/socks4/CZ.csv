@@ -1,16 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-78.111.112.118:4145,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,ISP Alliance a.s.,1361,Not Checked,,
-81.162.195.35:4153,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,Martin Vicenik,1375,Not Checked,,
-109.69.211.18:1080,SOCKS4,Czechia,CZ,🇨🇿,0,low,Yes,LAN servis s.r.o,1637,Not Checked,,
-90.182.147.170:4145,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,"O2 Czech Republic, a.s.",4535,Not Checked,,
-90.182.147.170:4145,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,"O2 Czech Republic, a.s.",2284,Not Checked,,
-109.69.211.18:1080,SOCKS4,Czechia,CZ,🇨🇿,0,low,Yes,LAN servis s.r.o,3693,Not Checked,,
-85.163.43.208:48293,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,CETIN a.s.,1348,Not Checked,,
-217.197.151.182:5678,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,PREROV,2573,Not Checked,,
-217.197.151.182:5678,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,PREROV,1690,Not Checked,,
-78.111.112.118:4145,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,ISP Alliance a.s.,1359,Not Checked,,
-194.1.188.8:60606,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,IT PROFI s.r.o,1548,Not Checked,,
-176.98.248.2:4153,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,"JM-Networks, s.r.o.",3455,Not Checked,,
-85.163.43.208:48293,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,CETIN a.s.,5028,Not Checked,,
-185.40.80.143:4153,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,Airweb,6483,Not Checked,,
-81.162.195.35:4153,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,Martin Vicenik,1428,Not Checked,,
+217.197.151.182:5678,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,PREROV,916,Yes,103.2,8/8
+217.197.151.182:5678,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,PREROV,992,Yes,103.2,8/8
+78.111.112.118:4145,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,ISP Alliance a.s.,847,Yes,95.2,8/8
+194.1.188.8:60606,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,IT PROFI s.r.o,910,Yes,101.4,8/8
+81.162.195.35:4153,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,Martin Vicenik,952,Yes,103.0,8/8
+81.162.195.35:4153,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,Martin Vicenik,1958,Not Checked,,
+85.163.43.208:48293,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,CETIN a.s.,4725,Not Checked,,
