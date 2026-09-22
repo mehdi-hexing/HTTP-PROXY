@@ -1,20 +1,18 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-185.68.28.79:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,space Plzensky kraj,1473,Yes,97.9,8/8
-185.68.28.79:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,space Plzensky kraj,1627,Yes,97.9,8/8
-31.31.78.117:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,WEDOS Internet,3119,Not Checked,,
-195.181.220.235:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,CLOUD-SMART,4052,Not Checked,,
-46.229.114.132:40000,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,Alberon rule,5069,Not Checked,,
-91.227.97.113:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,CCS Ceska spolecnost pro platebni karty s.r.o.,4543,Not Checked,,
-31.31.78.117:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,WEDOS Internet,3354,Not Checked,,
-195.181.220.235:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,CLOUD-SMART,3279,Not Checked,,
-46.229.114.132:40000,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,Alberon rule,3216,Not Checked,,
-91.227.97.113:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,CCS Ceska spolecnost pro platebni karty s.r.o.,3210,Not Checked,,
-152.233.16.174:9443,HTTP_TLS,Czechia,CZ,🇨🇿,45,medium,Yes,Datacamp Limited,1479,Not Checked,,
-152.233.16.161:9443,HTTP_TLS,Czechia,CZ,🇨🇿,45,medium,Yes,Datacamp Limited,1464,Not Checked,,
-152.233.16.161:9443,HTTP_TLS,Czechia,CZ,🇨🇿,45,medium,Yes,Datacamp Limited,1578,Not Checked,,
-176.102.64.4:443,HTTP_TLS,Czechia,CZ,🇨🇿,50,medium,No,SecurityNet.cz s.r.o.,3345,Not Checked,,
-176.102.64.4:443,HTTP_TLS,Czechia,CZ,🇨🇿,50,medium,No,SecurityNet.cz s.r.o.,4175,Not Checked,,
-185.216.35.130:9443,HTTP_TLS,Czechia,CZ,🇨🇿,73,high,Yes,M247 Europe SRL,3049,Not Checked,,
-185.216.35.130:9443,HTTP_TLS,Czechia,CZ,🇨🇿,73,high,Yes,M247 Europe SRL,4355,Not Checked,,
-185.216.35.130:443,HTTP_TLS,Czechia,CZ,🇨🇿,73,high,Yes,M247 Europe SRL,3084,Not Checked,,
-185.216.35.66:9443,HTTP_TLS,Czechia,CZ,🇨🇿,73,high,Yes,M247 Europe SRL,3421,Not Checked,,
+31.31.78.117:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,WEDOS Internet,2344,Yes,93.2,8/8
+195.181.220.235:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,CLOUD-SMART,2759,Yes,92.0,8/8
+185.68.28.79:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,space Plzensky kraj,1497,Yes,94.1,8/8
+185.68.28.79:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,space Plzensky kraj,1680,Yes,94.1,8/8
+195.181.220.235:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,CLOUD-SMART,4150,Not Checked,,
+46.229.114.132:40000,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,Alberon rule,3466,Not Checked,,
+91.227.97.113:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,CCS Ceska spolecnost pro platebni karty s.r.o.,4700,Not Checked,,
+31.31.78.117:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,WEDOS Internet,3491,Not Checked,,
+91.227.97.113:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,CCS Ceska spolecnost pro platebni karty s.r.o.,3694,Not Checked,,
+46.229.114.132:40000,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,Alberon rule,3747,Not Checked,,
+152.233.16.174:9443,HTTP_TLS,Czechia,CZ,🇨🇿,45,medium,Yes,Datacamp Limited,1483,Not Checked,,
+152.233.16.161:9443,HTTP_TLS,Czechia,CZ,🇨🇿,45,medium,Yes,Datacamp Limited,1353,Not Checked,,
+152.233.16.161:9443,HTTP_TLS,Czechia,CZ,🇨🇿,45,medium,Yes,Datacamp Limited,1449,Not Checked,,
+176.102.64.4:443,HTTP_TLS,Czechia,CZ,🇨🇿,50,medium,No,SecurityNet.cz s.r.o.,3560,Not Checked,,
+176.102.64.4:443,HTTP_TLS,Czechia,CZ,🇨🇿,50,medium,No,SecurityNet.cz s.r.o.,3628,Not Checked,,
+185.216.35.66:9443,HTTP_TLS,Czechia,CZ,🇨🇿,73,high,Yes,M247 Europe SRL,3175,Not Checked,,
+185.216.35.130:443,HTTP_TLS,Czechia,CZ,🇨🇿,73,high,Yes,M247 Europe SRL,2638,Not Checked,,

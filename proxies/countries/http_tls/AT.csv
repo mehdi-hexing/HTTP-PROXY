@@ -1,10 +1,12 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-195.192.209.130:443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,2554,No,,0/8
-195.192.209.130:8443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,3447,Not Checked,,
-195.192.209.130:9443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,4502,Not Checked,,
-195.192.209.130:443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,3603,Not Checked,,
-195.192.209.130:9443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,3366,Not Checked,,
-195.192.209.130:8443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,3568,Not Checked,,
-146.70.244.2:9443,HTTP_TLS,Austria,AT,🇦🇹,38,medium,Yes,M247 Europe SRL,1876,Not Checked,,
-146.70.244.18:9443,HTTP_TLS,Austria,AT,🇦🇹,38,medium,Yes,M247 Europe SRL,2266,Not Checked,,
-146.70.244.18:9443,HTTP_TLS,Austria,AT,🇦🇹,38,medium,Yes,M247 Europe SRL,3120,Not Checked,,
+178.115.238.253:443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,customers with static IP,2445,Yes,105.3,8/8
+195.192.209.130:443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,1813,No,,0/8
+195.192.209.130:443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,2904,No,,0/8
+195.192.209.130:9443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,2867,No,,0/8
+195.192.209.130:9443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,4418,Not Checked,,
+195.192.209.130:8443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,4928,Not Checked,,
+178.115.238.253:443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,customers with static IP,3349,Not Checked,,
+195.192.209.130:8443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,3057,Not Checked,,
+146.70.244.2:9443,HTTP_TLS,Austria,AT,🇦🇹,38,medium,Yes,M247 Europe SRL,1776,Not Checked,,
+146.70.244.18:9443,HTTP_TLS,Austria,AT,🇦🇹,38,medium,Yes,M247 Europe SRL,2074,Not Checked,,
+146.70.244.18:9443,HTTP_TLS,Austria,AT,🇦🇹,38,medium,Yes,M247 Europe SRL,3541,Not Checked,,
