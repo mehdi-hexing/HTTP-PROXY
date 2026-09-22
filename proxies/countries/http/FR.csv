@@ -1,9 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-5.250.179.191:3128,HTTP,France,FR,🇫🇷,0,low,Yes,IONOS SE,10557,Not Checked,,
-5.250.181.197:3128,HTTP,France,FR,🇫🇷,0,low,Yes,IONOS SE,17914,Not Checked,,
-92.42.108.132:8080,HTTP,France,FR,🇫🇷,0,low,No,velia.net Internetdienste GmbH,12467,Not Checked,,
-13.38.217.179:42820,HTTP,France,FR,🇫🇷,1,low,No,Amazon Technologies Inc.,2147,Not Checked,,
-208.115.214.157:3128,HTTP,France,FR,🇫🇷,38,medium,No,"Limestone Networks, Inc.",1233,Not Checked,,
-208.115.214.157:3128,HTTP,France,FR,🇫🇷,38,medium,No,"Limestone Networks, Inc.",6003,Not Checked,,
-217.182.195.221:30004,HTTP,France,FR,🇫🇷,42,medium,No,OVH SAS,4219,Not Checked,,
-79.137.78.133:8010,HTTP,France,FR,🇫🇷,42,medium,No,OVH SAS,5289,Not Checked,,
+37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,7794,Yes,108.4,8/8
+191.44.91.60:8080,HTTP,France,FR,🇫🇷,0,low,No,High Speed For Internet Services L.L.C,11293,Not Checked,,
+92.42.108.132:8080,HTTP,France,FR,🇫🇷,0,low,No,velia.net Internetdienste GmbH,13350,Not Checked,,
+37.59.125.131:8888,HTTP,France,FR,🇫🇷,10,low,Yes,OVH SAS,1544,Not Checked,,
+37.59.125.131:8888,HTTP,France,FR,🇫🇷,10,low,Yes,OVH SAS,2343,Not Checked,,
+217.182.195.221:30004,HTTP,France,FR,🇫🇷,42,medium,No,OVH SAS,8018,Not Checked,,
+79.137.78.133:8010,HTTP,France,FR,🇫🇷,42,medium,No,OVH SAS,1103,Not Checked,,
