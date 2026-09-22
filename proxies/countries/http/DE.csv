@@ -1,17 +1,22 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-193.135.9.6:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG,6524,Yes,88.0,8/8
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,804,Yes,82.1,8/8
-43.157.98.90:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Shenzhen Tencent Computer Systems Company Limited,2650,Yes,76.7,8/8
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,1277,Yes,82.1,8/8
-13.143.128.118:3128,HTTP,Germany,DE,🇩🇪,0,low,No,DpkgSoft International Limited,2795,Yes,88.9,8/8
-2.27.63.250:8118,HTTP,Germany,DE,🇩🇪,0,low,No,Kyonix Networks Limited,900,Yes,93.1,7/8
-47.91.89.3:20,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,12449,Not Checked,,
-47.91.89.3:176,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,12536,Not Checked,,
-64.188.71.169:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Senko Digital LLC,13002,Not Checked,,
-185.166.196.14:8443,HTTP,Germany,DE,🇩🇪,3,low,No,"Timeweb, LLP",18784,Not Checked,,
-167.86.104.220:80,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,3278,Not Checked,,
-194.163.175.167:40000,HTTP,Germany,DE,🇩🇪,16,low,Yes,Contabo GmbH,3352,Not Checked,,
-194.163.175.167:40001,HTTP,Germany,DE,🇩🇪,16,low,Yes,Contabo GmbH,2563,Not Checked,,
-152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,23,medium,No,netcup GmbH,3870,Not Checked,,
-89.163.231.2:3128,HTTP,Germany,DE,🇩🇪,33,medium,No,WIIT AG,5379,Not Checked,,
-89.163.231.2:3128,HTTP,Germany,DE,🇩🇪,33,medium,No,WIIT AG,5028,Not Checked,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,971,Yes,81.5,8/8
+2.27.63.250:8118,HTTP,Germany,DE,🇩🇪,0,low,No,Kyonix Networks Limited,1084,Yes,92.1,7/8
+64.188.71.169:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Senko Digital LLC,3442,No,,0/8
+8.209.96.245:8082,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7595,Not Checked,,
+8.211.42.167:6379,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7586,Not Checked,,
+47.91.89.3:8443,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,7585,Not Checked,,
+82.115.25.57:9898,HTTP,Germany,DE,🇩🇪,0,low,No,BitCommand LLC,5319,Not Checked,,
+144.31.255.9:1080,HTTP,Germany,DE,🇩🇪,7,low,No,U1 DIGITAL SERVICES LTD,14771,Not Checked,,
+159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,10,low,No,netcup GmbH,4680,Not Checked,,
+167.86.111.116:3128,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,5877,Not Checked,,
+167.86.104.220:80,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,6400,Not Checked,,
+161.97.119.1:8888,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,8179,Not Checked,,
+194.163.175.167:40001,HTTP,Germany,DE,🇩🇪,16,low,Yes,Contabo GmbH,7906,Not Checked,,
+157.173.120.204:3128,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,8647,Not Checked,,
+152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,23,medium,No,netcup GmbH,2595,Not Checked,,
+172.236.210.118:3128,HTTP,Germany,DE,🇩🇪,24,medium,No,"Akamai Technologies, Inc.",14757,Not Checked,,
+46.165.213.243:3128,HTTP,Germany,DE,🇩🇪,28,medium,No,LeaseWeb DE,3054,Not Checked,,
+89.163.231.2:3128,HTTP,Germany,DE,🇩🇪,33,medium,No,WIIT AG,6680,Not Checked,,
+193.187.148.198:8118,HTTP,Germany,DE,🇩🇪,49,medium,No,M247 Europe SRL,1556,Not Checked,,
+165.22.95.133:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1018,Not Checked,,
+165.22.95.133:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",11030,Not Checked,,

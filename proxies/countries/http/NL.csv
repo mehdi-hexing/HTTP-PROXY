@@ -1,34 +1,83 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-145.220.227.6:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,3038,Yes,91.1,8/8
-145.220.227.6:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,3991,Yes,91.1,8/8
-145.220.227.7:9050,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,4872,Yes,92.8,7/8
-145.220.227.1:9050,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,2343,Yes,93.3,6/8
-145.220.227.1:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,2991,Yes,93.3,6/8
-145.220.227.2:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,6586,Yes,88.9,6/8
-145.220.227.4:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,8190,Yes,90.1,5/8
-145.220.227.5:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,3044,Yes,93.2,4/8
-145.220.227.2:9050,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,9688,Not Checked,,
-145.220.227.5:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,9543,Not Checked,,
-145.220.227.2:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,13798,Not Checked,,
-145.220.227.7:1080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,8437,Not Checked,,
-145.220.227.7:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,8557,Not Checked,,
-145.220.227.4:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,11039,Not Checked,,
-145.220.227.4:1080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,11454,Not Checked,,
-145.220.227.2:1080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,12715,Not Checked,,
-45.80.151.33:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,Hostgw SRL,15545,Not Checked,,
-194.58.57.116:3128,HTTP,Netherlands,NL,🇳🇱,3,low,No,"Timeweb, LLP",8136,Not Checked,,
-83.217.222.237:3128,HTTP,Netherlands,NL,🇳🇱,3,low,No,"Timeweb, LLP",7477,Not Checked,,
-144.124.251.24:10453,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,957,Not Checked,,
-144.124.251.24:10819,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1272,Not Checked,,
-144.124.251.24:10628,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1529,Not Checked,,
-144.124.251.24:10164,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1051,Not Checked,,
-144.124.251.24:10485,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,9443,Not Checked,,
-144.124.251.24:10605,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,986,Not Checked,,
-144.124.251.24:10412,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1106,Not Checked,,
-144.124.251.24:10813,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,17641,Not Checked,,
-144.124.251.24:10485,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,3509,Not Checked,,
-144.124.251.24:10551,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1049,Not Checked,,
-213.111.146.36:18080,HTTP,Netherlands,NL,🇳🇱,10,low,Yes,SOLLUTIUM EU Sp z.o.o.,1158,Not Checked,,
-95.211.174.135:3128,HTTP,Netherlands,NL,🇳🇱,12,low,Yes,LeaseWeb Netherlands B.V.,804,Not Checked,,
-191.44.71.238:8080,HTTP,Netherlands,NL,🇳🇱,33,medium,No,High Speed For Internet Services L.L.C,14243,Not Checked,,
-191.44.71.236:8080,HTTP,Netherlands,NL,🇳🇱,33,medium,No,High Speed For Internet Services L.L.C,15665,Not Checked,,
+145.220.227.3:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,1980,Yes,91.5,8/8
+145.220.227.6:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,1969,Yes,93.3,8/8
+145.220.227.7:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,1973,Yes,95.2,8/8
+145.220.227.7:1080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,1982,Yes,95.2,8/8
+144.31.252.120:8443,HTTP,Netherlands,NL,🇳🇱,0,low,No,U1 DIGITAL SERVICES LTD,963,Yes,87.8,8/8
+185.94.164.182:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,First Server Limited,4147,Yes,84.6,8/8
+145.220.227.2:1080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,1516,Yes,91.0,7/8
+145.220.227.4:1080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,1958,Yes,94.5,6/8
+145.220.227.4:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,4007,Yes,96.8,6/8
+145.220.227.4:9050,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,3231,Yes,96.8,6/8
+145.220.227.3:1080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,3973,Yes,91.8,5/8
+145.220.227.7:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,4161,Yes,94.6,5/8
+145.220.227.5:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,1948,Yes,91.2,5/8
+145.220.227.3:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,4354,Yes,91.8,5/8
+145.220.227.4:9050,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,926,Timeout,,
+145.220.227.6:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,932,Timeout,,
+145.220.227.6:1080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,5323,Not Checked,,
+145.220.227.1:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,5094,Not Checked,,
+145.220.227.1:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,6574,Not Checked,,
+145.220.227.7:9050,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,17412,Not Checked,,
+145.220.227.3:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,8841,Not Checked,,
+145.220.227.2:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,7515,Not Checked,,
+178.217.101.168:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,Iron Hosting Centre LTD,7321,Not Checked,,
+145.220.227.7:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,9282,Not Checked,,
+145.220.227.7:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,9384,Not Checked,,
+145.220.227.2:9050,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,11063,Not Checked,,
+145.220.227.5:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,12383,Not Checked,,
+145.220.227.5:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,12401,Not Checked,,
+145.220.227.4:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,6843,Not Checked,,
+145.220.227.6:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,15751,Not Checked,,
+145.220.227.1:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,16349,Not Checked,,
+145.220.227.3:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,11737,Not Checked,,
+145.220.227.2:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,12233,Not Checked,,
+145.220.227.6:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,7877,Not Checked,,
+145.220.227.7:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,11100,Not Checked,,
+145.220.227.6:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,5011,Not Checked,,
+145.220.227.7:1080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,6377,Not Checked,,
+160.238.65.3:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,GZ REMITTANCE (CHINA) INDUSTRY LIMITED,9469,Not Checked,,
+144.124.251.24:10819,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1033,Not Checked,,
+144.124.251.24:10164,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,923,Not Checked,,
+144.124.251.24:10628,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,2216,Not Checked,,
+144.124.251.24:10605,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1001,Not Checked,,
+144.124.251.24:10412,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,940,Not Checked,,
+144.124.251.24:10813,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,9222,Not Checked,,
+144.124.251.24:10551,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1027,Not Checked,,
+144.124.251.24:10808,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1412,Not Checked,,
+144.124.251.24:10601,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,909,Not Checked,,
+144.124.251.24:10800,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,953,Not Checked,,
+144.124.251.24:10279,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,920,Not Checked,,
+144.124.251.24:11108,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1314,Not Checked,,
+144.124.251.24:10465,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,950,Not Checked,,
+144.124.251.24:10086,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1005,Not Checked,,
+144.124.251.24:10176,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,974,Not Checked,,
+144.124.251.24:10484,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1253,Not Checked,,
+144.124.251.24:10555,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,992,Not Checked,,
+144.124.251.24:10877,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,927,Not Checked,,
+144.124.251.24:10366,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1215,Not Checked,,
+144.124.251.24:10809,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,954,Not Checked,,
+144.124.251.24:10610,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1253,Not Checked,,
+144.124.251.24:10101,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1202,Not Checked,,
+144.124.251.24:10744,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1132,Not Checked,,
+144.124.251.24:10334,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,945,Not Checked,,
+144.124.251.24:10594,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,932,Not Checked,,
+144.124.251.24:10274,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1225,Not Checked,,
+144.124.251.24:10117,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,2202,Not Checked,,
+144.124.251.24:10878,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,4955,Not Checked,,
+144.124.251.24:10812,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,925,Not Checked,,
+144.124.251.24:10082,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,960,Not Checked,,
+144.124.251.24:10808,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,930,Not Checked,,
+144.124.251.24:10551,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,982,Not Checked,,
+144.124.251.24:10226,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,975,Not Checked,,
+144.124.251.24:10628,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1323,Not Checked,,
+144.124.251.24:10526,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1158,Not Checked,,
+144.124.251.24:10101,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1186,Not Checked,,
+213.111.146.36:18080,HTTP,Netherlands,NL,🇳🇱,10,low,Yes,SOLLUTIUM EU Sp z.o.o.,8524,Not Checked,,
+213.111.146.36:18080,HTTP,Netherlands,NL,🇳🇱,10,low,Yes,SOLLUTIUM EU Sp z.o.o.,6383,Not Checked,,
+193.233.211.220:8443,HTTP,Netherlands,NL,🇳🇱,11,low,No,Aeza International LTD,1084,Not Checked,,
+95.211.174.135:3128,HTTP,Netherlands,NL,🇳🇱,12,low,Yes,LeaseWeb Netherlands B.V.,928,Not Checked,,
+95.211.174.135:3128,HTTP,Netherlands,NL,🇳🇱,12,low,Yes,LeaseWeb Netherlands B.V.,1184,Not Checked,,
+191.44.71.136:8080,HTTP,Netherlands,NL,🇳🇱,33,medium,No,High Speed For Internet Services L.L.C,11131,Not Checked,,
+191.44.71.236:8080,HTTP,Netherlands,NL,🇳🇱,33,medium,No,High Speed For Internet Services L.L.C,4623,Not Checked,,
+191.44.71.238:8080,HTTP,Netherlands,NL,🇳🇱,33,medium,No,High Speed For Internet Services L.L.C,8054,Not Checked,,

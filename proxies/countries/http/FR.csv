@@ -1,8 +1,15 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,7794,Yes,108.4,8/8
-191.44.91.60:8080,HTTP,France,FR,🇫🇷,0,low,No,High Speed For Internet Services L.L.C,11293,Not Checked,,
-92.42.108.132:8080,HTTP,France,FR,🇫🇷,0,low,No,velia.net Internetdienste GmbH,13350,Not Checked,,
-37.59.125.131:8888,HTTP,France,FR,🇫🇷,10,low,Yes,OVH SAS,1544,Not Checked,,
-37.59.125.131:8888,HTTP,France,FR,🇫🇷,10,low,Yes,OVH SAS,2343,Not Checked,,
-217.182.195.221:30004,HTTP,France,FR,🇫🇷,42,medium,No,OVH SAS,8018,Not Checked,,
-79.137.78.133:8010,HTTP,France,FR,🇫🇷,42,medium,No,OVH SAS,1103,Not Checked,,
+92.42.108.132:8080,HTTP,France,FR,🇫🇷,0,low,No,velia.net Internetdienste GmbH,3346,Yes,85.8,8/8
+92.119.127.212:6005,HTTP,France,FR,🇫🇷,0,low,No,velia.net Internetdienste GmbH,1398,Yes,86.2,8/8
+37.187.109.70:10111,HTTP,France,FR,🇫🇷,0,low,No,OVH SAS,16967,Not Checked,,
+37.59.125.131:8888,HTTP,France,FR,🇫🇷,10,low,Yes,OVH SAS,1153,Not Checked,,
+37.59.125.131:8888,HTTP,France,FR,🇫🇷,10,low,Yes,OVH SAS,2387,Not Checked,,
+163.172.129.144:3128,HTTP,France,FR,🇫🇷,35,medium,No,Scaleway SAS,19176,Not Checked,,
+163.172.189.255:3128,HTTP,France,FR,🇫🇷,35,medium,No,Scaleway SAS,7916,Not Checked,,
+163.172.129.144:3128,HTTP,France,FR,🇫🇷,35,medium,No,Scaleway SAS,12309,Not Checked,,
+79.137.78.133:8009,HTTP,France,FR,🇫🇷,42,medium,No,OVH SAS,1205,Not Checked,,
+79.137.78.133:8010,HTTP,France,FR,🇫🇷,42,medium,No,OVH SAS,1304,Not Checked,,
+217.182.195.221:30005,HTTP,France,FR,🇫🇷,42,medium,No,OVH SAS,6042,Not Checked,,
+213.32.70.99:3128,HTTP,France,FR,🇫🇷,42,medium,No,OVH SAS,1052,Not Checked,,
+213.32.70.99:3128,HTTP,France,FR,🇫🇷,42,medium,No,OVH SAS,1011,Not Checked,,
+79.137.78.133:8009,HTTP,France,FR,🇫🇷,42,medium,No,OVH SAS,1252,Not Checked,,
