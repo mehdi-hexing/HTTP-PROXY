@@ -1,9 +1,18 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,1221,Yes,83.2,8/8
-82.115.25.57:9898,HTTP,Germany,DE,🇩🇪,0,low,No,BitCommand LLC,1251,Yes,85.2,8/8
-8.211.49.86:9050,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",10824,Not Checked,,
-8.211.42.167:3129,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",11701,Not Checked,,
-8.209.96.245:4002,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,12814,Not Checked,,
-93.115.175.190:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Chsl ONE LTD,11180,Not Checked,,
-173.249.50.95:3128,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,3471,Not Checked,,
-152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,23,medium,No,netcup GmbH,4556,Not Checked,,
+43.157.98.90:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Shenzhen Tencent Computer Systems Company Limited,1260,Yes,75.5,7/8
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,4077,Yes,81.2,7/8
+8.211.49.86:2002,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7503,No,,0/8
+8.209.96.245:45,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7487,No,,0/8
+8.211.51.115:4000,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7526,No,,0/8
+8.211.51.115:9050,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7525,No,,0/8
+8.211.51.115:8889,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7517,No,,0/8
+47.91.89.3:1080,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,7479,No,,0/8
+8.211.51.115:104,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7533,No,,0/8
+8.211.42.167:9080,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7485,No,,0/8
+8.211.42.167:8181,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7484,No,,0/8
+64.188.71.169:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Senko Digital LLC,13465,Not Checked,,
+169.58.34.213:3137,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,1028,Not Checked,,
+152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,23,medium,No,netcup GmbH,5226,Not Checked,,
+152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,23,medium,No,netcup GmbH,6529,Not Checked,,
+89.163.231.2:3128,HTTP,Germany,DE,🇩🇪,33,medium,No,WIIT AG,869,Not Checked,,
+139.162.134.21:3128,HTTP,Germany,DE,🇩🇪,53,medium,No,"Akamai Technologies, Inc.",4345,Not Checked,,

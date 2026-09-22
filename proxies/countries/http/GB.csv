@@ -1,7 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-8.211.200.183:84,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",10765,Not Checked,,
-8.211.195.173:1080,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",13771,Not Checked,,
-3.10.170.234:3128,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Amazon Technologies Inc.,1717,Not Checked,,
-3.10.170.234:3128,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Amazon Technologies Inc.,1773,Not Checked,,
-134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,"DigitalOcean, LLC",1128,Not Checked,,
-134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,"DigitalOcean, LLC",1133,Not Checked,,
+87.236.167.19:808,HTTP,United Kingdom,GB,🇬🇧,0,low,No,MYHOSTING365,1411,Yes,348.4,6/8
+8.211.200.183:6379,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7413,No,,0/8
+8.211.194.78:9080,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",9291,Not Checked,,
+8.211.195.173:8008,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",10476,Not Checked,,
+3.10.170.234:3128,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Amazon Technologies Inc.,1052,Not Checked,,
+18.175.170.244:3128,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Amazon Technologies Inc.,3970,Not Checked,,
+3.10.170.234:3128,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Amazon Technologies Inc.,909,Not Checked,,
+134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,"DigitalOcean, LLC",690,Not Checked,,
+134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,"DigitalOcean, LLC",698,Not Checked,,
+154.61.56.215:3118,HTTP,United Kingdom,GB,🇬🇧,100,very_high,No,Youfibre LTD,781,Not Checked,,
