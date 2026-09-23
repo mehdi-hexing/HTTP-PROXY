@@ -1,57 +1,45 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-31.172.173.58:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Sarl Ard-com,1245,Yes,90.4,8/8
-31.172.173.58:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Sarl Ard-com,3222,Yes,90.2,8/8
-193.49.168.100:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Renater,3912,No,,0/8
-81.93.27.76:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Sewan Communications,3912,No,,0/8
-81.93.27.76:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Sewan Communications,2501,No,,0/8
-147.210.214.60:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Renater,2816,No,,0/8
-147.210.214.62:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Renater,2824,No,,0/8
-193.49.168.100:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Renater,2299,No,,0/8
-193.49.168.97:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Renater,2647,No,,0/8
-194.254.206.88:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Renater,3241,No,,0/8
-91.193.106.60:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Axess OnLine SARL,1366,No,,0/8
-91.193.106.60:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Axess OnLine SARL,1322,No,,0/8
-178.237.108.214:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Eolas - Business & Decision Group - datacenter MA,8579,Not Checked,,
-89.234.183.82:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Groupe PulseHeberg,7573,Not Checked,,
-217.108.6.203:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Orange S.A.,7528,Not Checked,,
-194.254.206.88:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Renater,5722,Not Checked,,
-147.210.214.60:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Renater,5203,Not Checked,,
-193.49.168.97:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Renater,6041,Not Checked,,
-147.210.214.62:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Renater,4742,Not Checked,,
-149.12.210.39:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Cogent Communications,7180,Not Checked,,
-82.64.67.179:443,HTTP_TLS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,6372,Not Checked,,
-82.64.46.151:443,HTTP_TLS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,1451,Not Checked,,
-82.64.46.151:8007,HTTP_TLS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,1493,Not Checked,,
-82.64.46.151:8007,HTTP_TLS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,1575,Not Checked,,
-82.64.46.151:8012,HTTP_TLS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,1653,Not Checked,,
-82.64.46.151:8012,HTTP_TLS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,3137,Not Checked,,
-82.64.46.151:443,HTTP_TLS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,4025,Not Checked,,
-82.64.46.151:8013,HTTP_TLS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,1455,Not Checked,,
-82.64.46.151:8013,HTTP_TLS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,1412,Not Checked,,
-37.59.112.197:443,HTTP_TLS,France,FR,🇫🇷,20,medium,No,OVH SAS,6296,Not Checked,,
-37.59.110.73:443,HTTP_TLS,France,FR,🇫🇷,20,medium,No,OVH SAS,11203,Not Checked,,
-62.210.70.194:443,HTTP_TLS,France,FR,🇫🇷,35,medium,No,Scaleway SAS,5465,Not Checked,,
-62.210.27.111:443,HTTP_TLS,France,FR,🇫🇷,35,medium,No,Scaleway SAS,4992,Not Checked,,
-62.210.147.2:443,HTTP_TLS,France,FR,🇫🇷,35,medium,No,Scaleway SAS,5968,Not Checked,,
-62.210.70.194:443,HTTP_TLS,France,FR,🇫🇷,35,medium,No,Scaleway SAS,3469,Not Checked,,
-51.15.135.81:443,HTTP_TLS,France,FR,🇫🇷,36,medium,No,SCALEWAY,7614,Not Checked,,
-164.132.229.148:443,HTTP_TLS,France,FR,🇫🇷,42,medium,No,OVH SAS,5961,Not Checked,,
-51.38.179.176:443,HTTP_TLS,France,FR,🇫🇷,42,medium,No,OVH SAS,8752,Not Checked,,
-51.75.21.24:443,HTTP_TLS,France,FR,🇫🇷,42,medium,No,OVH SAS,5675,Not Checked,,
-178.32.221.95:443,HTTP_TLS,France,FR,🇫🇷,42,medium,No,OVH SAS,5631,Not Checked,,
-79.137.85.144:443,HTTP_TLS,France,FR,🇫🇷,42,medium,No,OVH SAS,5835,Not Checked,,
-213.139.9.129:9443,HTTP_TLS,France,FR,🇫🇷,45,medium,Yes,Datacamp Limited,2722,Not Checked,,
-213.139.9.129:9443,HTTP_TLS,France,FR,🇫🇷,45,medium,Yes,Datacamp Limited,1911,Not Checked,,
-146.70.253.194:9443,HTTP_TLS,France,FR,🇫🇷,58,medium,Yes,M247 Europe SRL,1639,Not Checked,,
-146.70.253.130:9443,HTTP_TLS,France,FR,🇫🇷,58,medium,Yes,M247 Europe SRL,1404,Not Checked,,
-146.70.253.130:9443,HTTP_TLS,France,FR,🇫🇷,58,medium,Yes,M247 Europe SRL,1540,Not Checked,,
-138.199.47.247:9443,HTTP_TLS,France,FR,🇫🇷,69,high,Yes,Datacamp Limited,3342,Not Checked,,
-138.199.47.193:9443,HTTP_TLS,France,FR,🇫🇷,69,high,Yes,Datacamp Limited,1776,Not Checked,,
-37.120.158.226:443,HTTP_TLS,France,FR,🇫🇷,73,high,Yes,M247 Europe SRL,1175,Not Checked,,
-37.120.158.226:9443,HTTP_TLS,France,FR,🇫🇷,73,high,Yes,M247 Europe SRL,1213,Not Checked,,
-37.120.158.226:9443,HTTP_TLS,France,FR,🇫🇷,73,high,Yes,M247 Europe SRL,1319,Not Checked,,
-37.120.158.226:443,HTTP_TLS,France,FR,🇫🇷,73,high,Yes,M247 Europe SRL,1344,Not Checked,,
-37.120.158.194:443,HTTP_TLS,France,FR,🇫🇷,73,high,Yes,M247 Europe SRL,1143,Not Checked,,
-37.120.158.194:9443,HTTP_TLS,France,FR,🇫🇷,73,high,Yes,M247 Europe SRL,1388,Not Checked,,
-37.120.158.194:443,HTTP_TLS,France,FR,🇫🇷,73,high,Yes,M247 Europe SRL,1458,Not Checked,,
-37.120.158.194:9443,HTTP_TLS,France,FR,🇫🇷,73,high,Yes,M247 Europe SRL,1517,Not Checked,,
+31.172.173.58:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Sarl Ard-com,1969,Yes,90.2,8/8
+178.237.108.214:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Eolas - Business & Decision Group - datacenter MA,5208,Yes,100.3,8/8
+149.12.210.39:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Cogent Communications,4950,Yes,86.0,8/8
+91.193.106.60:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Axess OnLine SARL,1899,No,,0/8
+91.193.106.60:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Axess OnLine SARL,1905,No,,0/8
+217.108.6.203:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Orange S.A.,5521,No,,0/8
+194.254.206.88:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Renater,9188,Not Checked,,
+31.172.173.58:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Sarl Ard-com,5889,Not Checked,,
+89.234.183.82:443,HTTP_TLS,France,FR,🇫🇷,0,low,No,Groupe PulseHeberg,6173,Not Checked,,
+82.64.46.151:443,HTTP_TLS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,2013,Not Checked,,
+82.64.46.151:8007,HTTP_TLS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,2177,Not Checked,,
+82.64.46.151:8007,HTTP_TLS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,2213,Not Checked,,
+82.64.46.151:8012,HTTP_TLS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,2863,Not Checked,,
+82.64.46.151:443,HTTP_TLS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,5621,Not Checked,,
+82.64.46.151:8012,HTTP_TLS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,5963,Not Checked,,
+82.64.46.151:8013,HTTP_TLS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,1952,Not Checked,,
+82.64.46.151:8013,HTTP_TLS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,2010,Not Checked,,
+82.64.67.179:443,HTTP_TLS,France,FR,🇫🇷,1,low,No,Proxad / Free SAS,4971,Not Checked,,
+37.59.112.197:443,HTTP_TLS,France,FR,🇫🇷,20,medium,No,OVH SAS,6234,Not Checked,,
+37.59.110.73:443,HTTP_TLS,France,FR,🇫🇷,20,medium,No,OVH SAS,11527,Not Checked,,
+62.210.70.194:443,HTTP_TLS,France,FR,🇫🇷,35,medium,No,Scaleway SAS,8070,Not Checked,,
+62.210.147.2:443,HTTP_TLS,France,FR,🇫🇷,35,medium,No,Scaleway SAS,5040,Not Checked,,
+62.210.27.111:443,HTTP_TLS,France,FR,🇫🇷,35,medium,No,Scaleway SAS,4959,Not Checked,,
+51.15.135.81:443,HTTP_TLS,France,FR,🇫🇷,36,medium,No,SCALEWAY,6515,Not Checked,,
+51.38.179.176:443,HTTP_TLS,France,FR,🇫🇷,42,medium,No,OVH SAS,5958,Not Checked,,
+164.132.229.148:443,HTTP_TLS,France,FR,🇫🇷,42,medium,No,OVH SAS,5596,Not Checked,,
+51.75.21.24:443,HTTP_TLS,France,FR,🇫🇷,42,medium,No,OVH SAS,4731,Not Checked,,
+79.137.85.144:443,HTTP_TLS,France,FR,🇫🇷,42,medium,No,OVH SAS,6495,Not Checked,,
+178.32.221.95:443,HTTP_TLS,France,FR,🇫🇷,42,medium,No,OVH SAS,4759,Not Checked,,
+213.139.9.129:9443,HTTP_TLS,France,FR,🇫🇷,45,medium,Yes,Datacamp Limited,6814,Not Checked,,
+213.139.9.129:9443,HTTP_TLS,France,FR,🇫🇷,45,medium,Yes,Datacamp Limited,5280,Not Checked,,
+146.70.253.194:9443,HTTP_TLS,France,FR,🇫🇷,58,medium,Yes,M247 Europe SRL,3088,Not Checked,,
+146.70.253.130:9443,HTTP_TLS,France,FR,🇫🇷,58,medium,Yes,M247 Europe SRL,2754,Not Checked,,
+146.70.253.130:9443,HTTP_TLS,France,FR,🇫🇷,58,medium,Yes,M247 Europe SRL,3028,Not Checked,,
+138.199.47.247:9443,HTTP_TLS,France,FR,🇫🇷,69,high,Yes,Datacamp Limited,4468,Not Checked,,
+138.199.47.193:9443,HTTP_TLS,France,FR,🇫🇷,69,high,Yes,Datacamp Limited,4971,Not Checked,,
+37.120.158.226:9443,HTTP_TLS,France,FR,🇫🇷,73,high,Yes,M247 Europe SRL,1918,Not Checked,,
+37.120.158.226:443,HTTP_TLS,France,FR,🇫🇷,73,high,Yes,M247 Europe SRL,1913,Not Checked,,
+37.120.158.226:443,HTTP_TLS,France,FR,🇫🇷,73,high,Yes,M247 Europe SRL,1945,Not Checked,,
+37.120.158.226:9443,HTTP_TLS,France,FR,🇫🇷,73,high,Yes,M247 Europe SRL,1955,Not Checked,,
+37.120.158.194:443,HTTP_TLS,France,FR,🇫🇷,73,high,Yes,M247 Europe SRL,1997,Not Checked,,
+37.120.158.194:9443,HTTP_TLS,France,FR,🇫🇷,73,high,Yes,M247 Europe SRL,2104,Not Checked,,
+37.120.158.194:443,HTTP_TLS,France,FR,🇫🇷,73,high,Yes,M247 Europe SRL,2239,Not Checked,,
+37.120.158.194:9443,HTTP_TLS,France,FR,🇫🇷,73,high,Yes,M247 Europe SRL,2918,Not Checked,,

@@ -1,7 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-43.251.18.20:443,HTTP_TLS,Malaysia,MY,🇲🇾,0,low,No,Jabatan Digital Negara,3805,No,,0/8
-210.48.154.99:443,HTTP_TLS,Malaysia,MY,🇲🇾,0,low,No,TM ONE DC,7015,Not Checked,,
-47.254.229.162:443,HTTP_TLS,Malaysia,MY,🇲🇾,0,low,No,Alibaba Cloud LLC,7732,Not Checked,,
-43.251.18.20:443,HTTP_TLS,Malaysia,MY,🇲🇾,0,low,No,Jabatan Digital Negara,7215,Not Checked,,
-210.19.96.163:443,HTTP_TLS,Malaysia,MY,🇲🇾,1,low,No,TT DOTCOM SDN BHD,6339,Not Checked,,
-152.233.3.1:9443,HTTP_TLS,Malaysia,MY,🇲🇾,45,medium,Yes,Datacamp Limited,3553,Not Checked,,
+113.23.216.129:9088,HTTP_TLS,Malaysia,MY,🇲🇾,0,low,No,Extreme Broadband,2688,Yes,236.5,8/8
+113.23.216.128:9088,HTTP_TLS,Malaysia,MY,🇲🇾,0,low,No,Extreme Broadband,3663,Yes,234.1,8/8
+210.48.154.99:443,HTTP_TLS,Malaysia,MY,🇲🇾,0,low,No,TM ONE DC,4863,Yes,238.3,8/8
+43.251.18.20:443,HTTP_TLS,Malaysia,MY,🇲🇾,0,low,No,Jabatan Digital Negara,3713,No,,0/8
+113.23.216.129:9088,HTTP_TLS,Malaysia,MY,🇲🇾,0,low,No,Extreme Broadband,8992,Not Checked,,
+113.23.216.128:9088,HTTP_TLS,Malaysia,MY,🇲🇾,0,low,No,Extreme Broadband,8210,Not Checked,,
+47.254.229.162:443,HTTP_TLS,Malaysia,MY,🇲🇾,0,low,No,Alibaba Cloud LLC,6028,Not Checked,,
+210.19.96.163:443,HTTP_TLS,Malaysia,MY,🇲🇾,1,low,No,TT DOTCOM SDN BHD,5189,Not Checked,,
+152.233.3.1:9443,HTTP_TLS,Malaysia,MY,🇲🇾,45,medium,Yes,Datacamp Limited,3677,Not Checked,,
