@@ -1,11 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-102.164.212.90:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,Jenny Internet cc,9047,Not Checked,,
-160.119.51.209:8088,HTTP,South Africa,ZA,🇿🇦,0,low,No,Municipal Network Services,15913,Not Checked,,
-13.246.6.135:10809,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon Technologies Inc,5392,Not Checked,,
-154.117.154.194:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,BitCo,7522,Not Checked,,
-154.117.154.194:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,BitCo,5551,Not Checked,,
-102.212.46.79:12354,HTTP,South Africa,ZA,🇿🇦,0,low,No,OM-SN-46/24,5106,Not Checked,,
-13.244.203.188:10689,HTTP,South Africa,ZA,🇿🇦,3,low,No,"Amazon.com, Inc.",3778,Not Checked,,
-13.244.203.188:49025,HTTP,South Africa,ZA,🇿🇦,3,low,No,"Amazon.com, Inc.",3046,Not Checked,,
-13.244.203.188:16842,HTTP,South Africa,ZA,🇿🇦,3,low,No,"Amazon.com, Inc.",3970,Not Checked,,
-13.245.161.189:8457,HTTP,South Africa,ZA,🇿🇦,3,low,No,"Amazon.com, Inc.",2883,Not Checked,,
+154.117.154.194:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,BitCo,5516,Yes,255.2,8/8
+16.28.101.55:8800,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,3711,No,,0/8
+16.28.101.55:39177,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,5965,No,,0/8
+105.22.37.218:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,SEACOM Limited Networks,9266,Not Checked,,
+196.251.222.222:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,Info-Gro (PTY) Ltd,10099,Not Checked,,
+196.251.222.154:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,Info-Gro (PTY) Ltd,10637,Not Checked,,
+13.244.203.188:38318,HTTP,South Africa,ZA,🇿🇦,3,low,No,"Amazon.com, Inc.",3554,Not Checked,,
+13.244.203.188:20494,HTTP,South Africa,ZA,🇿🇦,3,low,No,"Amazon.com, Inc.",2805,Not Checked,,
+154.66.159.34:800,HTTP,South Africa,ZA,🇿🇦,7,low,No,Wirulink Pty Ltd,18196,Not Checked,,
