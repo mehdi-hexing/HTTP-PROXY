@@ -1,4 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-62.60.231.45:10809,HTTP,Sweden,SE,🇸🇪,0,low,No,Aeza International LTD,8595,Not Checked,,
-185.58.115.185:8080,HTTP,Sweden,SE,🇸🇪,4,low,No,Baykov Ilya Sergeevich,3594,Not Checked,,
-185.58.115.185:8080,HTTP,Sweden,SE,🇸🇪,4,low,No,Baykov Ilya Sergeevich,1083,Not Checked,,
+62.60.231.45:10809,HTTP,Sweden,SE,🇸🇪,0,low,No,Aeza International LTD,1873,Yes,104.3,8/8
+62.60.231.45:10808,HTTP,Sweden,SE,🇸🇪,0,low,No,Aeza International LTD,5294,Yes,100.8,8/8
+13.60.163.108:59507,HTTP,Sweden,SE,🇸🇪,3,low,No,"Amazon.com, Inc.",1740,Not Checked,,
+185.58.115.185:8080,HTTP,Sweden,SE,🇸🇪,4,low,No,Baykov Ilya Sergeevich,1404,Not Checked,,
+46.59.120.87:81,HTTP,Sweden,SE,🇸🇪,4,low,No,Bahnhof Internet,1291,Not Checked,,
+13.53.139.178:30380,HTTP,Sweden,SE,🇸🇪,6,low,No,Amazon Technologies Inc.,4961,Not Checked,,
+13.53.139.178:11138,HTTP,Sweden,SE,🇸🇪,6,low,No,Amazon Technologies Inc.,2333,Not Checked,,
