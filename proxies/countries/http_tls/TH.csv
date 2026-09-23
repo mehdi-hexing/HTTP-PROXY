@@ -1,11 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.58.150.11:9443,HTTP_TLS,Thailand,TH,🇹🇭,0,low,Yes,"Dot Enterprise Co., Ltd.",2600,Yes,249.8,8/8
-150.95.26.146:7081,HTTP_TLS,Thailand,TH,🇹🇭,0,low,No,GMO-Z.COM PTE. LTD.,4464,Not Checked,,
-150.95.26.146:7081,HTTP_TLS,Thailand,TH,🇹🇭,0,low,No,GMO-Z.COM PTE. LTD.,4951,Not Checked,,
-103.58.150.11:443,HTTP_TLS,Thailand,TH,🇹🇭,0,low,Yes,"Dot Enterprise Co., Ltd.",2641,Not Checked,,
-103.58.150.11:443,HTTP_TLS,Thailand,TH,🇹🇭,0,low,Yes,"Dot Enterprise Co., Ltd.",2661,Not Checked,,
-103.58.150.11:9443,HTTP_TLS,Thailand,TH,🇹🇭,0,low,Yes,"Dot Enterprise Co., Ltd.",2660,Not Checked,,
-103.22.182.254:9443,HTTP_TLS,Thailand,TH,🇹🇭,0,low,Yes,Readyidc Company Limited,2950,Not Checked,,
-103.22.182.254:9443,HTTP_TLS,Thailand,TH,🇹🇭,0,low,Yes,Readyidc Company Limited,3038,Not Checked,,
-103.40.138.14:443,HTTP_TLS,Thailand,TH,🇹🇭,2,low,No,"United Information Highway Co., Ltd.",5433,Not Checked,,
-103.40.138.14:443,HTTP_TLS,Thailand,TH,🇹🇭,2,low,No,"United Information Highway Co., Ltd.",4104,Not Checked,,
+103.58.150.11:443,HTTP_TLS,Thailand,TH,🇹🇭,0,low,Yes,"Dot Enterprise Co., Ltd.",3267,Yes,247.7,8/8
+103.58.150.11:9443,HTTP_TLS,Thailand,TH,🇹🇭,0,low,Yes,"Dot Enterprise Co., Ltd.",3298,Yes,247.7,8/8
+103.58.150.11:443,HTTP_TLS,Thailand,TH,🇹🇭,0,low,Yes,"Dot Enterprise Co., Ltd.",3082,Yes,247.7,8/8
+103.58.150.11:9443,HTTP_TLS,Thailand,TH,🇹🇭,0,low,Yes,"Dot Enterprise Co., Ltd.",3129,Yes,247.7,8/8
+150.95.26.146:7081,HTTP_TLS,Thailand,TH,🇹🇭,0,low,No,GMO-Z.COM PTE. LTD.,7377,Not Checked,,
+150.95.26.146:7081,HTTP_TLS,Thailand,TH,🇹🇭,0,low,No,GMO-Z.COM PTE. LTD.,6235,Not Checked,,
+103.22.182.254:9443,HTTP_TLS,Thailand,TH,🇹🇭,0,low,Yes,Readyidc Company Limited,5336,Not Checked,,
+103.22.182.254:9443,HTTP_TLS,Thailand,TH,🇹🇭,0,low,Yes,Readyidc Company Limited,4358,Not Checked,,
+103.40.138.14:443,HTTP_TLS,Thailand,TH,🇹🇭,2,low,No,"United Information Highway Co., Ltd.",9043,Not Checked,,
