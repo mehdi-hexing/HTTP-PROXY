@@ -1,9 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-113.160.188.21:1080,SOCKS5,Vietnam,VN,🇻🇳,0,low,No,VietNam Post and Telecom Corporation,2374,Not Checked,,
-115.74.200.4:1080,SOCKS5,Vietnam,VN,🇻🇳,0,low,No,VIETELxdsl,4285,Not Checked,,
-160.30.113.24:1080,SOCKS5,Vietnam,VN,🇻🇳,0,low,No,MAYCHUMANG,3804,Not Checked,,
-160.22.17.4:9988,SOCKS5,Vietnam,VN,🇻🇳,0,low,No,VNPT Corp,2455,Not Checked,,
-171.234.162.101:1083,SOCKS5,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,2353,Not Checked,,
-171.234.162.101:1083,SOCKS5,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,2337,Not Checked,,
-171.234.162.101:1081,SOCKS5,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,2334,Not Checked,,
-160.187.0.89:1080,SOCKS5,Vietnam,VN,🇻🇳,100,very_high,No,Online Data Company Limited,1939,Not Checked,,
+160.22.17.4:9988,SOCKS5,Vietnam,VN,🇻🇳,0,low,No,VNPT Corp,1752,Yes,286.0,1/8
+14.225.204.32:10800,SOCKS5,Vietnam,VN,🇻🇳,0,low,No,Vietnam Posts and Telecommunications Group,3816,Not Checked,,
+115.74.200.4:1080,SOCKS5,Vietnam,VN,🇻🇳,0,low,No,VIETELxdsl,5666,Not Checked,,
+157.66.26.151:1080,SOCKS5,Vietnam,VN,🇻🇳,0,low,No,DIENTUTPT,6270,Not Checked,,
+171.234.162.101:1084,SOCKS5,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,2507,Not Checked,,
