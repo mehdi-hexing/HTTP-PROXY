@@ -1,13 +1,16 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-8.221.139.222:666,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7743,No,,0/8
-8.221.138.111:31433,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7572,No,,0/8
-8.221.141.88:9992,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",10906,Not Checked,,
-47.74.46.81:31433,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,10629,Not Checked,,
-47.74.46.81:98,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,8927,Not Checked,,
-140.227.61.201:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,11320,Not Checked,,
-52.195.147.51:3128,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,2067,Not Checked,,
-54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1347,Not Checked,,
-140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,5,low,No,Oracle Corporation,17153,Not Checked,,
-108.61.160.231:1080,HTTP,Japan,JP,🇯🇵,37,medium,No,Choopa,19090,Not Checked,,
-139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,53,medium,No,"Akamai Technologies, Inc.",1004,Not Checked,,
-45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,80,high,No,Zenlayer Inc,7826,Not Checked,,
+8.221.138.111:19,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7787,No,,0/8
+8.221.138.111:46691,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7794,No,,0/8
+8.221.141.88:1527,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",11119,Not Checked,,
+47.91.29.151:8080,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba.com LLC,10011,Not Checked,,
+140.227.61.201:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,10545,Not Checked,,
+54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1907,Not Checked,,
+54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1881,Not Checked,,
+34.84.162.206:38080,HTTP,Japan,JP,🇯🇵,2,low,No,Google LLC,1892,Not Checked,,
+35.78.212.217:10808,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",3430,Not Checked,,
+140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,5,low,No,Oracle Corporation,1326,Not Checked,,
+140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,5,low,No,Oracle Corporation,1316,Not Checked,,
+139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,53,medium,No,"Akamai Technologies, Inc.",1311,Not Checked,,
+139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,53,medium,No,"Akamai Technologies, Inc.",1304,Not Checked,,
+172.104.88.46:3128,HTTP,Japan,JP,🇯🇵,55,medium,No,Akamai Technologies,3372,Not Checked,,
+172.104.88.46:3128,HTTP,Japan,JP,🇯🇵,55,medium,No,Akamai Technologies,13147,Not Checked,,
