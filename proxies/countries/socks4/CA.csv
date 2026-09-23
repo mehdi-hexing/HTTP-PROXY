@@ -1,4 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-24.37.245.42:51056,SOCKS4,Canada,CA,🇨🇦,0,low,No,Le Groupe Videotron Ltee,5487,Not Checked,,
-162.216.185.241:1084,SOCKS4,Canada,CA,🇨🇦,0,low,No,Lyttonnet,3869,Not Checked,,
-69.70.74.118:1337,SOCKS4,Canada,CA,🇨🇦,2,low,No,Videotron Ltee,1396,Not Checked,,
+162.216.185.241:1084,SOCKS4,Canada,CA,🇨🇦,0,low,No,Lyttonnet,1412,Yes,238.2,5/8
+142.112.52.229:8443,SOCKS4,Canada,CA,🇨🇦,0,low,No,Bell Canada,623,No,,0/8
+162.216.185.241:1084,SOCKS4,Canada,CA,🇨🇦,0,low,No,Lyttonnet,5543,Not Checked,,
+69.70.74.118:1337,SOCKS4,Canada,CA,🇨🇦,2,low,No,Videotron Ltee,5777,Not Checked,,
+69.70.74.118:1337,SOCKS4,Canada,CA,🇨🇦,2,low,No,Videotron Ltee,1680,Not Checked,,
