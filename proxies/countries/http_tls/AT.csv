@@ -1,12 +1,12 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-178.115.238.253:443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,customers with static IP,3978,Yes,107.7,8/8
-195.192.209.130:443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,6052,Not Checked,,
-195.192.209.130:8443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,7500,Not Checked,,
-195.192.209.130:9443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,7857,Not Checked,,
-178.115.238.253:443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,customers with static IP,5610,Not Checked,,
-195.192.209.130:443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,4920,Not Checked,,
-195.192.209.130:9443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,6320,Not Checked,,
-195.192.209.130:8443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,6512,Not Checked,,
-146.70.244.2:9443,HTTP_TLS,Austria,AT,🇦🇹,38,medium,Yes,M247 Europe SRL,2876,Not Checked,,
-146.70.244.18:9443,HTTP_TLS,Austria,AT,🇦🇹,38,medium,Yes,M247 Europe SRL,3620,Not Checked,,
-146.70.244.18:9443,HTTP_TLS,Austria,AT,🇦🇹,38,medium,Yes,M247 Europe SRL,5041,Not Checked,,
+195.192.209.130:443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,1933,No,,0/8
+195.192.209.130:9443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,2478,No,,0/8
+195.192.209.130:8443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,3179,Not Checked,,
+195.192.209.130:9443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,3107,Not Checked,,
+178.115.238.253:443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,customers with static IP,3445,Not Checked,,
+195.192.209.130:443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,3652,Not Checked,,
+195.192.209.130:8443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,2870,Not Checked,,
+178.115.238.253:443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,customers with static IP,2655,Not Checked,,
+146.70.244.2:9443,HTTP_TLS,Austria,AT,🇦🇹,38,medium,Yes,M247 Europe SRL,1976,Not Checked,,
+146.70.244.18:9443,HTTP_TLS,Austria,AT,🇦🇹,38,medium,Yes,M247 Europe SRL,1988,Not Checked,,
+146.70.244.18:9443,HTTP_TLS,Austria,AT,🇦🇹,38,medium,Yes,M247 Europe SRL,2913,Not Checked,,
