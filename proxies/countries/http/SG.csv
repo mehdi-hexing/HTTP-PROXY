@@ -1,29 +1,42 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-43.156.166.134:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,4197,Yes,259.1,8/8
-43.156.153.104:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,1982,Yes,250.5,8/8
-101.32.246.32:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Aceville Pte.ltd,2558,Yes,260.7,8/8
-101.32.241.115:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Aceville Pte.ltd,1611,Yes,267.1,8/8
-43.128.109.40:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,4998,Yes,259.6,8/8
-43.156.153.104:8081,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,3569,Yes,250.5,8/8
-43.156.166.134:8081,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,1744,Yes,260.2,8/8
-101.32.241.115:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Aceville Pte.ltd,2060,Yes,267.1,8/8
-43.128.109.40:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,3270,Yes,259.6,8/8
-101.32.246.32:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Aceville Pte.ltd,5203,Yes,260.0,8/8
-43.156.153.104:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,3512,Yes,250.5,8/8
-8.219.229.53:118,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7917,Not Checked,,
-47.237.107.41:5060,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",9581,Not Checked,,
-47.237.113.119:10080,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7942,Not Checked,,
-47.237.92.86:8118,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",9089,Not Checked,,
-47.237.2.245:9080,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7913,Not Checked,,
-43.128.109.40:8081,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,8255,Not Checked,,
-47.129.105.10:26878,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc,9110,Not Checked,,
-129.150.53.35:3128,HTTP,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation,1591,Not Checked,,
-129.150.53.35:3128,HTTP,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation,1569,Not Checked,,
-13.251.124.107:3128,HTTP,Singapore,SG,🇸🇬,3,low,No,"Amazon.com, Inc.",11530,Not Checked,,
-51.79.147.161:30007,HTTP,Singapore,SG,🇸🇬,7,low,No,OVH SAS,10332,Not Checked,,
-172.236.134.44:3128,HTTP,Singapore,SG,🇸🇬,24,medium,No,"Akamai Technologies, Inc.",1685,Not Checked,,
-172.236.134.44:3128,HTTP,Singapore,SG,🇸🇬,24,medium,No,"Akamai Technologies, Inc.",2200,Not Checked,,
-167.172.84.23:3128,HTTP,Singapore,SG,🇸🇬,51,medium,No,"DigitalOcean, LLC",1570,Not Checked,,
-128.199.202.122:8080,HTTP,Singapore,SG,🇸🇬,51,medium,No,"DigitalOcean, LLC",1571,Not Checked,,
-167.172.84.23:3128,HTTP,Singapore,SG,🇸🇬,51,medium,No,"DigitalOcean, LLC",1554,Not Checked,,
-128.199.202.122:8080,HTTP,Singapore,SG,🇸🇬,51,medium,No,"DigitalOcean, LLC",1582,Not Checked,,
+43.128.86.102:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,3487,Yes,257.2,8/8
+43.128.109.40:8081,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,5760,Yes,258.5,8/8
+43.156.153.104:8081,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,4087,Yes,247.4,8/8
+101.32.241.115:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Aceville Pte.ltd,3554,Yes,266.3,8/8
+43.156.166.134:8081,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,2478,Yes,256.6,8/8
+43.128.109.40:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,2833,Yes,258.8,8/8
+101.32.241.115:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Aceville Pte.ltd,3077,Yes,266.3,8/8
+101.32.246.32:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Aceville Pte.ltd,4405,Yes,259.9,8/8
+8.219.74.197:8081,HTTP,Singapore,SG,🇸🇬,0,low,No,Alibaba Cloud (Singapore) Private Limited,1684,Yes,278.8,8/8
+43.156.26.108:11080,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,3223,Yes,269.6,8/8
+43.153.209.201:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,1840,Yes,257.3,8/8
+43.156.166.134:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,3564,Yes,256.6,8/8
+43.128.86.102:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,2180,Yes,257.3,8/8
+43.98.172.166:3128,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",2709,Yes,273.6,7/8
+43.128.109.40:8081,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,7522,No,,0/8
+47.237.113.119:8081,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8029,Not Checked,,
+8.219.229.53:118,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8029,Not Checked,,
+47.237.2.245:9080,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8023,Not Checked,,
+101.32.246.32:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Aceville Pte.ltd,11377,Not Checked,,
+43.128.109.40:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,9207,Not Checked,,
+47.237.92.86:5060,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8006,Not Checked,,
+31.57.178.211:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi,13708,Not Checked,,
+8.222.175.80:6128,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",11855,Not Checked,,
+101.32.242.173:3128,HTTP,Singapore,SG,🇸🇬,0,low,No,Aceville Pte.ltd,8156,Not Checked,,
+43.156.153.104:8081,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,7760,Not Checked,,
+47.237.107.41:28,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8029,Not Checked,,
+54.255.90.26:3128,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.,7325,Not Checked,,
+129.150.53.35:3128,HTTP,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation,5968,Not Checked,,
+47.129.130.0:38509,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc,2925,Not Checked,,
+47.129.130.0:9443,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc,5240,Not Checked,,
+158.178.245.95:3128,HTTP,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation,1690,Not Checked,,
+18.142.95.213:38141,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,3842,Not Checked,,
+51.79.147.161:30007,HTTP,Singapore,SG,🇸🇬,7,low,No,OVH SAS,4607,Not Checked,,
+103.164.55.81:3128,HTTP,Singapore,SG,🇸🇬,20,medium,Yes,Contabo Asia Private Limited,1733,Not Checked,,
+172.236.134.44:3128,HTTP,Singapore,SG,🇸🇬,24,medium,No,"Akamai Technologies, Inc.",3555,Not Checked,,
+192.46.230.254:3128,HTTP,Singapore,SG,🇸🇬,41,medium,No,Akamai Technologies,10191,Not Checked,,
+128.199.202.122:8080,HTTP,Singapore,SG,🇸🇬,51,medium,No,"DigitalOcean, LLC",1736,Not Checked,,
+167.172.84.23:3128,HTTP,Singapore,SG,🇸🇬,51,medium,No,"DigitalOcean, LLC",5067,Not Checked,,
+128.199.202.122:8080,HTTP,Singapore,SG,🇸🇬,51,medium,No,"DigitalOcean, LLC",1702,Not Checked,,
+178.128.223.15:3128,HTTP,Singapore,SG,🇸🇬,54,medium,No,"DigitalOcean, LLC",2594,Not Checked,,
+178.128.223.15:3128,HTTP,Singapore,SG,🇸🇬,54,medium,No,"DigitalOcean, LLC",13083,Not Checked,,
