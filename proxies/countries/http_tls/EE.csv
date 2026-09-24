@@ -1,7 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-185.145.4.165:443,HTTP_TLS,Estonia,EE,🇪🇪,0,low,No,Geenet OY,2950,Yes,110.2,8/8
-95.153.31.66:9443,HTTP_TLS,Estonia,EE,🇪🇪,0,low,No,TELE2/SWIPNET,2381,Yes,103.5,8/8
-95.153.31.66:443,HTTP_TLS,Estonia,EE,🇪🇪,0,low,No,TELE2/SWIPNET,2873,Yes,103.5,8/8
-95.153.31.66:9443,HTTP_TLS,Estonia,EE,🇪🇪,0,low,No,TELE2/SWIPNET,3907,Not Checked,,
-95.153.31.66:443,HTTP_TLS,Estonia,EE,🇪🇪,0,low,No,TELE2/SWIPNET,3881,Not Checked,,
-185.145.4.165:443,HTTP_TLS,Estonia,EE,🇪🇪,0,low,No,Geenet OY,3645,Not Checked,,
+185.145.4.165:443,HTTP_TLS,Estonia,EE,🇪🇪,0,low,No,Geenet OY,3067,Yes,116.1,8/8
+95.153.31.66:9443,HTTP_TLS,Estonia,EE,🇪🇪,0,low,No,TELE2/SWIPNET,2720,Yes,107.3,8/8
+95.153.31.66:443,HTTP_TLS,Estonia,EE,🇪🇪,0,low,No,TELE2/SWIPNET,4534,Yes,106.9,8/8
+95.153.31.66:443,HTTP_TLS,Estonia,EE,🇪🇪,0,low,No,TELE2/SWIPNET,5023,Yes,106.9,8/8
+185.145.4.165:443,HTTP_TLS,Estonia,EE,🇪🇪,0,low,No,Geenet OY,3661,Yes,116.1,8/8
+95.153.32.2:9443,HTTP_TLS,Estonia,EE,🇪🇪,0,low,Yes,Tele2 Sverige AB,3380,Yes,111.0,8/8
+95.153.32.2:443,HTTP_TLS,Estonia,EE,🇪🇪,0,low,Yes,Tele2 Sverige AB,3584,Yes,111.0,8/8
+95.153.31.66:9443,HTTP_TLS,Estonia,EE,🇪🇪,0,low,No,TELE2/SWIPNET,6415,Not Checked,,
