@@ -1,7 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-14.172.88.126:8080,HTTP,Vietnam,VN,🇻🇳,0,low,No,VNPT-VNNIC,22150,Not Checked,,
-115.79.70.69:8470,HTTP,Vietnam,VN,🇻🇳,0,low,No,VIETELftth,12676,Not Checked,,
-103.20.102.155:8182,HTTP,Vietnam,VN,🇻🇳,0,low,No,Thai An Khang,11727,Not Checked,,
-103.56.163.147:3128,HTTP,Vietnam,VN,🇻🇳,0,low,No,INETSOFT,13034,Not Checked,,
-14.232.228.49:8080,HTTP,Vietnam,VN,🇻🇳,1,low,No,VNPT,4687,Not Checked,,
-116.105.27.177:8080,HTTP,Vietnam,VN,🇻🇳,9,low,No,Viettel Group,21054,Not Checked,,
+101.96.96.241:8080,HTTP,Vietnam,VN,🇻🇳,0,low,No,NetNam Corporation,3391,Yes,336.5,8/8
+101.96.105.87:8080,HTTP,Vietnam,VN,🇻🇳,0,low,No,NetNam Corporation,3843,Yes,318.9,8/8
+103.166.185.54:3128,HTTP,Vietnam,VN,🇻🇳,0,low,No,CLOUDFLY,2011,Yes,321.2,8/8
+210.211.113.33:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,4706,No,,0/8
+103.20.102.155:8182,HTTP,Vietnam,VN,🇻🇳,0,low,No,Thai An Khang,11263,Not Checked,,
+103.166.185.54:3128,HTTP,Vietnam,VN,🇻🇳,0,low,No,CLOUDFLY,8368,Not Checked,,
+115.79.70.69:8470,HTTP,Vietnam,VN,🇻🇳,0,low,No,VIETELftth,9850,Not Checked,,
+14.232.228.49:8080,HTTP,Vietnam,VN,🇻🇳,1,low,No,VNPT,10541,Not Checked,,

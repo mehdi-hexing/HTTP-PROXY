@@ -1,13 +1,16 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,1261,Yes,80.0,8/8
-8.211.42.167:8081,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",11064,Not Checked,,
-8.211.51.115:5060,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",20115,Not Checked,,
-8.211.49.86:7777,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",13047,Not Checked,,
-213.135.6.13:8080,HTTP,Germany,DE,🇩🇪,0,low,No,intersaar GmbH,12297,Not Checked,,
-116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,1378,Not Checked,,
-173.249.37.45:5005,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,5762,Not Checked,,
-62.171.168.211:3128,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,20724,Not Checked,,
-152.53.183.107:8082,HTTP,Germany,DE,🇩🇪,23,medium,No,netcup GmbH,4037,Not Checked,,
-82.22.184.158:3128,HTTP,Germany,DE,🇩🇪,46,medium,No,Freakhosting LTD,15918,Not Checked,,
-161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1263,Not Checked,,
-161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1406,Not Checked,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,1133,Yes,78.2,8/8
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,3753,Yes,77.4,8/8
+47.91.89.3:5060,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,7709,No,,0/8
+8.211.42.167:9080,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7916,No,,0/8
+8.211.42.167:544,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7725,No,,0/8
+8.211.49.86:9095,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",8599,Not Checked,,
+8.211.42.167:8005,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",8016,Not Checked,,
+116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,1138,Not Checked,,
+159.195.22.57:80,HTTP,Germany,DE,🇩🇪,10,low,No,netcup GmbH,6048,Not Checked,,
+152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,23,medium,No,netcup GmbH,7345,Not Checked,,
+152.53.183.107:8082,HTTP,Germany,DE,🇩🇪,23,medium,No,netcup GmbH,7924,Not Checked,,
+152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,23,medium,No,netcup GmbH,6612,Not Checked,,
+162.19.242.35:3128,HTTP,Germany,DE,🇩🇪,50,medium,No,OVH SAS,16048,Not Checked,,
+161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1107,Not Checked,,
+161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1140,Not Checked,,
