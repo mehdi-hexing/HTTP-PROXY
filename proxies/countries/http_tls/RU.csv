@@ -1,18 +1,24 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-5.35.100.14:8443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,EuroByte LLC,2840,Yes,74.5,8/8
-82.146.46.31:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,JSC IOT,5502,Yes,66.8,8/8
-84.237.50.69:8182,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,3288,Yes,131.2,7/8
-84.237.50.69:8444,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,4235,Yes,131.2,7/8
-82.147.71.46:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,Adman LLC,5828,Not Checked,,
-84.237.50.69:8443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,6095,Not Checked,,
-84.237.50.69:8182,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,8065,Not Checked,,
-84.237.50.69:8081,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,8545,Not Checked,,
-91.146.45.78:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,MARK-ITT,7942,Not Checked,,
-84.237.50.69:8444,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,7238,Not Checked,,
-92.242.41.77:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,Dataline-own,6571,Not Checked,,
-37.203.243.6:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,DATAPLANET Ltd,6957,Not Checked,,
-46.29.166.134:1446,HTTP_TLS,Russia,RU,🇷🇺,20,medium,No,LLC Baxet,7031,Not Checked,,
-192.159.101.178:9443,HTTP_TLS,Russia,RU,🇷🇺,48,medium,Yes,EstNOC OU,3110,Not Checked,,
-192.159.101.174:9443,HTTP_TLS,Russia,RU,🇷🇺,48,medium,Yes,EstNOC OU,3040,Not Checked,,
-192.159.101.174:9443,HTTP_TLS,Russia,RU,🇷🇺,48,medium,Yes,EstNOC OU,3261,Not Checked,,
-192.159.101.178:9443,HTTP_TLS,Russia,RU,🇷🇺,48,medium,Yes,EstNOC OU,3329,Not Checked,,
+82.146.46.31:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,JSC IOT,4316,Yes,66.3,8/8
+37.203.243.6:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,DATAPLANET Ltd,4658,Yes,78.8,8/8
+84.237.50.69:8444,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,4644,Yes,131.3,7/8
+84.237.50.69:8444,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,5930,Not Checked,,
+92.242.41.77:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,Dataline-own,10764,Not Checked,,
+82.146.46.31:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,JSC IOT,8455,Not Checked,,
+37.203.243.6:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,DATAPLANET Ltd,10222,Not Checked,,
+194.67.110.12:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,"""Domain names registrar REG.RU"", Ltd",8983,Not Checked,,
+84.237.50.69:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,10444,Not Checked,,
+82.147.71.46:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,Adman LLC,12023,Not Checked,,
+138.16.163.249:8443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,Hosting technology LTD,10589,Not Checked,,
+84.237.50.69:8443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,11276,Not Checked,,
+84.237.50.69:8081,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,5520,Not Checked,,
+92.242.41.77:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,Dataline-own,5500,Not Checked,,
+194.67.110.12:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,"""Domain names registrar REG.RU"", Ltd",5325,Not Checked,,
+84.237.50.69:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,6282,Not Checked,,
+5.35.100.14:8443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,EuroByte LLC,6523,Not Checked,,
+46.29.166.134:1446,HTTP_TLS,Russia,RU,🇷🇺,20,medium,No,LLC Baxet,8166,Not Checked,,
+46.29.166.134:1446,HTTP_TLS,Russia,RU,🇷🇺,20,medium,No,LLC Baxet,8443,Not Checked,,
+192.159.101.178:9443,HTTP_TLS,Russia,RU,🇷🇺,48,medium,Yes,EstNOC OU,3005,Not Checked,,
+192.159.101.178:9443,HTTP_TLS,Russia,RU,🇷🇺,48,medium,Yes,EstNOC OU,2983,Not Checked,,
+192.159.101.174:9443,HTTP_TLS,Russia,RU,🇷🇺,48,medium,Yes,EstNOC OU,3207,Not Checked,,
+192.159.101.174:9443,HTTP_TLS,Russia,RU,🇷🇺,48,medium,Yes,EstNOC OU,4449,Not Checked,,

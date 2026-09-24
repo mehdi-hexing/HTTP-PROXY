@@ -1,10 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-195.146.134.204:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,Slovak Telecom AS6855,6577,Not Checked,,
-213.81.148.228:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,Slovak Telecom AS6855,6702,Not Checked,,
-193.87.1.47:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,SANET-AS2607,7969,Not Checked,,
-193.87.1.71:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,SANET-AS2607,8231,Not Checked,,
-158.195.68.53:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,COMUNI,6017,Not Checked,,
-149.102.232.225:9443,HTTP_TLS,Slovakia,SK,🇸🇰,45,medium,Yes,Datacamp Limited,5339,Not Checked,,
-149.102.232.238:9443,HTTP_TLS,Slovakia,SK,🇸🇰,45,medium,Yes,Datacamp Limited,6084,Not Checked,,
-149.102.232.238:9443,HTTP_TLS,Slovakia,SK,🇸🇰,45,medium,Yes,Datacamp Limited,5383,Not Checked,,
-149.102.232.225:9443,HTTP_TLS,Slovakia,SK,🇸🇰,45,medium,Yes,Datacamp Limited,5495,Not Checked,,
+193.87.1.47:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,SANET-AS2607,3272,Yes,94.4,8/8
+213.81.148.228:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,Slovak Telecom AS6855,3973,Yes,104.5,8/8
+193.87.1.71:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,SANET-AS2607,3752,Yes,93.0,8/8
+195.146.134.204:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,Slovak Telecom AS6855,3975,No,,0/8
+158.195.68.53:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,COMUNI,10322,Not Checked,,
+158.195.68.53:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,COMUNI,7567,Not Checked,,
+149.102.232.225:9443,HTTP_TLS,Slovakia,SK,🇸🇰,45,medium,Yes,Datacamp Limited,5599,Not Checked,,
+149.102.232.238:9443,HTTP_TLS,Slovakia,SK,🇸🇰,45,medium,Yes,Datacamp Limited,5556,Not Checked,,
+149.102.232.238:9443,HTTP_TLS,Slovakia,SK,🇸🇰,45,medium,Yes,Datacamp Limited,5515,Not Checked,,
+149.102.232.225:9443,HTTP_TLS,Slovakia,SK,🇸🇰,45,medium,Yes,Datacamp Limited,6487,Not Checked,,

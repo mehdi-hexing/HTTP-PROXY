@@ -1,11 +1,19 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.142.141.5:8443,HTTP_TLS,Finland,FI,🇫🇮,0,low,No,Materialism s.r.l.,8383,Not Checked,,
-35.228.73.198:443,HTTP_TLS,Finland,FI,🇫🇮,2,low,No,Google LLC,5145,Not Checked,,
-65.108.56.95:8443,HTTP_TLS,Finland,FI,🇫🇮,5,low,No,Hetzner Online GmbH,3744,Not Checked,,
-65.109.179.56:8080,HTTP_TLS,Finland,FI,🇫🇮,5,low,No,Hetzner Online GmbH,8021,Not Checked,,
-166.0.9.94:9443,HTTP_TLS,Finland,FI,🇫🇮,45,medium,No,Datacamp Limited,3550,Not Checked,,
-166.0.9.176:9443,HTTP_TLS,Finland,FI,🇫🇮,45,medium,No,Datacamp Limited,4124,Not Checked,,
-166.0.9.162:9443,HTTP_TLS,Finland,FI,🇫🇮,45,medium,No,Datacamp Limited,6120,Not Checked,,
-166.0.9.94:9443,HTTP_TLS,Finland,FI,🇫🇮,45,medium,No,Datacamp Limited,6237,Not Checked,,
-166.0.9.176:9443,HTTP_TLS,Finland,FI,🇫🇮,45,medium,No,Datacamp Limited,5838,Not Checked,,
-166.0.9.162:9443,HTTP_TLS,Finland,FI,🇫🇮,45,medium,No,Datacamp Limited,6674,Not Checked,,
+163.5.153.163:8443,HTTP_TLS,Finland,FI,🇫🇮,0,low,No,Inios Oy,4528,Yes,108.0,8/8
+163.5.153.163:8443,HTTP_TLS,Finland,FI,🇫🇮,0,low,No,Inios Oy,4846,Yes,108.0,8/8
+198.105.124.180:8443,HTTP_TLS,Finland,FI,🇫🇮,0,low,No,Ihor Hosting LTD,3877,Yes,79.7,8/8
+213.214.134.50:443,HTTP_TLS,Finland,FI,🇫🇮,0,low,No,Fujitsu Invia Finland IP-network,2532,No,,0/8
+198.105.124.180:8443,HTTP_TLS,Finland,FI,🇫🇮,0,low,No,Ihor Hosting LTD,6941,Not Checked,,
+45.142.141.5:8443,HTTP_TLS,Finland,FI,🇫🇮,0,low,No,Materialism s.r.l.,10036,Not Checked,,
+213.214.134.50:443,HTTP_TLS,Finland,FI,🇫🇮,0,low,No,Fujitsu Invia Finland IP-network,6109,Not Checked,,
+35.228.73.198:443,HTTP_TLS,Finland,FI,🇫🇮,2,low,No,Google LLC,10678,Not Checked,,
+35.228.73.198:443,HTTP_TLS,Finland,FI,🇫🇮,2,low,No,Google LLC,5747,Not Checked,,
+65.108.56.95:443,HTTP_TLS,Finland,FI,🇫🇮,5,low,No,Hetzner Online GmbH,11999,Not Checked,,
+65.109.179.56:8080,HTTP_TLS,Finland,FI,🇫🇮,5,low,No,Hetzner Online GmbH,7566,Not Checked,,
+65.108.56.95:8443,HTTP_TLS,Finland,FI,🇫🇮,5,low,No,Hetzner Online GmbH,12274,Not Checked,,
+65.108.56.95:443,HTTP_TLS,Finland,FI,🇫🇮,5,low,No,Hetzner Online GmbH,4693,Not Checked,,
+166.0.9.18:9443,HTTP_TLS,Finland,FI,🇫🇮,45,medium,No,Datacamp Limited,2643,Not Checked,,
+166.0.9.18:9443,HTTP_TLS,Finland,FI,🇫🇮,45,medium,No,Datacamp Limited,2615,Not Checked,,
+166.0.9.94:9443,HTTP_TLS,Finland,FI,🇫🇮,45,medium,No,Datacamp Limited,3815,Not Checked,,
+166.0.9.94:9443,HTTP_TLS,Finland,FI,🇫🇮,45,medium,No,Datacamp Limited,7135,Not Checked,,
+166.0.9.130:9443,HTTP_TLS,Finland,FI,🇫🇮,45,medium,No,Datacamp Limited,3244,Not Checked,,
