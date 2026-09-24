@@ -1,4 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-16.18.37.186:28981,HTTP,Switzerland,CH,🇨🇭,2,low,No,"Amazon.com, Inc.",1283,Not Checked,,
-185.195.71.218:18080,HTTP,Switzerland,CH,🇨🇭,16,low,Yes,Datasource AG,1080,Not Checked,,
-185.195.71.218:18080,HTTP,Switzerland,CH,🇨🇭,16,low,Yes,Datasource AG,996,Not Checked,,
+185.191.239.248:3128,HTTP,Switzerland,CH,🇨🇭,0,low,No,Geronimo Ramirez Computer Network,4516,Yes,134.3,7/8
+185.191.239.248:3128,HTTP,Switzerland,CH,🇨🇭,0,low,No,Geronimo Ramirez Computer Network,4321,Yes,129.6,7/8
+91.92.155.207:3128,HTTP,Switzerland,CH,🇨🇭,0,low,No,Akenes SA,1210,Timeout,,
+185.195.71.218:18080,HTTP,Switzerland,CH,🇨🇭,16,low,Yes,Datasource AG,2798,Not Checked,,
+185.195.71.218:18080,HTTP,Switzerland,CH,🇨🇭,16,low,Yes,Datasource AG,4037,Not Checked,,
