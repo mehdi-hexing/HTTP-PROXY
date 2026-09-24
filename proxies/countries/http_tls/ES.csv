@@ -1,16 +1,14 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.147.251.19:8443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,"Kamatera, Inc.",4955,Yes,107.3,8/8
-154.58.204.22:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,UltaHost,3025,Yes,104.0,8/8
-82.194.68.10:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,Hostalia Network,8522,Not Checked,,
-82.194.68.10:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,Hostalia Network,6501,Not Checked,,
-45.147.251.19:8443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,"Kamatera, Inc.",5988,Not Checked,,
-154.58.204.22:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,UltaHost,5302,Not Checked,,
-213.96.140.33:443,HTTP_TLS,Spain,ES,🇪🇸,1,low,No,Telefonica De Espana SAU,5725,Not Checked,,
-213.96.140.33:443,HTTP_TLS,Spain,ES,🇪🇸,1,low,No,Telefonica De Espana SAU,5076,Not Checked,,
-37.222.13.27:443,HTTP_TLS,Spain,ES,🇪🇸,1,low,No,Vodafone Espana S.A.U.,5246,Not Checked,,
-37.222.13.27:443,HTTP_TLS,Spain,ES,🇪🇸,1,low,No,Vodafone Espana S.A.U.,3382,Not Checked,,
-130.195.250.18:443,HTTP_TLS,Spain,ES,🇪🇸,7,low,Yes,M247 Europe SRL,3599,Not Checked,,
-130.195.250.18:9443,HTTP_TLS,Spain,ES,🇪🇸,7,low,Yes,M247 Europe SRL,3918,Not Checked,,
-82.102.17.178:9443,HTTP_TLS,Spain,ES,🇪🇸,21,medium,Yes,M247 LTD Madrid Infrastructure,2524,Not Checked,,
-79.127.139.33:9443,HTTP_TLS,Spain,ES,🇪🇸,45,medium,Yes,Datacamp Limited,4050,Not Checked,,
-79.127.139.33:9443,HTTP_TLS,Spain,ES,🇪🇸,45,medium,Yes,Datacamp Limited,3639,Not Checked,,
+154.58.204.22:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,UltaHost,2337,No,,0/8
+154.58.204.22:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,UltaHost,1967,No,,0/8
+82.194.68.10:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,Hostalia Network,3086,Not Checked,,
+45.147.251.19:8443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,"Kamatera, Inc.",3017,Not Checked,,
+82.194.68.10:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,Hostalia Network,3736,Not Checked,,
+45.147.251.19:8443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,"Kamatera, Inc.",3441,Not Checked,,
+213.96.140.33:443,HTTP_TLS,Spain,ES,🇪🇸,1,low,No,Telefonica De Espana SAU,3491,Not Checked,,
+213.96.140.33:443,HTTP_TLS,Spain,ES,🇪🇸,1,low,No,Telefonica De Espana SAU,3360,Not Checked,,
+37.222.13.27:443,HTTP_TLS,Spain,ES,🇪🇸,1,low,No,Vodafone Espana S.A.U.,1750,Not Checked,,
+37.222.13.27:443,HTTP_TLS,Spain,ES,🇪🇸,1,low,No,Vodafone Espana S.A.U.,1915,Not Checked,,
+130.195.250.18:443,HTTP_TLS,Spain,ES,🇪🇸,7,low,Yes,M247 Europe SRL,1947,Not Checked,,
+130.195.250.18:9443,HTTP_TLS,Spain,ES,🇪🇸,7,low,Yes,M247 Europe SRL,1837,Not Checked,,
+82.102.17.178:9443,HTTP_TLS,Spain,ES,🇪🇸,21,medium,Yes,M247 LTD Madrid Infrastructure,1692,Not Checked,,
