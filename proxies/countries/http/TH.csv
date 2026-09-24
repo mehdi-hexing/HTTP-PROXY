@@ -1,20 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-117.18.127.238:1452,HTTP,Thailand,TH,🇹🇭,0,low,No,READYIDC CO,1886,Yes,277.2,8/8
-47.81.56.193:8888,HTTP,Thailand,TH,🇹🇭,0,low,No,Alibaba.com LLC,2605,Yes,314.1,8/8
-125.26.97.176:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,16409,Not Checked,,
-8.213.195.191:5060,HTTP,Thailand,TH,🇹🇭,0,low,No,Alibaba Cloud (Singapore) Private Limited,8257,Not Checked,,
-8.213.197.208:1081,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8106,Not Checked,,
-8.213.197.208:8888,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8084,Not Checked,,
-8.213.222.157:51,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8088,Not Checked,,
-8.213.222.157:4002,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8107,Not Checked,,
-8.213.215.187:2000,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",11258,Not Checked,,
-203.150.172.151:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,Internet Thailand Company Ltd.,18879,Not Checked,,
-203.150.128.130:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,Internet Thailand Company Ltd,10208,Not Checked,,
-203.150.172.151:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,Internet Thailand Company Ltd.,12910,Not Checked,,
-171.5.187.180:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TRIPLETNET,9641,Not Checked,,
-124.121.5.189:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,True Internet Corporation CO. Ltd.,12776,Not Checked,,
-203.150.128.169:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,Internet Thailand Company Ltd,9134,Not Checked,,
-43.208.134.144:28314,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2773,Not Checked,,
-184.82.136.98:8081,HTTP,Thailand,TH,🇹🇭,3,low,No,AIS-Fibre,14413,Not Checked,,
-180.183.147.231:8080,HTTP,Thailand,TH,🇹🇭,4,low,No,Triple T Broadband Public Company Limited,8038,Not Checked,,
-124.121.183.238:8080,HTTP,Thailand,TH,🇹🇭,13,low,No,TRUE,8920,Not Checked,,
+47.81.56.193:8888,HTTP,Thailand,TH,🇹🇭,0,low,No,Alibaba.com LLC,2216,No,,0/8
+8.213.197.208:80,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",11238,Not Checked,,
+8.213.222.157:3129,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8705,Not Checked,,
+223.205.188.115:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TRIPLETNET,14275,Not Checked,,
+8.213.195.191:3333,HTTP,Thailand,TH,🇹🇭,0,low,No,Alibaba Cloud (Singapore) Private Limited,8424,Not Checked,,
+110.238.113.119:500,HTTP,Thailand,TH,🇹🇭,2,low,No,Huawei International Pte. LTD,8619,Not Checked,,
+43.208.134.144:28314,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",4288,Not Checked,,
