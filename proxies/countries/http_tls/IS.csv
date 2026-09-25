@@ -1,6 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-185.165.170.1:443,HTTP_TLS,Iceland,IS,🇮🇸,0,low,Yes,FlokiNET ehf,2359,Yes,123.3,8/8
-185.165.170.1:9443,HTTP_TLS,Iceland,IS,🇮🇸,0,low,Yes,FlokiNET ehf,2305,Yes,123.6,8/8
-185.165.170.1:443,HTTP_TLS,Iceland,IS,🇮🇸,0,low,Yes,FlokiNET ehf,3551,Yes,123.3,8/8
-185.165.170.1:9443,HTTP_TLS,Iceland,IS,🇮🇸,0,low,Yes,FlokiNET ehf,3639,Not Checked,,
-45.133.192.194:9443,HTTP_TLS,Iceland,IS,🇮🇸,48,medium,Yes,EstNOC OU,2503,Not Checked,,
+185.165.170.1:443,HTTP_TLS,Iceland,IS,🇮🇸,0,low,Yes,FlokiNET ehf,1938,Yes,123.7,7/8
+185.165.170.1:9443,HTTP_TLS,Iceland,IS,🇮🇸,0,low,Yes,FlokiNET ehf,2025,Yes,123.7,7/8
+185.165.170.1:443,HTTP_TLS,Iceland,IS,🇮🇸,0,low,Yes,FlokiNET ehf,2440,Yes,122.4,7/8
+185.165.170.1:9443,HTTP_TLS,Iceland,IS,🇮🇸,0,low,Yes,FlokiNET ehf,2550,Not Checked,,
+45.133.192.194:9443,HTTP_TLS,Iceland,IS,🇮🇸,48,medium,Yes,EstNOC OU,3317,Not Checked,,
+45.133.192.194:443,HTTP_TLS,Iceland,IS,🇮🇸,48,medium,Yes,EstNOC OU,3320,Not Checked,,
+45.133.192.194:9443,HTTP_TLS,Iceland,IS,🇮🇸,48,medium,Yes,EstNOC OU,3975,Not Checked,,

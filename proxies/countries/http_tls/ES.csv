@@ -1,12 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-82.194.68.10:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,Hostalia Network,3552,Yes,101.9,8/8
-45.147.251.19:8443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,"Kamatera, Inc.",3451,Yes,107.4,8/8
-154.58.204.22:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,UltaHost,2596,Yes,98.7,8/8
-82.194.68.10:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,Hostalia Network,5171,Not Checked,,
-45.147.251.19:8443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,"Kamatera, Inc.",4841,Not Checked,,
-213.96.140.33:443,HTTP_TLS,Spain,ES,🇪🇸,1,low,No,Telefonica De Espana SAU,4961,Not Checked,,
-213.96.140.33:443,HTTP_TLS,Spain,ES,🇪🇸,1,low,No,Telefonica De Espana SAU,4098,Not Checked,,
-130.195.250.18:443,HTTP_TLS,Spain,ES,🇪🇸,7,low,Yes,M247 Europe SRL,2639,Not Checked,,
-130.195.250.18:9443,HTTP_TLS,Spain,ES,🇪🇸,7,low,Yes,M247 Europe SRL,2749,Not Checked,,
-130.195.250.34:9443,HTTP_TLS,Spain,ES,🇪🇸,7,low,Yes,M247 Europe SRL,3290,Not Checked,,
-130.195.250.34:9443,HTTP_TLS,Spain,ES,🇪🇸,7,low,Yes,M247 Europe SRL,4261,Not Checked,,
+154.58.204.22:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,UltaHost,2115,Yes,97.3,7/8
+154.58.204.22:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,UltaHost,2187,Yes,97.3,7/8
+82.194.68.10:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,Hostalia Network,2756,Not Checked,,
+45.147.251.19:8443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,"Kamatera, Inc.",2715,Not Checked,,
+82.194.68.10:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,Hostalia Network,2934,Not Checked,,
+45.147.251.19:8443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,"Kamatera, Inc.",2833,Not Checked,,
+213.96.140.33:443,HTTP_TLS,Spain,ES,🇪🇸,1,low,No,Telefonica De Espana SAU,2873,Not Checked,,
+213.96.140.33:443,HTTP_TLS,Spain,ES,🇪🇸,1,low,No,Telefonica De Espana SAU,3043,Not Checked,,
+130.195.250.18:443,HTTP_TLS,Spain,ES,🇪🇸,7,low,Yes,M247 Europe SRL,2046,Not Checked,,
+130.195.250.18:9443,HTTP_TLS,Spain,ES,🇪🇸,7,low,Yes,M247 Europe SRL,2025,Not Checked,,
+130.195.250.34:9443,HTTP_TLS,Spain,ES,🇪🇸,7,low,Yes,M247 Europe SRL,2064,Not Checked,,
+130.195.250.34:9443,HTTP_TLS,Spain,ES,🇪🇸,7,low,Yes,M247 Europe SRL,2569,Not Checked,,
