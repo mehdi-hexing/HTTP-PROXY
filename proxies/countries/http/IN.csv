@@ -1,20 +1,22 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-178.92.72.129:8080,HTTP,India,IN,🇮🇳,0,low,No,Micro Hosting Private Limited,2161,No,,0/8
-178.92.72.68:8080,HTTP,India,IN,🇮🇳,0,low,No,Micro Hosting Private Limited,1813,No,,0/8
-150.241.245.249:8080,HTTP,India,IN,🇮🇳,0,low,No,Micro Hosting Private Limited,1968,No,,0/8
-13.126.183.60:54159,HTTP,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc,3148,No,,0/8
-3.110.68.130:23782,HTTP,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,4972,No,,0/8
-178.92.72.94:8080,HTTP,India,IN,🇮🇳,0,low,No,Micro Hosting Private Limited,2069,No,,0/8
-103.66.12.225:8080,HTTP,India,IN,🇮🇳,0,low,No,Alacriy Net System Service Private Limited,7115,No,,0/8
-13.126.183.60:11826,HTTP,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc,2226,No,,0/8
-3.110.68.130:14188,HTTP,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,3177,No,,0/8
-103.93.193.141:58080,HTTP,India,IN,🇮🇳,0,low,No,Juweriyah Networks Private Limited,15757,Not Checked,,
-14.139.235.82:3128,HTTP,India,IN,🇮🇳,0,low,Yes,National Knowledge Network,16806,Not Checked,,
-103.48.71.58:83,HTTP,India,IN,🇮🇳,0,low,No,Country Online Services PVT LTD,10207,Not Checked,,
-103.41.33.169:58080,HTTP,India,IN,🇮🇳,0,low,No,Juweriyah Networks Private Limited,11790,Not Checked,,
-45.127.56.194:83,HTTP,India,IN,🇮🇳,0,low,No,Pioneer Elabs Ltd,12732,Not Checked,,
-103.74.144.4:83,HTTP,India,IN,🇮🇳,0,low,No,Airmax Internet Private Limited,9875,Not Checked,,
-117.236.124.166:3128,HTTP,India,IN,🇮🇳,2,low,Yes,BSNL Internet,1755,Not Checked,,
-117.236.124.166:3128,HTTP,India,IN,🇮🇳,2,low,Yes,BSNL Internet,1791,Not Checked,,
-13.206.73.237:53575,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",3105,Not Checked,,
-139.59.1.14:8080,HTTP,India,IN,🇮🇳,35,medium,No,DIGITALOCEAN,2117,Not Checked,,
+150.241.245.131:8080,HTTP,India,IN,🇮🇳,0,low,No,Micro Hosting Private Limited,1881,Yes,208.6,8/8
+178.92.72.134:8080,HTTP,India,IN,🇮🇳,0,low,No,Micro Hosting Private Limited,1969,Yes,214.0,8/8
+45.194.3.132:8080,HTTP,India,IN,🇮🇳,0,low,No,CtrlS,2106,Yes,223.5,8/8
+45.194.3.119:8080,HTTP,India,IN,🇮🇳,0,low,No,CtrlS,2147,Yes,225.3,8/8
+178.92.72.154:8080,HTTP,India,IN,🇮🇳,0,low,No,Micro Hosting Private Limited,1908,Yes,212.7,8/8
+154.201.127.46:8080,HTTP,India,IN,🇮🇳,0,low,No,Real Time Data Services Private Limited,2824,Yes,221.7,8/8
+178.92.72.134:8080,HTTP,India,IN,🇮🇳,0,low,No,Micro Hosting Private Limited,1987,Yes,214.2,8/8
+14.139.235.82:3128,HTTP,India,IN,🇮🇳,0,low,Yes,National Knowledge Network,5807,Yes,435.6,7/8
+125.20.128.196:3129,HTTP,India,IN,🇮🇳,0,low,No,BHARTI,2951,Yes,273.9,7/8
+178.92.72.68:8080,HTTP,India,IN,🇮🇳,0,low,No,Micro Hosting Private Limited,1940,No,,0/8
+35.207.196.183:8899,HTTP,India,IN,🇮🇳,0,low,No,Google LLC,2079,No,,0/8
+150.241.245.230:8080,HTTP,India,IN,🇮🇳,0,low,No,Micro Hosting Private Limited,1946,No,,0/8
+103.160.216.105:8080,HTTP,India,IN,🇮🇳,0,low,No,Uteleservices,21013,Not Checked,,
+125.20.128.196:3129,HTTP,India,IN,🇮🇳,0,low,No,BHARTI,11247,Not Checked,,
+52.140.40.92:80,HTTP,India,IN,🇮🇳,0,low,No,Microsoft Corporation,16795,Not Checked,,
+18.61.3.91:33531,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",3708,Not Checked,,
+18.61.3.91:54945,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",3073,Not Checked,,
+172.236.189.209:3128,HTTP,India,IN,🇮🇳,24,medium,No,"Akamai Technologies, Inc.",2122,Not Checked,,
+139.59.1.14:8080,HTTP,India,IN,🇮🇳,35,medium,No,DIGITALOCEAN,1908,Not Checked,,
+139.59.1.14:8080,HTTP,India,IN,🇮🇳,35,medium,No,DIGITALOCEAN,1944,Not Checked,,
+143.244.129.201:9090,HTTP,India,IN,🇮🇳,51,medium,No,"DigitalOcean, LLC",12466,Not Checked,,

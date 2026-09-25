@@ -1,23 +1,21 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-5.129.254.129:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",2128,No,,0/8
-95.163.67.60:8080,HTTP,Russia,RU,🇷🇺,0,low,Yes,DINET-HOSTING,1799,No,,0/8
-5.129.249.123:61925,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1154,No,,0/8
-5.128.189.112:10809,HTTP,Russia,RU,🇷🇺,0,low,No,Novotelecom Ltd,4815,No,,0/8
-5.129.254.129:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1706,No,,0/8
-5.129.254.5:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1771,No,,0/8
-5.129.254.70:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",2436,No,,0/8
-5.129.254.154:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",2432,No,,0/8
-5.129.254.49:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",2388,No,,0/8
-5.128.189.112:10809,HTTP,Russia,RU,🇷🇺,0,low,No,Novotelecom Ltd,5908,No,,0/8
-89.105.153.140:3128,HTTP,Russia,RU,🇷🇺,0,low,No,"Axioma, LLC",5067,No,,0/8
-2.56.178.88:808,HTTP,Russia,RU,🇷🇺,0,low,No,UFO Hosting LLC,2520,No,,0/8
-45.151.102.248:10808,HTTP,Russia,RU,🇷🇺,0,low,Yes,Aeza Group LLC,1311,No,,0/8
-5.166.12.63:4444,HTTP,Russia,RU,🇷🇺,0,low,No,"CJSC ""ER-Telecom Holding"" Yaroslavl' branch",1527,No,,0/8
-89.105.153.140:3128,HTTP,Russia,RU,🇷🇺,0,low,No,"Axioma, LLC",6464,No,,0/8
-91.236.238.103:8080,HTTP,Russia,RU,🇷🇺,0,low,No,TERICOM Ltd,9465,Not Checked,,
-46.188.49.175:3128,HTTP,Russia,RU,🇷🇺,0,low,Yes,2COM,18801,Not Checked,,
-91.233.223.147:3128,HTTP,Russia,RU,🇷🇺,0,low,Yes,Radist LTD,12961,Not Checked,,
-5.128.189.112:10808,HTTP,Russia,RU,🇷🇺,0,low,No,Novotelecom Ltd,17761,Not Checked,,
-84.52.125.113:8082,HTTP,Russia,RU,🇷🇺,0,low,No,WestCall,12525,Not Checked,,
-212.44.134.166:3128,HTTP,Russia,RU,🇷🇺,0,low,No,"PJSC ""Vimpelcom""",8246,Not Checked,,
-195.19.217.200:3128,HTTP,Russia,RU,🇷🇺,0,low,No,MTS PJSC,8749,Not Checked,,
+5.129.249.123:61925,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1281,Yes,72.8,8/8
+5.129.254.70:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1362,Yes,69.8,8/8
+5.129.254.60:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1372,Yes,66.3,8/8
+5.129.254.154:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1385,Yes,73.7,8/8
+89.105.153.140:3128,HTTP,Russia,RU,🇷🇺,0,low,No,"Axioma, LLC",2877,Yes,124.0,8/8
+31.131.248.51:3129,HTTP,Russia,RU,🇷🇺,0,low,No,JSC Selectel,1829,Yes,73.0,8/8
+217.25.228.102:8888,HTTP,Russia,RU,🇷🇺,0,low,No,Informsvyaz-Chernozemye,3684,Yes,85.0,8/8
+45.151.102.248:10808,HTTP,Russia,RU,🇷🇺,0,low,Yes,Aeza Group LLC,5413,Yes,78.0,8/8
+89.105.153.140:3128,HTTP,Russia,RU,🇷🇺,0,low,No,"Axioma, LLC",2889,Yes,123.8,8/8
+159.194.228.40:8888,HTTP,Russia,RU,🇷🇺,0,low,No,Beget LLC,3267,Yes,96.1,8/8
+82.117.87.250:3128,HTTP,Russia,RU,🇷🇺,0,low,No,Aeza Group LLC,1567,Yes,65.1,8/8
+5.129.249.123:56926,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1281,Yes,72.7,8/8
+91.233.223.147:3128,HTTP,Russia,RU,🇷🇺,0,low,Yes,Radist LTD,1828,Yes,93.3,8/8
+5.129.249.123:61925,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1254,Yes,72.9,8/8
+193.124.9.103:3128,HTTP,Russia,RU,🇷🇺,0,low,No,PortTelekom LLC,7870,Yes,250.4,7/8
+84.52.125.113:8082,HTTP,Russia,RU,🇷🇺,0,low,No,WestCall,17346,Not Checked,,
+80.246.16.3:3128,HTTP,Russia,RU,🇷🇺,0,low,No,Server-Center JSC Network,11374,Not Checked,,
+195.19.217.200:3128,HTTP,Russia,RU,🇷🇺,0,low,No,MTS PJSC,11209,Not Checked,,
+46.173.211.221:12880,HTTP,Russia,RU,🇷🇺,0,low,No,Garant-Park-Internet Ltd,13383,Not Checked,,
+193.37.71.46:10808,HTTP,Russia,RU,🇷🇺,17,low,No,International Hosting Company Limited,2172,Not Checked,,

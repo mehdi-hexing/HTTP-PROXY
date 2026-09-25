@@ -1,8 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-47.81.56.193:8888,HTTP,Thailand,TH,🇹🇭,0,low,No,Alibaba.com LLC,2216,No,,0/8
-8.213.197.208:80,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",11238,Not Checked,,
-8.213.222.157:3129,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8705,Not Checked,,
-223.205.188.115:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TRIPLETNET,14275,Not Checked,,
-8.213.195.191:3333,HTTP,Thailand,TH,🇹🇭,0,low,No,Alibaba Cloud (Singapore) Private Limited,8424,Not Checked,,
-110.238.113.119:500,HTTP,Thailand,TH,🇹🇭,2,low,No,Huawei International Pte. LTD,8619,Not Checked,,
-43.208.134.144:28314,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",4288,Not Checked,,
+47.81.56.193:8888,HTTP,Thailand,TH,🇹🇭,0,low,No,Alibaba.com LLC,2020,Yes,258.9,8/8
+8.213.222.157:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8171,Not Checked,,
+8.213.222.157:4000,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",13016,Not Checked,,
+8.213.215.187:80,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",13705,Not Checked,,
+8.213.215.187:8008,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",14042,Not Checked,,
+106.0.158.114:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,Ministry of Education - EMISC,12191,Not Checked,,
+49.48.92.49:8080,HTTP,Thailand,TH,🇹🇭,4,low,No,Triple T Broadband Public Company Limited,4919,Not Checked,,
+180.183.141.8:8080,HTTP,Thailand,TH,🇹🇭,4,low,No,Triple T Broadband Public Company Limited,6081,Not Checked,,
+183.88.214.84:8080,HTTP,Thailand,TH,🇹🇭,4,low,No,Triple T Broadband Public Company Limited,10892,Not Checked,,

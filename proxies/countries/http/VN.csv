@@ -1,10 +1,12 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-101.96.105.87:8080,HTTP,Vietnam,VN,🇻🇳,0,low,No,NetNam Corporation,5777,No,,0/8
-210.211.113.35:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,7894,No,,0/8
-203.205.49.2:10163,HTTP,Vietnam,VN,🇻🇳,0,low,No,CMC Telecom Infrastructure Company,8078,No,,0/8
-103.28.37.131:3128,HTTP,Vietnam,VN,🇻🇳,0,low,No,NhanHoa Software Company,2150,No,,0/8
-210.211.113.36:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,7404,No,,0/8
-103.20.102.155:8182,HTTP,Vietnam,VN,🇻🇳,0,low,No,Thai An Khang,15503,Not Checked,,
-210.211.113.35:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,11394,Not Checked,,
-14.248.84.131:8080,HTTP,Vietnam,VN,🇻🇳,1,low,No,VNPT,9611,Not Checked,,
-118.69.186.75:1452,HTTP,Vietnam,VN,🇻🇳,2,low,No,Vietnam Internet Network Information Center,5377,Not Checked,,
+103.166.185.54:3128,HTTP,Vietnam,VN,🇻🇳,0,low,No,CLOUDFLY,2039,Yes,320.9,8/8
+103.166.185.54:3128,HTTP,Vietnam,VN,🇻🇳,0,low,No,CLOUDFLY,2570,Yes,320.9,8/8
+203.205.49.2:10023,HTTP,Vietnam,VN,🇻🇳,0,low,No,CMC Telecom Infrastructure Company,4061,Yes,268.9,8/8
+103.28.37.131:3128,HTTP,Vietnam,VN,🇻🇳,0,low,No,NhanHoa Software Company,2027,Yes,262.1,8/8
+103.20.102.155:8180,HTTP,Vietnam,VN,🇻🇳,0,low,No,Thai An Khang,6432,Yes,267.4,2/8
+163.181.207.169:9999,HTTP,Vietnam,VN,🇻🇳,0,low,No,"Zhejiang Taobao Network Co., Ltd",2146,Yes,260.7,1/8
+210.211.113.33:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,7156,No,,0/8
+210.211.113.35:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,6391,No,,0/8
+210.211.113.33:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,12068,Not Checked,,
+103.20.102.155:1111,HTTP,Vietnam,VN,🇻🇳,0,low,No,Thai An Khang,23066,Not Checked,,
+14.161.87.244:2001,HTTP,Vietnam,VN,🇻🇳,1,low,No,VNPT,13210,Not Checked,,

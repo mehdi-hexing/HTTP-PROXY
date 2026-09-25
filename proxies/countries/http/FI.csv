@@ -1,6 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-193.29.225.77:8080,HTTP,Finland,FI,🇫🇮,0,low,No,Aeza International LTD,1078,No,,0/8
-193.29.225.77:8080,HTTP,Finland,FI,🇫🇮,0,low,No,Aeza International LTD,1159,No,,0/8
-65.21.201.149:8081,HTTP,Finland,FI,🇫🇮,6,low,No,Hetzner Online GmbH,8003,Not Checked,,
-65.21.201.149:8081,HTTP,Finland,FI,🇫🇮,6,low,No,Hetzner Online GmbH,2012,Not Checked,,
-77.221.158.175:3128,HTTP,Finland,FI,🇫🇮,11,low,No,Aeza International LTD,4110,Not Checked,,
+193.29.225.77:8080,HTTP,Finland,FI,🇫🇮,0,low,No,Aeza International LTD,1398,Yes,98.3,8/8
+193.29.225.77:8080,HTTP,Finland,FI,🇫🇮,0,low,No,Aeza International LTD,5539,Yes,98.0,8/8
+85.209.156.148:1080,HTTP,Finland,FI,🇫🇮,0,low,No,Oy Crea Nova Hosting Solution Ltd,7311,Yes,98.8,5/8
+85.209.156.148:1080,HTTP,Finland,FI,🇫🇮,0,low,No,Oy Crea Nova Hosting Solution Ltd,10122,Not Checked,,
+2.27.53.95:3128,HTTP,Finland,FI,🇫🇮,25,medium,No,DpkgSoft International Limited,15778,Not Checked,,
+2.27.53.95:3128,HTTP,Finland,FI,🇫🇮,25,medium,No,DpkgSoft International Limited,7160,Not Checked,,
