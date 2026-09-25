@@ -1,14 +1,15 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-154.58.204.22:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,UltaHost,2337,No,,0/8
-154.58.204.22:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,UltaHost,1967,No,,0/8
-82.194.68.10:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,Hostalia Network,3086,Not Checked,,
-45.147.251.19:8443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,"Kamatera, Inc.",3017,Not Checked,,
-82.194.68.10:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,Hostalia Network,3736,Not Checked,,
-45.147.251.19:8443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,"Kamatera, Inc.",3441,Not Checked,,
-213.96.140.33:443,HTTP_TLS,Spain,ES,🇪🇸,1,low,No,Telefonica De Espana SAU,3491,Not Checked,,
-213.96.140.33:443,HTTP_TLS,Spain,ES,🇪🇸,1,low,No,Telefonica De Espana SAU,3360,Not Checked,,
-37.222.13.27:443,HTTP_TLS,Spain,ES,🇪🇸,1,low,No,Vodafone Espana S.A.U.,1750,Not Checked,,
-37.222.13.27:443,HTTP_TLS,Spain,ES,🇪🇸,1,low,No,Vodafone Espana S.A.U.,1915,Not Checked,,
-130.195.250.18:443,HTTP_TLS,Spain,ES,🇪🇸,7,low,Yes,M247 Europe SRL,1947,Not Checked,,
-130.195.250.18:9443,HTTP_TLS,Spain,ES,🇪🇸,7,low,Yes,M247 Europe SRL,1837,Not Checked,,
-82.102.17.178:9443,HTTP_TLS,Spain,ES,🇪🇸,21,medium,Yes,M247 LTD Madrid Infrastructure,1692,Not Checked,,
+154.58.204.22:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,UltaHost,3791,Yes,99.5,8/8
+82.194.68.10:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,Hostalia Network,8917,Not Checked,,
+45.147.251.19:8443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,"Kamatera, Inc.",7993,Not Checked,,
+45.147.251.19:8443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,"Kamatera, Inc.",7107,Not Checked,,
+82.194.68.10:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,Hostalia Network,10133,Not Checked,,
+213.96.140.33:443,HTTP_TLS,Spain,ES,🇪🇸,1,low,No,Telefonica De Espana SAU,6181,Not Checked,,
+213.96.140.33:443,HTTP_TLS,Spain,ES,🇪🇸,1,low,No,Telefonica De Espana SAU,6711,Not Checked,,
+37.222.13.27:443,HTTP_TLS,Spain,ES,🇪🇸,1,low,No,Vodafone Espana S.A.U.,5642,Not Checked,,
+37.222.13.27:443,HTTP_TLS,Spain,ES,🇪🇸,1,low,No,Vodafone Espana S.A.U.,3770,Not Checked,,
+130.195.250.18:443,HTTP_TLS,Spain,ES,🇪🇸,7,low,Yes,M247 Europe SRL,3854,Not Checked,,
+130.195.250.18:9443,HTTP_TLS,Spain,ES,🇪🇸,7,low,Yes,M247 Europe SRL,4034,Not Checked,,
+130.195.250.34:9443,HTTP_TLS,Spain,ES,🇪🇸,7,low,Yes,M247 Europe SRL,5623,Not Checked,,
+130.195.250.34:9443,HTTP_TLS,Spain,ES,🇪🇸,7,low,Yes,M247 Europe SRL,5653,Not Checked,,
+82.102.17.178:9443,HTTP_TLS,Spain,ES,🇪🇸,21,medium,Yes,M247 LTD Madrid Infrastructure,2519,Not Checked,,

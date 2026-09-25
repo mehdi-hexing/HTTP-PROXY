@@ -1,6 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-46.246.39.246:443,HTTP_TLS,Sweden,SE,🇸🇪,0,low,Yes,GleSYS AB,2833,No,,0/8
-46.246.39.246:443,HTTP_TLS,Sweden,SE,🇸🇪,0,low,Yes,GleSYS AB,3175,Not Checked,,
-77.221.136.60:8443,HTTP_TLS,Sweden,SE,🇸🇪,11,low,No,Aeza International LTD,3546,Not Checked,,
-77.221.136.60:8443,HTTP_TLS,Sweden,SE,🇸🇪,11,low,No,Aeza International LTD,3367,Not Checked,,
-146.70.242.146:9443,HTTP_TLS,Sweden,SE,🇸🇪,47,medium,Yes,M247 Europe SRL,3315,Not Checked,,
+46.246.39.246:443,HTTP_TLS,Sweden,SE,🇸🇪,0,low,Yes,GleSYS AB,3617,Yes,85.6,8/8
+46.246.39.246:443,HTTP_TLS,Sweden,SE,🇸🇪,0,low,Yes,GleSYS AB,5060,Yes,85.6,8/8
+77.221.136.60:8443,HTTP_TLS,Sweden,SE,🇸🇪,11,low,No,Aeza International LTD,9721,Not Checked,,
+77.221.136.60:8443,HTTP_TLS,Sweden,SE,🇸🇪,11,low,No,Aeza International LTD,9901,Not Checked,,
+146.70.242.146:9443,HTTP_TLS,Sweden,SE,🇸🇪,47,medium,Yes,M247 Europe SRL,5187,Not Checked,,
+146.70.242.130:9443,HTTP_TLS,Sweden,SE,🇸🇪,47,medium,Yes,M247 Europe SRL,4258,Not Checked,,
+146.70.242.130:9443,HTTP_TLS,Sweden,SE,🇸🇪,47,medium,Yes,M247 Europe SRL,6637,Not Checked,,

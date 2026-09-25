@@ -1,15 +1,15 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-158.195.68.53:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,COMUNI,2853,No,,0/8
-195.146.134.204:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,Slovak Telecom AS6855,2880,No,,0/8
-213.81.148.228:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,Slovak Telecom AS6855,3282,Not Checked,,
-193.87.1.47:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,SANET-AS2607,3522,Not Checked,,
-193.87.1.71:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,SANET-AS2607,3416,Not Checked,,
-158.195.68.53:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,COMUNI,3303,Not Checked,,
-213.81.148.228:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,Slovak Telecom AS6855,4001,Not Checked,,
-193.87.1.71:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,SANET-AS2607,3552,Not Checked,,
-195.146.134.204:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,Slovak Telecom AS6855,4428,Not Checked,,
-193.87.1.47:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,SANET-AS2607,4631,Not Checked,,
-149.102.232.225:9443,HTTP_TLS,Slovakia,SK,🇸🇰,45,medium,Yes,Datacamp Limited,2460,Not Checked,,
-149.102.232.238:9443,HTTP_TLS,Slovakia,SK,🇸🇰,45,medium,Yes,Datacamp Limited,2520,Not Checked,,
-149.102.232.225:9443,HTTP_TLS,Slovakia,SK,🇸🇰,45,medium,Yes,Datacamp Limited,3929,Not Checked,,
-149.102.232.238:9443,HTTP_TLS,Slovakia,SK,🇸🇰,45,medium,Yes,Datacamp Limited,3696,Not Checked,,
+193.87.1.47:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,SANET-AS2607,4748,Yes,91.4,8/8
+213.81.148.228:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,Slovak Telecom AS6855,4416,Yes,105.0,8/8
+193.87.1.71:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,SANET-AS2607,4427,Yes,90.3,8/8
+195.146.134.204:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,Slovak Telecom AS6855,5329,No,,0/8
+158.195.68.53:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,COMUNI,7752,Not Checked,,
+158.195.68.53:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,COMUNI,8664,Not Checked,,
+195.146.134.204:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,Slovak Telecom AS6855,7832,Not Checked,,
+193.87.1.47:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,SANET-AS2607,8006,Not Checked,,
+213.81.148.228:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,Slovak Telecom AS6855,8373,Not Checked,,
+193.87.1.71:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,SANET-AS2607,7694,Not Checked,,
+149.102.232.225:9443,HTTP_TLS,Slovakia,SK,🇸🇰,45,medium,Yes,Datacamp Limited,4617,Not Checked,,
+149.102.232.238:9443,HTTP_TLS,Slovakia,SK,🇸🇰,45,medium,Yes,Datacamp Limited,4979,Not Checked,,
+149.102.232.225:9443,HTTP_TLS,Slovakia,SK,🇸🇰,45,medium,Yes,Datacamp Limited,6073,Not Checked,,
+149.102.232.238:9443,HTTP_TLS,Slovakia,SK,🇸🇰,45,medium,Yes,Datacamp Limited,6102,Not Checked,,

@@ -1,10 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-213.207.132.2:9443,HTTP_TLS,Cyprus,CY,🇨🇾,0,low,Yes,EPIC Ltd,1850,No,,0/8
-213.207.132.2:443,HTTP_TLS,Cyprus,CY,🇨🇾,0,low,Yes,EPIC Ltd,1841,No,,0/8
-213.207.132.2:9443,HTTP_TLS,Cyprus,CY,🇨🇾,0,low,Yes,EPIC Ltd,1936,No,,0/8
-213.207.132.2:443,HTTP_TLS,Cyprus,CY,🇨🇾,0,low,Yes,EPIC Ltd,1928,No,,0/8
-46.199.75.105:443,HTTP_TLS,Cyprus,CY,🇨🇾,0,low,Yes,CYTANET,1888,No,,0/8
-46.199.75.105:9443,HTTP_TLS,Cyprus,CY,🇨🇾,0,low,Yes,CYTANET,1887,No,,0/8
-46.199.75.105:443,HTTP_TLS,Cyprus,CY,🇨🇾,0,low,Yes,CYTANET,2281,No,,0/8
-46.199.75.105:9443,HTTP_TLS,Cyprus,CY,🇨🇾,0,low,Yes,CYTANET,2355,No,,0/8
-213.207.130.34:9443,HTTP_TLS,Cyprus,CY,🇨🇾,0,low,Yes,EPIC Ltd,3126,Not Checked,,
+213.207.132.2:9443,HTTP_TLS,Cyprus,CY,🇨🇾,0,low,Yes,EPIC Ltd,2174,Yes,135.5,8/8
+213.207.132.2:443,HTTP_TLS,Cyprus,CY,🇨🇾,0,low,Yes,EPIC Ltd,2185,Yes,135.5,8/8
+213.207.132.2:9443,HTTP_TLS,Cyprus,CY,🇨🇾,0,low,Yes,EPIC Ltd,2190,Yes,135.5,8/8
+213.207.132.2:443,HTTP_TLS,Cyprus,CY,🇨🇾,0,low,Yes,EPIC Ltd,2072,Yes,135.5,8/8
+46.199.75.105:443,HTTP_TLS,Cyprus,CY,🇨🇾,0,low,Yes,CYTANET,2653,Yes,129.3,8/8
+46.199.75.105:9443,HTTP_TLS,Cyprus,CY,🇨🇾,0,low,Yes,CYTANET,3114,Yes,129.3,8/8
+46.199.75.105:443,HTTP_TLS,Cyprus,CY,🇨🇾,0,low,Yes,CYTANET,3074,Yes,129.3,8/8
+46.199.75.105:9443,HTTP_TLS,Cyprus,CY,🇨🇾,0,low,Yes,CYTANET,3325,Yes,129.3,8/8
+213.207.130.34:9443,HTTP_TLS,Cyprus,CY,🇨🇾,0,low,Yes,EPIC Ltd,6070,Not Checked,,

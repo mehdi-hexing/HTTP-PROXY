@@ -1,7 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-203.12.28.34:9443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,Host.AL Shpk,1865,No,,0/8
-203.12.28.34:9443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,Host.AL Shpk,1768,No,,0/8
-185.225.28.50:443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,TELEKS DOOEL Skopje,1900,No,,0/8
-185.225.28.50:9443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,TELEKS DOOEL Skopje,2604,No,,0/8
-185.225.28.50:443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,TELEKS DOOEL Skopje,3419,Not Checked,,
-185.225.28.50:9443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,TELEKS DOOEL Skopje,4581,Not Checked,,
+203.12.28.34:9443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,Host.AL Shpk,2810,Yes,108.4,8/8
+203.12.28.34:9443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,Host.AL Shpk,2480,Yes,108.6,8/8
+185.225.28.50:443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,TELEKS DOOEL Skopje,2438,Yes,92.1,8/8
+185.225.28.50:9443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,TELEKS DOOEL Skopje,4425,Yes,92.1,8/8
+203.12.28.18:443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,Host.AL Shpk,4553,Yes,108.0,8/8
+185.225.28.50:443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,TELEKS DOOEL Skopje,6160,Not Checked,,
+185.225.28.50:9443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,TELEKS DOOEL Skopje,6089,Not Checked,,
+203.12.28.18:443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,Host.AL Shpk,6284,Not Checked,,
