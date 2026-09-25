@@ -1,10 +1,14 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-47.74.46.81:6606,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7569,No,,0/8
-8.221.138.111:8072,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7636,No,,0/8
-8.209.255.13:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",1024,No,,0/8
-43.133.13.187:8889,HTTP,Japan,JP,🇯🇵,0,low,No,Aceville Pte.ltd,11418,Not Checked,,
-54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1346,Not Checked,,
-54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1339,Not Checked,,
-139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,53,medium,No,"Akamai Technologies, Inc.",982,Not Checked,,
-139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,53,medium,No,"Akamai Technologies, Inc.",982,Not Checked,,
-45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,80,high,No,Zenlayer Inc,4090,Not Checked,,
+8.221.139.222:8085,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7576,Not Checked,,
+47.91.29.151:8080,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba.com LLC,7577,Not Checked,,
+8.221.141.88:8080,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",10539,Not Checked,,
+8.221.141.88:8820,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",10026,Not Checked,,
+8.221.138.111:8072,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7572,Not Checked,,
+140.227.61.201:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,8228,Not Checked,,
+54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1343,Not Checked,,
+35.78.252.142:8888,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",5252,Not Checked,,
+140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,5,low,No,Oracle Corporation,2062,Not Checked,,
+140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,5,low,No,Oracle Corporation,4516,Not Checked,,
+45.32.57.211:1080,HTTP,Japan,JP,🇯🇵,37,medium,No,Choopa,1019,Not Checked,,
+108.61.160.231:1080,HTTP,Japan,JP,🇯🇵,37,medium,No,Choopa,4445,Not Checked,,
+139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,53,medium,No,"Akamai Technologies, Inc.",999,Not Checked,,
