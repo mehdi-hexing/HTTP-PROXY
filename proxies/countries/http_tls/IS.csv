@@ -1,8 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-185.165.170.1:443,HTTP_TLS,Iceland,IS,🇮🇸,0,low,Yes,FlokiNET ehf,2854,Yes,123.3,8/8
-185.165.170.1:9443,HTTP_TLS,Iceland,IS,🇮🇸,0,low,Yes,FlokiNET ehf,2826,Yes,123.4,8/8
-185.165.170.1:443,HTTP_TLS,Iceland,IS,🇮🇸,0,low,Yes,FlokiNET ehf,5242,Yes,123.4,8/8
-185.165.170.1:9443,HTTP_TLS,Iceland,IS,🇮🇸,0,low,Yes,FlokiNET ehf,6572,Not Checked,,
-45.133.192.194:9443,HTTP_TLS,Iceland,IS,🇮🇸,48,medium,Yes,EstNOC OU,4159,Not Checked,,
-45.133.192.194:443,HTTP_TLS,Iceland,IS,🇮🇸,48,medium,Yes,EstNOC OU,7793,Not Checked,,
-45.133.192.194:9443,HTTP_TLS,Iceland,IS,🇮🇸,48,medium,Yes,EstNOC OU,6424,Not Checked,,
+185.165.170.1:9443,HTTP_TLS,Iceland,IS,🇮🇸,0,low,Yes,FlokiNET ehf,2711,Yes,131.5,8/8
+185.165.170.1:443,HTTP_TLS,Iceland,IS,🇮🇸,0,low,Yes,FlokiNET ehf,3128,Yes,131.5,8/8
+185.165.170.1:9443,HTTP_TLS,Iceland,IS,🇮🇸,0,low,Yes,FlokiNET ehf,5837,Not Checked,,
+185.165.170.1:443,HTTP_TLS,Iceland,IS,🇮🇸,0,low,Yes,FlokiNET ehf,7202,Not Checked,,
+45.133.192.194:9443,HTTP_TLS,Iceland,IS,🇮🇸,48,medium,Yes,EstNOC OU,3324,Not Checked,,
