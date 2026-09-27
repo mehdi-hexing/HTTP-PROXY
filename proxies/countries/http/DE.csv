@@ -1,9 +1,16 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,1214,Yes,77.9,8/8
-8.211.51.115:8008,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",10731,Not Checked,,
-8.211.51.115:84,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",10719,Not Checked,,
-8.209.96.245:4153,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,9772,Not Checked,,
-116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,1237,Not Checked,,
-144.76.61.252:3128,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,9512,Not Checked,,
-159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,10,low,No,netcup GmbH,10184,Not Checked,,
-152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,23,medium,No,netcup GmbH,11601,Not Checked,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,1123,Yes,74.8,8/8
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,1118,Yes,74.4,8/8
+109.123.254.197:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Contabo GmbH,1107,Yes,89.0,8/8
+64.188.71.169:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Senko Digital LLC,5219,No,,0/8
+8.211.49.86:3129,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",10779,Not Checked,,
+116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,1144,Not Checked,,
+144.76.61.252:3128,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,9800,Not Checked,,
+157.90.89.52:8484,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,3656,Not Checked,,
+169.58.175.78:3128,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,16359,Not Checked,,
+167.86.104.220:80,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,1521,Not Checked,,
+152.53.183.107:8082,HTTP,Germany,DE,🇩🇪,23,medium,No,netcup GmbH,4678,Not Checked,,
+152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,23,medium,No,netcup GmbH,4551,Not Checked,,
+152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,23,medium,No,netcup GmbH,7633,Not Checked,,
+62.141.38.35:3128,HTTP,Germany,DE,🇩🇪,33,medium,No,WIIT AG,1023,Not Checked,,
+217.154.245.41:8888,HTTP,Germany,DE,🇩🇪,35,medium,No,IONOS SE,16593,Not Checked,,
