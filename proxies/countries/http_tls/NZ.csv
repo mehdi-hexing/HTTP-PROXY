@@ -1,5 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-132.181.109.108:443,HTTP_TLS,New Zealand,NZ,🇳🇿,0,low,No,University of Canterbury,2482,Unknown,,
-130.123.96.226:443,HTTP_TLS,New Zealand,NZ,🇳🇿,0,low,No,Massey University,2789,Unknown,,
-130.123.96.226:443,HTTP_TLS,New Zealand,NZ,🇳🇿,0,low,No,Massey University,2032,Unknown,,
-120.138.21.80:443,HTTP_TLS,New Zealand,NZ,🇳🇿,25,medium,No,SiteTech Solutions Limited,3856,Unknown,,
+132.181.109.108:443,HTTP_TLS,New Zealand,NZ,🇳🇿,0,low,No,University of Canterbury,3277,Yes,372.4,5/8
+132.181.109.108:443,HTTP_TLS,New Zealand,NZ,🇳🇿,0,low,No,University of Canterbury,3121,Yes,372.4,5/8
+130.123.96.226:443,HTTP_TLS,New Zealand,NZ,🇳🇿,0,low,No,Massey University,2352,No,,0/8
+130.123.96.226:443,HTTP_TLS,New Zealand,NZ,🇳🇿,0,low,No,Massey University,2376,No,,0/8
+120.138.21.80:443,HTTP_TLS,New Zealand,NZ,🇳🇿,25,medium,No,SiteTech Solutions Limited,4425,Not Checked,,

@@ -1,4 +1,24 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-194.67.110.12:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,"""Domain names registrar REG.RU"", Ltd",4542,Unknown,,
-84.237.50.69:8182,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,7141,Unknown,,
-46.29.166.134:1446,HTTP_TLS,Russia,RU,🇷🇺,20,medium,No,LLC Baxet,7357,Unknown,,
+82.146.46.31:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,JSC IOT,4506,Yes,64.5,8/8
+5.35.100.14:8443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,EuroByte LLC,2511,Yes,74.5,8/8
+84.237.50.69:8182,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,3137,Yes,128.6,7/8
+84.237.50.68:8444,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,2958,Yes,123.1,7/8
+84.237.50.68:8444,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,2754,Yes,123.6,7/8
+84.237.50.69:8444,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,4797,Yes,128.5,7/8
+84.237.50.69:8444,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,4003,Yes,128.6,7/8
+91.146.45.78:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,MARK-ITT,8638,Not Checked,,
+84.237.50.69:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,8905,Not Checked,,
+82.147.71.46:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,Adman LLC,9759,Not Checked,,
+84.237.50.69:8443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,9797,Not Checked,,
+84.237.50.69:8081,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,10142,Not Checked,,
+92.242.41.77:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,Dataline-own,7037,Not Checked,,
+37.203.243.6:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,DATAPLANET Ltd,5085,Not Checked,,
+84.237.50.69:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,7307,Not Checked,,
+5.35.100.14:8443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,EuroByte LLC,6802,Not Checked,,
+194.67.110.12:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,"""Domain names registrar REG.RU"", Ltd",8174,Not Checked,,
+82.147.71.46:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,Adman LLC,5977,Not Checked,,
+84.237.50.69:8443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,6842,Not Checked,,
+84.237.50.69:8182,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,7810,Not Checked,,
+84.237.50.69:8081,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,8614,Not Checked,,
+91.146.45.78:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,MARK-ITT,7408,Not Checked,,
+46.29.166.134:1446,HTTP_TLS,Russia,RU,🇷🇺,20,medium,No,LLC Baxet,6124,Not Checked,,
