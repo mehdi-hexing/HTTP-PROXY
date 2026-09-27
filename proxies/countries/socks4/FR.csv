@@ -1,3 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-90.8.144.108:3317,SOCKS4,France,FR,🇫🇷,0,low,No,Orange,3534,Unknown,,
-51.15.253.45:8080,SOCKS4,France,FR,🇫🇷,36,medium,No,SCALEWAY,6602,Not Checked,,
+95.178.108.189:5678,SOCKS4,France,FR,🇫🇷,0,low,No,Eurofiber France SAS,1079,Yes,105.6,8/8
+95.178.108.189:5678,SOCKS4,France,FR,🇫🇷,0,low,No,Eurofiber France SAS,1026,Yes,105.6,8/8
+129.151.240.183:1080,SOCKS4,France,FR,🇫🇷,2,low,No,Oracle Corporation,866,Not Checked,,
+129.151.240.183:1080,SOCKS4,France,FR,🇫🇷,2,low,No,Oracle Corporation,1363,Not Checked,,
+178.212.35.124:9100,SOCKS4,France,FR,🇫🇷,7,low,No,Contabo Asia Private Limited,10799,Not Checked,,
+51.15.253.45:8080,SOCKS4,France,FR,🇫🇷,36,medium,No,SCALEWAY,1870,Not Checked,,

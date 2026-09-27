@@ -1,4 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-31.59.170.18:1080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,CGI GLOBAL LIMITED,8473,Unknown,,
-145.220.227.2:8080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,597,Unknown,,
-213.111.146.36:18080,SOCKS4,Netherlands,NL,🇳🇱,10,low,Yes,SOLLUTIUM EU Sp z.o.o.,1033,Unknown,,
+145.220.227.3:1080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,490,Yes,93.5,7/8
+31.220.40.59:5080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,Amarutu Technology Ltd. Network,773,Yes,88.3,6/8
+31.220.40.59:5080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,Amarutu Technology Ltd. Network,953,Yes,88.3,6/8
+145.220.227.2:1080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,2598,Not Checked,,
+145.220.227.2:9050,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,2567,Not Checked,,
+72.56.94.27:1081,SOCKS4,Netherlands,NL,🇳🇱,3,low,No,"Timeweb, LLP",5412,Not Checked,,
+128.199.37.92:1080,SOCKS4,Netherlands,NL,🇳🇱,51,medium,No,"DigitalOcean, LLC",3867,Not Checked,,
+62.112.10.232:1080,SOCKS4,Netherlands,NL,🇳🇱,56,medium,No,WorldStream B.V.,804,Not Checked,,
