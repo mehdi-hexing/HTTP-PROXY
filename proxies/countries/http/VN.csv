@@ -1,14 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-113.161.93.6:8080,HTTP,Vietnam,VN,🇻🇳,0,low,No,VietNam Post and Telecom Corporation,6973,Unknown,,
-115.78.135.4:3334,HTTP,Vietnam,VN,🇻🇳,0,low,No,VIETELftth,5747,Unknown,,
-103.82.20.76:8080,HTTP,Vietnam,VN,🇻🇳,0,low,No,INETACADEMY,3060,Unknown,,
-43.109.48.179:9999,HTTP,Vietnam,VN,🇻🇳,0,low,No,"Zhejiang Taobao Network Co., Ltd",1870,Unknown,,
-103.82.20.76:8080,HTTP,Vietnam,VN,🇻🇳,0,low,No,INETACADEMY,4262,Unknown,,
-210.211.113.34:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,6721,Unknown,,
-113.22.113.75:8080,HTTP,Vietnam,VN,🇻🇳,0,low,No,FPT Telecom Company,15819,Not Checked,,
-27.72.244.228:8080,HTTP,Vietnam,VN,🇻🇳,0,low,No,Newass2011xDSLHN,12886,Not Checked,,
-14.241.133.207:8080,HTTP,Vietnam,VN,🇻🇳,1,low,No,VNPT,8344,Not Checked,,
-14.251.13.17:8080,HTTP,Vietnam,VN,🇻🇳,1,low,No,VNPT,2016,Not Checked,,
-14.161.87.244:2001,HTTP,Vietnam,VN,🇻🇳,1,low,No,VNPT,7251,Not Checked,,
-116.101.76.225:2080,HTTP,Vietnam,VN,🇻🇳,9,low,No,Viettel Group,9690,Not Checked,,
-116.101.76.225:2080,HTTP,Vietnam,VN,🇻🇳,9,low,No,Viettel Group,1968,Not Checked,,
+43.109.48.179:9999,HTTP,Vietnam,VN,🇻🇳,0,low,No,"Zhejiang Taobao Network Co., Ltd",2065,Yes,287.0,2/8
+163.181.207.226:9999,HTTP,Vietnam,VN,🇻🇳,0,low,No,"Zhejiang Taobao Network Co., Ltd",2098,Yes,289.7,2/8
+210.211.113.36:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,4349,No,,0/8
+210.211.113.35:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,5205,No,,0/8
+210.211.113.33:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,4896,No,,0/8
+210.211.113.34:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,3443,No,,0/8
+110.172.28.217:3128,HTTP,Vietnam,VN,🇻🇳,0,low,No,CONTABO,15881,Not Checked,,
+14.225.240.23:8562,HTTP,Vietnam,VN,🇻🇳,0,low,No,Vietnam Posts and Telecommunications Group,20295,Not Checked,,
+14.248.84.131:8080,HTTP,Vietnam,VN,🇻🇳,1,low,No,VNPT,14502,Not Checked,,
+14.251.13.17:8080,HTTP,Vietnam,VN,🇻🇳,1,low,No,VNPT,2193,Not Checked,,
+116.101.76.225:2080,HTTP,Vietnam,VN,🇻🇳,9,low,No,Viettel Group,2240,Not Checked,,
+115.77.162.27:8080,HTTP,Vietnam,VN,🇻🇳,9,low,No,Viettel Group,11079,Not Checked,,

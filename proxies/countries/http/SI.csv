@@ -1,2 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-46.122.16.54:8080,HTTP,Slovenia,SI,🇸🇮,1,low,No,A1 Slovenija,16183,Not Checked,,
+109.127.199.109:9999,HTTP,Slovenia,SI,🇸🇮,0,low,No,ARNES provider,7831,Yes,107.1,8/8
+109.127.199.81:9999,HTTP,Slovenia,SI,🇸🇮,0,low,No,ARNES provider,4496,Yes,1548.0,7/8
+109.127.199.81:9999,HTTP,Slovenia,SI,🇸🇮,0,low,No,ARNES provider,2008,Yes,1548.0,7/8
+46.122.16.54:8080,HTTP,Slovenia,SI,🇸🇮,1,low,No,A1 Slovenija,18556,Not Checked,,

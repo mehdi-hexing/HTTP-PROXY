@@ -1,5 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-194.182.187.78:3128,HTTP,Austria,AT,🇦🇹,0,low,No,Akenes SA,1295,Unknown,,
-45.86.245.81:8080,HTTP,Austria,AT,🇦🇹,0,low,Yes,RapidSeedbox Ltd,1614,Unknown,,
-45.86.245.81:8080,HTTP,Austria,AT,🇦🇹,0,low,Yes,RapidSeedbox Ltd,1616,Unknown,,
-193.233.233.62:56736,HTTP,Austria,AT,🇦🇹,11,low,No,Aeza International LTD,8808,Not Checked,,
+45.86.245.81:8080,HTTP,Austria,AT,🇦🇹,0,low,Yes,RapidSeedbox Ltd,1388,Yes,88.0,8/8
+194.182.187.78:3128,HTTP,Austria,AT,🇦🇹,0,low,No,Akenes SA,3483,Yes,91.1,8/8
+90.146.196.18:8080,HTTP,Austria,AT,🇦🇹,0,low,No,LIWEST Kabelmedien GmbH,20731,Not Checked,,
+193.233.233.62:21840,HTTP,Austria,AT,🇦🇹,11,low,No,Aeza International LTD,983,Not Checked,,
+193.233.233.62:56736,HTTP,Austria,AT,🇦🇹,11,low,No,Aeza International LTD,1490,Not Checked,,
