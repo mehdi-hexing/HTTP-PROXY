@@ -1,5 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-145.220.227.2:1080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,4780,Not Checked,,
-77.238.237.253:41414,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,Servers Tech Fzco,4278,Not Checked,,
-213.111.146.36:18080,SOCKS4,Netherlands,NL,🇳🇱,10,low,Yes,SOLLUTIUM EU Sp z.o.o.,1036,Not Checked,,
-128.199.37.92:1080,SOCKS4,Netherlands,NL,🇳🇱,51,medium,No,"DigitalOcean, LLC",10242,Not Checked,,
+20.50.39.194:1080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,Microsoft Corporation,885,Yes,80.6,8/8
+145.220.227.6:1080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,474,Yes,93.6,8/8
+145.220.227.2:9050,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,479,Yes,92.5,8/8
+145.220.227.2:8080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,507,Yes,91.9,8/8
+104.194.132.112:9052,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,RouterHosting LLC,3456,Not Checked,,
+104.194.132.112:9052,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,RouterHosting LLC,6726,Not Checked,,
+145.220.227.2:1080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,3621,Not Checked,,
+72.56.94.27:1081,SOCKS4,Netherlands,NL,🇳🇱,3,low,No,"Timeweb, LLP",4141,Not Checked,,
+91.84.98.74:12546,SOCKS4,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,3743,Not Checked,,
+213.111.146.36:18080,SOCKS4,Netherlands,NL,🇳🇱,10,low,Yes,SOLLUTIUM EU Sp z.o.o.,910,Not Checked,,
