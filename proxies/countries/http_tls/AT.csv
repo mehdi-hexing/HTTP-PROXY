@@ -1,6 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-195.192.209.130:443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,1875,No,,0/8
-195.192.209.130:9443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,2073,No,,0/8
-195.192.209.130:8443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,2183,No,,0/8
-178.115.238.253:443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,customers with static IP,4316,Not Checked,,
-146.70.244.2:9443,HTTP_TLS,Austria,AT,🇦🇹,38,medium,Yes,M247 Europe SRL,2119,Not Checked,,
+195.192.209.130:443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,2289,No,,0/8
+195.192.209.130:9443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,3189,No,,0/8
+195.192.209.130:8443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,3621,Not Checked,,
+178.115.238.253:443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,customers with static IP,3960,Not Checked,,
+195.192.209.130:443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,4663,Not Checked,,
+195.192.209.130:8443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,3872,Not Checked,,
+195.192.209.130:9443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,3883,Not Checked,,
+146.70.244.2:9443,HTTP_TLS,Austria,AT,🇦🇹,38,medium,Yes,M247 Europe SRL,2689,Not Checked,,
+146.70.244.18:9443,HTTP_TLS,Austria,AT,🇦🇹,38,medium,Yes,M247 Europe SRL,2633,Not Checked,,
+146.70.244.18:9443,HTTP_TLS,Austria,AT,🇦🇹,38,medium,Yes,M247 Europe SRL,3388,Not Checked,,

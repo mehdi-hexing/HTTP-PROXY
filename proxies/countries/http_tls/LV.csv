@@ -1,26 +1,43 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-89.111.31.105:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,MYDELSKA-RIX,2548,Yes,82.2,4/8
-89.111.28.77:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Digitalas Ekonomikas Attistibas Centrs,2240,Yes,85.1,4/8
-185.219.157.125:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,2300,Yes,88.2,4/8
-89.111.27.221:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,2358,Yes,90.3,4/8
-89.111.30.251:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,MYDELSKA-RIX,2347,Yes,86.5,4/8
-89.111.27.214:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,2426,Yes,87.1,4/8
-185.219.159.16:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,2520,Yes,99.0,4/8
-185.219.159.15:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,2794,Yes,100.2,4/8
-89.111.28.75:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Digitalas Ekonomikas Attistibas Centrs,10008,Not Checked,,
-89.111.30.89:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,MYDELSKA-RIX,3496,Not Checked,,
-89.111.31.249:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,MYDELSKA-RIX,5083,Not Checked,,
-89.111.27.215:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,4278,Not Checked,,
-89.111.27.219:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3995,Not Checked,,
-185.219.157.127:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,5529,Not Checked,,
-89.111.30.183:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,MYDELSKA-RIX,9796,Not Checked,,
-89.111.27.218:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3807,Not Checked,,
-89.111.31.100:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,MYDELSKA-RIX,4806,Not Checked,,
-89.111.27.220:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,6277,Not Checked,,
-89.111.27.36:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,9275,Not Checked,,
-89.111.30.85:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,MYDELSKA-RIX,13761,Not Checked,,
-89.111.27.213:443,HTTP_TLS,Latvia,LV,🇱🇻,33,medium,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3510,Not Checked,,
-109.248.149.34:9443,HTTP_TLS,Latvia,LV,🇱🇻,67,high,Yes,SIA RixHost,2162,Not Checked,,
-109.248.149.34:443,HTTP_TLS,Latvia,LV,🇱🇻,67,high,Yes,SIA RixHost,4598,Not Checked,,
-109.248.149.34:443,HTTP_TLS,Latvia,LV,🇱🇻,67,high,Yes,SIA RixHost,5506,Not Checked,,
-109.248.149.34:9443,HTTP_TLS,Latvia,LV,🇱🇻,67,high,Yes,SIA RixHost,5293,Not Checked,,
+89.111.31.105:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,MYDELSKA-RIX,2498,Yes,85.5,4/8
+185.219.157.125:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,2471,Yes,108.4,4/8
+89.111.28.77:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Digitalas Ekonomikas Attistibas Centrs,2725,Yes,107.7,4/8
+89.111.27.215:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,2740,Yes,108.9,4/8
+89.111.27.214:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,2360,Yes,89.5,4/8
+89.111.27.218:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3060,Yes,88.8,4/8
+89.111.30.251:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,MYDELSKA-RIX,5246,Not Checked,,
+89.111.30.89:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,MYDELSKA-RIX,6977,Not Checked,,
+89.111.31.249:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,MYDELSKA-RIX,3344,Not Checked,,
+89.111.27.221:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,5754,Not Checked,,
+89.111.30.183:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,MYDELSKA-RIX,7607,Not Checked,,
+185.219.157.127:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,11246,Not Checked,,
+89.111.31.100:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,MYDELSKA-RIX,4331,Not Checked,,
+185.219.159.16:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3315,Not Checked,,
+185.219.159.15:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3402,Not Checked,,
+89.111.27.36:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,11943,Not Checked,,
+89.111.28.74:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Digitalas Ekonomikas Attistibas Centrs,4195,Not Checked,,
+109.248.147.66:9443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,Yes,SIA RixHost,5202,Not Checked,,
+89.111.28.77:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Digitalas Ekonomikas Attistibas Centrs,3958,Not Checked,,
+185.219.157.125:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,4698,Not Checked,,
+89.111.31.105:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,MYDELSKA-RIX,4084,Not Checked,,
+89.111.27.218:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3909,Not Checked,,
+89.111.27.215:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,4151,Not Checked,,
+89.111.31.249:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,MYDELSKA-RIX,6895,Not Checked,,
+89.111.27.221:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,6398,Not Checked,,
+89.111.27.214:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,6408,Not Checked,,
+89.111.30.251:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,MYDELSKA-RIX,8605,Not Checked,,
+185.219.159.16:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,4250,Not Checked,,
+89.111.28.79:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Digitalas Ekonomikas Attistibas Centrs,6063,Not Checked,,
+185.219.159.15:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3954,Not Checked,,
+185.219.157.127:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,10764,Not Checked,,
+89.111.28.78:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Digitalas Ekonomikas Attistibas Centrs,7235,Not Checked,,
+89.111.27.219:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,8500,Not Checked,,
+89.111.27.36:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,10953,Not Checked,,
+89.111.30.183:443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,No,MYDELSKA-RIX,18106,Not Checked,,
+109.248.147.66:9443,HTTP_TLS,Latvia,LV,🇱🇻,0,low,Yes,SIA RixHost,3735,Not Checked,,
+89.111.27.213:443,HTTP_TLS,Latvia,LV,🇱🇻,33,medium,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,2889,Not Checked,,
+89.111.27.213:443,HTTP_TLS,Latvia,LV,🇱🇻,33,medium,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3785,Not Checked,,
+109.248.149.34:9443,HTTP_TLS,Latvia,LV,🇱🇻,67,high,Yes,SIA RixHost,3589,Not Checked,,
+109.248.149.34:9443,HTTP_TLS,Latvia,LV,🇱🇻,67,high,Yes,SIA RixHost,4350,Not Checked,,
+109.248.149.34:443,HTTP_TLS,Latvia,LV,🇱🇻,67,high,Yes,SIA RixHost,6550,Not Checked,,
+109.248.149.34:443,HTTP_TLS,Latvia,LV,🇱🇻,67,high,Yes,SIA RixHost,2878,Not Checked,,
