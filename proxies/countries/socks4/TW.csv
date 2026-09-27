@@ -1,4 +1,12 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-125.227.169.85:38157,SOCKS4,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",1607,Not Checked,,
-220.132.41.160:1088,SOCKS4,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",5593,Not Checked,,
-128.14.229.215:1080,SOCKS4,Taiwan,TW,🇹🇼,80,high,No,Zenlayer Inc,3378,Not Checked,,
+125.227.169.85:38157,SOCKS4,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",1161,Yes,335.6,8/8
+125.228.94.232:4145,SOCKS4,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",1166,No,,0/8
+125.228.94.232:4145,SOCKS4,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",1173,No,,0/8
+220.132.41.160:1088,SOCKS4,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",1289,Not Checked,,
+125.228.94.199:4145,SOCKS4,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",1200,Not Checked,,
+125.228.94.199:4145,SOCKS4,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",2189,Not Checked,,
+125.228.94.153:4145,SOCKS4,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",1202,Not Checked,,
+125.228.94.153:4145,SOCKS4,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",1255,Not Checked,,
+125.228.143.207:4145,SOCKS4,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",3268,Not Checked,,
+128.14.229.215:1080,SOCKS4,Taiwan,TW,🇹🇼,80,high,No,Zenlayer Inc,7753,Not Checked,,
+128.14.229.215:1080,SOCKS4,Taiwan,TW,🇹🇼,80,high,No,Zenlayer Inc,4086,Not Checked,,
