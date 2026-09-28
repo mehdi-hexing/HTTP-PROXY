@@ -1,3 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-110.74.195.34:25,HTTP,Cambodia,KH,🇰🇭,0,low,No,"EZECOM CO., LTD.",12354,Not Checked,,
-111.118.149.40:8080,HTTP,Cambodia,KH,🇰🇭,7,low,No,"VIETTEL (CAMBODIA) PTE., LTD",5535,Not Checked,,
+110.74.195.34:25,HTTP,Cambodia,KH,🇰🇭,0,low,No,"EZECOM CO., LTD.",6033,Yes,254.0,8/8
+203.217.169.26:8080,HTTP,Cambodia,KH,🇰🇭,0,low,No,S.I Group,5035,Yes,256.7,8/8
+175.100.23.121:8080,HTTP,Cambodia,KH,🇰🇭,7,low,No,"VIETTEL (CAMBODIA) PTE., LTD",10511,Not Checked,,
+116.212.149.218:8080,HTTP,Cambodia,KH,🇰🇭,13,low,No,MekongNet,8073,Not Checked,,

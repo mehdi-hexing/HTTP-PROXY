@@ -1,11 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-8.220.204.92:8080,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7856,No,,0/8
-8.220.204.215:8443,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7851,No,,0/8
-8.220.204.215:3129,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7860,No,,0/8
-8.213.134.213:9080,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",10467,Not Checked,,
-8.220.205.172:8888,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",14042,Not Checked,,
-193.122.96.242:3128,HTTP,South Korea,KR,🇰🇷,2,low,No,Oracle Corporation,7706,Not Checked,,
-129.154.201.19:33128,HTTP,South Korea,KR,🇰🇷,2,low,No,Oracle Corporation,8195,Not Checked,,
-14.34.180.21:38157,HTTP,South Korea,KR,🇰🇷,3,low,No,Korea Telecom,18806,Not Checked,,
-43.203.114.231:3128,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",2646,Not Checked,,
-43.203.114.231:3128,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",2148,Not Checked,,
+8.220.204.215:111,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7682,No,,0/8
+8.213.134.213:443,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7688,No,,0/8
+8.220.204.92:1081,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7680,No,,0/8
+8.220.205.172:5060,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7705,No,,0/8
+8.213.156.191:9091,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7684,No,,0/8
+161.118.152.153:8118,HTTP,South Korea,KR,🇰🇷,2,low,No,Oracle Corporation,7729,Not Checked,,
+161.118.152.153:8118,HTTP,South Korea,KR,🇰🇷,2,low,No,Oracle Corporation,4960,Not Checked,,
+43.203.114.231:3128,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",1711,Not Checked,,
+43.203.114.231:3128,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",1671,Not Checked,,
+121.174.186.199:8080,HTTP,South Korea,KR,🇰🇷,4,low,No,Korea Telecom,2797,Not Checked,,
