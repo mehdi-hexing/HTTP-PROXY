@@ -1,30 +1,28 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,1113,Yes,74.9,8/8
-37.114.41.103:3128,HTTP,Germany,DE,🇩🇪,0,low,No,SMARTNET Germany GmbH,7182,Yes,225.7,8/8
-8.209.96.245:999,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7678,No,,0/8
-47.91.89.3:8099,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,7676,No,,0/8
-8.211.42.167:8080,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7679,No,,0/8
-64.188.71.169:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Senko Digital LLC,7204,No,,0/8
-8.211.49.86:100,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7689,No,,0/8
-8.211.51.115:31433,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",10045,Not Checked,,
-8.211.42.167:1081,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",9683,Not Checked,,
-8.209.96.245:31433,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,9619,Not Checked,,
-222.167.252.23:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Hostkey B.V.,9477,Not Checked,,
-79.76.121.87:3128,HTTP,Germany,DE,🇩🇪,2,low,No,Oracle Corporation,7838,Not Checked,,
-116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,1126,Not Checked,,
-116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,1373,Not Checked,,
-144.76.61.252:3128,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,6522,Not Checked,,
-144.76.61.252:3128,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,8178,Not Checked,,
-159.195.22.57:80,HTTP,Germany,DE,🇩🇪,10,low,No,netcup GmbH,5299,Not Checked,,
-167.86.104.220:80,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,2604,Not Checked,,
-173.249.37.45:5005,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,15955,Not Checked,,
-167.86.104.220:80,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,3273,Not Checked,,
-152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,23,medium,No,netcup GmbH,5809,Not Checked,,
-62.141.38.35:3128,HTTP,Germany,DE,🇩🇪,33,medium,No,WIIT AG,1258,Not Checked,,
-62.141.38.35:3128,HTTP,Germany,DE,🇩🇪,33,medium,No,WIIT AG,4061,Not Checked,,
-164.92.197.33:3128,HTTP,Germany,DE,🇩🇪,51,medium,Yes,"DigitalOcean, LLC",1148,Not Checked,,
-164.92.197.33:8080,HTTP,Germany,DE,🇩🇪,51,medium,Yes,"DigitalOcean, LLC",1136,Not Checked,,
-164.92.197.33:8080,HTTP,Germany,DE,🇩🇪,51,medium,Yes,"DigitalOcean, LLC",4447,Not Checked,,
-161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1136,Not Checked,,
-161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1157,Not Checked,,
-217.154.71.35:80,HTTP,Germany,DE,🇩🇪,65,high,No,MISTRAL,15532,Not Checked,,
+37.114.41.103:3128,HTTP,Germany,DE,🇩🇪,0,low,No,SMARTNET Germany GmbH,3333,Yes,120.5,8/8
+43.131.47.181:6666,HTTP,Germany,DE,🇩🇪,0,low,No,Aceville Pte.ltd,2859,Yes,70.6,8/8
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,930,Yes,75.6,8/8
+37.114.41.103:3128,HTTP,Germany,DE,🇩🇪,0,low,No,SMARTNET Germany GmbH,1811,Yes,120.5,8/8
+47.91.89.3:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,7568,No,,0/8
+8.211.49.86:17,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7573,No,,0/8
+8.211.49.86:9095,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7572,No,,0/8
+8.211.51.115:1036,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7575,No,,0/8
+8.211.42.167:9000,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7557,No,,0/8
+64.188.71.169:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Senko Digital LLC,4376,No,,0/8
+8.209.96.245:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,11100,Not Checked,,
+43.157.41.157:3128,HTTP,Germany,DE,🇩🇪,1,low,No,Shenzhen Tencent Computer Systems Company Limited,13780,Not Checked,,
+158.180.19.230:1080,HTTP,Germany,DE,🇩🇪,2,low,No,Oracle Corporation,10054,Not Checked,,
+158.180.19.230:1080,HTTP,Germany,DE,🇩🇪,2,low,No,Oracle Corporation,984,Not Checked,,
+116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,964,Not Checked,,
+116.202.108.111:3128,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,1082,Not Checked,,
+144.76.61.252:3128,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,6213,Not Checked,,
+159.195.43.169:8080,HTTP,Germany,DE,🇩🇪,11,low,No,netcup GmbH,16369,Not Checked,,
+176.125.242.58:3128,HTTP,Germany,DE,🇩🇪,14,low,No,Alexhost SRL,2805,Not Checked,,
+194.163.175.167:40001,HTTP,Germany,DE,🇩🇪,16,low,Yes,Contabo GmbH,11716,Not Checked,,
+152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,23,medium,No,netcup GmbH,1693,Not Checked,,
+152.53.183.107:8082,HTTP,Germany,DE,🇩🇪,23,medium,No,netcup GmbH,5004,Not Checked,,
+62.141.38.35:3128,HTTP,Germany,DE,🇩🇪,33,medium,No,WIIT AG,4808,Not Checked,,
+217.154.245.41:8888,HTTP,Germany,DE,🇩🇪,36,medium,No,IONOS SE,12017,Not Checked,,
+161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",999,Not Checked,,
+161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",950,Not Checked,,
+164.90.170.46:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",12602,Not Checked,,
