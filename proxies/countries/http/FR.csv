@@ -1,5 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-37.187.92.9:1033,HTTP,France,FR,🇫🇷,10,low,No,OVH SAS,4095,Not Checked,,
-37.59.125.131:8888,HTTP,France,FR,🇫🇷,10,low,Yes,OVH SAS,4728,Not Checked,,
-37.59.125.131:8888,HTTP,France,FR,🇫🇷,10,low,Yes,OVH SAS,1493,Not Checked,,
-79.137.78.133:8010,HTTP,France,FR,🇫🇷,42,medium,No,OVH SAS,1667,Not Checked,,
+15.237.108.20:6621,HTTP,France,FR,🇫🇷,0,low,No,Amazon Technologies Inc.,1068,No,,0/8
+15.237.108.20:48587,HTTP,France,FR,🇫🇷,0,low,No,Amazon Technologies Inc.,2566,No,,0/8
+13.38.27.183:9991,HTTP,France,FR,🇫🇷,0,low,No,Amazon Technologies Inc.,1236,No,,0/8
+13.38.27.183:4153,HTTP,France,FR,🇫🇷,0,low,No,Amazon Technologies Inc.,794,Timeout,,
+156.67.110.124:10808,HTTP,France,FR,🇫🇷,6,low,No,Contabo Asia Private Limited,4966,Not Checked,,
+156.67.110.124:10808,HTTP,France,FR,🇫🇷,6,low,No,Contabo Asia Private Limited,7329,Not Checked,,
+37.59.125.131:8888,HTTP,France,FR,🇫🇷,10,low,Yes,OVH SAS,4098,Not Checked,,
+163.172.189.255:3128,HTTP,France,FR,🇫🇷,36,medium,No,Scaleway SAS,15585,Not Checked,,
+149.202.47.125:3128,HTTP,France,FR,🇫🇷,42,medium,No,OVH SAS,6137,Not Checked,,

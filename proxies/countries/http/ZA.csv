@@ -1,7 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-196.251.222.154:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,Info-Gro (PTY) Ltd,16582,Not Checked,,
-41.78.184.38:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,SkyWire (PTY) LTD,16912,Not Checked,,
-165.0.136.30:8080,HTTP,South Africa,ZA,🇿🇦,2,low,No,RSAWEB (PTY) LTD,21516,Not Checked,,
-102.39.156.82:8080,HTTP,South Africa,ZA,🇿🇦,2,low,No,Vox Telecommunications (Pty) Limited,2318,Not Checked,,
-13.245.183.150:33715,HTTP,South Africa,ZA,🇿🇦,3,low,No,"Amazon.com, Inc.",6415,Not Checked,,
-13.245.183.150:33715,HTTP,South Africa,ZA,🇿🇦,3,low,No,"Amazon.com, Inc.",2796,Not Checked,,
+102.208.228.90:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,2351,No,,0/8
+102.208.228.90:3128,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,2370,No,,0/8
+102.208.228.90:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,2182,No,,0/8
+102.208.228.90:3128,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,2184,No,,0/8
+13.247.184.101:13702,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon Technologies Inc.,2602,No,,0/8
+16.28.32.67:8118,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,2619,No,,0/8
+16.28.32.67:1327,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,2808,No,,0/8
+196.251.213.192:8081,HTTP,South Africa,ZA,🇿🇦,0,low,No,Info-Gro (PTY) Ltd,21322,Not Checked,,
+41.57.63.1:8104,HTTP,South Africa,ZA,🇿🇦,0,low,No,Screamer Telecommunications,9097,Not Checked,,
+102.39.156.82:8080,HTTP,South Africa,ZA,🇿🇦,2,low,No,Vox Telecommunications (Pty) Limited,1903,Not Checked,,
+196.216.134.71:8865,HTTP,South Africa,ZA,🇿🇦,3,low,No,HERO TELECOMS (PTY) LTD,6388,Not Checked,,
+13.244.203.188:7070,HTTP,South Africa,ZA,🇿🇦,3,low,No,"Amazon.com, Inc.",2193,Not Checked,,
