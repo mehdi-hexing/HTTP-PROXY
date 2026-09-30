@@ -1,14 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-8.221.141.88:4301,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7622,No,,0/8
-8.221.138.111:8081,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7585,No,,0/8
-61.118.38.234:60808,HTTP,Japan,JP,🇯🇵,0,low,No,Open Computer Network,12148,Not Checked,,
-140.227.61.201:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,10278,Not Checked,,
-54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1362,Not Checked,,
-54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1360,Not Checked,,
-43.165.191.196:1082,HTTP,Japan,JP,🇯🇵,1,low,No,Shenzhen Tencent Computer Systems Company Limited,1364,Not Checked,,
-43.165.191.196:1082,HTTP,Japan,JP,🇯🇵,1,low,No,Shenzhen Tencent Computer Systems Company Limited,2251,Not Checked,,
-140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,1285,Not Checked,,
-140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,1044,Not Checked,,
-139.162.78.109:8080,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",1021,Not Checked,,
-139.162.78.109:8080,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",1056,Not Checked,,
-45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,79,high,No,Zenlayer Inc,6036,Not Checked,,
+160.16.98.47:3000,HTTP,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,2521,Yes,319.2,8/8
+101.32.94.127:3128,HTTP,Japan,JP,🇯🇵,0,low,No,Shenzhen Tencent Computer Systems Company Limited,1968,Yes,333.8,7/8
+15.152.38.117:23375,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,2487,No,,0/8
+54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1892,Not Checked,,
+52.195.147.51:3629,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,5321,Not Checked,,
+43.165.191.196:1082,HTTP,Japan,JP,🇯🇵,1,low,No,Shenzhen Tencent Computer Systems Company Limited,1346,Not Checked,,
+43.207.141.180:3085,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1973,Not Checked,,
+43.207.141.180:3085,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1883,Not Checked,,
+168.138.202.218:3128,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,1329,Not Checked,,
+45.76.104.147:40001,HTTP,Japan,JP,🇯🇵,37,medium,No,The Constant Company,2349,Not Checked,,
+139.162.78.109:8080,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",1366,Not Checked,,
+139.162.78.109:80,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",1335,Not Checked,,

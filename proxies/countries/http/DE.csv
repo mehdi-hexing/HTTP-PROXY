@@ -1,18 +1,32 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,1174,Yes,75.9,8/8
-152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,0,low,No,netcup GmbH,3227,Yes,95.9,7/8
-152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,0,low,No,netcup GmbH,6147,Yes,89.6,7/8
-8.211.49.86:8008,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7727,No,,0/8
-47.91.89.3:8040,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,7834,No,,0/8
-8.209.96.245:193,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,8156,Not Checked,,
-5.7.135.228:80,HTTP,Germany,DE,🇩🇪,0,low,No,Telefonica Germany GmbH & Co.OHG,18023,Not Checked,,
-72.56.122.5:3128,HTTP,Germany,DE,🇩🇪,3,low,No,"Timeweb, LLP",10554,Not Checked,,
-193.58.122.93:8118,HTTP,Germany,DE,🇩🇪,4,low,No,Play2go International Limited,1209,Not Checked,,
-2.28.105.45:8888,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,1759,Not Checked,,
-157.90.89.52:8484,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,22521,Not Checked,,
-144.76.61.252:3128,HTTP,Germany,DE,🇩🇪,6,low,Yes,Hetzner Online GmbH,9141,Not Checked,,
-150.241.105.211:3128,HTTP,Germany,DE,🇩🇪,8,low,No,U1 DIGITAL SERVICES LTD,6045,Not Checked,,
-217.154.245.41:8888,HTTP,Germany,DE,🇩🇪,36,medium,No,IONOS SE,12601,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1110,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1120,Not Checked,,
-157.230.28.51:1981,HTTP,Germany,DE,🇩🇪,51,medium,Yes,"DigitalOcean, LLC",15089,Not Checked,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,824,Yes,75.2,8/8
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,820,Yes,75.5,8/8
+152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,0,low,No,netcup GmbH,832,Yes,90.3,7/8
+152.53.183.107:8082,HTTP,Germany,DE,🇩🇪,0,low,No,netcup GmbH,866,Yes,90.2,7/8
+152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,0,low,No,netcup GmbH,3887,Not Checked,,
+176.94.224.86:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Vodafone GmbH,9240,Not Checked,,
+91.26.188.170:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,5082,Not Checked,,
+213.135.6.13:8080,HTTP,Germany,DE,🇩🇪,0,low,No,intersaar GmbH,16114,Not Checked,,
+43.157.41.157:3128,HTTP,Germany,DE,🇩🇪,1,low,No,Shenzhen Tencent Computer Systems Company Limited,11980,Not Checked,,
+72.56.122.5:3128,HTTP,Germany,DE,🇩🇪,3,low,No,"Timeweb, LLP",4311,Not Checked,,
+72.56.122.5:3128,HTTP,Germany,DE,🇩🇪,3,low,No,"Timeweb, LLP",2909,Not Checked,,
+78.47.129.97:3128,HTTP,Germany,DE,🇩🇪,4,low,No,Hetzner Online GmbH,5250,Not Checked,,
+78.47.129.97:3128,HTTP,Germany,DE,🇩🇪,4,low,No,Hetzner Online GmbH,5302,Not Checked,,
+130.61.151.134:3129,HTTP,Germany,DE,🇩🇪,4,low,No,Oracle Corporation,9668,Not Checked,,
+94.130.177.190:9999,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,20389,Not Checked,,
+144.76.61.252:3128,HTTP,Germany,DE,🇩🇪,6,low,Yes,Hetzner Online GmbH,6644,Not Checked,,
+2.28.105.45:8888,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,1437,Not Checked,,
+188.40.250.20:8118,HTTP,Germany,DE,🇩🇪,8,low,No,Hetzner Online GmbH,1813,Not Checked,,
+159.195.43.169:8080,HTTP,Germany,DE,🇩🇪,11,low,No,netcup GmbH,14539,Not Checked,,
+176.125.242.58:3128,HTTP,Germany,DE,🇩🇪,14,low,No,Alexhost SRL,1187,Not Checked,,
+144.91.73.196:3128,HTTP,Germany,DE,🇩🇪,17,low,No,Contabo GmbH,11583,Not Checked,,
+194.163.175.167:40000,HTTP,Germany,DE,🇩🇪,17,low,Yes,Contabo GmbH,3783,Not Checked,,
+77.237.243.184:18080,HTTP,Germany,DE,🇩🇪,17,low,No,Contabo GmbH,8950,Not Checked,,
+169.58.23.35:3128,HTTP,Germany,DE,🇩🇪,17,low,No,Contabo GmbH,17882,Not Checked,,
+194.163.175.167:40000,HTTP,Germany,DE,🇩🇪,17,low,Yes,Contabo GmbH,4076,Not Checked,,
+172.236.200.10:3128,HTTP,Germany,DE,🇩🇪,25,medium,No,"Akamai Technologies, Inc.",869,Not Checked,,
+62.133.60.5:3128,HTTP,Germany,DE,🇩🇪,30,medium,No,Global Connectivity Solutions LLP,1062,Not Checked,,
+54.37.74.255:3128,HTTP,Germany,DE,🇩🇪,50,medium,No,OVH SAS,11840,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",847,Not Checked,,
+161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",801,Not Checked,,
+139.162.134.21:3128,HTTP,Germany,DE,🇩🇪,55,medium,No,"Akamai Technologies, Inc.",778,Not Checked,,
