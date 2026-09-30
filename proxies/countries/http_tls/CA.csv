@@ -1,27 +1,25 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-181.215.52.122:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,3905,Yes,175.6,8/8
-129.97.50.72:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,University of Waterloo,3803,Yes,176.9,8/8
-208.66.248.70:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Morewave Communication Inc.,4438,Yes,213.4,8/8
-181.215.52.16:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,1109,Yes,176.3,8/8
-181.215.52.2:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,940,Yes,180.8,8/8
-181.215.52.2:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,1671,Yes,180.8,8/8
-132.208.244.66:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Reseau d'Informations Scientifiques du Quebec (RISQ Inc.),1214,No,,0/8
-132.208.244.66:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Reseau d'Informations Scientifiques du Quebec (RISQ Inc.),2129,No,,0/8
-208.66.248.70:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Morewave Communication Inc.,7567,Not Checked,,
-181.215.52.122:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,9310,Not Checked,,
-69.70.52.198:443,HTTP_TLS,Canada,CA,🇨🇦,2,low,No,Videotron Ltee,1189,Not Checked,,
-69.70.52.198:443,HTTP_TLS,Canada,CA,🇨🇦,2,low,No,Videotron Ltee,2077,Not Checked,,
-192.95.37.111:443,HTTP_TLS,Canada,CA,🇨🇦,35,medium,No,OVH SAS,3747,Not Checked,,
-149.88.98.81:9443,HTTP_TLS,Canada,CA,🇨🇦,46,medium,Yes,Datacamp Limited,852,Not Checked,,
-149.88.98.81:9443,HTTP_TLS,Canada,CA,🇨🇦,46,medium,Yes,Datacamp Limited,2656,Not Checked,,
-159.203.22.247:443,HTTP_TLS,Canada,CA,🇨🇦,50,medium,No,"DigitalOcean, LLC",4766,Not Checked,,
-198.100.153.39:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,3631,Not Checked,,
-15.235.104.62:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,3540,Not Checked,,
-15.235.104.61:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,3297,Not Checked,,
-66.70.170.84:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,3169,Not Checked,,
-198.44.142.27:9443,HTTP_TLS,Canada,CA,🇨🇦,100,very_high,Yes,"tzulo, inc.",9672,Not Checked,,
-198.44.142.27:9443,HTTP_TLS,Canada,CA,🇨🇦,100,very_high,Yes,"tzulo, inc.",4087,Not Checked,,
-198.44.142.43:443,HTTP_TLS,Canada,CA,🇨🇦,100,very_high,Yes,"tzulo, inc.",1100,Not Checked,,
-198.44.142.43:9443,HTTP_TLS,Canada,CA,🇨🇦,100,very_high,Yes,"tzulo, inc.",1122,Not Checked,,
-198.44.142.43:443,HTTP_TLS,Canada,CA,🇨🇦,100,very_high,Yes,"tzulo, inc.",1831,Not Checked,,
-198.44.142.43:9443,HTTP_TLS,Canada,CA,🇨🇦,100,very_high,Yes,"tzulo, inc.",1759,Not Checked,,
+208.66.248.70:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Morewave Communication Inc.,3159,Yes,213.3,8/8
+181.215.52.16:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,551,Yes,175.7,8/8
+181.215.52.11:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,422,Yes,174.5,8/8
+181.215.52.2:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,544,Yes,177.9,8/8
+181.215.52.2:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,622,Yes,177.7,8/8
+129.97.50.72:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,University of Waterloo,1169,Yes,177.5,8/8
+132.208.244.66:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Reseau d'Informations Scientifiques du Quebec (RISQ Inc.),676,No,,0/8
+132.208.244.66:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Reseau d'Informations Scientifiques du Quebec (RISQ Inc.),1156,No,,0/8
+69.70.52.198:443,HTTP_TLS,Canada,CA,🇨🇦,2,low,No,Videotron Ltee,729,Not Checked,,
+69.70.52.198:443,HTTP_TLS,Canada,CA,🇨🇦,2,low,No,Videotron Ltee,1066,Not Checked,,
+35.183.131.26:443,HTTP_TLS,Canada,CA,🇨🇦,10,low,No,Amazon Technologies Inc.,1281,Not Checked,,
+35.183.131.26:443,HTTP_TLS,Canada,CA,🇨🇦,10,low,No,Amazon Technologies Inc.,917,Not Checked,,
+192.95.37.111:443,HTTP_TLS,Canada,CA,🇨🇦,35,medium,No,OVH SAS,3526,Not Checked,,
+149.88.98.81:9443,HTTP_TLS,Canada,CA,🇨🇦,46,medium,Yes,Datacamp Limited,640,Not Checked,,
+149.88.98.81:9443,HTTP_TLS,Canada,CA,🇨🇦,46,medium,Yes,Datacamp Limited,1946,Not Checked,,
+159.203.22.247:443,HTTP_TLS,Canada,CA,🇨🇦,50,medium,No,"DigitalOcean, LLC",3450,Not Checked,,
+15.235.104.62:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,5227,Not Checked,,
+15.235.104.61:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,6057,Not Checked,,
+66.70.170.84:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,5813,Not Checked,,
+198.100.153.39:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,6525,Not Checked,,
+198.44.142.43:443,HTTP_TLS,Canada,CA,🇨🇦,100,very_high,Yes,"tzulo, inc.",675,Not Checked,,
+198.44.142.43:9443,HTTP_TLS,Canada,CA,🇨🇦,100,very_high,Yes,"tzulo, inc.",746,Not Checked,,
+198.44.142.43:443,HTTP_TLS,Canada,CA,🇨🇦,100,very_high,Yes,"tzulo, inc.",748,Not Checked,,
+198.44.142.43:9443,HTTP_TLS,Canada,CA,🇨🇦,100,very_high,Yes,"tzulo, inc.",1025,Not Checked,,

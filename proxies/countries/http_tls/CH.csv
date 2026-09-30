@@ -1,15 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.131.254.246:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,hosttech GmbH,4572,Yes,92.2,8/8
-212.243.240.120:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,4394,No,,0/8
-84.72.72.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,1,low,No,UPC Schweiz GmbH,6003,Not Checked,,
-146.70.126.50:9443,HTTP_TLS,Switzerland,CH,🇨🇭,44,medium,Yes,M247 Europe Infra,6670,Not Checked,,
-169.150.197.162:9443,HTTP_TLS,Switzerland,CH,🇨🇭,46,medium,Yes,Datacamp Limited,5518,Not Checked,,
-169.150.197.234:9443,HTTP_TLS,Switzerland,CH,🇨🇭,46,medium,Yes,Datacamp Limited,5444,Not Checked,,
-169.150.197.247:9443,HTTP_TLS,Switzerland,CH,🇨🇭,46,medium,Yes,Datacamp Limited,6000,Not Checked,,
-149.88.27.46:9443,HTTP_TLS,Switzerland,CH,🇨🇭,46,medium,Yes,Datacamp Limited,4650,Not Checked,,
-169.150.197.247:9443,HTTP_TLS,Switzerland,CH,🇨🇭,46,medium,Yes,Datacamp Limited,4392,Not Checked,,
-169.150.197.234:9443,HTTP_TLS,Switzerland,CH,🇨🇭,46,medium,Yes,Datacamp Limited,4296,Not Checked,,
-169.150.197.162:9443,HTTP_TLS,Switzerland,CH,🇨🇭,46,medium,Yes,Datacamp Limited,4164,Not Checked,,
-216.152.150.189:443,HTTP_TLS,Switzerland,CH,🇨🇭,62,high,No,GTHost,12504,Not Checked,,
-216.152.150.180:443,HTTP_TLS,Switzerland,CH,🇨🇭,62,high,No,GTHost,14404,Not Checked,,
-216.152.150.188:443,HTTP_TLS,Switzerland,CH,🇨🇭,62,high,No,GTHost,12851,Not Checked,,
+212.243.240.120:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,4949,Not Checked,,
+84.72.72.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,1,low,No,UPC Schweiz GmbH,2271,Not Checked,,
+216.152.150.180:443,HTTP_TLS,Switzerland,CH,🇨🇭,62,high,No,GTHost,13040,Not Checked,,
+216.152.150.189:443,HTTP_TLS,Switzerland,CH,🇨🇭,62,high,No,GTHost,12770,Not Checked,,
+216.152.150.188:443,HTTP_TLS,Switzerland,CH,🇨🇭,62,high,No,GTHost,12804,Not Checked,,
+216.152.150.180:443,HTTP_TLS,Switzerland,CH,🇨🇭,62,high,No,GTHost,5385,Not Checked,,
+216.152.150.189:443,HTTP_TLS,Switzerland,CH,🇨🇭,62,high,No,GTHost,5197,Not Checked,,
+216.152.150.188:443,HTTP_TLS,Switzerland,CH,🇨🇭,62,high,No,GTHost,5207,Not Checked,,
