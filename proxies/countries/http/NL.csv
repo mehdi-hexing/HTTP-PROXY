@@ -1,9 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.114.43.99:8888,HTTP,Netherlands,NL,🇳🇱,0,low,Yes,MHost LLC,807,Yes,85.3,8/8
-87.251.78.206:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,Chsl ONE LTD,18045,Not Checked,,
-185.5.75.87:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,Anton Levin,20280,Not Checked,,
-95.211.174.135:3128,HTTP,Netherlands,NL,🇳🇱,11,low,Yes,LeaseWeb Netherlands B.V.,733,Not Checked,,
-193.233.211.220:8443,HTTP,Netherlands,NL,🇳🇱,14,low,No,Aeza International LTD,886,Not Checked,,
-165.22.201.59:3128,HTTP,Netherlands,NL,🇳🇱,51,medium,Yes,"DigitalOcean, LLC",8297,Not Checked,,
-164.90.201.94:3128,HTTP,Netherlands,NL,🇳🇱,51,medium,No,"DigitalOcean, LLC",12150,Not Checked,,
-165.22.201.59:3128,HTTP,Netherlands,NL,🇳🇱,51,medium,Yes,"DigitalOcean, LLC",5362,Not Checked,,
+185.5.75.87:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,Anton Levin,2876,Yes,83.1,8/8
+185.94.164.182:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,First Server Limited,7930,Not Checked,,
+144.31.34.16:3129,HTTP,Netherlands,NL,🇳🇱,0,low,No,Packet Loss LTD,12234,Not Checked,,
+89.110.124.45:8888,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,7693,Not Checked,,
+89.110.124.45:8888,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,990,Not Checked,,
+213.111.146.36:18080,HTTP,Netherlands,NL,🇳🇱,5,low,Yes,SOLLUTIUM EU Sp z.o.o.,819,Not Checked,,
+213.111.146.36:18080,HTTP,Netherlands,NL,🇳🇱,5,low,Yes,SOLLUTIUM EU Sp z.o.o.,862,Not Checked,,
+95.211.174.135:3128,HTTP,Netherlands,NL,🇳🇱,11,low,Yes,LeaseWeb Netherlands B.V.,984,Not Checked,,
+193.233.211.220:8443,HTTP,Netherlands,NL,🇳🇱,14,low,No,Aeza International LTD,841,Not Checked,,
+138.124.117.43:3131,HTTP,Netherlands,NL,🇳🇱,14,low,No,Aeza International LTD,8587,Not Checked,,
+193.233.211.220:8443,HTTP,Netherlands,NL,🇳🇱,14,low,No,Aeza International LTD,856,Not Checked,,
+109.122.203.91:3128,HTTP,Netherlands,NL,🇳🇱,16,low,Yes,Melbikomas UAB,785,Not Checked,,

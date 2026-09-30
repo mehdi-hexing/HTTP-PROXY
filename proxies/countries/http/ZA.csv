@@ -1,13 +1,14 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-102.208.228.90:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,2351,No,,0/8
-102.208.228.90:3128,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,2370,No,,0/8
-102.208.228.90:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,2182,No,,0/8
-102.208.228.90:3128,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,2184,No,,0/8
-13.247.184.101:13702,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon Technologies Inc.,2602,No,,0/8
-16.28.32.67:8118,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,2619,No,,0/8
-16.28.32.67:1327,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,2808,No,,0/8
-196.251.213.192:8081,HTTP,South Africa,ZA,🇿🇦,0,low,No,Info-Gro (PTY) Ltd,21322,Not Checked,,
-41.57.63.1:8104,HTTP,South Africa,ZA,🇿🇦,0,low,No,Screamer Telecommunications,9097,Not Checked,,
-102.39.156.82:8080,HTTP,South Africa,ZA,🇿🇦,2,low,No,Vox Telecommunications (Pty) Limited,1903,Not Checked,,
-196.216.134.71:8865,HTTP,South Africa,ZA,🇿🇦,3,low,No,HERO TELECOMS (PTY) LTD,6388,Not Checked,,
-13.244.203.188:7070,HTTP,South Africa,ZA,🇿🇦,3,low,No,"Amazon.com, Inc.",2193,Not Checked,,
+196.251.213.192:8081,HTTP,South Africa,ZA,🇿🇦,0,low,No,Info-Gro (PTY) Ltd,2605,Yes,248.8,8/8
+102.208.228.90:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,3686,No,,0/8
+102.208.228.90:3128,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,3945,No,,0/8
+102.208.228.90:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,2393,No,,0/8
+102.208.228.90:3128,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,2839,No,,0/8
+16.28.101.55:50672,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,5127,Not Checked,,
+196.251.222.205:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,Info-Gro (PTY) Ltd,14819,Not Checked,,
+41.57.63.1:8104,HTTP,South Africa,ZA,🇿🇦,0,low,No,Screamer Telecommunications,7904,Not Checked,,
+196.251.223.54:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,Info-Gro (PTY) Ltd,14647,Not Checked,,
+102.66.163.87:9999,HTTP,South Africa,ZA,🇿🇦,3,low,No,HERO TELECOMS (PTY) LTD,13880,Not Checked,,
+196.216.134.71:8865,HTTP,South Africa,ZA,🇿🇦,3,low,No,HERO TELECOMS (PTY) LTD,19798,Not Checked,,
+154.66.159.34:800,HTTP,South Africa,ZA,🇿🇦,7,low,No,Wirulink Pty Ltd,14296,Not Checked,,
+154.66.159.34:800,HTTP,South Africa,ZA,🇿🇦,7,low,No,Wirulink Pty Ltd,12309,Not Checked,,

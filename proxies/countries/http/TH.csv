@@ -1,15 +1,36 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-124.121.111.14:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TRUEBB,6040,Yes,267.2,8/8
-125.27.43.17:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,4834,Yes,265.2,8/8
-47.81.56.193:8888,HTTP,Thailand,TH,🇹🇭,0,low,No,Alibaba.com LLC,2288,Yes,257.1,8/8
-96.30.79.84:8081,HTTP,Thailand,TH,🇹🇭,0,low,No,Symphony Communication Public Company Limited,3221,Yes,255.1,8/8
-8.213.195.191:8081,HTTP,Thailand,TH,🇹🇭,0,low,No,Alibaba Cloud (Singapore) Private Limited,10043,Not Checked,,
-8.213.222.247:8443,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8260,Not Checked,,
-8.213.215.187:4002,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",15175,Not Checked,,
-8.213.222.157:3129,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8429,Not Checked,,
-8.213.197.208:9091,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8268,Not Checked,,
-125.27.151.100:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,12512,Not Checked,,
-1.4.171.242:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,15836,Not Checked,,
-203.150.128.56:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,Internet Thailand Company Ltd,11319,Not Checked,,
-110.238.113.119:19,HTTP,Thailand,TH,🇹🇭,2,low,No,Huawei International Pte. LTD,8637,Not Checked,,
-110.49.53.69:8081,HTTP,Thailand,TH,🇹🇭,4,low,No,Advanced Wireless Network Company Limited,9086,Not Checked,,
+125.27.151.100:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,4282,Yes,270.1,8/8
+47.81.56.193:8888,HTTP,Thailand,TH,🇹🇭,0,low,No,Alibaba.com LLC,2246,Yes,257.9,8/8
+47.81.59.32:3128,HTTP,Thailand,TH,🇹🇭,0,low,No,Alibaba.com LLC,2661,Yes,259.2,8/8
+124.121.2.189:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,True Internet Corporation CO. Ltd.,4469,Yes,269.4,8/8
+124.120.105.41:4080,HTTP,Thailand,TH,🇹🇭,0,low,No,True Internet Corporation CO. Ltd.,2613,No,,0/8
+8.213.215.187:176,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8840,Not Checked,,
+182.52.102.216:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,7427,Not Checked,,
+8.213.222.157:88,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8266,Not Checked,,
+8.213.222.247:80,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8267,Not Checked,,
+8.213.195.191:90,HTTP,Thailand,TH,🇹🇭,0,low,No,Alibaba Cloud (Singapore) Private Limited,8251,Not Checked,,
+8.213.197.208:8443,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",10259,Not Checked,,
+8.213.222.247:3128,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8245,Not Checked,,
+103.253.72.151:8080,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Readyidc Company Limited,6910,Not Checked,,
+125.27.192.162:8081,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,6324,Not Checked,,
+182.52.149.42:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,5059,Not Checked,,
+202.29.215.78:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,Office of Info.Tech. Admin. for Educational Development,21052,Not Checked,,
+103.253.72.151:8080,HTTP,Thailand,TH,🇹🇭,0,low,Yes,Readyidc Company Limited,14971,Not Checked,,
+110.238.113.119:10006,HTTP,Thailand,TH,🇹🇭,2,low,No,Huawei International Pte. LTD,8879,Not Checked,,
+43.208.237.116:1894,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3011,Not Checked,,
+43.208.237.116:7217,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3014,Not Checked,,
+43.208.237.116:9182,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3002,Not Checked,,
+43.208.237.116:30097,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",3028,Not Checked,,
+43.208.237.116:121,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2911,Not Checked,,
+184.22.129.188:8080,HTTP,Thailand,TH,🇹🇭,3,low,No,AIS-Fibre,11422,Not Checked,,
+210.86.172.190:8080,HTTP,Thailand,TH,🇹🇭,3,low,No,True Internet Corporation CO. Ltd.,7473,Not Checked,,
+58.136.168.154:8080,HTTP,Thailand,TH,🇹🇭,3,low,No,AIS-Fibre,13070,Not Checked,,
+58.136.168.221:8080,HTTP,Thailand,TH,🇹🇭,3,low,No,AIS-Fibre,6342,Not Checked,,
+43.208.237.116:10801,HTTP,Thailand,TH,🇹🇭,3,low,No,"Amazon.com, Inc.",2580,Not Checked,,
+110.49.53.69:8081,HTTP,Thailand,TH,🇹🇭,4,low,No,Advanced Wireless Network Company Limited,4981,Not Checked,,
+110.49.53.69:8081,HTTP,Thailand,TH,🇹🇭,4,low,No,Advanced Wireless Network Company Limited,16293,Not Checked,,
+183.88.213.178:8080,HTTP,Thailand,TH,🇹🇭,6,low,No,Triple T Broadband Public Company Limited,15787,Not Checked,,
+183.88.231.188:34599,HTTP,Thailand,TH,🇹🇭,6,low,No,Triple T Broadband Public Company Limited,12533,Not Checked,,
+49.48.54.80:8080,HTTP,Thailand,TH,🇹🇭,6,low,No,Triple T Broadband Public Company Limited,2317,Not Checked,,
+49.48.117.61:8080,HTTP,Thailand,TH,🇹🇭,6,low,No,Triple T Broadband Public Company Limited,18598,Not Checked,,
+171.5.129.219:8080,HTTP,Thailand,TH,🇹🇭,14,low,No,TRIPLETNET,4476,Not Checked,,
