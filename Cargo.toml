@@ -1,0 +1,19 @@
+[package]
+name = "proxy-scanner"
+version = "0.1.0"
+edition = "2021"
+description = "Rust port of Scanner.py: fetches, verifies and publishes free HTTP/HTTPS/SOCKS4/SOCKS5 proxies"
+
+[dependencies]
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "net", "time", "io-util", "sync"] }
+tokio-rustls = { version = "0.26", default-features = false, features = ["ring", "tls12"] }
+rustls = { version = "0.23", default-features = false, features = ["ring", "std", "tls12"] }
+reqwest = { version = "0.12", default-features = false, features = ["rustls-tls"] }
+serde_json = "1"
+csv = "1"
+qrcode = { version = "0.14", default-features = false }
+png = "0.17"
+uuid = { version = "1", features = ["v4"] }
+
+[profile.release]
+opt-level = 3

@@ -1,0 +1,55 @@
+name: Scan Proxies (Rust)
+
+on:
+  schedule:
+    - cron: '0 3,9,15,21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scan-proxies-rust
+  cancel-in-progress: true
+
+jobs:
+  run-scanner:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v7
+
+    - name: Set up Rust (stable)
+      run: |
+        rustup toolchain install stable --profile minimal
+        rustup default stable
+        cargo --version
+
+    - name: Cache Cargo
+      uses: Swatinem/rust-cache@v2
+
+    - name: Build Scanner
+      run: cargo build --release
+
+    - name: Configure Git Identity
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+    - name: Run Proxies Scan (Rust)
+      run: ./target/release/proxy-scanner
+      env:
+        CHECK_IRAN: "true"
+
+    - name: Final Commit and Push (safety net)
+      if: always()
+      run: |
+        git add -f proxies/ Raw_Sources/ README.md
+        if git diff --cached --quiet; then
+          echo "Nothing to commit"
+          exit 0
+        fi
+        git commit -m "Update live proxies list (final, Rust)"
+        git push || { git pull --rebase -X theirs && git push; }
