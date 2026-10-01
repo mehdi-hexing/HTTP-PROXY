@@ -1,2 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-192.203.0.250:999,HTTP,Puerto Rico,PR,🇵🇷,0,low,No,Boom NET,8716,Not Checked,,
+192.203.0.142:999,HTTP,Puerto Rico,PR,🇵🇷,0,low,No,Boom NET,3673,Yes,204.9,8/8
+192.203.0.166:999,HTTP,Puerto Rico,PR,🇵🇷,0,low,No,Boom NET,4948,Yes,208.7,8/8
+192.203.0.142:999,HTTP,Puerto Rico,PR,🇵🇷,0,low,No,Boom NET,6843,Not Checked,,
+23.138.88.1:999,HTTP,Puerto Rico,PR,🇵🇷,0,low,No,Alphanet Corp,11012,Not Checked,,

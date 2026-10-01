@@ -1,7 +1,15 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-31.59.234.26:40001,HTTP,France,FR,🇫🇷,0,low,No,Aryk SAS,1045,No,,0/8
-31.59.234.26:40001,HTTP,France,FR,🇫🇷,0,low,No,Aryk SAS,957,No,,0/8
-156.67.110.124:10808,HTTP,France,FR,🇫🇷,6,low,No,Contabo Asia Private Limited,5115,Not Checked,,
-156.67.110.124:10808,HTTP,France,FR,🇫🇷,6,low,No,Contabo Asia Private Limited,5038,Not Checked,,
-37.59.125.131:8888,HTTP,France,FR,🇫🇷,10,low,Yes,OVH SAS,5612,Not Checked,,
-37.59.125.131:8888,HTTP,France,FR,🇫🇷,10,low,Yes,OVH SAS,2490,Not Checked,,
+82.65.98.35:3128,HTTP,France,FR,🇫🇷,0,low,No,Proxad / Free SAS,3020,Yes,107.3,8/8
+82.65.98.35:3128,HTTP,France,FR,🇫🇷,0,low,No,Proxad / Free SAS,4118,Yes,107.3,8/8
+94.176.161.44:3128,HTTP,France,FR,🇫🇷,0,low,No,Webconex SAS,1501,Yes,91.2,8/8
+156.67.110.124:10808,HTTP,France,FR,🇫🇷,6,low,No,Contabo Asia Private Limited,4552,Not Checked,,
+156.67.110.124:10808,HTTP,France,FR,🇫🇷,6,low,No,Contabo Asia Private Limited,12733,Not Checked,,
+37.59.125.131:8888,HTTP,France,FR,🇫🇷,10,low,Yes,OVH SAS,3458,Not Checked,,
+37.59.125.131:8888,HTTP,France,FR,🇫🇷,10,low,Yes,OVH SAS,2690,Not Checked,,
+51.159.156.201:3128,HTTP,France,FR,🇫🇷,35,medium,No,SCALEWAY,10284,Not Checked,,
+51.159.156.201:3128,HTTP,France,FR,🇫🇷,35,medium,No,SCALEWAY,6001,Not Checked,,
+62.210.189.192:10088,HTTP,France,FR,🇫🇷,36,medium,No,Scaleway SAS,13018,Not Checked,,
+217.182.195.221:30003,HTTP,France,FR,🇫🇷,42,medium,No,OVH SAS,3017,Not Checked,,
+217.182.195.221:30002,HTTP,France,FR,🇫🇷,42,medium,No,OVH SAS,7302,Not Checked,,
+57.128.44.204:3128,HTTP,France,FR,🇫🇷,42,medium,No,OVH SAS,2370,Not Checked,,
+57.128.44.204:3128,HTTP,France,FR,🇫🇷,42,medium,No,OVH SAS,12683,Not Checked,,
