@@ -1,28 +1,62 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-195.182.74.92:42443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,VIKT,5905,Not Checked,,
-89.124.11.11:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3926,Not Checked,,
-89.124.11.13:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,4442,Not Checked,,
-89.124.11.10:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,4878,Not Checked,,
-89.124.11.12:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,6156,Not Checked,,
-89.124.11.8:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,5384,Not Checked,,
-89.124.11.7:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,Yes,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,4409,Not Checked,,
-89.124.8.84:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,6828,Not Checked,,
-89.124.8.78:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,7437,Not Checked,,
-89.124.8.81:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,4864,Not Checked,,
-89.124.8.89:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,Yes,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,5242,Not Checked,,
-89.124.8.75:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,5421,Not Checked,,
-89.124.8.79:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,5670,Not Checked,,
-89.124.8.85:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,5692,Not Checked,,
-89.124.8.26:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,6717,Not Checked,,
-89.124.8.25:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,Yes,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,5928,Not Checked,,
-89.124.8.36:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,Yes,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,5877,Not Checked,,
-89.124.8.35:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,7198,Not Checked,,
-89.124.8.30:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,6767,Not Checked,,
-89.124.8.77:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,5907,Not Checked,,
-89.124.8.87:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,7160,Not Checked,,
-89.124.8.34:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,6647,Not Checked,,
-89.124.8.76:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,4213,Not Checked,,
-89.124.11.9:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,1,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,1813,Not Checked,,
-89.124.8.82:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,1,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,5842,Not Checked,,
-93.115.26.111:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,20,medium,No,Cherry Servers,2200,Not Checked,,
-89.124.8.29:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,33,medium,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,5057,Not Checked,,
+89.124.11.13:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,2653,Yes,89.4,4/8
+89.124.11.12:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,2880,Yes,88.1,4/8
+89.124.8.26:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,2635,Yes,107.0,4/8
+89.124.8.81:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3144,Yes,112.1,4/8
+89.124.8.30:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3007,Yes,108.2,4/8
+89.124.8.75:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3131,Yes,111.5,4/8
+89.124.8.39:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,2223,Yes,109.5,4/8
+89.124.8.28:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,2317,Yes,108.6,4/8
+89.124.11.6:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,2264,Yes,83.0,4/8
+89.124.11.10:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3062,Yes,86.4,4/8
+89.124.8.81:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,2831,Yes,112.1,4/8
+89.124.8.26:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3077,Yes,106.8,4/8
+89.124.8.30:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,2947,Yes,108.2,4/8
+89.124.8.35:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3012,Yes,106.9,4/8
+89.124.8.36:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,Yes,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3073,Yes,106.1,4/8
+89.124.8.87:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,2950,Yes,112.0,4/8
+89.124.8.28:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3003,Yes,108.5,4/8
+195.182.74.91:42443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,VIKT,6720,Not Checked,,
+89.124.11.10:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3181,Not Checked,,
+89.124.11.11:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3267,Not Checked,,
+89.124.11.7:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,Yes,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,4402,Not Checked,,
+89.124.8.78:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,4174,Not Checked,,
+89.124.11.8:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,5052,Not Checked,,
+89.124.8.84:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,5703,Not Checked,,
+89.124.8.87:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3216,Not Checked,,
+89.124.8.89:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,Yes,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3322,Not Checked,,
+89.124.8.85:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3788,Not Checked,,
+89.124.8.36:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,Yes,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3388,Not Checked,,
+89.124.8.35:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3778,Not Checked,,
+89.124.8.79:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3497,Not Checked,,
+89.124.8.34:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3317,Not Checked,,
+89.124.8.25:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,Yes,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,4401,Not Checked,,
+89.124.8.77:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3719,Not Checked,,
+89.124.8.76:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,4782,Not Checked,,
+89.124.8.83:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3770,Not Checked,,
+89.124.11.13:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3892,Not Checked,,
+89.124.11.12:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3215,Not Checked,,
+89.124.11.11:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3726,Not Checked,,
+89.124.11.7:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,Yes,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3939,Not Checked,,
+89.124.11.8:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3881,Not Checked,,
+89.124.8.78:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3239,Not Checked,,
+89.124.8.39:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,4160,Not Checked,,
+89.124.11.6:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,4793,Not Checked,,
+89.124.8.89:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,Yes,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3215,Not Checked,,
+89.124.8.84:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,8200,Not Checked,,
+89.124.8.79:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3612,Not Checked,,
+89.124.8.77:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3574,Not Checked,,
+89.124.8.85:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3951,Not Checked,,
+89.124.8.34:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3461,Not Checked,,
+89.124.8.75:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,4371,Not Checked,,
+89.124.8.25:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,Yes,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,4981,Not Checked,,
+89.124.8.76:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3620,Not Checked,,
+89.124.8.83:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,0,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,4312,Not Checked,,
+89.124.11.9:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,1,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,2169,Not Checked,,
+89.124.8.82:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,1,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,2935,Not Checked,,
+89.124.11.9:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,1,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,3004,Not Checked,,
+89.124.8.82:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,1,low,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,4496,Not Checked,,
+93.115.26.111:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,20,medium,No,Cherry Servers,3043,Not Checked,,
+93.115.26.111:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,20,medium,No,Cherry Servers,2935,Not Checked,,
+89.124.8.29:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,33,medium,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,2710,Not Checked,,
+89.124.8.29:443,HTTP_TLS,Republic of Lithuania,LT,🇱🇹,33,medium,No,Sabiedriba ar ierobezotu atbildibu DELSKA Latvia,2995,Not Checked,,
