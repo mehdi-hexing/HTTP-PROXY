@@ -5,7 +5,8 @@
 //!   IRAN_CHECK_MAX   shortlist size per protocol (default 250)
 //!   TIMEOUT_SECS     per-request proxy timeout in seconds (default 8)
 //!   MAX_CONCURRENCY  parallel proxy checks (default 1000)
-//!   METADATA_CONCURRENCY  parallel metadata lookups (default 100)
+//!   METADATA_CONCURRENCY  parallel metadata lookups (default 30)
+//!   METADATA_TIMEOUT_SECS metadata request timeout in seconds (default 10)
 //!   IRAN_CHECK_THREADS    parallel Iran checks (default 8)
 //!   GIT_PUSH         "true"/"false" to force git commit+push (default: on in GitHub Actions)
 
@@ -27,7 +28,7 @@ use rustls::{ClientConfig, DigitallySignedStruct, SignatureScheme};
 use serde_json::Value;
 use tokio::io::{AsyncRead, AsyncReadExt, AsyncWrite, AsyncWriteExt};
 use tokio::net::TcpStream;
-use tokio::sync::{OwnedSemaphorePermit, Semaphore};
+use tokio::sync::Semaphore;
 use tokio::task::JoinSet;
 use tokio::time::timeout;
 use tokio_rustls::TlsConnector;
@@ -113,6 +114,7 @@ struct Config {
     timeout: Duration,
     max_concurrency: usize,
     meta_concurrency: usize,
+    meta_timeout: Duration,
     iran_threads: usize,
     check_iran: bool,
     iran_check_max: usize,
@@ -139,7 +141,11 @@ impl Config {
         let meta_concurrency = get("METADATA_CONCURRENCY")
             .and_then(|v| v.trim().parse::<usize>().ok())
             .filter(|v| *v > 0)
-            .unwrap_or(100);
+            .unwrap_or(30);
+        let meta_timeout_secs = get("METADATA_TIMEOUT_SECS")
+            .and_then(|v| v.trim().parse::<u64>().ok())
+            .filter(|v| *v > 0)
+            .unwrap_or(10);
         let iran_threads = get("IRAN_CHECK_THREADS")
             .and_then(|v| v.trim().parse::<usize>().ok())
             .filter(|v| *v > 0)
@@ -152,6 +158,7 @@ impl Config {
             timeout: Duration::from_secs(timeout_secs),
             max_concurrency,
             meta_concurrency,
+            meta_timeout: Duration::from_secs(meta_timeout_secs),
             iran_threads,
             check_iran,
             iran_check_max,
@@ -198,7 +205,6 @@ struct Ctx {
     tls: TlsConnector,
     exceptions: SafeCounter,
     metadata_fallbacks: SafeCounter,
-    meta_sem: Semaphore,
     socks4_ip: tokio::sync::OnceCell<Ipv4Addr>,
 }
 
@@ -562,39 +568,43 @@ struct ProxyResult {
     ir: Option<IranInfo>,
 }
 
-async fn fetch_metadata_api(ctx: &Ctx, url: &str) -> Option<Metadata> {
-    let resp = match ctx.http.get(url).timeout(Duration::from_secs(5)).send().await {
+enum Lookup {
+    Found(Metadata),
+    NoData,
+    Retry,
+}
+
+async fn fetch_metadata_api(ctx: &Ctx, url: &str) -> Lookup {
+    let resp = match ctx.http.get(url).timeout(ctx.cfg.meta_timeout).send().await {
         Ok(r) => r,
         Err(e) => {
-            if e.is_timeout() {
-                ctx.metadata_fallbacks.increment("timeout");
-            } else {
-                ctx.metadata_fallbacks.increment("connection_error");
-            }
-            return None;
+            ctx.metadata_fallbacks
+                .increment(if e.is_timeout() { "timeout" } else { "connection_error" });
+            return Lookup::Retry;
         }
     };
-    if resp.status().as_u16() != 200 {
-        ctx.metadata_fallbacks
-            .increment(&format!("http_{}", resp.status().as_u16()));
-        return None;
+    let status = resp.status().as_u16();
+    if status != 200 {
+        ctx.metadata_fallbacks.increment(&format!("http_{status}"));
+        return if status == 429 || status >= 500 {
+            Lookup::Retry
+        } else {
+            Lookup::NoData
+        };
     }
     let body = match resp.text().await {
         Ok(t) => t,
         Err(e) => {
-            if e.is_timeout() {
-                ctx.metadata_fallbacks.increment("timeout");
-            } else {
-                ctx.metadata_fallbacks.increment("connection_error");
-            }
-            return None;
+            ctx.metadata_fallbacks
+                .increment(if e.is_timeout() { "timeout" } else { "connection_error" });
+            return Lookup::Retry;
         }
     };
     let data: Value = match serde_json::from_str(&body) {
         Ok(v) => v,
         Err(_) => {
             ctx.metadata_fallbacks.increment("bad_response_format");
-            return None;
+            return Lookup::Retry;
         }
     };
 
@@ -607,7 +617,7 @@ async fn fetch_metadata_api(ctx: &Ctx, url: &str) -> Option<Metadata> {
         None => false,
     };
     if country_ok {
-        return Some(Metadata {
+        return Lookup::Found(Metadata {
             country: py_str(details.get("country"), "Unknown"),
             country_code: py_str(details.get("country_code"), "N/A"),
             flag: py_str(details.get("flag"), "\u{1F3F3}\u{FE0F}"),
@@ -618,18 +628,92 @@ async fn fetch_metadata_api(ctx: &Ctx, url: &str) -> Option<Metadata> {
         });
     }
     ctx.metadata_fallbacks.increment("no_country_data");
+    Lookup::NoData
+}
+
+async fn lookup_metadata_url(ctx: &Ctx, url: &str, tries: u32) -> Option<Metadata> {
+    for attempt in 0..tries {
+        match fetch_metadata_api(ctx, url).await {
+            Lookup::Found(m) => return Some(m),
+            Lookup::NoData => return None,
+            Lookup::Retry => {
+                if attempt + 1 < tries {
+                    tokio::time::sleep(Duration::from_millis(400 * (attempt as u64 + 1))).await;
+                }
+            }
+        }
+    }
     None
 }
 
-async fn get_proxy_metadata(ctx: &Ctx, ip: &str) -> Metadata {
-    if let Some(m) = fetch_metadata_api(ctx, &format!("{META_PRIMARY}/{ip}")).await {
-        return m;
+async fn get_proxy_metadata(ctx: &Ctx, ip: &str) -> Option<Metadata> {
+    if let Some(m) = lookup_metadata_url(ctx, &format!("{META_PRIMARY}/{ip}"), 3).await {
+        return Some(m);
     }
-    if let Some(m) = fetch_metadata_api(ctx, &format!("{META_FALLBACK}/{ip}")).await {
-        return m;
+    lookup_metadata_url(ctx, &format!("{META_FALLBACK}/{ip}"), 2).await
+}
+
+fn proxy_ip(proxy: &str) -> String {
+    proxy.split(':').next().unwrap_or("").to_string()
+}
+
+async fn fill_metadata(ctx: &Arc<Ctx>, results: &mut [ProxyResult]) {
+    let mut pending: Vec<String> = Vec::new();
+    let mut seen: HashSet<String> = HashSet::new();
+    for r in results.iter() {
+        let ip = proxy_ip(&r.proxy);
+        if seen.insert(ip.clone()) {
+            pending.push(ip);
+        }
     }
-    ctx.metadata_fallbacks.increment("both_sources_failed");
-    Metadata::unknown()
+    let unique = pending.len();
+    if unique == 0 {
+        return;
+    }
+    println!("{CYAN}Fetching metadata for {unique} unique IPs...{RESET}");
+
+    let mut found: HashMap<String, Metadata> = HashMap::new();
+    let rounds = [ctx.cfg.meta_concurrency, (ctx.cfg.meta_concurrency / 4).max(1)];
+    for (round, concurrency) in rounds.into_iter().enumerate() {
+        if pending.is_empty() {
+            break;
+        }
+        if round > 0 {
+            tokio::time::sleep(Duration::from_secs(2)).await;
+        }
+        let sem = Arc::new(Semaphore::new(concurrency));
+        let mut set: JoinSet<(String, Option<Metadata>)> = JoinSet::new();
+        for ip in pending.drain(..) {
+            let sem = Arc::clone(&sem);
+            let ctx = Arc::clone(ctx);
+            set.spawn(async move {
+                let _permit = sem.acquire_owned().await.ok();
+                let meta = get_proxy_metadata(&ctx, &ip).await;
+                (ip, meta)
+            });
+        }
+        while let Some(joined) = set.join_next().await {
+            if let Ok((ip, meta)) = joined {
+                match meta {
+                    Some(m) => {
+                        found.insert(ip, m);
+                    }
+                    None => pending.push(ip),
+                }
+            }
+        }
+    }
+
+    for r in results.iter_mut() {
+        r.meta = found
+            .get(&proxy_ip(&r.proxy))
+            .cloned()
+            .unwrap_or_else(Metadata::unknown);
+    }
+    println!(
+        "{BLUE}Metadata resolved for {} of {unique} unique IPs.{RESET}",
+        found.len()
+    );
 }
 
 async fn check_iran_reachability(ctx: &Ctx, ip: &str) -> IranInfo {
@@ -731,7 +815,6 @@ async fn check_proxy(
     ctx: &Ctx,
     proxy: &str,
     protocol: &'static str,
-    permit: OwnedSemaphorePermit,
 ) -> Option<ProxyResult> {
     let cleaned = clean_proxy_string(proxy);
     if cleaned.is_empty() {
@@ -776,17 +859,11 @@ async fn check_proxy(
         cleaned,
         elapsed.as_secs_f64()
     );
-    let ip = cleaned.split(':').next().unwrap_or("").to_string();
-    drop(permit);
-    let meta = {
-        let _guard = ctx.meta_sem.acquire().await.ok();
-        get_proxy_metadata(ctx, &ip).await
-    };
     Some(ProxyResult {
         proxy: cleaned,
         protocol,
         latency: elapsed.as_millis() as u64,
-        meta,
+        meta: Metadata::unknown(),
         ir: None,
     })
 }
@@ -1095,7 +1172,10 @@ async fn process_protocol(ctx: &Arc<Ctx>, protocol: &'static str, proxy_list: &[
         let permit = sem.clone().acquire_owned().await?;
         let proxy = proxy.clone();
         let ctx = Arc::clone(ctx);
-        set.spawn(async move { check_proxy(&ctx, &proxy, protocol, permit).await });
+        set.spawn(async move {
+            let _permit = permit;
+            check_proxy(&ctx, &proxy, protocol).await
+        });
         while let Some(joined) = set.try_join_next() {
             if let Ok(Some(r)) = joined {
                 results.push(r);
@@ -1107,6 +1187,8 @@ async fn process_protocol(ctx: &Arc<Ctx>, protocol: &'static str, proxy_list: &[
             results.push(r);
         }
     }
+
+    fill_metadata(ctx, &mut results).await;
 
     if check_iran && !results.is_empty() {
         let mut order: Vec<usize> = (0..results.len()).collect();
@@ -1225,7 +1307,7 @@ async fn process_protocol(ctx: &Arc<Ctx>, protocol: &'static str, proxy_list: &[
     let fallback_counts = ctx.metadata_fallbacks.snapshot();
     if !fallback_counts.is_empty() {
         let total: u64 = fallback_counts.iter().map(|(_, c)| *c).sum();
-        println!("{YELLOW}  Metadata lookups fell back to defaults {total} time(s):{RESET}");
+        println!("{YELLOW}  Metadata lookup failures, including retries ({total}):{RESET}");
         for (reason, count) in &fallback_counts {
             println!("    {reason}: {count}");
         }
@@ -1400,14 +1482,12 @@ fn read_pool(path: &Path) -> Vec<String> {
 async fn main() -> Res<()> {
     let cfg = Config::from_env();
     let http = reqwest::Client::builder().user_agent(USER_AGENT).build()?;
-    let meta_concurrency = cfg.meta_concurrency;
     let ctx = Arc::new(Ctx {
         cfg,
         http,
         tls: build_tls_connector(),
         exceptions: SafeCounter::default(),
         metadata_fallbacks: SafeCounter::default(),
-        meta_sem: Semaphore::new(meta_concurrency),
         socks4_ip: tokio::sync::OnceCell::new(),
     });
 
