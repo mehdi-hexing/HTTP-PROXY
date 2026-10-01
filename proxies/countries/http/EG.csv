@@ -1,3 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-196.204.80.107:1981,HTTP,Egypt,EG,🇪🇬,1,low,Yes,Vodafone Data - Egypt,12736,Not Checked,,
-196.204.80.107:1976,HTTP,Egypt,EG,🇪🇬,1,low,Yes,Vodafone Data - Egypt,2351,Not Checked,,
+41.128.90.53:1981,HTTP,Egypt,EG,🇪🇬,0,low,No,LINKdotNET AS number,1482,Yes,145.4,8/8
+196.204.3.21:1981,HTTP,Egypt,EG,🇪🇬,0,low,No,Vodafone Data - Egypt,1410,Yes,149.6,8/8
+196.204.3.21:1981,HTTP,Egypt,EG,🇪🇬,0,low,No,Vodafone Data - Egypt,1566,Yes,149.6,8/8
+156.200.116.69:8080,HTTP,Egypt,EG,🇪🇬,2,low,No,TE Data,6626,Not Checked,,
+41.33.245.139:1976,HTTP,Egypt,EG,🇪🇬,2,low,No,TE Data,1379,Not Checked,,
