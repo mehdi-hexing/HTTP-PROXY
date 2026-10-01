@@ -1,6 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-190.93.229.1:18080,HTTP,Chile,CL,🇨🇱,0,low,No,Makronet Consulting Tecnologia E Informatica Limitada,11884,Not Checked,,
-186.148.47.254:999,HTTP,Chile,CL,🇨🇱,1,low,No,TELEFÓNICA CHILE S.A.,6225,Not Checked,,
-38.7.195.52:999,HTTP,Chile,CL,🇨🇱,63,high,No,Grupo ZGH SpA,8392,Not Checked,,
-38.7.195.52:999,HTTP,Chile,CL,🇨🇱,63,high,No,Grupo ZGH SpA,12195,Not Checked,,
-38.7.195.51:999,HTTP,Chile,CL,🇨🇱,63,high,No,Grupo ZGH SpA,16346,Not Checked,,
+190.93.229.49:18080,HTTP,Chile,CL,🇨🇱,0,low,No,Makronet Consulting Tecnologia E Informatica Limitada,7962,Yes,277.3,8/8
+38.7.195.52:999,HTTP,Chile,CL,🇨🇱,63,high,No,Grupo ZGH SpA,8786,Not Checked,,
+38.7.195.55:999,HTTP,Chile,CL,🇨🇱,63,high,No,Grupo ZGH SpA,11527,Not Checked,,
+38.7.195.52:999,HTTP,Chile,CL,🇨🇱,63,high,No,Grupo ZGH SpA,4962,Not Checked,,
+38.7.195.51:999,HTTP,Chile,CL,🇨🇱,63,high,No,Grupo ZGH SpA,9410,Not Checked,,
+38.7.195.53:999,HTTP,Chile,CL,🇨🇱,63,high,No,Grupo ZGH SpA,5170,Not Checked,,
+38.7.195.50:999,HTTP,Chile,CL,🇨🇱,63,high,No,Grupo ZGH SpA,9335,Not Checked,,
