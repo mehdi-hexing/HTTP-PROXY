@@ -39,7 +39,9 @@ jobs:
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
     - name: Run Proxies Scan (Rust)
-      run: ./target/release/proxy-scanner
+      run: |
+        ulimit -n 65535 || true
+        ./target/release/proxy-scanner
       env:
         CHECK_IRAN: "true"
 

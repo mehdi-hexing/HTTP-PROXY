@@ -4,7 +4,9 @@
 //!   CHECK_IRAN       "true" to check reachability from Iran for the top proxies
 //!   IRAN_CHECK_MAX   shortlist size per protocol (default 250)
 //!   TIMEOUT_SECS     per-request proxy timeout in seconds (default 8)
-//!   MAX_CONCURRENCY  parallel proxy checks (default 200)
+//!   MAX_CONCURRENCY  parallel proxy checks (default 1000)
+//!   METADATA_CONCURRENCY  parallel metadata lookups (default 100)
+//!   IRAN_CHECK_THREADS    parallel Iran checks (default 8)
 //!   GIT_PUSH         "true"/"false" to force git commit+push (default: on in GitHub Actions)
 
 use std::collections::{BTreeMap, HashMap, HashSet};
@@ -25,7 +27,7 @@ use rustls::{ClientConfig, DigitallySignedStruct, SignatureScheme};
 use serde_json::Value;
 use tokio::io::{AsyncRead, AsyncReadExt, AsyncWrite, AsyncWriteExt};
 use tokio::net::TcpStream;
-use tokio::sync::Semaphore;
+use tokio::sync::{OwnedSemaphorePermit, Semaphore};
 use tokio::task::JoinSet;
 use tokio::time::timeout;
 use tokio_rustls::TlsConnector;
@@ -40,7 +42,6 @@ const VERIFY_HOST: &str = "api.ipify.org";
 const VERIFY_PATH: &str = "/?format=json";
 
 const MAX_POOL_SIZE: usize = 20000;
-const IRAN_CHECK_THREADS: usize = 8;
 
 const META_PRIMARY: &str = "https://cloudflare-scamalytics.pages.dev";
 const META_FALLBACK: &str = "https://cf-scamalytics.mehdismart.workers.dev";
@@ -111,6 +112,8 @@ fn proxy_sources(protocol: &str) -> &'static [&'static str] {
 struct Config {
     timeout: Duration,
     max_concurrency: usize,
+    meta_concurrency: usize,
+    iran_threads: usize,
     check_iran: bool,
     iran_check_max: usize,
     git_push: bool,
@@ -132,7 +135,15 @@ impl Config {
         let max_concurrency = get("MAX_CONCURRENCY")
             .and_then(|v| v.trim().parse::<usize>().ok())
             .filter(|v| *v > 0)
-            .unwrap_or(200);
+            .unwrap_or(1000);
+        let meta_concurrency = get("METADATA_CONCURRENCY")
+            .and_then(|v| v.trim().parse::<usize>().ok())
+            .filter(|v| *v > 0)
+            .unwrap_or(100);
+        let iran_threads = get("IRAN_CHECK_THREADS")
+            .and_then(|v| v.trim().parse::<usize>().ok())
+            .filter(|v| *v > 0)
+            .unwrap_or(8);
         let git_push = match get("GIT_PUSH") {
             Some(v) => v.to_lowercase() == "true",
             None => get("GITHUB_ACTIONS").map(|v| v == "true").unwrap_or(false),
@@ -140,6 +151,8 @@ impl Config {
         Config {
             timeout: Duration::from_secs(timeout_secs),
             max_concurrency,
+            meta_concurrency,
+            iran_threads,
             check_iran,
             iran_check_max,
             git_push,
@@ -185,6 +198,8 @@ struct Ctx {
     tls: TlsConnector,
     exceptions: SafeCounter,
     metadata_fallbacks: SafeCounter,
+    meta_sem: Semaphore,
+    socks4_ip: tokio::sync::OnceCell<Ipv4Addr>,
 }
 
 #[derive(Debug)]
@@ -430,7 +445,10 @@ async fn open_via_proxy(
     match protocol {
         "socks5" => socks5_connect(&mut stream, host, port).await?,
         "socks4" => {
-            let ip = resolve_ipv4(host, port).await?;
+            let ip = *ctx
+                .socks4_ip
+                .get_or_try_init(|| resolve_ipv4(host, port))
+                .await?;
             socks4_connect(&mut stream, ip, port).await?;
         }
         "http" | "http_tls" => {
@@ -709,7 +727,12 @@ fn clean_proxy_string(proxy: &str) -> String {
     proxy.to_string()
 }
 
-async fn check_proxy(ctx: &Ctx, proxy: &str, protocol: &'static str) -> Option<ProxyResult> {
+async fn check_proxy(
+    ctx: &Ctx,
+    proxy: &str,
+    protocol: &'static str,
+    permit: OwnedSemaphorePermit,
+) -> Option<ProxyResult> {
     let cleaned = clean_proxy_string(proxy);
     if cleaned.is_empty() {
         return None;
@@ -754,7 +777,11 @@ async fn check_proxy(ctx: &Ctx, proxy: &str, protocol: &'static str) -> Option<P
         elapsed.as_secs_f64()
     );
     let ip = cleaned.split(':').next().unwrap_or("").to_string();
-    let meta = get_proxy_metadata(ctx, &ip).await;
+    drop(permit);
+    let meta = {
+        let _guard = ctx.meta_sem.acquire().await.ok();
+        get_proxy_metadata(ctx, &ip).await
+    };
     Some(ProxyResult {
         proxy: cleaned,
         protocol,
@@ -868,40 +895,55 @@ async fn fetch_proxies(ctx: &Ctx, protocol: &str, extra: &[String]) -> Vec<Strin
     let mut merged: Vec<String> = Vec::new();
     let mut seen: HashSet<String> = HashSet::new();
 
-    for url in sources {
-        let name = source_name(url);
-        let resp = match ctx.http.get(*url).timeout(Duration::from_secs(15)).send().await {
-            Ok(r) => r,
-            Err(e) => {
-                println!("{YELLOW}  {name}: unreachable ({}), skipped{RESET}", describe_err(&e));
-                continue;
+    let mut set: JoinSet<(usize, &'static str, Result<String, String>)> = JoinSet::new();
+    for (idx, url) in sources.iter().enumerate() {
+        let client = ctx.http.clone();
+        let url: &'static str = *url;
+        set.spawn(async move {
+            let name = source_name(url);
+            let result = async {
+                let resp = client
+                    .get(url)
+                    .timeout(Duration::from_secs(15))
+                    .send()
+                    .await
+                    .map_err(|e| format!("unreachable ({})", describe_err(&e)))?;
+                if resp.status().as_u16() != 200 {
+                    return Err(format!("HTTP {}", resp.status().as_u16()));
+                }
+                resp.text()
+                    .await
+                    .map_err(|e| format!("unreachable ({})", describe_err(&e)))
             }
-        };
-        if resp.status().as_u16() != 200 {
-            println!(
-                "{YELLOW}  {name}: HTTP {}, skipped{RESET}",
-                resp.status().as_u16()
-            );
-            continue;
+            .await;
+            (idx, name, result)
+        });
+    }
+    let mut fetched: Vec<(usize, &'static str, Result<String, String>)> = Vec::new();
+    while let Some(joined) = set.join_next().await {
+        if let Ok(item) = joined {
+            fetched.push(item);
         }
-        let text = match resp.text().await {
-            Ok(t) => t,
-            Err(e) => {
-                println!("{YELLOW}  {name}: unreachable ({}), skipped{RESET}", describe_err(&e));
-                continue;
+    }
+    fetched.sort_by_key(|item| item.0);
+
+    for (_, name, result) in fetched {
+        match result {
+            Ok(text) => {
+                let mut count = 0usize;
+                for line in text.lines().map(str::trim) {
+                    if line.is_empty() || !line.contains(':') || line.contains(' ') {
+                        continue;
+                    }
+                    count += 1;
+                    if seen.insert(line.to_string()) {
+                        merged.push(line.to_string());
+                    }
+                }
+                println!("{GREEN}  {name}: {count} proxies{RESET}");
             }
-        };
-        let mut count = 0usize;
-        for line in text.lines().map(str::trim) {
-            if line.is_empty() || !line.contains(':') || line.contains(' ') {
-                continue;
-            }
-            count += 1;
-            if seen.insert(line.to_string()) {
-                merged.push(line.to_string());
-            }
+            Err(msg) => println!("{YELLOW}  {name}: {msg}, skipped{RESET}"),
         }
-        println!("{GREEN}  {name}: {count} proxies{RESET}");
     }
 
     for p in extra {
@@ -1053,10 +1095,7 @@ async fn process_protocol(ctx: &Arc<Ctx>, protocol: &'static str, proxy_list: &[
         let permit = sem.clone().acquire_owned().await?;
         let proxy = proxy.clone();
         let ctx = Arc::clone(ctx);
-        set.spawn(async move {
-            let _permit = permit;
-            check_proxy(&ctx, &proxy, protocol).await
-        });
+        set.spawn(async move { check_proxy(&ctx, &proxy, protocol, permit).await });
         while let Some(joined) = set.try_join_next() {
             if let Ok(Some(r)) = joined {
                 results.push(r);
@@ -1079,7 +1118,7 @@ async fn process_protocol(ctx: &Arc<Ctx>, protocol: &'static str, proxy_list: &[
             results.len()
         );
 
-        let sem = Arc::new(Semaphore::new(IRAN_CHECK_THREADS));
+        let sem = Arc::new(Semaphore::new(ctx.cfg.iran_threads));
         let mut set: JoinSet<(usize, IranInfo)> = JoinSet::new();
         for idx in order {
             let permit = sem.clone().acquire_owned().await?;
@@ -1361,12 +1400,15 @@ fn read_pool(path: &Path) -> Vec<String> {
 async fn main() -> Res<()> {
     let cfg = Config::from_env();
     let http = reqwest::Client::builder().user_agent(USER_AGENT).build()?;
+    let meta_concurrency = cfg.meta_concurrency;
     let ctx = Arc::new(Ctx {
         cfg,
         http,
         tls: build_tls_connector(),
         exceptions: SafeCounter::default(),
         metadata_fallbacks: SafeCounter::default(),
+        meta_sem: Semaphore::new(meta_concurrency),
+        socks4_ip: tokio::sync::OnceCell::new(),
     });
 
     println!("{YELLOW}Initializing Proxies Scan (Rust)...{RESET}");
