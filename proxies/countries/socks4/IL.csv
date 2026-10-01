@@ -1,4 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-93.184.7.73:1080,SOCKS4,Israel,IL,🇮🇱,0,low,No,BNET network,2194,Not Checked,,
-31.168.143.90:1080,SOCKS4,Israel,IL,🇮🇱,0,low,No,BEZEQ-INTERNATIONAL,5126,Not Checked,,
-84.242.51.241:4145,SOCKS4,Israel,IL,🇮🇱,0,low,No,Mada Al-Arab General Services Company,2258,Not Checked,,
+31.168.143.90:1080,SOCKS4,Israel,IL,🇮🇱,0,low,No,BEZEQ-INTERNATIONAL,1284,Yes,145.7,7/8
+84.242.51.241:4145,SOCKS4,Israel,IL,🇮🇱,0,low,No,Mada Al-Arab General Services Company,1308,No,,0/8
+84.242.51.241:4145,SOCKS4,Israel,IL,🇮🇱,0,low,No,Mada Al-Arab General Services Company,2277,Not Checked,,
+93.184.7.73:1080,SOCKS4,Israel,IL,🇮🇱,0,low,No,BNET network,6435,Not Checked,,
+31.168.143.90:1080,SOCKS4,Israel,IL,🇮🇱,0,low,No,BEZEQ-INTERNATIONAL,1858,Not Checked,,
