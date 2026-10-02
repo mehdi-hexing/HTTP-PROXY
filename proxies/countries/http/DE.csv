@@ -1,11 +1,21 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,0,low,No,netcup GmbH,2462,Yes,90.8,7/8
-152.53.183.107:8081,HTTP,Germany,DE,🇩🇪,0,low,No,netcup GmbH,3447,Yes,90.8,7/8
-152.53.183.107:8082,HTTP,Germany,DE,🇩🇪,0,low,No,netcup GmbH,5421,Yes,90.8,7/8
-47.91.89.3:139,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,7553,No,,0/8
-8.209.96.245:8081,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7583,No,,0/8
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,772,Timeout,,
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,770,Timeout,,
-72.56.122.5:3128,HTTP,Germany,DE,🇩🇪,3,low,No,"Timeweb, LLP",6972,Not Checked,,
-161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",782,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",756,Not Checked,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,707,Yes,80.2,8/8
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,667,Yes,80.2,8/8
+79.76.121.87:3128,HTTP,Germany,DE,🇩🇪,2,low,No,Oracle Corporation,6968,Not Checked,,
+188.40.250.20:8118,HTTP,Germany,DE,🇩🇪,8,low,No,Hetzner Online GmbH,961,Not Checked,,
+188.40.250.20:8118,HTTP,Germany,DE,🇩🇪,8,low,No,Hetzner Online GmbH,1090,Not Checked,,
+5.189.159.180:3128,HTTP,Germany,DE,🇩🇪,17,low,No,Contabo GmbH,7100,Not Checked,,
+213.199.46.70:8080,HTTP,Germany,DE,🇩🇪,17,low,No,Contabo GmbH,2207,Not Checked,,
+213.199.46.70:8080,HTTP,Germany,DE,🇩🇪,17,low,No,Contabo GmbH,2524,Not Checked,,
+193.30.123.172:3128,HTTP,Germany,DE,🇩🇪,22,medium,No,netcup GmbH,13686,Not Checked,,
+172.236.210.118:3128,HTTP,Germany,DE,🇩🇪,25,medium,No,"Akamai Technologies, Inc.",647,Not Checked,,
+172.236.210.118:3128,HTTP,Germany,DE,🇩🇪,25,medium,No,"Akamai Technologies, Inc.",3970,Not Checked,,
+206.81.30.79:3128,HTTP,Germany,DE,🇩🇪,50,medium,Yes,"DigitalOcean, LLC",1867,Not Checked,,
+54.37.74.255:3128,HTTP,Germany,DE,🇩🇪,50,medium,No,OVH SAS,11179,Not Checked,,
+54.37.74.255:3128,HTTP,Germany,DE,🇩🇪,50,medium,No,OVH SAS,6325,Not Checked,,
+206.81.30.79:3128,HTTP,Germany,DE,🇩🇪,50,medium,Yes,"DigitalOcean, LLC",3647,Not Checked,,
+165.227.169.229:3080,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",10342,Not Checked,,
+165.227.169.229:3080,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",12412,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",686,Not Checked,,
+139.162.169.163:8080,HTTP,Germany,DE,🇩🇪,55,medium,No,"Akamai Technologies, Inc.",7578,Not Checked,,
+139.162.169.163:8080,HTTP,Germany,DE,🇩🇪,55,medium,No,"Akamai Technologies, Inc.",1105,Not Checked,,

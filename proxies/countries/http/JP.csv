@@ -1,16 +1,14 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-47.79.33.142:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,Alibaba.com LLC,1266,Yes,320.8,8/8
-166.1.61.57:1080,HTTP,Japan,JP,🇯🇵,0,low,No,Amarutu Technology Ltd,8671,Yes,329.8,7/8
-47.91.29.151:1081,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba.com LLC,7747,No,,0/8
-56.155.73.159:9827,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",3045,No,,0/8
-54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1349,Not Checked,,
-54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1438,Not Checked,,
-38.175.202.151:443,HTTP,Japan,JP,🇯🇵,1,low,No,NetLab Global,8892,Not Checked,,
-38.175.202.151:443,HTTP,Japan,JP,🇯🇵,1,low,No,NetLab Global,6691,Not Checked,,
-140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,5107,Not Checked,,
-140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,3508,Not Checked,,
-45.76.104.147:40001,HTTP,Japan,JP,🇯🇵,37,medium,No,The Constant Company,2181,Not Checked,,
-45.76.104.147:40001,HTTP,Japan,JP,🇯🇵,37,medium,No,The Constant Company,5493,Not Checked,,
-139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",1085,Not Checked,,
-139.162.78.109:8080,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",1043,Not Checked,,
-45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,79,high,No,Zenlayer Inc,2553,Not Checked,,
+56.155.73.159:9827,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",3026,No,,0/8
+15.152.38.117:12984,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,5060,No,,0/8
+13.208.246.143:8089,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,5890,No,,0/8
+56.155.73.159:53666,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",5982,No,,0/8
+47.91.29.151:41,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba.com LLC,7951,No,,0/8
+140.227.61.201:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,5468,No,,0/8
+163.43.113.134:80,HTTP,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,13374,Not Checked,,
+54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1650,Not Checked,,
+38.175.202.151:443,HTTP,Japan,JP,🇯🇵,1,low,No,NetLab Global,4642,Not Checked,,
+38.175.202.151:443,HTTP,Japan,JP,🇯🇵,1,low,No,NetLab Global,9924,Not Checked,,
+139.162.78.109:80,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",1196,Not Checked,,
+139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",1182,Not Checked,,
+45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,79,high,No,Zenlayer Inc,5258,Not Checked,,
