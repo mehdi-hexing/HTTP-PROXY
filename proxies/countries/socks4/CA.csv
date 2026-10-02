@@ -1,7 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-50.67.100.178:8080,SOCKS4,Canada,CA,🇨🇦,0,low,No,Shaw Communications,1372,No,,0/8
-50.67.100.178:8080,SOCKS4,Canada,CA,🇨🇦,0,low,No,Shaw Communications,1393,Not Checked,,
-192.158.15.201:50877,SOCKS4,Canada,CA,🇨🇦,0,low,No,Ontario Inc.,5813,Not Checked,,
-173.182.69.5:5678,SOCKS4,Canada,CA,🇨🇦,0,low,No,TELUS Communications Inc,1957,Not Checked,,
-162.216.185.241:1084,SOCKS4,Canada,CA,🇨🇦,0,low,No,Lyttonnet,2429,Not Checked,,
-162.216.185.241:1084,SOCKS4,Canada,CA,🇨🇦,0,low,No,Lyttonnet,2384,Not Checked,,
+192.158.15.201:50877,SOCKS4,Canada,CA,🇨🇦,0,low,No,Ontario Inc.,150,Yes,171.7,8/8
+108.186.180.7:5555,SOCKS4,Canada,CA,🇨🇦,0,low,No,WawaCloud Inc.,350,Yes,208.9,8/8
+173.182.69.5:5678,SOCKS4,Canada,CA,🇨🇦,0,low,No,TELUS Communications Inc,1164,No,,0/8
+50.67.100.178:8080,SOCKS4,Canada,CA,🇨🇦,0,low,No,Shaw Communications,2644,Not Checked,,
+162.216.185.241:1084,SOCKS4,Canada,CA,🇨🇦,0,low,No,Lyttonnet,2610,Not Checked,,
+24.37.245.42:51056,SOCKS4,Canada,CA,🇨🇦,0,low,No,Le Groupe Videotron Ltee,2337,Not Checked,,
