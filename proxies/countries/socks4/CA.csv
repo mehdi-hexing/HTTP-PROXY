@@ -1,6 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-192.158.15.201:50877,SOCKS4,Canada,CA,🇨🇦,0,low,No,Ontario Inc.,3218,Not Checked,,
-45.81.154.75:1080,SOCKS4,Canada,CA,🇨🇦,0,low,No,ZhouyiSat Communications,3312,Not Checked,,
-45.81.154.75:1080,SOCKS4,Canada,CA,🇨🇦,0,low,No,ZhouyiSat Communications,4835,Not Checked,,
-162.216.185.241:1084,SOCKS4,Canada,CA,🇨🇦,0,low,No,Lyttonnet,3548,Not Checked,,
-69.70.74.118:1337,SOCKS4,Canada,CA,🇨🇦,2,low,No,Videotron Ltee,5362,Not Checked,,
+192.158.15.201:50877,SOCKS4,Canada,CA,🇨🇦,0,low,No,Ontario Inc.,1210,Yes,173.9,8/8
+50.67.100.178:8080,SOCKS4,Canada,CA,🇨🇦,0,low,No,Shaw Communications,5728,Not Checked,,
+162.216.185.241:1084,SOCKS4,Canada,CA,🇨🇦,0,low,No,Lyttonnet,5757,Not Checked,,
+162.216.185.241:1084,SOCKS4,Canada,CA,🇨🇦,0,low,No,Lyttonnet,1570,Not Checked,,
+209.94.84.193:1080,SOCKS4,Canada,CA,🇨🇦,0,low,No,South Island Internet Services Ltd.,1695,Not Checked,,
+209.94.84.1:1080,SOCKS4,Canada,CA,🇨🇦,0,low,No,South Island Internet Services Ltd.,5100,Not Checked,,
