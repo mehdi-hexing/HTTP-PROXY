@@ -1,12 +1,21 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,1020,Yes,76.1,8/8
-69.168.225.235:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Virtuozzo International GmbH,2021,Yes,81.7,8/8
-79.76.121.87:3128,HTTP,Germany,DE,🇩🇪,2,low,No,Oracle Corporation,5109,Not Checked,,
-158.180.19.230:1080,HTTP,Germany,DE,🇩🇪,2,low,No,Oracle Corporation,8342,Not Checked,,
-158.179.58.126:3128,HTTP,Germany,DE,🇩🇪,2,low,No,Oracle Corporation,9218,Not Checked,,
-158.179.58.126:3128,HTTP,Germany,DE,🇩🇪,2,low,No,Oracle Corporation,11255,Not Checked,,
-159.195.22.57:80,HTTP,Germany,DE,🇩🇪,11,low,No,netcup GmbH,8625,Not Checked,,
-159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,11,low,No,netcup GmbH,3159,Not Checked,,
-161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1006,Not Checked,,
-159.89.14.14:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",8994,Not Checked,,
-82.22.184.158:3128,HTTP,Germany,DE,🇩🇪,63,high,No,Freakhosting LTD,10470,Not Checked,,
+69.168.225.235:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Virtuozzo International GmbH,803,Yes,78.5,8/8
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,832,Yes,77.4,8/8
+31.56.189.176:10809,HTTP,Germany,DE,🇩🇪,0,low,No,ExpressHost Ltd,5163,Yes,104.1,8/8
+69.168.225.235:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Virtuozzo International GmbH,812,Yes,78.5,8/8
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,835,Yes,77.4,8/8
+47.91.89.3:11,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com LLC,10576,Not Checked,,
+8.209.96.245:443,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,10562,Not Checked,,
+158.179.58.126:3128,HTTP,Germany,DE,🇩🇪,2,low,No,Oracle Corporation,1875,Not Checked,,
+158.179.58.126:3128,HTTP,Germany,DE,🇩🇪,2,low,No,Oracle Corporation,9065,Not Checked,,
+89.168.67.102:3128,HTTP,Germany,DE,🇩🇪,2,low,No,Oracle Corporation,12473,Not Checked,,
+159.195.43.169:8080,HTTP,Germany,DE,🇩🇪,11,low,No,netcup GmbH,3511,Not Checked,,
+84.247.171.137:3128,HTTP,Germany,DE,🇩🇪,17,low,No,Contabo GmbH,13741,Not Checked,,
+85.215.203.65:8888,HTTP,Germany,DE,🇩🇪,33,medium,No,IONOS SE,2471,Not Checked,,
+206.81.27.105:3128,HTTP,Germany,DE,🇩🇪,50,medium,No,"DigitalOcean, LLC",5136,Not Checked,,
+54.37.74.255:3128,HTTP,Germany,DE,🇩🇪,50,medium,No,OVH SAS,6902,Not Checked,,
+54.37.74.255:3128,HTTP,Germany,DE,🇩🇪,50,medium,No,OVH SAS,840,Not Checked,,
+54.37.72.89:80,HTTP,Germany,DE,🇩🇪,50,medium,No,OVH SAS,10226,Not Checked,,
+161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",793,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",816,Not Checked,,
+46.203.233.116:3128,HTTP,Germany,DE,🇩🇪,63,high,No,Freakhosting LTD,13921,Not Checked,,
