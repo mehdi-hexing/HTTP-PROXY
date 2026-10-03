@@ -1,4 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-143.208.57.165:999,HTTP,Guatemala,GT,🇬🇹,0,low,No,Comunicaciones Metropolitanas Cablecolor,9209,Not Checked,,
-186.33.5.13:8080,HTTP,Guatemala,GT,🇬🇹,1,low,No,Ufinet Panama S.A.,4730,Not Checked,,
-45.5.119.17:999,HTTP,Guatemala,GT,🇬🇹,3,low,No,Ufinet Panama S.A.,11148,Not Checked,,
+148.230.27.77:999,HTTP,Guatemala,GT,🇬🇹,0,low,No,Comcel Guatemala S.A.,1065,Yes,232.2,8/8
+148.230.27.77:999,HTTP,Guatemala,GT,🇬🇹,0,low,No,Comcel Guatemala S.A.,7071,Not Checked,,
+181.174.115.9:1994,HTTP,Guatemala,GT,🇬🇹,0,low,No,Comcel Guatemala S.A.,10295,Not Checked,,
+181.119.103.237:999,HTTP,Guatemala,GT,🇬🇹,0,low,No,Ufinet Panama S.A.,11409,Not Checked,,
+181.119.177.229:999,HTTP,Guatemala,GT,🇬🇹,1,low,No,Ufinet Panama S.A.,3200,Not Checked,,
