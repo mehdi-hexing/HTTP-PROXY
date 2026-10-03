@@ -1,7 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-185.73.39.118:9999,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Atlantic.net, Inc.",568,Yes,99.8,8/8
-185.73.39.118:9999,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Atlantic.net, Inc.",568,Yes,99.1,8/8
-8.211.200.183:85,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",8196,No,,0/8
-194.164.22.24:8080,HTTP,United Kingdom,GB,🇬🇧,36,medium,No,IONOS SE,6089,Not Checked,,
-134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,"DigitalOcean, LLC",570,Not Checked,,
-134.122.102.141:3128,HTTP,United Kingdom,GB,🇬🇧,51,medium,No,"DigitalOcean, LLC",10046,Not Checked,,
+185.73.39.118:9999,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Atlantic.net, Inc.",921,Yes,99.3,8/8
+185.73.39.118:9999,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Atlantic.net, Inc.",938,Yes,99.0,8/8
+8.211.195.173:8081,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7672,No,,0/8
+8.211.194.85:8443,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",8792,Not Checked,,
+18.175.170.244:38598,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,793,Not Checked,,
+18.175.170.244:50187,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,859,Not Checked,,
+18.175.170.244:8086,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,1412,Not Checked,,
+18.175.170.244:3128,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,2430,Not Checked,,
+213.199.53.16:8888,HTTP,United Kingdom,GB,🇬🇧,17,low,No,Contabo GmbH,12831,Not Checked,,
+213.199.53.16:8888,HTTP,United Kingdom,GB,🇬🇧,17,low,No,Contabo GmbH,12921,Not Checked,,
+134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,"DigitalOcean, LLC",904,Not Checked,,
+57.129.134.10:8081,HTTP,United Kingdom,GB,🇬🇧,82,high,No,OVH SAS,906,Not Checked,,
