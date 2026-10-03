@@ -1,3 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-82.196.220.217:443,HTTP_TLS,Norway,NO,🇳🇴,0,low,No,BROADNET,868,Yes,97.2,8/8
-82.196.220.217:443,HTTP_TLS,Norway,NO,🇳🇴,0,low,No,BROADNET,864,Yes,97.2,8/8
+82.196.220.217:443,HTTP_TLS,Norway,NO,🇳🇴,0,low,No,BROADNET,1246,Yes,95.0,8/8
+82.196.220.217:443,HTTP_TLS,Norway,NO,🇳🇴,0,low,No,BROADNET,1236,Yes,95.0,8/8
+146.70.219.242:9443,HTTP_TLS,Norway,NO,🇳🇴,40,medium,Yes,M247 Europe Infra,1356,Not Checked,,
+146.70.219.242:9443,HTTP_TLS,Norway,NO,🇳🇴,40,medium,Yes,M247 Europe Infra,1373,Not Checked,,
+79.127.150.97:9443,HTTP_TLS,Norway,NO,🇳🇴,43,medium,Yes,Datacamp Limited,1328,Not Checked,,
+79.127.150.97:9443,HTTP_TLS,Norway,NO,🇳🇴,43,medium,Yes,Datacamp Limited,1326,Not Checked,,
+82.102.22.178:9443,HTTP_TLS,Norway,NO,🇳🇴,73,high,Yes,M247 Europe SRL,1356,Not Checked,,
+130.195.211.18:9443,HTTP_TLS,Norway,NO,🇳🇴,73,high,Yes,M247 Europe SRL,1374,Not Checked,,
+82.102.22.178:9443,HTTP_TLS,Norway,NO,🇳🇴,73,high,Yes,M247 Europe SRL,1370,Not Checked,,
+130.195.211.18:9443,HTTP_TLS,Norway,NO,🇳🇴,73,high,Yes,M247 Europe SRL,1354,Not Checked,,
