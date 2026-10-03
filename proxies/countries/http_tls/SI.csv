@@ -1,5 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-153.5.68.160:443,HTTP_TLS,Slovenia,SI,🇸🇮,0,low,No,ARNES,1336,Yes,100.7,8/8
-193.77.81.97:443,HTTP_TLS,Slovenia,SI,🇸🇮,0,low,No,SiOL.SI,1232,No,,0/8
-194.249.231.22:443,HTTP_TLS,Slovenia,SI,🇸🇮,0,low,No,ARNES provider,1459,Not Checked,,
-194.249.231.22:443,HTTP_TLS,Slovenia,SI,🇸🇮,0,low,No,ARNES provider,1463,Not Checked,,
+194.249.231.22:443,HTTP_TLS,Slovenia,SI,🇸🇮,0,low,No,ARNES provider,1212,Yes,95.6,8/8
+153.5.68.160:443,HTTP_TLS,Slovenia,SI,🇸🇮,0,low,No,ARNES,1128,Yes,99.5,8/8
+193.77.81.97:443,HTTP_TLS,Slovenia,SI,🇸🇮,0,low,No,SiOL.SI,986,No,,0/8
