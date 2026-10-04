@@ -1,14 +1,22 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,1030,Yes,77.1,8/8
-69.168.225.235:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Virtuozzo International GmbH,9732,Yes,84.7,8/8
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,1034,Yes,76.7,8/8
-69.168.225.235:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Virtuozzo International GmbH,3011,Yes,84.7,8/8
-8.209.96.245:8081,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7757,No,,0/8
-8.211.49.86:17,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7817,No,,0/8
-8.211.42.167:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7769,No,,0/8
-94.130.177.190:9999,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,6546,Not Checked,,
-159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,11,low,No,netcup GmbH,9315,Not Checked,,
-159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,11,low,No,netcup GmbH,12152,Not Checked,,
-194.163.175.167:40000,HTTP,Germany,DE,🇩🇪,17,low,Yes,Contabo GmbH,11277,Not Checked,,
-161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1011,Not Checked,,
-161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1039,Not Checked,,
+91.26.188.170:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,866,Yes,86.8,8/8
+69.168.225.235:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Virtuozzo International GmbH,652,Yes,83.4,8/8
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,654,Yes,76.2,8/8
+69.168.225.235:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Virtuozzo International GmbH,636,Yes,83.4,8/8
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,653,Yes,76.2,8/8
+161.156.6.106:3128,HTTP,Germany,DE,🇩🇪,0,low,No,IBM Cloud,982,Yes,82.3,8/8
+8.211.42.167:9098,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7489,Not Checked,,
+43.157.41.157:3128,HTTP,Germany,DE,🇩🇪,1,low,No,Shenzhen Tencent Computer Systems Company Limited,652,Not Checked,,
+43.157.41.157:3128,HTTP,Germany,DE,🇩🇪,1,low,No,Shenzhen Tencent Computer Systems Company Limited,654,Not Checked,,
+159.195.22.57:80,HTTP,Germany,DE,🇩🇪,11,low,No,netcup GmbH,8135,Not Checked,,
+159.195.77.126:8080,HTTP,Germany,DE,🇩🇪,14,low,Yes,netcup GmbH,2725,Not Checked,,
+213.199.46.70:8080,HTTP,Germany,DE,🇩🇪,17,low,No,Contabo GmbH,659,Not Checked,,
+213.199.46.70:8080,HTTP,Germany,DE,🇩🇪,17,low,No,Contabo GmbH,694,Not Checked,,
+173.249.50.95:3128,HTTP,Germany,DE,🇩🇪,17,low,No,Contabo GmbH,4116,Not Checked,,
+89.58.42.118:3129,HTTP,Germany,DE,🇩🇪,22,medium,No,netcup GmbH,725,Not Checked,,
+89.58.42.118:3129,HTTP,Germany,DE,🇩🇪,22,medium,No,netcup GmbH,758,Not Checked,,
+46.165.213.243:3128,HTTP,Germany,DE,🇩🇪,27,medium,No,LeaseWeb DE,6893,Not Checked,,
+212.227.182.100:110,HTTP,Germany,DE,🇩🇪,47,medium,No,IONOS SE,11060,Not Checked,,
+206.81.27.105:3128,HTTP,Germany,DE,🇩🇪,50,medium,No,"DigitalOcean, LLC",669,Not Checked,,
+206.81.27.105:3128,HTTP,Germany,DE,🇩🇪,50,medium,No,"DigitalOcean, LLC",639,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",662,Not Checked,,

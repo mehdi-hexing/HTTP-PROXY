@@ -1,12 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-8.221.138.111:8080,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7518,No,,0/8
-8.221.139.222:80,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",9535,No,,0/8
-140.227.61.201:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,6029,No,,0/8
-43.133.30.72:5555,HTTP,Japan,JP,🇯🇵,0,low,No,Aceville Pte.ltd,4998,No,,0/8
-38.175.202.151:443,HTTP,Japan,JP,🇯🇵,1,low,No,NetLab Global,11884,Not Checked,,
-54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,665,Not Checked,,
-38.175.202.151:443,HTTP,Japan,JP,🇯🇵,1,low,No,NetLab Global,5123,Not Checked,,
-140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,2815,Not Checked,,
-139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",777,Not Checked,,
-139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",767,Not Checked,,
-45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,79,high,No,Zenlayer Inc,2888,Not Checked,,
+8.221.138.111:35,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",9342,Not Checked,,
+8.221.141.88:8064,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7802,Not Checked,,
+47.91.29.151:41,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba.com LLC,11054,Not Checked,,
+38.175.202.151:443,HTTP,Japan,JP,🇯🇵,1,low,No,NetLab Global,7898,Not Checked,,
+54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,992,Not Checked,,
+54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,965,Not Checked,,
+64.176.55.231:8886,HTTP,Japan,JP,🇯🇵,28,medium,No,"The Constant Company, LLC",1161,Not Checked,,
+64.176.55.231:8886,HTTP,Japan,JP,🇯🇵,28,medium,No,"The Constant Company, LLC",10834,Not Checked,,
+139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",1139,Not Checked,,
+139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",1140,Not Checked,,

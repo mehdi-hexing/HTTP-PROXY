@@ -1,4 +1,14 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-8.213.222.157:6379,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7937,No,,0/8
-110.238.113.119:6789,HTTP,Thailand,TH,🇹🇭,2,low,No,Huawei International Pte. LTD,8080,Not Checked,,
-171.100.254.137:8080,HTTP,Thailand,TH,🇹🇭,3,low,No,True Internet Corporation CO. Ltd.,1481,Not Checked,,
+203.150.128.160:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,Internet Thailand Company Ltd,6255,Yes,263.6,8/8
+8.213.197.208:9000,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8252,Not Checked,,
+8.213.222.247:8443,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8257,Not Checked,,
+8.213.222.157:9999,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8277,Not Checked,,
+8.213.195.191:37,HTTP,Thailand,TH,🇹🇭,0,low,No,Alibaba Cloud (Singapore) Private Limited,10897,Not Checked,,
+182.52.17.61:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,9783,Not Checked,,
+110.238.113.119:6789,HTTP,Thailand,TH,🇹🇭,2,low,No,Huawei International Pte. LTD,8354,Not Checked,,
+184.22.129.188:8080,HTTP,Thailand,TH,🇹🇭,3,low,No,AIS-Fibre,9361,Not Checked,,
+58.136.168.154:8080,HTTP,Thailand,TH,🇹🇭,3,low,No,AIS-Fibre,8729,Not Checked,,
+58.136.168.221:8080,HTTP,Thailand,TH,🇹🇭,3,low,No,AIS-Fibre,6804,Not Checked,,
+184.82.136.208:8081,HTTP,Thailand,TH,🇹🇭,3,low,No,AIS-Fibre,4643,Not Checked,,
+223.205.180.228:8080,HTTP,Thailand,TH,🇹🇭,14,low,No,TRIPLETNET,4036,Not Checked,,
+223.205.213.34:8080,HTTP,Thailand,TH,🇹🇭,14,low,No,TRIPLETNET,13657,Not Checked,,
