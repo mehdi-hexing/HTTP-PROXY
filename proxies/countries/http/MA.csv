@@ -1,2 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-51.170.133.249:80,HTTP,Morocco,MA,🇲🇦,2,low,No,Oracle Corporation,3075,Not Checked,,
+196.64.99.13:2380,HTTP,Morocco,MA,🇲🇦,0,low,No,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,3753,Yes,134.6,8/8
+102.53.233.254:30001,HTTP,Morocco,MA,🇲🇦,0,low,No,Casa Marrakech 4G MarocTelecom,3870,No,,0/8
+51.170.133.249:80,HTTP,Morocco,MA,🇲🇦,2,low,No,Oracle Corporation,3733,Not Checked,,
