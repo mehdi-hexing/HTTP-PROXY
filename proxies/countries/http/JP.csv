@@ -1,11 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-43.133.13.187:8889,HTTP,Japan,JP,🇯🇵,0,low,No,Aceville Pte.ltd,9575,Not Checked,,
-140.227.61.201:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,6274,Not Checked,,
-54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,978,Not Checked,,
-38.175.202.151:443,HTTP,Japan,JP,🇯🇵,1,low,No,NetLab Global,11615,Not Checked,,
-54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1893,Not Checked,,
-158.101.89.163:3123,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,1125,Not Checked,,
-45.76.104.147:40001,HTTP,Japan,JP,🇯🇵,37,medium,No,The Constant Company,5017,Not Checked,,
-139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",1143,Not Checked,,
-139.162.78.109:80,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",1115,Not Checked,,
-45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,79,high,No,Zenlayer Inc,7148,Not Checked,,
+8.221.139.222:3128,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7825,No,,0/8
+47.74.46.81:5060,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7832,No,,0/8
+8.221.138.111:3128,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7806,No,,0/8
+54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,968,Not Checked,,
+38.175.202.151:443,HTTP,Japan,JP,🇯🇵,1,low,No,NetLab Global,8070,Not Checked,,
+38.175.202.151:443,HTTP,Japan,JP,🇯🇵,1,low,No,NetLab Global,3693,Not Checked,,
+54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,975,Not Checked,,
+140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,6251,Not Checked,,
+140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,1142,Not Checked,,
+139.162.78.109:8080,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",1135,Not Checked,,
+139.162.78.109:80,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",1518,Not Checked,,
+45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,79,high,No,Zenlayer Inc,8963,Not Checked,,
