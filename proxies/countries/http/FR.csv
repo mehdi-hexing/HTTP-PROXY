@@ -1,4 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-156.67.110.124:10808,HTTP,France,FR,🇫🇷,6,low,No,Contabo Asia Private Limited,3453,Not Checked,,
-51.159.66.158:3128,HTTP,France,FR,🇫🇷,35,medium,No,SCALEWAY,13850,Not Checked,,
-217.182.195.221:30001,HTTP,France,FR,🇫🇷,42,medium,No,OVH SAS,2421,Not Checked,,
+82.40.49.155:8888,HTTP,France,FR,🇫🇷,0,low,No,Hostkey B.V.,842,Yes,86.5,8/8
+82.40.49.155:8888,HTTP,France,FR,🇫🇷,0,low,No,Hostkey B.V.,769,Yes,86.5,8/8
+156.67.110.124:10808,HTTP,France,FR,🇫🇷,6,low,No,Contabo Asia Private Limited,10637,Not Checked,,
+37.187.92.9:1036,HTTP,France,FR,🇫🇷,10,low,No,OVH SAS,1112,Not Checked,,
+79.137.78.133:8011,HTTP,France,FR,🇫🇷,42,medium,No,OVH SAS,969,Not Checked,,

@@ -1,7 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-185.73.39.118:9999,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Atlantic.net, Inc.",588,Yes,101.4,8/8
-185.73.39.118:9999,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Atlantic.net, Inc.",566,Yes,101.3,8/8
-8.211.200.183:8080,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",10713,Not Checked,,
-8.211.194.78:9000,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",8685,Not Checked,,
-134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,"DigitalOcean, LLC",548,Not Checked,,
-134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,"DigitalOcean, LLC",555,Not Checked,,
+185.73.39.118:9999,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Atlantic.net, Inc.",5280,Yes,100.3,8/8
+185.73.39.118:9999,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Atlantic.net, Inc.",2934,Yes,100.3,8/8
+134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,"DigitalOcean, LLC",615,Not Checked,,
+57.128.183.212:21,HTTP,United Kingdom,GB,🇬🇧,82,high,Yes,OVH SAS,573,Not Checked,,
