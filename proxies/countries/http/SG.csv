@@ -1,11 +1,16 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1643,Yes,229.9,8/8
-4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1757,Yes,229.9,8/8
-43.98.172.166:3128,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",2283,Yes,233.3,2/8
-43.98.172.166:3128,HTTP,Singapore,SG,🇸🇬,0,low,Yes,"Alibaba (US) Technology Co., Ltd.",4061,Yes,233.3,2/8
-8.219.229.53:8008,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8137,Not Checked,,
-47.237.107.41:1337,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8562,Not Checked,,
-8.219.74.197:8081,HTTP,Singapore,SG,🇸🇬,0,low,No,Alibaba Cloud (Singapore) Private Limited,14379,Not Checked,,
-43.160.222.70:3128,HTTP,Singapore,SG,🇸🇬,1,low,No,Shenzhen Tencent Computer Systems Company Limited,8152,Not Checked,,
-103.164.55.81:3128,HTTP,Singapore,SG,🇸🇬,10,low,Yes,Contabo Asia Private Limited,1739,Not Checked,,
-128.199.202.122:8080,HTTP,Singapore,SG,🇸🇬,51,medium,No,"DigitalOcean, LLC",1609,Not Checked,,
+31.57.178.211:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi,7548,Yes,299.9,7/8
+4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1439,Yes,243.7,7/8
+4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1422,Yes,243.7,7/8
+4.194.233.145:3128,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1450,No,,0/8
+8.219.229.53:8888,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7998,Not Checked,,
+47.237.107.41:1337,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8005,Not Checked,,
+47.237.2.245:5060,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8997,Not Checked,,
+43.160.222.70:3128,HTTP,Singapore,SG,🇸🇬,1,low,No,Shenzhen Tencent Computer Systems Company Limited,8176,Not Checked,,
+128.199.202.122:8080,HTTP,Singapore,SG,🇸🇬,51,medium,No,"DigitalOcean, LLC",1431,Not Checked,,
+143.198.93.53:9000,HTTP,Singapore,SG,🇸🇬,51,medium,No,"DigitalOcean, LLC",9386,Not Checked,,
+143.198.93.53:9000,HTTP,Singapore,SG,🇸🇬,51,medium,No,"DigitalOcean, LLC",3448,Not Checked,,
+165.22.99.36:8018,HTTP,Singapore,SG,🇸🇬,51,medium,No,"DigitalOcean, LLC",1419,Not Checked,,
+172.105.120.179:443,HTTP,Singapore,SG,🇸🇬,55,medium,No,Akamai Technologies,1612,Not Checked,,
+172.105.120.179:443,HTTP,Singapore,SG,🇸🇬,55,medium,No,Akamai Technologies,5878,Not Checked,,
+172.104.60.153:3128,HTTP,Singapore,SG,🇸🇬,55,medium,No,Akamai Technologies,1872,Not Checked,,

@@ -1,11 +1,14 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,659,Yes,77.2,8/8
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,671,Yes,77.2,8/8
-161.156.6.106:3128,HTTP,Germany,DE,🇩🇪,0,low,No,IBM Cloud,637,Yes,85.7,8/8
-161.156.6.106:3128,HTTP,Germany,DE,🇩🇪,0,low,No,IBM Cloud,656,Timeout,,
-43.131.47.181:6666,HTTP,Germany,DE,🇩🇪,0,low,No,Aceville Pte.ltd,14440,Not Checked,,
-2.28.105.45:8888,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,1299,Not Checked,,
-159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,11,low,No,netcup GmbH,11706,Not Checked,,
-169.58.23.35:8080,HTTP,Germany,DE,🇩🇪,17,low,No,Contabo GmbH,12696,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",763,Not Checked,,
-139.162.169.163:3128,HTTP,Germany,DE,🇩🇪,55,medium,No,"Akamai Technologies, Inc.",8210,Not Checked,,
+161.156.6.106:3128,HTTP,Germany,DE,🇩🇪,0,low,No,IBM Cloud,863,Yes,88.0,8/8
+161.156.6.106:3128,HTTP,Germany,DE,🇩🇪,0,low,No,IBM Cloud,766,Yes,88.0,8/8
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,816,Yes,83.6,7/8
+222.167.252.23:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Hostkey B.V.,4371,No,,0/8
+31.214.245.238:8080,HTTP,Germany,DE,🇩🇪,0,low,No,ZAP-Hosting GmbH,3072,No,,0/8
+8.211.42.167:1234,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",9734,Not Checked,,
+2.28.105.45:8888,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,2666,Not Checked,,
+159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,13,low,No,netcup GmbH,857,Not Checked,,
+5.189.159.180:3128,HTTP,Germany,DE,🇩🇪,17,low,No,Contabo GmbH,8328,Not Checked,,
+89.58.42.118:3129,HTTP,Germany,DE,🇩🇪,20,medium,No,netcup GmbH,927,Not Checked,,
+89.58.42.118:3129,HTTP,Germany,DE,🇩🇪,20,medium,No,netcup GmbH,952,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",851,Not Checked,,
+161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",860,Not Checked,,
