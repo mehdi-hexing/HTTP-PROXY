@@ -1,26 +1,28 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-181.215.52.11:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,232,Yes,172.5,8/8
-181.215.52.16:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,246,Yes,169.6,8/8
-129.97.50.72:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,University of Waterloo,225,Yes,178.6,8/8
-208.66.248.70:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Morewave Communication Inc.,846,Yes,214.3,8/8
-129.97.50.72:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,University of Waterloo,232,Yes,178.6,8/8
-208.66.248.70:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Morewave Communication Inc.,803,Yes,214.3,8/8
-132.208.244.66:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Reseau d'Informations Scientifiques du Quebec (RISQ Inc.),294,No,,0/8
-132.208.244.66:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Reseau d'Informations Scientifiques du Quebec (RISQ Inc.),349,No,,0/8
-69.70.52.198:443,HTTP_TLS,Canada,CA,🇨🇦,2,low,No,Videotron Ltee,534,Not Checked,,
-192.95.37.111:443,HTTP_TLS,Canada,CA,🇨🇦,35,medium,No,OVH SAS,246,Not Checked,,
-192.95.37.111:443,HTTP_TLS,Canada,CA,🇨🇦,35,medium,No,OVH SAS,261,Not Checked,,
-159.203.22.247:443,HTTP_TLS,Canada,CA,🇨🇦,50,medium,No,"DigitalOcean, LLC",366,Not Checked,,
-159.203.22.247:443,HTTP_TLS,Canada,CA,🇨🇦,50,medium,No,"DigitalOcean, LLC",393,Not Checked,,
-15.235.104.62:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,229,Not Checked,,
-198.100.153.39:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,231,Not Checked,,
-15.235.104.61:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,223,Not Checked,,
-66.70.170.84:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,234,Not Checked,,
-15.235.104.62:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,219,Not Checked,,
-198.100.153.39:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,240,Not Checked,,
-15.235.104.61:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,244,Not Checked,,
-66.70.170.84:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,258,Not Checked,,
-95.173.219.14:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,Yes,Datacamp Limited,654,Not Checked,,
-95.173.219.14:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,Yes,Datacamp Limited,651,Not Checked,,
-198.50.232.195:443,HTTP_TLS,Canada,CA,🇨🇦,66,high,No,OVH SAS,201,Not Checked,,
-198.50.232.195:443,HTTP_TLS,Canada,CA,🇨🇦,66,high,No,OVH SAS,217,Not Checked,,
+129.97.50.72:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,University of Waterloo,233,Yes,181.1,7/8
+208.66.248.70:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Morewave Communication Inc.,626,Yes,221.7,7/8
+129.97.50.72:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,University of Waterloo,270,Yes,181.1,7/8
+208.66.248.70:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Morewave Communication Inc.,794,Yes,221.7,7/8
+181.215.52.11:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,387,Yes,182.9,7/8
+181.215.52.11:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,353,Yes,182.9,7/8
+181.215.52.11:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,360,Yes,182.9,7/8
+132.208.244.66:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Reseau d'Informations Scientifiques du Quebec (RISQ Inc.),377,No,,0/8
+181.215.52.16:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,5156,Not Checked,,
+132.208.244.66:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Reseau d'Informations Scientifiques du Quebec (RISQ Inc.),2418,Not Checked,,
+69.70.52.198:443,HTTP_TLS,Canada,CA,🇨🇦,2,low,No,Videotron Ltee,598,Not Checked,,
+192.95.37.111:443,HTTP_TLS,Canada,CA,🇨🇦,35,medium,No,OVH SAS,363,Not Checked,,
+192.95.37.111:443,HTTP_TLS,Canada,CA,🇨🇦,35,medium,No,OVH SAS,410,Not Checked,,
+95.173.219.14:443,HTTP_TLS,Canada,CA,🇨🇦,38,medium,Yes,Datacamp Limited,542,Not Checked,,
+95.173.219.14:443,HTTP_TLS,Canada,CA,🇨🇦,38,medium,Yes,Datacamp Limited,471,Not Checked,,
+159.203.22.247:443,HTTP_TLS,Canada,CA,🇨🇦,50,medium,No,"DigitalOcean, LLC",365,Not Checked,,
+159.203.22.247:443,HTTP_TLS,Canada,CA,🇨🇦,50,medium,No,"DigitalOcean, LLC",367,Not Checked,,
+15.235.104.62:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,338,Not Checked,,
+198.100.153.39:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,435,Not Checked,,
+15.235.104.61:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,406,Not Checked,,
+66.70.170.84:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,381,Not Checked,,
+15.235.104.62:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,335,Not Checked,,
+198.100.153.39:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,420,Not Checked,,
+15.235.104.61:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,420,Not Checked,,
+66.70.170.84:443,HTTP_TLS,Canada,CA,🇨🇦,53,medium,No,OVH SAS,431,Not Checked,,
+198.50.232.195:443,HTTP_TLS,Canada,CA,🇨🇦,67,high,No,OVH SAS,339,Not Checked,,
+198.50.232.195:443,HTTP_TLS,Canada,CA,🇨🇦,67,high,No,OVH SAS,320,Not Checked,,
