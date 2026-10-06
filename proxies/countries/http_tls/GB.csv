@@ -1,45 +1,48 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.56.228.8:443,HTTP_TLS,United Kingdom,GB,🇬🇧,0,low,No,Navarino Single Member S.A.,992,Yes,92.0,7/8
-146.177.5.114:8090,HTTP_TLS,United Kingdom,GB,🇬🇧,0,low,No,Rackspace,963,Yes,97.3,7/8
-46.17.91.114:3000,HTTP_TLS,United Kingdom,GB,🇬🇧,0,low,No,Compuweb Communications Services,1024,Yes,103.8,7/8
-46.17.91.18:3000,HTTP_TLS,United Kingdom,GB,🇬🇧,0,low,No,Compuweb Communications Services,1050,Yes,103.6,7/8
-45.56.228.8:443,HTTP_TLS,United Kingdom,GB,🇬🇧,0,low,No,Navarino Single Member S.A.,991,Yes,92.0,7/8
-146.177.5.114:8090,HTTP_TLS,United Kingdom,GB,🇬🇧,0,low,No,Rackspace,956,Yes,97.3,7/8
-46.17.91.18:3000,HTTP_TLS,United Kingdom,GB,🇬🇧,0,low,No,Compuweb Communications Services,969,Yes,103.6,7/8
-46.17.91.114:3000,HTTP_TLS,United Kingdom,GB,🇬🇧,0,low,No,Compuweb Communications Services,969,Yes,103.8,7/8
-152.71.251.13:443,HTTP_TLS,United Kingdom,GB,🇬🇧,0,low,No,The Nottingham Trent University,1298,Not Checked,,
-152.71.251.13:443,HTTP_TLS,United Kingdom,GB,🇬🇧,0,low,No,The Nottingham Trent University,1322,Not Checked,,
-18.169.247.230:443,HTTP_TLS,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,1060,Not Checked,,
-35.179.34.132:443,HTTP_TLS,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,969,Not Checked,,
-3.10.161.152:443,HTTP_TLS,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,1466,Not Checked,,
-18.169.247.230:443,HTTP_TLS,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,1154,Not Checked,,
-35.179.34.132:443,HTTP_TLS,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,961,Not Checked,,
-3.10.161.152:443,HTTP_TLS,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,1255,Not Checked,,
-23.106.56.43:19881,HTTP_TLS,United Kingdom,GB,🇬🇧,33,medium,Yes,Leaseweb UK Limited,937,Not Checked,,
-154.41.135.251:8443,HTTP_TLS,United Kingdom,GB,🇬🇧,33,medium,No,Netwise Hosting Ltd,1013,Not Checked,,
-23.106.56.43:19881,HTTP_TLS,United Kingdom,GB,🇬🇧,33,medium,Yes,Leaseweb UK Limited,933,Not Checked,,
-154.41.135.251:8443,HTTP_TLS,United Kingdom,GB,🇬🇧,33,medium,No,Netwise Hosting Ltd,923,Not Checked,,
-46.101.22.14:443,HTTP_TLS,United Kingdom,GB,🇬🇧,54,medium,Yes,"DigitalOcean, LLC",1164,Not Checked,,
-46.101.22.14:443,HTTP_TLS,United Kingdom,GB,🇬🇧,54,medium,Yes,"DigitalOcean, LLC",1169,Not Checked,,
-212.102.63.92:9443,HTTP_TLS,United Kingdom,GB,🇬🇧,60,high,Yes,DataCamp Limited,888,Not Checked,,
-212.102.63.92:443,HTTP_TLS,United Kingdom,GB,🇬🇧,60,high,Yes,DataCamp Limited,913,Not Checked,,
-212.102.63.92:9443,HTTP_TLS,United Kingdom,GB,🇬🇧,60,high,Yes,DataCamp Limited,912,Not Checked,,
-212.102.63.92:443,HTTP_TLS,United Kingdom,GB,🇬🇧,60,high,Yes,DataCamp Limited,932,Not Checked,,
-92.119.176.4:443,HTTP_TLS,United Kingdom,GB,🇬🇧,67,high,Yes,M247 Europe SRL,1202,Not Checked,,
-92.119.176.4:443,HTTP_TLS,United Kingdom,GB,🇬🇧,67,high,Yes,M247 Europe SRL,934,Not Checked,,
-92.119.176.6:443,HTTP_TLS,United Kingdom,GB,🇬🇧,74,high,Yes,M247 Europe SRL,1239,Not Checked,,
-92.119.176.6:443,HTTP_TLS,United Kingdom,GB,🇬🇧,74,high,Yes,M247 Europe SRL,1014,Not Checked,,
-23.106.56.52:15767,HTTP_TLS,United Kingdom,GB,🇬🇧,77,high,Yes,Leaseweb UK Limited,942,Not Checked,,
+45.56.228.8:443,HTTP_TLS,United Kingdom,GB,🇬🇧,0,low,No,Navarino Single Member S.A.,1090,Yes,93.0,8/8
+146.177.5.114:8090,HTTP_TLS,United Kingdom,GB,🇬🇧,0,low,No,Rackspace,1107,Yes,97.2,8/8
+46.17.91.18:3000,HTTP_TLS,United Kingdom,GB,🇬🇧,0,low,No,Compuweb Communications Services,1124,Yes,101.5,8/8
+46.17.91.114:3000,HTTP_TLS,United Kingdom,GB,🇬🇧,0,low,No,Compuweb Communications Services,1136,Yes,102.8,8/8
+45.56.228.8:443,HTTP_TLS,United Kingdom,GB,🇬🇧,0,low,No,Navarino Single Member S.A.,1085,Yes,93.0,8/8
+146.177.5.114:8090,HTTP_TLS,United Kingdom,GB,🇬🇧,0,low,No,Rackspace,1090,Yes,97.2,8/8
+46.17.91.18:3000,HTTP_TLS,United Kingdom,GB,🇬🇧,0,low,No,Compuweb Communications Services,1112,Yes,101.5,8/8
+46.17.91.114:3000,HTTP_TLS,United Kingdom,GB,🇬🇧,0,low,No,Compuweb Communications Services,1149,Yes,102.8,8/8
+94.229.79.82:443,HTTP_TLS,United Kingdom,GB,🇬🇧,0,low,No,UK Dedicated Servers Limited,1094,No,,0/8
+94.229.79.82:443,HTTP_TLS,United Kingdom,GB,🇬🇧,0,low,No,UK Dedicated Servers Limited,1203,No,,0/8
+152.71.251.13:443,HTTP_TLS,United Kingdom,GB,🇬🇧,0,low,No,The Nottingham Trent University,2096,Not Checked,,
+152.71.251.13:443,HTTP_TLS,United Kingdom,GB,🇬🇧,0,low,No,The Nottingham Trent University,2150,Not Checked,,
+35.179.34.132:443,HTTP_TLS,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,939,Not Checked,,
+18.169.247.230:443,HTTP_TLS,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,1246,Not Checked,,
+3.10.161.152:443,HTTP_TLS,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,1210,Not Checked,,
+18.169.247.230:443,HTTP_TLS,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,1224,Not Checked,,
+35.179.34.132:443,HTTP_TLS,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,966,Not Checked,,
+3.10.161.152:443,HTTP_TLS,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,1249,Not Checked,,
+18.175.113.211:443,HTTP_TLS,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,908,Not Checked,,
+18.175.113.211:443,HTTP_TLS,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,988,Not Checked,,
+18.170.45.5:7070,HTTP_TLS,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,2829,Not Checked,,
+23.106.56.43:19881,HTTP_TLS,United Kingdom,GB,🇬🇧,33,medium,Yes,Leaseweb UK Limited,1606,Not Checked,,
+154.41.135.251:8443,HTTP_TLS,United Kingdom,GB,🇬🇧,33,medium,No,Netwise Hosting Ltd,1049,Not Checked,,
+23.106.56.43:19881,HTTP_TLS,United Kingdom,GB,🇬🇧,33,medium,Yes,Leaseweb UK Limited,1005,Not Checked,,
+154.41.135.251:8443,HTTP_TLS,United Kingdom,GB,🇬🇧,33,medium,No,Netwise Hosting Ltd,1051,Not Checked,,
+5.101.149.245:8443,HTTP_TLS,United Kingdom,GB,🇬🇧,53,medium,No,UK Dedicated Servers Limited,8355,Not Checked,,
+46.101.22.14:443,HTTP_TLS,United Kingdom,GB,🇬🇧,54,medium,Yes,"DigitalOcean, LLC",1294,Not Checked,,
+46.101.22.14:443,HTTP_TLS,United Kingdom,GB,🇬🇧,54,medium,Yes,"DigitalOcean, LLC",1244,Not Checked,,
+212.102.63.92:443,HTTP_TLS,United Kingdom,GB,🇬🇧,60,high,Yes,DataCamp Limited,958,Not Checked,,
+212.102.63.92:9443,HTTP_TLS,United Kingdom,GB,🇬🇧,60,high,Yes,DataCamp Limited,976,Not Checked,,
+212.102.63.92:443,HTTP_TLS,United Kingdom,GB,🇬🇧,60,high,Yes,DataCamp Limited,974,Not Checked,,
+212.102.63.92:9443,HTTP_TLS,United Kingdom,GB,🇬🇧,60,high,Yes,DataCamp Limited,1000,Not Checked,,
+92.119.176.4:443,HTTP_TLS,United Kingdom,GB,🇬🇧,67,high,Yes,M247 Europe SRL,1058,Not Checked,,
+92.119.176.4:443,HTTP_TLS,United Kingdom,GB,🇬🇧,67,high,Yes,M247 Europe SRL,1072,Not Checked,,
+92.119.176.6:443,HTTP_TLS,United Kingdom,GB,🇬🇧,74,high,Yes,M247 Europe SRL,1052,Not Checked,,
+92.119.176.6:443,HTTP_TLS,United Kingdom,GB,🇬🇧,74,high,Yes,M247 Europe SRL,1043,Not Checked,,
+23.106.56.52:15767,HTTP_TLS,United Kingdom,GB,🇬🇧,77,high,Yes,Leaseweb UK Limited,984,Not Checked,,
 23.106.56.54:6157,HTTP_TLS,United Kingdom,GB,🇬🇧,77,high,Yes,Leaseweb UK Limited,1092,Not Checked,,
-23.106.56.54:6157,HTTP_TLS,United Kingdom,GB,🇬🇧,77,high,Yes,Leaseweb UK Limited,929,Not Checked,,
-23.106.56.52:15767,HTTP_TLS,United Kingdom,GB,🇬🇧,77,high,Yes,Leaseweb UK Limited,938,Not Checked,,
-23.106.56.35:16927,HTTP_TLS,United Kingdom,GB,🇬🇧,81,high,Yes,Leaseweb UK Limited,943,Not Checked,,
-23.106.56.35:16927,HTTP_TLS,United Kingdom,GB,🇬🇧,81,high,Yes,Leaseweb UK Limited,937,Not Checked,,
-92.119.176.3:443,HTTP_TLS,United Kingdom,GB,🇬🇧,83,high,Yes,M247 Europe SRL,1124,Not Checked,,
-92.119.176.3:443,HTTP_TLS,United Kingdom,GB,🇬🇧,83,high,Yes,M247 Europe SRL,919,Not Checked,,
-185.163.110.194:443,HTTP_TLS,United Kingdom,GB,🇬🇧,83,high,Yes,M247 Europe IPs,1377,Not Checked,,
-185.163.110.194:9443,HTTP_TLS,United Kingdom,GB,🇬🇧,83,high,Yes,M247 Europe IPs,1372,Not Checked,,
-185.163.110.194:443,HTTP_TLS,United Kingdom,GB,🇬🇧,83,high,Yes,M247 Europe IPs,1384,Not Checked,,
-185.163.110.194:9443,HTTP_TLS,United Kingdom,GB,🇬🇧,83,high,Yes,M247 Europe IPs,1366,Not Checked,,
-92.119.176.5:443,HTTP_TLS,United Kingdom,GB,🇬🇧,100,very_high,Yes,M247 Europe SRL,1098,Not Checked,,
-92.119.176.5:443,HTTP_TLS,United Kingdom,GB,🇬🇧,100,very_high,Yes,M247 Europe SRL,957,Not Checked,,
+23.106.56.35:16927,HTTP_TLS,United Kingdom,GB,🇬🇧,81,high,Yes,Leaseweb UK Limited,1435,Not Checked,,
+92.119.176.3:443,HTTP_TLS,United Kingdom,GB,🇬🇧,83,high,Yes,M247 Europe SRL,1025,Not Checked,,
+92.119.176.3:443,HTTP_TLS,United Kingdom,GB,🇬🇧,83,high,Yes,M247 Europe SRL,1019,Not Checked,,
+185.163.110.194:443,HTTP_TLS,United Kingdom,GB,🇬🇧,83,high,Yes,M247 Europe IPs,1334,Not Checked,,
+185.163.110.194:9443,HTTP_TLS,United Kingdom,GB,🇬🇧,83,high,Yes,M247 Europe IPs,1359,Not Checked,,
+185.163.110.194:443,HTTP_TLS,United Kingdom,GB,🇬🇧,83,high,Yes,M247 Europe IPs,1373,Not Checked,,
+185.163.110.194:9443,HTTP_TLS,United Kingdom,GB,🇬🇧,83,high,Yes,M247 Europe IPs,1361,Not Checked,,
+92.119.176.5:443,HTTP_TLS,United Kingdom,GB,🇬🇧,100,very_high,Yes,M247 Europe SRL,1083,Not Checked,,
+92.119.176.5:443,HTTP_TLS,United Kingdom,GB,🇬🇧,100,very_high,Yes,M247 Europe SRL,1050,Not Checked,,
