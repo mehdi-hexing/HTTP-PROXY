@@ -1,11 +1,22 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-5.129.254.51:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1276,Yes,64.4,7/8
-5.129.254.5:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1439,Yes,70.1,7/8
-5.129.254.154:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1455,Yes,74.5,7/8
-5.129.254.70:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1576,Yes,69.6,7/8
-159.194.228.40:8888,HTTP,Russia,RU,🇷🇺,0,low,No,Beget LLC,2355,Yes,78.8,7/8
-46.173.18.7:40001,HTTP,Russia,RU,🇷🇺,0,low,No,Beget LLC,1238,Yes,87.4,7/8
-46.183.134.50:8080,HTTP,Russia,RU,🇷🇺,0,low,No,REDCOM LIR 3 Subroute VL,7318,Yes,196.8,7/8
-2.56.178.88:808,HTTP,Russia,RU,🇷🇺,0,low,No,UFO Hosting LLC,2726,No,,0/8
-213.232.192.215:4567,HTTP,Russia,RU,🇷🇺,0,low,No,JSC Selectel,8761,Not Checked,,
-84.252.70.94:8080,HTTP,Russia,RU,🇷🇺,0,low,No,Voronezh Telecom LLC,12169,Not Checked,,
+84.252.70.94:8080,HTTP,Russia,RU,🇷🇺,0,low,No,Voronezh Telecom LLC,4616,Yes,110.9,8/8
+159.194.228.40:8888,HTTP,Russia,RU,🇷🇺,0,low,No,Beget LLC,4374,Yes,91.0,8/8
+109.225.40.145:58080,HTTP,Russia,RU,🇷🇺,0,low,No,KLGELECS,5443,Yes,107.1,8/8
+5.129.254.51:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1159,No,,0/8
+5.129.254.154:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1195,No,,0/8
+5.129.254.60:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1176,No,,0/8
+5.129.254.5:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1240,No,,0/8
+193.233.220.20:80,HTTP,Russia,RU,🇷🇺,0,low,No,Aeza Group LLC,1878,No,,0/8
+2.56.178.88:808,HTTP,Russia,RU,🇷🇺,0,low,No,UFO Hosting LLC,2209,No,,0/8
+2.56.178.88:808,HTTP,Russia,RU,🇷🇺,0,low,No,UFO Hosting LLC,2618,No,,0/8
+94.24.236.42:8080,HTTP,Russia,RU,🇷🇺,0,low,No,Intersvyaz-2 JSC,12598,Not Checked,,
+45.147.202.252:1234,HTTP,Russia,RU,🇷🇺,0,low,No,"LLC ""Tvoi Telecom""",15250,Not Checked,,
+94.24.236.42:8080,HTTP,Russia,RU,🇷🇺,0,low,No,Intersvyaz-2 JSC,10906,Not Checked,,
+91.236.238.103:8080,HTTP,Russia,RU,🇷🇺,0,low,No,TERICOM Ltd,11660,Not Checked,,
+89.151.129.168:8080,HTTP,Russia,RU,🇷🇺,0,low,No,VolgaTelecom Cheboxary,8667,Not Checked,,
+91.236.238.103:8080,HTTP,Russia,RU,🇷🇺,0,low,No,TERICOM Ltd,10226,Not Checked,,
+176.115.146.232:8080,HTTP,Russia,RU,🇷🇺,0,low,No,Link Telecom NN Ltd,10804,Not Checked,,
+213.232.192.215:4567,HTTP,Russia,RU,🇷🇺,0,low,No,JSC Selectel,8183,Not Checked,,
+46.183.134.50:8080,HTTP,Russia,RU,🇷🇺,0,low,No,REDCOM LIR 3 Subroute VL,7886,Not Checked,,
+195.19.217.200:3128,HTTP,Russia,RU,🇷🇺,0,low,No,MTS PJSC,10103,Not Checked,,
+212.44.134.166:3128,HTTP,Russia,RU,🇷🇺,0,low,No,"PJSC ""Vimpelcom""",9140,Not Checked,,
