@@ -1,6 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.144.53.63:5011,HTTP,Finland,FI,🇫🇮,0,low,No,H2nexus Cloud Services - Fzco,1391,No,,0/8
-2.27.47.146:3128,HTTP,Finland,FI,🇫🇮,0,low,No,U1 DIGITAL SERVICES LTD,9355,Not Checked,,
-2.27.47.146:3128,HTTP,Finland,FI,🇫🇮,0,low,No,U1 DIGITAL SERVICES LTD,11876,Not Checked,,
-65.109.215.187:8090,HTTP,Finland,FI,🇫🇮,4,low,No,Hetzner Online GmbH,1052,Not Checked,,
-65.109.219.108:2000,HTTP,Finland,FI,🇫🇮,5,low,No,Hetzner Online GmbH,4751,Not Checked,,
+85.209.156.148:1080,HTTP,Finland,FI,🇫🇮,0,low,No,Oy Crea Nova Hosting Solution Ltd,5711,Yes,123.9,8/8
+85.209.156.148:1080,HTTP,Finland,FI,🇫🇮,0,low,No,Oy Crea Nova Hosting Solution Ltd,2783,Yes,123.9,8/8
+65.109.215.187:8090,HTTP,Finland,FI,🇫🇮,5,low,No,Hetzner Online GmbH,1495,Not Checked,,
+65.108.203.35:18080,HTTP,Finland,FI,🇫🇮,5,low,No,Hetzner Online GmbH,1476,Not Checked,,
+65.109.219.108:2000,HTTP,Finland,FI,🇫🇮,5,low,No,Hetzner Online GmbH,3565,Not Checked,,
+2.27.53.95:3128,HTTP,Finland,FI,🇫🇮,25,medium,No,DpkgSoft International Limited,8926,Not Checked,,

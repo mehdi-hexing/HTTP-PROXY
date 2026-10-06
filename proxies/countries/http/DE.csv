@@ -1,15 +1,18 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-161.156.6.106:3128,HTTP,Germany,DE,🇩🇪,0,low,No,IBM Cloud,844,No,,0/8
-161.156.6.106:3128,HTTP,Germany,DE,🇩🇪,0,low,No,IBM Cloud,874,No,,0/8
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,Yes,Zenlayer Inc,944,No,,0/8
-8.209.96.245:9080,HTTP,Germany,DE,🇩🇪,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,7619,Not Checked,,
-185.166.196.14:3128,HTTP,Germany,DE,🇩🇪,3,low,No,"Timeweb, LLP",10304,Not Checked,,
-2.28.105.45:8888,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,3940,Not Checked,,
-2.28.105.45:8888,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,7358,Not Checked,,
-188.40.250.20:8118,HTTP,Germany,DE,🇩🇪,8,low,No,Hetzner Online GmbH,1026,Not Checked,,
-5.189.159.180:3128,HTTP,Germany,DE,🇩🇪,17,low,No,Contabo GmbH,1570,Not Checked,,
-5.189.159.180:3128,HTTP,Germany,DE,🇩🇪,17,low,No,Contabo GmbH,6651,Not Checked,,
-89.58.42.118:3129,HTTP,Germany,DE,🇩🇪,20,medium,No,netcup GmbH,7396,Not Checked,,
-164.90.221.203:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",5614,Not Checked,,
-161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",862,Not Checked,,
-164.90.221.203:8080,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",929,Not Checked,,
+161.156.6.106:3128,HTTP,Germany,DE,🇩🇪,0,low,No,IBM Cloud,994,Yes,89.3,8/8
+161.156.6.106:3128,HTTP,Germany,DE,🇩🇪,0,low,No,IBM Cloud,989,Yes,89.3,8/8
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1005,Yes,79.2,8/8
+91.26.188.170:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,5795,Yes,85.0,8/8
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1000,Yes,79.2,8/8
+8.211.42.167:81,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7766,No,,0/8
+31.214.245.238:8080,HTTP,Germany,DE,🇩🇪,0,low,No,ZAP-Hosting GmbH,9099,Not Checked,,
+2.28.105.45:8888,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,13266,Not Checked,,
+188.40.250.20:8118,HTTP,Germany,DE,🇩🇪,7,low,No,Hetzner Online GmbH,3080,Not Checked,,
+159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,13,low,No,netcup GmbH,14492,Not Checked,,
+159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,13,low,No,netcup GmbH,12570,Not Checked,,
+89.58.42.118:3129,HTTP,Germany,DE,🇩🇪,20,medium,No,netcup GmbH,4327,Not Checked,,
+62.133.60.5:3128,HTTP,Germany,DE,🇩🇪,33,medium,No,Global Connectivity Solutions LLP,4821,Not Checked,,
+185.250.249.181:8443,HTTP,Germany,DE,🇩🇪,33,medium,No,IP- www.ip-projects.de,2676,Not Checked,,
+51.38.120.110:10006,HTTP,Germany,DE,🇩🇪,48,medium,No,OVH SAS,4410,Not Checked,,
+161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1074,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1011,Not Checked,,
