@@ -1,119 +1,321 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.151.75.21:2025,SOCKS5,Bangladesh,BD,🇧🇩,0,low,No,Md Kamrul Islam,6899,Yes,264.5,8/8
-160.22.200.60:69,SOCKS5,Indonesia,ID,🇮🇩,0,low,No,PT Karangmukti Global Netmedia,1048,Yes,247.1,8/8
-124.41.225.101:1080,SOCKS5,Nepal,NP,🇳🇵,0,low,No,WorldLink Communications,2584,Yes,249.9,8/8
-5.175.192.43:1080,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,Simon Mariacher,3569,Yes,92.9,8/8
-195.160.223.99:9050,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,SOLLUTIUM EU Sp z.o.o.,7323,Yes,88.0,8/8
-175.107.30.110:1080,SOCKS5,Pakistan,PK,🇵🇰,0,low,No,National Telecommunication Corporation,6959,Yes,219.7,8/8
-111.119.162.248:10915,SOCKS5,Pakistan,PK,🇵🇰,0,low,No,Connect Communication,3540,Yes,515.4,8/8
-111.119.162.248:10918,SOCKS5,Pakistan,PK,🇵🇰,0,low,No,Connect Communication,7923,Yes,515.4,8/8
-111.119.162.248:10968,SOCKS5,Pakistan,PK,🇵🇰,0,low,No,Connect Communication,2826,Yes,515.4,8/8
-78.110.155.229:1080,SOCKS5,Russia,RU,🇷🇺,0,low,Yes,Limited Liability Company Irtelcom,4538,Yes,101.2,8/8
-83.234.137.154:1080,SOCKS5,Russia,RU,🇷🇺,0,low,No,Joint Stock Company TransTeleCom,4375,Yes,134.6,8/8
-84.54.227.27:1080,SOCKS5,Russia,RU,🇷🇺,0,low,No,Stavropol branch of OJSC Rostelecom,1548,Yes,117.0,8/8
-109.199.96.116:9050,SOCKS5,United States,US,🇺🇸,8,low,No,Contabo GmbH,2636,Yes,115.1,8/8
-47.251.127.154:1080,SOCKS5,United States,US,🇺🇸,11,low,No,Alibaba Cloud LLC,1578,Yes,231.6,8/8
-172.86.84.97:1083,SOCKS5,United States,US,🇺🇸,17,low,No,RouterHosting LLC,7770,Yes,214.0,8/8
-45.74.31.41:4319,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2057,Yes,93.5,7/8
-45.74.31.22:5286,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2475,Yes,90.6,7/8
-45.74.31.50:5115,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3585,Yes,99.0,7/8
-45.74.31.25:7908,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3894,Yes,101.7,7/8
-45.74.31.50:7874,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4285,Yes,99.0,7/8
-45.74.31.42:7272,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5378,Yes,95.8,7/8
-45.74.31.40:5635,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6144,Yes,96.7,7/8
-45.74.31.47:6732,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6996,Yes,102.6,7/8
-45.74.31.25:9534,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7072,Yes,101.7,7/8
-45.74.31.50:6622,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3002,Yes,99.0,7/8
-45.74.31.23:7210,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7434,Yes,99.0,7/8
-45.74.31.40:5805,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7544,Yes,96.7,7/8
-45.74.31.42:7178,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6765,Yes,95.8,7/8
-45.74.31.50:9490,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1889,Yes,99.0,7/8
-45.74.31.22:10796,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1504,Yes,90.6,7/8
-45.74.31.25:10651,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2404,Yes,101.7,7/8
-45.74.31.22:10995,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4138,Yes,90.6,7/8
-45.74.31.42:7355,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2892,Yes,95.8,7/8
-45.74.31.22:4336,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7319,Yes,90.6,7/8
-45.74.31.50:6427,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4020,Yes,99.0,7/8
-45.74.31.30:12486,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7102,Yes,98.7,7/8
-45.74.31.41:12357,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7186,Yes,93.5,7/8
-45.74.31.42:7104,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2694,Yes,95.8,7/8
-45.74.31.42:4331,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2962,Yes,95.8,7/8
-45.74.31.30:8430,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6503,Yes,98.7,7/8
-45.74.31.22:4694,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7072,Yes,90.6,7/8
-45.74.31.41:4673,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6814,Yes,93.5,7/8
-45.74.31.30:5530,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5197,Yes,98.7,7/8
-45.74.31.22:4351,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7129,Yes,90.6,7/8
-45.74.31.22:9073,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4772,Yes,90.6,7/8
-45.74.31.50:11665,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7653,Yes,99.0,7/8
-45.74.31.47:12971,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7495,Yes,102.6,7/8
-45.74.31.46:7960,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1170,Yes,97.7,7/8
-45.74.31.42:7277,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2382,Yes,95.8,7/8
-45.74.31.23:9594,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5738,Yes,99.0,7/8
-45.74.31.30:23326,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3107,Yes,98.7,7/8
-45.74.31.42:22375,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2358,Yes,95.8,7/8
-45.74.31.22:9223,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5203,Yes,90.6,7/8
-45.74.31.25:10528,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7126,Yes,101.7,7/8
-45.74.31.42:4047,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5331,Yes,95.8,7/8
-45.74.31.47:5871,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6629,Yes,102.6,7/8
-45.74.31.22:21400,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4931,Yes,90.6,7/8
-45.74.31.47:10994,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1352,Yes,102.6,7/8
-45.74.31.23:7631,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6739,Yes,99.0,7/8
-45.74.31.41:5194,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,891,Yes,93.5,7/8
-45.74.31.41:36797,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2398,Yes,93.5,7/8
-45.74.31.40:11387,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6161,Yes,96.7,7/8
-45.74.31.47:10823,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4588,Yes,102.6,7/8
-45.74.31.47:5666,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6273,Yes,102.6,7/8
-45.74.31.25:8779,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6713,Yes,101.7,7/8
-45.74.31.25:9487,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5496,Yes,101.7,7/8
-45.74.31.23:15302,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5983,Yes,99.0,7/8
-45.74.31.47:5744,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7262,Yes,102.6,7/8
-45.74.31.50:6515,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5086,Yes,99.0,7/8
-45.74.31.40:13508,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7839,Yes,96.7,7/8
-45.74.31.42:6719,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6222,Yes,95.8,7/8
-45.74.31.41:5184,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3135,Yes,93.5,7/8
-45.74.31.47:5510,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7182,Yes,102.6,7/8
-45.74.31.22:4338,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7944,Yes,90.6,7/8
-45.74.31.41:5765,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5706,Yes,93.5,7/8
-45.74.31.22:8549,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6134,Yes,90.6,7/8
-45.74.31.22:7526,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3225,Yes,90.6,7/8
-45.74.31.47:5354,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5189,Yes,102.6,7/8
-45.74.31.50:4836,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5365,Yes,99.0,7/8
-45.74.31.47:4907,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1507,Yes,102.6,7/8
-45.74.31.42:6810,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5349,Yes,95.8,7/8
-45.74.31.41:4152,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2780,Yes,93.5,7/8
-45.74.31.47:4720,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4502,Yes,102.6,7/8
-45.74.31.50:4105,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5043,Yes,99.0,7/8
-45.74.31.50:4818,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2605,Yes,99.0,7/8
-45.74.31.40:6191,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3070,Yes,96.7,7/8
-45.74.31.23:7936,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,973,Yes,99.0,7/8
-45.74.31.41:4555,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4794,Yes,93.5,7/8
-45.74.31.25:10004,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7337,Yes,101.7,7/8
-45.74.31.25:8329,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6529,Yes,101.7,7/8
-45.74.31.41:4660,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4801,Yes,93.5,7/8
-45.74.31.40:5724,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3872,Yes,96.7,7/8
-45.74.31.40:8870,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4972,Yes,96.7,7/8
-45.74.31.47:5705,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3053,Yes,102.6,7/8
-45.74.31.50:4821,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2273,Yes,99.0,7/8
-45.74.31.40:5827,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2401,Yes,96.7,7/8
-45.74.31.22:5432,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6624,Yes,90.6,7/8
-45.74.31.40:6040,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3003,Yes,96.7,7/8
-45.74.31.25:8198,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2223,Yes,101.7,7/8
-45.74.31.40:5741,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4942,Yes,96.7,7/8
-45.74.31.47:5565,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3454,Yes,102.6,7/8
-45.74.31.47:5381,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7048,Yes,102.6,7/8
-45.74.31.30:11445,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7332,Yes,98.7,7/8
-45.74.31.42:12901,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2264,Yes,95.8,7/8
-45.74.31.25:7671,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6393,Yes,101.7,7/8
-45.74.31.30:5226,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4181,Yes,98.7,7/8
-45.74.31.42:27464,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2448,Yes,95.8,7/8
-45.74.31.41:9956,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2559,Yes,93.5,7/8
-45.74.31.40:18147,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5868,Yes,96.7,7/8
-45.74.31.42:6649,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6568,Yes,95.8,7/8
-45.74.31.30:11440,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5141,Yes,98.7,7/8
-45.74.31.30:11774,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4806,Yes,98.7,7/8
-45.74.31.50:9765,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2437,Yes,99.0,7/8
-45.74.31.50:13647,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3295,Yes,99.0,7/8
-45.74.31.50:12343,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7532,Yes,99.0,7/8
-45.74.31.40:20808,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7298,Yes,96.7,7/8
-173.254.204.118:7890,SOCKS5,United States,US,🇺🇸,40,medium,No,HostPapa,6387,Yes,230.4,3/8
-110.235.240.135:1080,SOCKS5,Cambodia,KH,🇰🇭,0,low,No,COGETEL Co,2194,No,,0/8
+103.189.218.76:6969,SOCKS5,Bangladesh,BD,🇧🇩,0,low,No,Comfort Solutions,1412,Yes,290.6,8/8
+163.47.37.190:1080,SOCKS5,Bangladesh,BD,🇧🇩,0,low,No,Bangladesh Research and Education Network (BdREN),3254,Yes,265.9,8/8
+62.60.186.226:1080,SOCKS5,Finland,FI,🇫🇮,0,low,No,Aeza International LTD,1463,Yes,108.0,8/8
+77.105.130.192:10808,SOCKS5,Finland,FI,🇫🇮,0,low,No,"Closed Joint Stock Company ""AbkhazMedia""",7846,Yes,83.0,8/8
+158.220.101.43:1080,SOCKS5,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,1809,Yes,86.6,8/8
+84.247.191.136:9050,SOCKS5,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,1445,Yes,87.9,8/8
+109.73.177.168:7080,SOCKS5,Italy,IT,🇮🇹,0,low,No,ECROM-MAIN,4497,Yes,137.0,8/8
+77.238.237.253:41414,SOCKS5,Netherlands,NL,🇳🇱,0,low,No,Servers Tech Fzco,4970,Yes,92.1,8/8
+103.239.201.50:58765,SOCKS5,Philippines,PH,🇵🇭,0,low,No,Sky Cable Corporation,2063,Yes,259.8,8/8
+185.54.244.166:1080,SOCKS5,Russia,RU,🇷🇺,0,low,No,Truenetwork Communications,4499,Yes,115.5,8/8
+85.142.124.27:1080,SOCKS5,Russia,RU,🇷🇺,0,low,No,NIKS Network,1164,Yes,86.7,8/8
+212.19.4.217:1080,SOCKS5,Russia,RU,🇷🇺,0,low,No,Redcom LIR,5077,Yes,195.1,8/8
+195.19.55.74:1080,SOCKS5,Russia,RU,🇷🇺,0,low,No,ZAO GTNT,2087,Yes,1500.6,8/8
+91.90.25.95:1080,SOCKS5,Sweden,SE,🇸🇪,0,low,No,"Patrik Lagerman WEB, Enskild Firma",6023,Yes,86.9,8/8
+212.3.127.242:10801,SOCKS5,Ukraine,UA,🇺🇦,0,low,No,"Science Production Company ""Trifle"" Ltd.",1008,Yes,116.3,8/8
+164.152.122.199:19100,SOCKS5,United States,US,🇺🇸,0,low,No,Serverside.com,3628,Yes,201.6,8/8
+45.74.31.42:6448,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1089,Yes,100.7,7/8
+45.74.31.47:6583,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1647,Yes,92.0,7/8
+45.74.31.23:6198,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2195,Yes,96.3,7/8
+45.74.31.42:8351,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2378,Yes,100.7,7/8
+45.74.31.42:7753,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2496,Yes,100.7,7/8
+45.74.31.42:7168,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2633,Yes,100.7,7/8
+45.74.31.23:7167,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2832,Yes,96.3,7/8
+45.74.31.47:6054,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3084,Yes,92.0,7/8
+45.74.31.41:5274,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3199,Yes,99.7,7/8
+45.74.31.30:7065,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3245,Yes,92.7,7/8
+45.74.31.23:5109,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3265,Yes,96.3,7/8
+45.74.31.41:4111,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3177,Yes,99.7,7/8
+45.74.31.41:4285,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3417,Yes,99.7,7/8
+45.74.31.40:4343,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3521,Yes,87.4,7/8
+45.74.31.40:6520,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3524,Yes,87.4,7/8
+45.74.31.23:4812,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3553,Yes,96.3,7/8
+45.74.31.30:9085,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3603,Yes,92.7,7/8
+45.74.31.25:7176,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3804,Yes,93.2,7/8
+45.74.31.23:7544,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3834,Yes,96.3,7/8
+45.74.31.22:5608,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2581,Yes,96.7,7/8
+45.74.31.41:4008,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,815,Yes,99.7,7/8
+45.74.31.22:10548,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1969,Yes,96.7,7/8
+45.74.31.41:5029,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1634,Yes,99.7,7/8
+45.74.31.41:4558,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4967,Yes,99.7,7/8
+45.74.31.47:4763,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5029,Yes,92.0,7/8
+45.74.31.50:9343,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5038,Yes,89.0,7/8
+45.74.31.40:4873,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5167,Yes,87.4,7/8
+45.74.31.40:5062,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,948,Yes,87.4,7/8
+45.74.31.50:4653,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5230,Yes,89.0,7/8
+45.74.31.22:5678,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3506,Yes,96.7,7/8
+45.74.31.42:16599,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2765,Yes,100.7,7/8
+45.74.31.23:5593,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3926,Yes,96.3,7/8
+45.74.31.47:6585,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1675,Yes,92.0,7/8
+45.74.31.50:7061,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5093,Yes,89.0,7/8
+45.74.31.42:8290,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5608,Yes,100.7,7/8
+45.74.31.23:7196,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5727,Yes,96.3,7/8
+45.74.31.50:5235,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2624,Yes,89.0,7/8
+45.74.31.30:4246,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4797,Yes,92.7,7/8
+45.74.31.30:11084,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4735,Yes,92.7,7/8
+45.74.31.40:5542,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3996,Yes,87.4,7/8
+45.74.31.23:4696,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1596,Yes,96.3,7/8
+45.74.31.41:7096,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3716,Yes,99.7,7/8
+45.74.31.42:9944,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1557,Yes,100.7,7/8
+45.74.31.47:6986,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1794,Yes,92.0,7/8
+45.74.31.30:5013,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1214,Yes,92.7,7/8
+45.74.31.46:4677,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2047,Yes,91.1,7/8
+45.74.31.46:8751,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2348,Yes,91.1,7/8
+45.74.31.42:9247,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5353,Yes,100.7,7/8
+45.74.31.40:7086,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3833,Yes,87.4,7/8
+45.74.31.50:7779,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4004,Yes,89.0,7/8
+45.74.31.22:5745,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1912,Yes,96.7,7/8
+45.74.31.40:4338,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2385,Yes,87.4,7/8
+45.74.31.25:4821,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4128,Yes,93.2,7/8
+45.74.31.46:17392,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2756,Yes,91.1,7/8
+45.74.31.41:5586,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5010,Yes,99.7,7/8
+45.74.31.50:12208,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5692,Yes,89.0,7/8
+45.74.31.25:33816,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3511,Yes,93.2,7/8
+45.74.31.47:7426,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2646,Yes,92.0,7/8
+45.74.31.50:4980,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3823,Yes,89.0,7/8
+45.74.31.40:5667,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4206,Yes,87.4,7/8
+45.74.31.47:6914,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2185,Yes,92.0,7/8
+45.74.31.30:7492,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2231,Yes,92.7,7/8
+45.74.31.47:6616,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4628,Yes,92.0,7/8
+45.74.31.25:7226,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5596,Yes,93.2,7/8
+45.74.31.50:4478,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4663,Yes,89.0,7/8
+45.74.31.30:9438,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4884,Yes,92.7,7/8
+45.74.31.22:5692,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5396,Yes,96.7,7/8
+45.74.31.41:4887,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1892,Yes,99.7,7/8
+45.74.31.47:5479,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5213,Yes,92.0,7/8
+45.74.31.47:5928,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5631,Yes,92.0,7/8
+45.74.31.47:4389,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3913,Yes,92.0,7/8
+45.74.31.41:4528,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3986,Yes,99.7,7/8
+45.74.31.41:4435,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4621,Yes,99.7,7/8
+45.74.31.22:5764,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5632,Yes,96.7,7/8
+45.74.31.50:5741,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,827,Yes,89.0,7/8
+45.74.31.25:4819,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2509,Yes,93.2,7/8
+45.74.31.30:5089,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1545,Yes,92.7,7/8
+45.74.31.41:5724,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3719,Yes,99.7,7/8
+45.74.31.46:5065,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5101,Yes,91.1,7/8
+45.74.31.46:12065,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4001,Yes,91.1,7/8
+45.74.31.41:4255,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3036,Yes,99.7,7/8
+45.74.31.30:4462,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4303,Yes,92.7,7/8
+45.74.31.22:5710,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2880,Yes,96.7,7/8
+45.74.31.23:6984,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4287,Yes,96.3,7/8
+45.74.31.47:7037,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1568,Yes,92.0,7/8
+45.74.31.30:4634,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4539,Yes,92.7,7/8
+45.74.31.47:7509,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2171,Yes,92.0,7/8
+45.74.31.30:5768,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1987,Yes,92.7,7/8
+45.74.31.23:4857,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3374,Yes,96.3,7/8
+45.74.31.23:7434,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4861,Yes,96.3,7/8
+45.74.31.30:29651,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1786,Yes,92.7,7/8
+45.74.31.41:4625,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4369,Yes,99.7,7/8
+45.74.31.30:7870,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5277,Yes,92.7,7/8
+45.74.31.25:4439,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5447,Yes,93.2,7/8
+45.74.31.40:17989,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2388,Yes,87.4,7/8
+45.74.31.47:7140,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2845,Yes,92.0,7/8
+45.74.31.22:6497,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5217,Yes,96.7,7/8
+45.74.31.40:7080,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,903,Yes,87.4,7/8
+45.74.31.30:6003,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3102,Yes,92.7,7/8
+45.74.31.25:6443,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1183,Yes,93.2,7/8
+45.74.31.47:5634,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,901,Yes,92.0,7/8
+45.74.31.46:13326,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3020,Yes,91.1,7/8
+45.74.31.40:6585,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2404,Yes,87.4,7/8
+45.74.31.46:5035,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3438,Yes,91.1,7/8
+45.74.31.30:7130,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1958,Yes,92.7,7/8
+45.74.31.47:7143,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2069,Yes,92.0,7/8
+45.74.31.41:4961,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2974,Yes,99.7,7/8
+45.74.31.25:9850,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5609,Yes,93.2,7/8
+45.74.31.30:7190,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3135,Yes,92.7,7/8
+45.74.31.41:4876,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3219,Yes,99.7,7/8
+45.74.31.25:7267,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3525,Yes,93.2,7/8
+45.74.31.47:4067,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3180,Yes,92.0,7/8
+45.74.31.42:8007,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4051,Yes,100.7,7/8
+45.74.31.30:7175,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1988,Yes,92.7,7/8
+45.74.31.23:7056,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5422,Yes,96.3,7/8
+45.74.31.41:4878,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3714,Yes,99.7,7/8
+45.74.31.30:8407,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3931,Yes,92.7,7/8
+45.74.31.25:9583,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2785,Yes,93.2,7/8
+45.74.31.30:4543,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2553,Yes,92.7,7/8
+45.74.31.50:5130,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3064,Yes,89.0,7/8
+45.74.31.30:7103,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3977,Yes,92.7,7/8
+45.74.31.30:5346,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1177,Yes,92.7,7/8
+45.74.31.30:6727,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4647,Yes,92.7,7/8
+45.74.31.23:4582,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3184,Yes,96.3,7/8
+45.74.31.46:12327,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4586,Yes,91.1,7/8
+45.74.31.40:10182,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4420,Yes,87.4,7/8
+45.74.31.47:6226,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1887,Yes,92.0,7/8
+45.74.31.30:6643,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3496,Yes,92.7,7/8
+45.74.31.40:5425,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3262,Yes,87.4,7/8
+45.74.31.41:10383,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1389,Yes,99.7,7/8
+45.74.31.41:5255,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2881,Yes,99.7,7/8
+45.74.31.47:7031,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4287,Yes,92.0,7/8
+45.74.31.25:9656,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5011,Yes,93.2,7/8
+45.74.31.30:6991,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5643,Yes,92.7,7/8
+45.74.31.47:9358,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3431,Yes,92.0,7/8
+45.74.31.23:4994,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2788,Yes,96.3,7/8
+45.74.31.50:4161,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3484,Yes,89.0,7/8
+45.74.31.47:5426,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2465,Yes,92.0,7/8
+45.74.31.42:6778,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4425,Yes,100.7,7/8
+45.74.31.25:7312,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3062,Yes,93.2,7/8
+45.74.31.47:5720,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2152,Yes,92.0,7/8
+45.74.31.30:4002,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1645,Yes,92.7,7/8
+45.74.31.50:5394,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2162,Yes,89.0,7/8
+45.74.31.30:4841,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1390,Yes,92.7,7/8
+45.74.31.22:5738,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2198,Yes,96.7,7/8
+45.74.31.42:7952,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4460,Yes,100.7,7/8
+45.74.31.25:4584,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1436,Yes,93.2,7/8
+45.74.31.23:8028,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2079,Yes,96.3,7/8
+45.74.31.30:8564,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3740,Yes,92.7,7/8
+45.74.31.47:5536,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5534,Yes,92.0,7/8
+45.74.31.30:5147,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3884,Yes,92.7,7/8
+45.74.31.50:13463,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4082,Yes,89.0,7/8
+45.74.31.23:10836,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5108,Yes,96.3,7/8
+45.74.31.40:8954,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1213,Yes,87.4,7/8
+45.74.31.50:13461,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2743,Yes,89.0,7/8
+45.74.31.42:4591,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3853,Yes,100.7,7/8
+45.74.31.23:4006,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5132,Yes,96.3,7/8
+45.74.31.47:13893,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2597,Yes,92.0,7/8
+45.74.31.47:4111,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5716,Yes,92.0,7/8
+45.74.31.40:4844,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4907,Yes,87.4,7/8
+45.74.31.50:5776,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2894,Yes,89.0,7/8
+45.74.31.25:11347,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3616,Yes,93.2,7/8
+45.74.31.47:5411,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,982,Yes,92.0,7/8
+45.74.31.30:6731,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2431,Yes,92.7,7/8
+45.74.31.30:9406,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4246,Yes,92.7,7/8
+45.74.31.30:31865,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1449,Yes,92.7,7/8
+45.74.31.50:12209,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1408,Yes,89.0,7/8
+45.74.31.30:9726,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2256,Yes,92.7,7/8
+45.74.31.30:9793,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3211,Yes,92.7,7/8
+45.74.31.30:16835,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1709,Yes,92.7,7/8
+45.74.31.23:5715,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5516,Yes,96.3,7/8
+45.74.31.47:7188,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3722,Yes,92.0,7/8
+45.74.31.30:4992,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,907,Yes,92.7,7/8
+45.74.31.41:5097,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2650,Yes,99.7,7/8
+45.74.31.30:11929,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3060,Yes,92.7,7/8
+45.74.31.30:6772,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5260,Yes,92.7,7/8
+45.74.31.23:4317,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4651,Yes,96.3,7/8
+45.74.31.41:42256,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1248,Yes,99.7,7/8
+45.74.31.50:4606,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2341,Yes,89.0,7/8
+45.74.31.30:5392,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3762,Yes,92.7,7/8
+45.74.31.47:5278,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2228,Yes,92.0,7/8
+45.74.31.30:5344,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2991,Yes,92.7,7/8
+45.74.31.23:9378,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5020,Yes,96.3,7/8
+45.74.31.50:5299,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1635,Yes,89.0,7/8
+45.74.31.50:4694,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4073,Yes,89.0,7/8
+45.74.31.40:6704,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3044,Yes,87.4,7/8
+45.74.31.23:7120,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2811,Yes,96.3,7/8
+45.74.31.30:7238,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3634,Yes,92.7,7/8
+45.74.31.42:8916,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4523,Yes,100.7,7/8
+45.74.31.30:6798,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2697,Yes,92.7,7/8
+45.74.31.50:4923,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3012,Yes,89.0,7/8
+45.74.31.25:7872,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4686,Yes,93.2,7/8
+45.74.31.41:4122,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3583,Yes,99.7,7/8
+45.74.31.22:5448,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4772,Yes,96.7,7/8
+45.74.31.47:5516,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3727,Yes,92.0,7/8
+45.74.31.40:6791,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3567,Yes,87.4,7/8
+45.74.31.25:8204,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4385,Yes,93.2,7/8
+45.74.31.42:7100,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5047,Yes,100.7,7/8
+45.74.31.40:11900,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4304,Yes,87.4,7/8
+45.74.31.41:4005,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3686,Yes,99.7,7/8
+45.74.31.30:4504,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3623,Yes,92.7,7/8
+45.74.31.41:4445,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3821,Yes,99.7,7/8
+45.74.31.30:11871,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5379,Yes,92.7,7/8
+45.74.31.30:5873,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3057,Yes,92.7,7/8
+45.74.31.30:7117,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1930,Yes,92.7,7/8
+45.74.31.23:5522,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2213,Yes,96.3,7/8
+45.74.31.23:5732,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2698,Yes,96.3,7/8
+45.74.31.50:4636,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3630,Yes,89.0,7/8
+45.74.31.47:5925,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3730,Yes,92.0,7/8
+45.74.31.50:4581,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1205,Yes,89.0,7/8
+45.74.31.50:5002,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3939,Yes,89.0,7/8
+45.74.31.30:7140,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4574,Yes,92.7,7/8
+45.74.31.50:5325,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1222,Yes,89.0,7/8
+45.74.31.30:33253,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,949,Yes,92.7,7/8
+45.74.31.30:4242,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4352,Yes,92.7,7/8
+45.74.31.50:8745,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,829,Yes,89.0,7/8
+45.74.31.30:10091,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3606,Yes,92.7,7/8
+45.74.31.22:11790,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4507,Yes,96.7,7/8
+45.74.31.25:4206,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5632,Yes,93.2,7/8
+45.74.31.30:7499,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4098,Yes,92.7,7/8
+45.74.31.30:10585,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5428,Yes,92.7,7/8
+45.74.31.30:7121,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3384,Yes,92.7,7/8
+45.74.31.40:11026,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2385,Yes,87.4,7/8
+45.74.31.47:5780,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1550,Yes,92.0,7/8
+45.74.31.40:11011,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1088,Yes,87.4,7/8
+45.74.31.30:7202,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,3468,Yes,92.7,7/8
+45.74.31.30:13768,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,2454,Yes,92.7,7/8
+45.74.31.41:10699,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,1291,Yes,99.7,7/8
+45.74.31.22:11052,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,4382,Yes,96.7,7/8
+45.74.31.22:10262,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5588,Yes,96.7,7/8
+152.70.237.238:3128,SOCKS5,South Korea,KR,🇰🇷,2,low,No,Oracle Corporation,4086,Yes,320.8,4/8
+110.235.252.74:1080,SOCKS5,Cambodia,KH,🇰🇭,0,low,No,COGETEL Co,1217,No,,0/8
+8.130.90.177:999,SOCKS5,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",7496,No,,0/8
+79.76.52.220:1080,SOCKS5,Sweden,SE,🇸🇪,2,low,No,Oracle Corporation,4893,No,,0/8
+45.74.31.40:11514,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6150,Not Checked,,
+45.74.31.23:6900,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6184,Not Checked,,
+45.74.31.42:7864,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6806,Not Checked,,
+45.74.31.22:8656,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6916,Not Checked,,
+45.74.31.42:7649,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7361,Not Checked,,
+45.74.31.23:7115,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7709,Not Checked,,
+45.74.31.47:6991,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6277,Not Checked,,
+45.74.31.25:16981,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5895,Not Checked,,
+45.74.31.25:6599,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7074,Not Checked,,
+45.74.31.50:5187,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7936,Not Checked,,
+45.74.31.42:5712,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6171,Not Checked,,
+45.74.31.41:5583,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6951,Not Checked,,
+45.74.31.41:5065,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7311,Not Checked,,
+45.74.31.30:6072,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6848,Not Checked,,
+45.74.31.40:6479,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6309,Not Checked,,
+45.74.31.22:5103,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7453,Not Checked,,
+45.74.31.30:7763,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6229,Not Checked,,
+45.74.31.25:7237,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6744,Not Checked,,
+45.74.31.22:5756,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6587,Not Checked,,
+45.74.31.23:5510,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7427,Not Checked,,
+45.74.31.50:12352,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6849,Not Checked,,
+45.74.31.23:5527,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7988,Not Checked,,
+45.74.31.50:6196,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6185,Not Checked,,
+45.74.31.23:7781,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7501,Not Checked,,
+45.74.31.22:4316,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6392,Not Checked,,
+45.74.31.50:4158,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6033,Not Checked,,
+45.74.31.42:7891,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7557,Not Checked,,
+45.74.31.30:4820,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7274,Not Checked,,
+45.74.31.42:33550,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7830,Not Checked,,
+45.74.31.47:6653,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7287,Not Checked,,
+45.74.31.47:6276,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7988,Not Checked,,
+45.74.31.22:5080,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6617,Not Checked,,
+45.74.31.50:4697,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6421,Not Checked,,
+45.74.31.23:9646,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6207,Not Checked,,
+45.74.31.22:4216,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7116,Not Checked,,
+45.74.31.23:5330,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6328,Not Checked,,
+45.74.31.23:4800,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7811,Not Checked,,
+45.74.31.22:9482,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6286,Not Checked,,
+45.74.31.23:7010,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7690,Not Checked,,
+45.74.31.42:6074,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6700,Not Checked,,
+45.74.31.30:4461,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6627,Not Checked,,
+45.74.31.25:4499,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6655,Not Checked,,
+45.74.31.23:7172,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7413,Not Checked,,
+45.74.31.42:4411,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7281,Not Checked,,
+45.74.31.40:6495,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6595,Not Checked,,
+45.74.31.22:5700,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7678,Not Checked,,
+45.74.31.23:7190,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7785,Not Checked,,
+45.74.31.50:5667,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5739,Not Checked,,
+45.74.31.50:14322,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7186,Not Checked,,
+45.74.31.23:7075,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6068,Not Checked,,
+45.74.31.30:5745,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6234,Not Checked,,
+45.74.31.47:6685,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6454,Not Checked,,
+45.74.31.42:8879,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6031,Not Checked,,
+45.74.31.22:5422,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5868,Not Checked,,
+45.74.31.50:10194,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6407,Not Checked,,
+45.74.31.42:8868,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5808,Not Checked,,
+45.74.31.30:5289,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7513,Not Checked,,
+45.74.31.50:5283,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5806,Not Checked,,
+45.74.31.50:9595,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6801,Not Checked,,
+45.74.31.22:4389,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7003,Not Checked,,
+45.74.31.30:4328,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6863,Not Checked,,
+45.74.31.23:10374,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7514,Not Checked,,
+45.74.31.23:8938,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6042,Not Checked,,
+45.74.31.30:6989,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7716,Not Checked,,
+45.74.31.50:4024,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6922,Not Checked,,
+45.74.31.41:9773,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,5904,Not Checked,,
+45.74.31.50:11031,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7114,Not Checked,,
+45.74.31.30:7207,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,7046,Not Checked,,
+45.74.31.30:9211,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6444,Not Checked,,
+45.74.31.30:6986,SOCKS5,Netherlands,NL,🇳🇱,25,medium,Yes,Secure Internet LLC,6108,Not Checked,,
