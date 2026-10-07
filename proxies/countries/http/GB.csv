@@ -1,4 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-213.199.53.16:8888,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Contabo GmbH,5017,Not Checked,,
-134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,"DigitalOcean, LLC",915,Not Checked,,
-213.171.212.110:8080,HTTP,United Kingdom,GB,🇬🇧,58,medium,No,IONOS SE,5877,Not Checked,,
+8.211.200.183:100,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7706,No,,0/8
+8.211.194.85:4002,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",8692,Not Checked,,
+18.170.45.5:27587,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,3323,Not Checked,,
+18.170.45.5:9002,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,4419,Not Checked,,
+134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,"DigitalOcean, LLC",900,Not Checked,,
+213.171.212.110:8080,HTTP,United Kingdom,GB,🇬🇧,58,medium,No,IONOS SE,8502,Not Checked,,
+213.171.212.110:8080,HTTP,United Kingdom,GB,🇬🇧,58,medium,No,IONOS SE,10854,Not Checked,,
