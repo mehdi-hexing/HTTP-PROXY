@@ -1,12 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-185.68.28.79:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,space Plzensky kraj,1372,Yes,92.4,8/8
-176.102.64.4:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,SecurityNet.cz s.r.o.,1650,Yes,92.5,8/8
-185.68.28.79:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,space Plzensky kraj,1344,Yes,92.4,8/8
-176.102.64.4:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,SecurityNet.cz s.r.o.,1678,Yes,92.5,8/8
-46.229.114.132:40000,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,Alberon rule,1414,Yes,91.6,8/8
-195.181.220.235:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,CLOUD-SMART,1824,Not Checked,,
-91.227.97.113:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,CCS Ceska spolecnost pro platebni karty s.r.o.,1764,Not Checked,,
-185.216.35.130:9443,HTTP_TLS,Czechia,CZ,🇨🇿,73,high,Yes,M247 Europe SRL,1393,Not Checked,,
-185.216.35.130:443,HTTP_TLS,Czechia,CZ,🇨🇿,73,high,Yes,M247 Europe SRL,1382,Not Checked,,
-185.216.35.130:9443,HTTP_TLS,Czechia,CZ,🇨🇿,73,high,Yes,M247 Europe SRL,1407,Not Checked,,
-185.216.35.130:443,HTTP_TLS,Czechia,CZ,🇨🇿,73,high,Yes,M247 Europe SRL,1475,Not Checked,,
+46.229.114.132:40000,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,Alberon rule,1077,Yes,95.4,8/8
+46.229.114.132:40000,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,Alberon rule,1009,Yes,97.2,8/8
+91.227.97.113:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,CCS Ceska spolecnost pro platebni karty s.r.o.,1201,Not Checked,,
+195.181.220.235:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,CLOUD-SMART,1309,Not Checked,,
+91.227.97.113:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,CCS Ceska spolecnost pro platebni karty s.r.o.,1211,Not Checked,,
+195.181.220.235:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,CLOUD-SMART,1310,Not Checked,,
+31.31.78.117:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,WEDOS Internet,5189,Not Checked,,
+31.31.78.117:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,WEDOS Internet,7470,Not Checked,,
+185.216.35.130:9443,HTTP_TLS,Czechia,CZ,🇨🇿,73,high,Yes,M247 Europe SRL,996,Not Checked,,
+185.216.35.130:443,HTTP_TLS,Czechia,CZ,🇨🇿,73,high,Yes,M247 Europe SRL,1043,Not Checked,,
+185.216.35.130:9443,HTTP_TLS,Czechia,CZ,🇨🇿,73,high,Yes,M247 Europe SRL,994,Not Checked,,
+185.216.35.130:443,HTTP_TLS,Czechia,CZ,🇨🇿,73,high,Yes,M247 Europe SRL,1033,Not Checked,,
