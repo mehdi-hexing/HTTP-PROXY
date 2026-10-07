@@ -1,6 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-192.158.15.201:50877,SOCKS4,Canada,CA,🇨🇦,0,low,Yes,Ontario Inc.,7789,Not Checked,,
-173.182.69.5:5678,SOCKS4,Canada,CA,🇨🇦,0,low,No,TELUS Communications Inc,2520,Not Checked,,
-45.81.154.75:1080,SOCKS4,Canada,CA,🇨🇦,0,low,No,ZhouyiSat Communications,2645,Not Checked,,
-45.81.154.75:1080,SOCKS4,Canada,CA,🇨🇦,0,low,No,ZhouyiSat Communications,2000,Not Checked,,
-69.70.74.118:1337,SOCKS4,Canada,CA,🇨🇦,2,low,No,Videotron Ltee,711,Not Checked,,
+192.158.15.201:50877,SOCKS4,Canada,CA,🇨🇦,0,low,Yes,Ontario Inc.,474,Yes,175.9,8/8
+45.81.154.75:1080,SOCKS4,Canada,CA,🇨🇦,0,low,No,ZhouyiSat Communications,5172,Not Checked,,
+45.81.154.75:1080,SOCKS4,Canada,CA,🇨🇦,0,low,No,ZhouyiSat Communications,3491,Not Checked,,
+142.112.52.229:8443,SOCKS4,Canada,CA,🇨🇦,0,low,No,Bell Canada,3547,Not Checked,,
