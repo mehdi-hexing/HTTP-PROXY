@@ -1,23 +1,12 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-161.156.6.106:3128,HTTP,Germany,DE,🇩🇪,0,low,No,IBM Cloud,961,Yes,84.9,8/8
-43.131.47.181:6666,HTTP,Germany,DE,🇩🇪,0,low,No,Aceville Pte.ltd,6864,Yes,74.9,8/8
-161.156.6.106:3128,HTTP,Germany,DE,🇩🇪,0,low,No,IBM Cloud,960,Yes,84.9,8/8
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1041,Yes,78.3,8/8
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1015,Yes,78.3,8/8
-8.211.42.167:8080,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7772,No,,0/8
-64.188.71.169:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Senko Digital LLC,982,No,,0/8
-64.188.71.169:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Senko Digital LLC,983,No,,0/8
-8.211.49.86:3129,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",9771,Not Checked,,
-212.132.112.231:80,HTTP,Germany,DE,🇩🇪,0,low,No,IONOS SE ber.de,11823,Not Checked,,
-31.214.245.238:8080,HTTP,Germany,DE,🇩🇪,0,low,No,ZAP-Hosting GmbH,10653,Not Checked,,
-8.209.96.245:7070,HTTP,Germany,DE,🇩🇪,3,low,No,Alibaba.com Singapore E-Commerce Private Limited,7790,Not Checked,,
-159.195.22.57:80,HTTP,Germany,DE,🇩🇪,13,low,No,netcup GmbH,1053,Not Checked,,
-89.58.42.118:3129,HTTP,Germany,DE,🇩🇪,20,medium,No,netcup GmbH,1066,Not Checked,,
-89.58.42.118:3129,HTTP,Germany,DE,🇩🇪,20,medium,No,netcup GmbH,1067,Not Checked,,
-185.250.249.181:8443,HTTP,Germany,DE,🇩🇪,33,medium,No,IP- www.ip-projects.de,1398,Not Checked,,
-185.250.249.181:8080,HTTP,Germany,DE,🇩🇪,33,medium,No,IP- www.ip-projects.de,1309,Not Checked,,
-185.250.249.181:8443,HTTP,Germany,DE,🇩🇪,33,medium,No,IP- www.ip-projects.de,4823,Not Checked,,
-161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1317,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1020,Not Checked,,
-139.162.169.163:8080,HTTP,Germany,DE,🇩🇪,55,medium,Yes,"Akamai Technologies, Inc.",5613,Not Checked,,
-217.154.71.35:80,HTTP,Germany,DE,🇩🇪,67,high,No,MISTRAL,8610,Not Checked,,
+212.132.112.231:80,HTTP,Germany,DE,🇩🇪,0,low,No,IONOS SE ber.de,1136,Yes,91.0,8/8
+161.156.6.106:3128,HTTP,Germany,DE,🇩🇪,0,low,No,IBM Cloud,937,Yes,85.2,8/8
+212.132.112.231:80,HTTP,Germany,DE,🇩🇪,0,low,No,IONOS SE ber.de,1123,Yes,91.0,8/8
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1640,Yes,78.2,8/8
+31.214.245.238:8080,HTTP,Germany,DE,🇩🇪,0,low,No,ZAP-Hosting GmbH,5226,Yes,88.8,8/8
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,955,Yes,78.2,8/8
+8.211.42.167:8081,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7771,Not Checked,,
+158.101.175.124:5566,HTTP,Germany,DE,🇩🇪,4,low,No,Oracle Corporation,6970,Not Checked,,
+2.28.105.45:8888,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,4965,Not Checked,,
+169.58.34.213:3128,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,1292,Not Checked,,
+161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1000,Not Checked,,
