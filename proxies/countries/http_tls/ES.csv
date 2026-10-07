@@ -1,7 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-82.194.68.10:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,Hostalia Network,1594,Not Checked,,
-213.96.140.33:443,HTTP_TLS,Spain,ES,🇪🇸,1,low,No,Telefonica De Espana SAU,1890,Not Checked,,
-130.195.250.18:443,HTTP_TLS,Spain,ES,🇪🇸,5,low,Yes,M247 Europe SRL,1379,Not Checked,,
-130.195.250.18:9443,HTTP_TLS,Spain,ES,🇪🇸,5,low,Yes,M247 Europe SRL,1385,Not Checked,,
-130.195.250.18:443,HTTP_TLS,Spain,ES,🇪🇸,5,low,Yes,M247 Europe SRL,1375,Not Checked,,
-130.195.250.18:9443,HTTP_TLS,Spain,ES,🇪🇸,5,low,Yes,M247 Europe SRL,1387,Not Checked,,
+82.194.68.10:443,HTTP_TLS,Spain,ES,🇪🇸,0,low,No,Hostalia Network,1449,Yes,112.5,8/8
+213.96.140.33:443,HTTP_TLS,Spain,ES,🇪🇸,1,low,No,Telefonica De Espana SAU,1792,Not Checked,,
+130.195.250.18:443,HTTP_TLS,Spain,ES,🇪🇸,5,low,Yes,M247 Europe SRL,1332,Not Checked,,
+130.195.250.18:9443,HTTP_TLS,Spain,ES,🇪🇸,5,low,Yes,M247 Europe SRL,1336,Not Checked,,
+130.195.250.18:443,HTTP_TLS,Spain,ES,🇪🇸,5,low,Yes,M247 Europe SRL,1331,Not Checked,,
+130.195.250.18:9443,HTTP_TLS,Spain,ES,🇪🇸,5,low,Yes,M247 Europe SRL,1339,Not Checked,,
