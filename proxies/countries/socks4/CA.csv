@@ -1,4 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.81.154.75:1080,SOCKS4,Canada,CA,🇨🇦,0,low,No,ZhouyiSat Communications,4529,Not Checked,,
-50.67.100.178:8080,SOCKS4,Canada,CA,🇨🇦,0,low,No,Shaw Communications,3335,Not Checked,,
-69.70.74.118:1337,SOCKS4,Canada,CA,🇨🇦,2,low,No,Videotron Ltee,1657,Not Checked,,
+24.37.245.42:51056,SOCKS4,Canada,CA,🇨🇦,0,low,No,Le Groupe Videotron Ltee,1373,Yes,183.3,8/8
+184.107.179.79:1080,SOCKS4,Canada,CA,🇨🇦,0,low,No,Leaseweb Canada Inc.,1576,Yes,168.2,8/8
+50.67.100.178:8080,SOCKS4,Canada,CA,🇨🇦,0,low,No,Shaw Communications,1599,No,,0/8
+45.81.154.75:1080,SOCKS4,Canada,CA,🇨🇦,0,low,No,ZhouyiSat Communications,3106,Not Checked,,
+45.81.154.75:1080,SOCKS4,Canada,CA,🇨🇦,0,low,No,ZhouyiSat Communications,3452,Not Checked,,
+69.70.74.118:1337,SOCKS4,Canada,CA,🇨🇦,2,low,No,Videotron Ltee,1244,Not Checked,,
