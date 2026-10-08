@@ -1,11 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-188.42.46.2:443,HTTP_TLS,Luxembourg,LU,🇱🇺,0,low,No,"Servers.com, Inc.",1414,Not Checked,,
-188.42.46.2:443,HTTP_TLS,Luxembourg,LU,🇱🇺,0,low,No,"Servers.com, Inc.",1419,Not Checked,,
-185.221.132.226:443,HTTP_TLS,Luxembourg,LU,🇱🇺,53,medium,Yes,EstNOC OU,1364,Not Checked,,
-185.221.132.226:9443,HTTP_TLS,Luxembourg,LU,🇱🇺,53,medium,Yes,EstNOC OU,1332,Not Checked,,
-185.221.132.226:443,HTTP_TLS,Luxembourg,LU,🇱🇺,53,medium,Yes,EstNOC OU,1397,Not Checked,,
-185.221.132.226:9443,HTTP_TLS,Luxembourg,LU,🇱🇺,53,medium,Yes,EstNOC OU,1388,Not Checked,,
-185.221.132.242:443,HTTP_TLS,Luxembourg,LU,🇱🇺,53,medium,Yes,EstNOC OU,1352,Not Checked,,
-185.221.132.242:9443,HTTP_TLS,Luxembourg,LU,🇱🇺,53,medium,Yes,EstNOC OU,1407,Not Checked,,
-185.221.132.242:443,HTTP_TLS,Luxembourg,LU,🇱🇺,53,medium,Yes,EstNOC OU,1358,Not Checked,,
-185.221.132.242:9443,HTTP_TLS,Luxembourg,LU,🇱🇺,53,medium,Yes,EstNOC OU,1346,Not Checked,,
+188.42.46.2:443,HTTP_TLS,Luxembourg,LU,🇱🇺,0,low,No,"Servers.com, Inc.",954,Yes,86.1,8/8
+188.42.46.2:443,HTTP_TLS,Luxembourg,LU,🇱🇺,0,low,No,"Servers.com, Inc.",958,Yes,86.1,8/8
+185.221.132.226:443,HTTP_TLS,Luxembourg,LU,🇱🇺,53,medium,Yes,EstNOC OU,926,Not Checked,,
+185.221.132.226:9443,HTTP_TLS,Luxembourg,LU,🇱🇺,53,medium,Yes,EstNOC OU,924,Not Checked,,
+185.221.132.226:443,HTTP_TLS,Luxembourg,LU,🇱🇺,53,medium,Yes,EstNOC OU,901,Not Checked,,
+185.221.132.226:9443,HTTP_TLS,Luxembourg,LU,🇱🇺,53,medium,Yes,EstNOC OU,923,Not Checked,,
+185.221.132.242:443,HTTP_TLS,Luxembourg,LU,🇱🇺,53,medium,Yes,EstNOC OU,934,Not Checked,,
+185.221.132.242:9443,HTTP_TLS,Luxembourg,LU,🇱🇺,53,medium,Yes,EstNOC OU,916,Not Checked,,
+185.221.132.242:9443,HTTP_TLS,Luxembourg,LU,🇱🇺,53,medium,Yes,EstNOC OU,1194,Not Checked,,
+185.221.132.242:443,HTTP_TLS,Luxembourg,LU,🇱🇺,53,medium,Yes,EstNOC OU,4520,Not Checked,,
