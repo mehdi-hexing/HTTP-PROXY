@@ -1,17 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1587,Yes,227.3,8/8
-4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1601,Yes,227.3,8/8
-31.207.4.14:3128,HTTP,Singapore,SG,🇸🇬,0,low,Yes,Trunk Networks LTD,2322,Yes,221.4,8/8
-20.197.84.160:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1574,Yes,235.8,8/8
-47.237.2.245:6379,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8129,No,,0/8
-8.219.229.53:84,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8106,No,,0/8
-47.237.92.86:666,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8114,No,,0/8
-47.237.113.119:999,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8120,No,,0/8
-34.87.80.221:30000,HTTP,Singapore,SG,🇸🇬,0,low,No,Google LLC,1657,No,,0/8
-31.207.4.14:3128,HTTP,Singapore,SG,🇸🇬,0,low,Yes,Trunk Networks LTD,12814,Not Checked,,
-43.160.222.70:3128,HTTP,Singapore,SG,🇸🇬,1,low,No,Shenzhen Tencent Computer Systems Company Limited,4622,Not Checked,,
-13.212.114.145:3130,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,10583,Not Checked,,
-129.150.57.5:55555,HTTP,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation,1994,Not Checked,,
-103.164.55.81:3128,HTTP,Singapore,SG,🇸🇬,8,low,Yes,Contabo Asia Private Limited,1612,Not Checked,,
-45.77.246.231:80,HTTP,Singapore,SG,🇸🇬,37,medium,No,The Constant Company,12449,Not Checked,,
-128.199.202.122:8080,HTTP,Singapore,SG,🇸🇬,51,medium,No,"DigitalOcean, LLC",1573,Not Checked,,
+8.219.229.53:8008,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",9128,No,,0/8
+47.237.2.245:20000,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",10966,Not Checked,,
+47.237.92.86:666,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",10801,Not Checked,,
+47.237.113.119:999,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",10836,Not Checked,,
+43.160.222.70:3128,HTTP,Singapore,SG,🇸🇬,1,low,No,Shenzhen Tencent Computer Systems Company Limited,8178,Not Checked,,
+129.150.39.185:3128,HTTP,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation,5673,Not Checked,,
+103.164.55.81:3128,HTTP,Singapore,SG,🇸🇬,8,low,Yes,Contabo Asia Private Limited,1517,Not Checked,,
+128.199.202.122:8080,HTTP,Singapore,SG,🇸🇬,51,medium,No,"DigitalOcean, LLC",1440,Not Checked,,
+128.199.202.122:8080,HTTP,Singapore,SG,🇸🇬,51,medium,No,"DigitalOcean, LLC",1425,Not Checked,,

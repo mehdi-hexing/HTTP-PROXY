@@ -1,17 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,682,Yes,75.0,8/8
-8.211.49.86:119,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7485,No,,0/8
-64.188.71.169:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Senko Digital LLC,1054,No,,0/8
-64.188.71.169:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Senko Digital LLC,1139,No,,0/8
-8.211.42.167:5060,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",10181,Not Checked,,
-212.132.112.231:80,HTTP,Germany,DE,🇩🇪,0,low,No,IONOS SE ber.de,9694,Not Checked,,
-8.209.96.245:80,HTTP,Germany,DE,🇩🇪,3,low,No,Alibaba.com Singapore E-Commerce Private Limited,7492,Not Checked,,
-64.188.56.82:8118,HTTP,Germany,DE,🇩🇪,3,low,No,"Timeweb, LLP",7148,Not Checked,,
-167.233.243.116:3129,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,1085,Not Checked,,
-167.233.243.116:3128,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,1816,Not Checked,,
-167.233.243.116:3128,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,772,Not Checked,,
-47.91.89.3:1080,HTTP,Germany,DE,🇩🇪,14,low,No,Alibaba.com LLC,7492,Not Checked,,
-161.97.94.168:6001,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,1317,Not Checked,,
-173.212.234.174:3128,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,2957,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1116,Not Checked,,
-161.35.70.249:8080,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",677,Not Checked,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,806,Timeout,,
+63.180.203.233:8090,HTTP,Germany,DE,🇩🇪,4,low,No,Amazon.com,2064,Not Checked,,
+167.233.243.116:3129,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,6138,Not Checked,,
+167.233.243.116:3128,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,11747,Not Checked,,
+167.233.243.116:3129,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,4853,Not Checked,,
+167.233.243.116:3128,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,5589,Not Checked,,
+136.243.116.100:8080,HTTP,Germany,DE,🇩🇪,7,low,No,Hetzner Online GmbH,10700,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",846,Not Checked,,
+161.35.70.249:8080,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",826,Not Checked,,

@@ -1,2 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-38.75.82.219:999,HTTP,Dominican Republic,DO,🇩🇴,5,low,No,Cogent Communications,9744,Not Checked,,
+38.191.161.182:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,Three Networks SRL,7752,Yes,226.0,7/8
+38.52.220.166:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"TELECABLE DOMINICANO, S.A.",9956,Yes,231.5,7/8
+38.156.238.76:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"BITNET DOMINICANA, S.R.L",627,Timeout,,
+38.75.82.222:999,HTTP,Dominican Republic,DO,🇩🇴,5,low,No,Cogent Communications,9379,Not Checked,,
