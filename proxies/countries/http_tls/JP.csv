@@ -1,38 +1,41 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.91.211.14:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,Yes,WorldStream B.V.,1044,Yes,87.7,8/8
-45.91.211.14:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,Yes,WorldStream B.V.,965,Yes,87.7,8/8
-103.135.244.2:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,Yes,Super Godzilla Communications GK,1569,Not Checked,,
-52.195.184.209:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,1472,Not Checked,,
-103.135.244.2:9443,HTTP_TLS,Japan,JP,🇯🇵,0,low,Yes,Super Godzilla Communications GK,1919,Not Checked,,
-103.135.244.2:9443,HTTP_TLS,Japan,JP,🇯🇵,0,low,Yes,Super Godzilla Communications GK,1566,Not Checked,,
-103.135.244.2:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,Yes,Super Godzilla Communications GK,1603,Not Checked,,
-52.195.184.209:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,1510,Not Checked,,
-133.9.6.9:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,WASEDA University,1664,Not Checked,,
-133.9.6.9:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,WASEDA University,1455,Not Checked,,
-133.9.6.10:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,WASEDA University,1849,Not Checked,,
-133.9.6.10:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,WASEDA University,1798,Not Checked,,
-133.167.87.173:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,1513,Not Checked,,
-133.242.152.27:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,2086,Not Checked,,
-52.196.49.70:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,1790,Not Checked,,
-8.216.57.38:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",1464,Not Checked,,
-14.137.237.91:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,ALPHA-JP-SUB,1448,Not Checked,,
-160.16.144.120:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,1812,Not Checked,,
-103.127.242.229:7000,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,JT TELECOM INTERNATIONAL PTE.LTD.,1488,Not Checked,,
-124.156.223.252:4433,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,Tencent Cloud Computing (Beijing) Co,1474,Not Checked,,
-133.167.87.173:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,1524,Not Checked,,
-52.196.49.70:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,1761,Not Checked,,
-8.216.57.38:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",1472,Not Checked,,
-133.242.152.27:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,2036,Not Checked,,
-14.137.237.91:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,ALPHA-JP-SUB,1444,Not Checked,,
-160.16.144.120:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,1778,Not Checked,,
-103.127.242.229:7000,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,JT TELECOM INTERNATIONAL PTE.LTD.,1514,Not Checked,,
-124.156.223.252:4433,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,Tencent Cloud Computing (Beijing) Co,1457,Not Checked,,
-175.134.18.237:443,HTTP_TLS,Japan,JP,🇯🇵,4,low,No,Kddi Corporation,1869,Not Checked,,
-133.18.200.207:343,HTTP_TLS,Japan,JP,🇯🇵,4,low,No,KAGOYA JAPAN Inc.,1574,Not Checked,,
-140.238.50.134:1234,HTTP_TLS,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,1487,Not Checked,,
-175.134.18.237:443,HTTP_TLS,Japan,JP,🇯🇵,4,low,No,Kddi Corporation,1898,Not Checked,,
-133.18.200.207:343,HTTP_TLS,Japan,JP,🇯🇵,4,low,No,KAGOYA JAPAN Inc.,1552,Not Checked,,
-64.176.51.83:8443,HTTP_TLS,Japan,JP,🇯🇵,28,medium,No,"The Constant Company, LLC",1548,Not Checked,,
-64.176.51.83:8443,HTTP_TLS,Japan,JP,🇯🇵,28,medium,No,"The Constant Company, LLC",1523,Not Checked,,
-37.120.210.66:9443,HTTP_TLS,Japan,JP,🇯🇵,73,high,Yes,M247 Europe SRL,1603,Not Checked,,
-37.120.210.66:9443,HTTP_TLS,Japan,JP,🇯🇵,73,high,Yes,M247 Europe SRL,1558,Not Checked,,
+103.135.244.2:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,Yes,Super Godzilla Communications GK,1148,Yes,317.0,8/8
+103.135.244.2:9443,HTTP_TLS,Japan,JP,🇯🇵,0,low,Yes,Super Godzilla Communications GK,1132,Yes,317.0,8/8
+103.135.244.2:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,Yes,Super Godzilla Communications GK,1136,Yes,317.0,8/8
+103.135.244.2:9443,HTTP_TLS,Japan,JP,🇯🇵,0,low,Yes,Super Godzilla Communications GK,1132,Yes,317.0,8/8
+133.167.87.173:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,1082,Yes,348.6,8/8
+52.196.49.70:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,1252,Yes,282.7,8/8
+160.16.144.120:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,1252,Yes,327.7,8/8
+8.216.57.38:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",1055,Yes,315.2,8/8
+14.137.237.91:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,ALPHA-JP-SUB,1055,Yes,274.1,8/8
+103.127.242.229:7000,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,JT TELECOM INTERNATIONAL PTE.LTD.,1055,Yes,354.5,8/8
+124.156.223.252:4433,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,Tencent Cloud Computing (Beijing) Co,1043,Yes,331.8,8/8
+133.167.87.173:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,1084,Yes,348.6,8/8
+8.216.57.38:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",1036,Yes,315.2,8/8
+14.137.237.91:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,ALPHA-JP-SUB,1059,Yes,274.1,8/8
+103.127.242.229:7000,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,JT TELECOM INTERNATIONAL PTE.LTD.,1048,Yes,354.5,8/8
+124.156.223.252:4433,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,Tencent Cloud Computing (Beijing) Co,1045,Yes,331.8,8/8
+52.195.184.209:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,1058,No,,0/8
+52.195.184.209:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,1052,No,,0/8
+133.9.6.9:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,WASEDA University,1168,No,,0/8
+133.9.6.9:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,WASEDA University,1043,No,,0/8
+133.9.6.10:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,WASEDA University,1160,No,,0/8
+133.9.6.10:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,WASEDA University,1171,No,,0/8
+133.242.152.27:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,1513,Not Checked,,
+45.91.211.14:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,Yes,WorldStream B.V.,1596,Not Checked,,
+133.242.152.27:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,1511,Not Checked,,
+52.196.49.70:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,1390,Not Checked,,
+45.91.211.14:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,Yes,WorldStream B.V.,1623,Not Checked,,
+160.16.144.120:443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,3604,Not Checked,,
+134.122.129.254:8443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,CTG Server Ltd.,3415,Not Checked,,
+134.122.129.254:8443,HTTP_TLS,Japan,JP,🇯🇵,0,low,No,CTG Server Ltd.,4617,Not Checked,,
+175.134.18.237:443,HTTP_TLS,Japan,JP,🇯🇵,4,low,No,Kddi Corporation,1336,Not Checked,,
+133.18.200.207:343,HTTP_TLS,Japan,JP,🇯🇵,4,low,No,KAGOYA JAPAN Inc.,1353,Not Checked,,
+175.134.18.237:443,HTTP_TLS,Japan,JP,🇯🇵,4,low,No,Kddi Corporation,2199,Not Checked,,
+133.18.200.207:343,HTTP_TLS,Japan,JP,🇯🇵,4,low,No,KAGOYA JAPAN Inc.,1286,Not Checked,,
+140.238.50.134:1234,HTTP_TLS,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,5083,Not Checked,,
+140.238.50.134:1234,HTTP_TLS,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,9160,Not Checked,,
+64.176.51.83:8443,HTTP_TLS,Japan,JP,🇯🇵,28,medium,No,"The Constant Company, LLC",1088,Not Checked,,
+64.176.51.83:8443,HTTP_TLS,Japan,JP,🇯🇵,28,medium,No,"The Constant Company, LLC",1101,Not Checked,,
+37.120.210.66:9443,HTTP_TLS,Japan,JP,🇯🇵,73,high,Yes,M247 Europe SRL,1144,Not Checked,,
+37.120.210.66:9443,HTTP_TLS,Japan,JP,🇯🇵,73,high,Yes,M247 Europe SRL,1132,Not Checked,,
