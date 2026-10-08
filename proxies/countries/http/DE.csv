@@ -1,21 +1,17 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-132.243.228.24:443,HTTP,Germany,DE,🇩🇪,0,low,No,Hostkey B.V.,1478,Yes,83.0,8/8
-132.243.228.24:443,HTTP,Germany,DE,🇩🇪,0,low,No,Hostkey B.V.,3898,Yes,83.0,8/8
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1480,Yes,79.4,8/8
-193.135.9.6:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG,8757,Yes,89.3,8/8
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1021,Yes,79.4,8/8
-8.211.42.167:1234,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7495,No,,0/8
-161.156.6.106:3128,HTTP,Germany,DE,🇩🇪,0,low,No,IBM Cloud,650,Timeout,,
-8.209.96.245:31433,HTTP,Germany,DE,🇩🇪,3,low,No,Alibaba.com Singapore E-Commerce Private Limited,10075,Not Checked,,
-157.90.89.52:8484,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,6353,Not Checked,,
-167.233.243.116:3129,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,790,Not Checked,,
-167.233.243.116:3128,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,1884,Not Checked,,
-173.212.234.174:3128,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,3670,Not Checked,,
-169.58.175.78:3128,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,12946,Not Checked,,
-84.247.191.136:8118,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,2084,Not Checked,,
-62.133.60.5:3128,HTTP,Germany,DE,🇩🇪,33,medium,No,Global Connectivity Solutions LLP,8302,Not Checked,,
-51.38.120.110:10014,HTTP,Germany,DE,🇩🇪,48,medium,No,OVH SAS,685,Not Checked,,
-54.37.74.255:3128,HTTP,Germany,DE,🇩🇪,48,medium,No,OVH SAS,8503,Not Checked,,
-54.37.74.255:3128,HTTP,Germany,DE,🇩🇪,48,medium,No,OVH SAS,8634,Not Checked,,
-161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",685,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",701,Not Checked,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1069,Yes,76.2,8/8
+31.214.245.238:8080,HTTP,Germany,DE,🇩🇪,0,low,No,ZAP-Hosting GmbH,2608,Yes,84.9,8/8
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1061,Yes,76.2,8/8
+161.156.6.106:3128,HTTP,Germany,DE,🇩🇪,0,low,No,IBM Cloud,984,Yes,83.3,8/8
+161.156.6.106:3128,HTTP,Germany,DE,🇩🇪,0,low,No,IBM Cloud,988,Yes,83.3,8/8
+8.211.42.167:6379,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7832,No,,0/8
+92.205.186.129:1080,HTTP,Germany,DE,🇩🇪,0,low,No,Host Europe GmbH,13338,Not Checked,,
+167.233.243.116:3129,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,1136,Not Checked,,
+167.233.243.116:3128,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,1145,Not Checked,,
+2.28.105.45:8888,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,7748,Not Checked,,
+167.233.243.116:3128,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,1118,Not Checked,,
+167.233.243.116:3129,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,1149,Not Checked,,
+159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,13,low,No,netcup GmbH,6375,Not Checked,,
+47.91.89.3:80,HTTP,Germany,DE,🇩🇪,14,low,No,Alibaba.com LLC,7774,Not Checked,,
+173.212.234.174:3128,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,3337,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1014,Not Checked,,
