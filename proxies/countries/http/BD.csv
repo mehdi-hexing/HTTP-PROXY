@@ -1,10 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.81.175.137:22311,HTTP,Bangladesh,BD,🇧🇩,0,low,No,ADN Telecom Ltd.,8917,Yes,253.9,7/8
-103.7.4.15:8082,HTTP,Bangladesh,BD,🇧🇩,0,low,No,HPLink NT,6670,Yes,271.2,7/8
-182.160.106.100:12331,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Aamra Networks Limited,3014,Yes,239.5,7/8
-103.159.210.236:8080,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Genex Infosys PLC,3593,Yes,272.1,7/8
-144.79.217.1:8090,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Bright Technologies Limited,3256,Yes,262.9,7/8
-144.79.217.1:8090,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Bright Technologies Limited,3849,Yes,262.9,7/8
-180.211.161.26:8080,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Bangladesh Telegraph & Telephone Board,12188,Not Checked,,
-103.18.205.162:8080,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Circle Network,11226,Not Checked,,
-103.60.173.173:8080,HTTP,Bangladesh,BD,🇧🇩,3,low,No,Mazeda Networks Limited,6501,Not Checked,,
+103.155.71.88:8080,HTTP,Bangladesh,BD,🇧🇩,0,low,Yes,Orange Communication,6490,Yes,264.1,8/8
+103.81.175.137:22311,HTTP,Bangladesh,BD,🇧🇩,0,low,No,ADN Telecom Ltd.,7178,Yes,253.4,8/8
+103.148.178.10:80,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Bandhon Enterprise,7981,Yes,240.9,8/8
+103.132.91.210:8080,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Matrix BD,14580,Not Checked,,
+123.200.8.170:10000,HTTP,Bangladesh,BD,🇧🇩,14,low,No,Link3 Technologies Limited,6541,Not Checked,,

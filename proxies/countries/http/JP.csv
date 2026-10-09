@@ -1,14 +1,21 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.192.198.50:40001,HTTP,Japan,JP,🇯🇵,0,low,No,Acck LLC,1620,Yes,314.9,7/8
-56.155.73.159:53666,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",2849,No,,0/8
-54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,824,Timeout,,
-54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,824,Timeout,,
-43.207.132.28:11368,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",4986,Not Checked,,
-43.207.141.180:12332,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",2973,Not Checked,,
-43.207.132.28:11368,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",8865,Not Checked,,
-35.78.212.217:111,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",10505,Not Checked,,
-38.175.202.151:443,HTTP,Japan,JP,🇯🇵,4,low,No,NetLab Global,10602,Not Checked,,
-209.182.234.151:40000,HTTP,Japan,JP,🇯🇵,20,medium,No,"HIVELOCITY, Inc.",5306,Not Checked,,
-209.182.234.151:40000,HTTP,Japan,JP,🇯🇵,20,medium,No,"HIVELOCITY, Inc.",3900,Not Checked,,
-139.162.78.109:8080,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",995,Not Checked,,
-139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",986,Not Checked,,
+45.192.198.50:40001,HTTP,Japan,JP,🇯🇵,0,low,No,Acck LLC,1010,Yes,314.4,8/8
+56.155.73.159:39254,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",1056,No,,0/8
+52.195.147.51:59622,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,4411,No,,0/8
+54.238.38.227:8080,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,670,Timeout,,
+35.78.212.217:32053,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",667,Not Checked,,
+43.207.132.28:11368,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",2523,Not Checked,,
+43.207.113.167:9898,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",2451,Not Checked,,
+43.207.132.28:1085,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1742,Not Checked,,
+35.78.212.217:30065,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",674,Not Checked,,
+35.78.212.217:9002,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",669,Not Checked,,
+35.78.212.217:50469,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",679,Not Checked,,
+35.78.212.217:444,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",671,Not Checked,,
+35.78.212.217:24968,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",669,Not Checked,,
+35.78.212.217:100,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",665,Not Checked,,
+35.78.212.217:2424,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1044,Not Checked,,
+35.78.212.217:10808,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1003,Not Checked,,
+35.78.212.217:10801,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",661,Not Checked,,
+139.162.78.109:8080,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",893,Not Checked,,
+139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",834,Not Checked,,
+45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,78,high,No,Zenlayer Inc,14200,Not Checked,,

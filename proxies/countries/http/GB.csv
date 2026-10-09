@@ -1,5 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-51.142.79.206:3128,HTTP,United Kingdom,GB,🇬🇧,0,low,No,Microsoft Corporation,724,Timeout,,
-18.175.170.244:23666,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,2281,Not Checked,,
-134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,"DigitalOcean, LLC",732,Not Checked,,
-213.171.212.110:8080,HTTP,United Kingdom,GB,🇬🇧,58,medium,No,IONOS SE,7160,Not Checked,,
+82.152.138.127:999,HTTP,United Kingdom,GB,🇬🇧,0,low,No,GCI Network Solutions Limited,7793,Yes,225.6,8/8
+18.175.170.244:45933,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,2186,Not Checked,,
+18.170.45.5:28384,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,1038,Not Checked,,
+134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,"DigitalOcean, LLC",876,Not Checked,,
+143.110.161.67:10000,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,"DigitalOcean, LLC",878,Not Checked,,
+198.244.254.77:3128,HTTP,United Kingdom,GB,🇬🇧,84,high,No,OVH SAS,3818,Not Checked,,
+198.244.254.77:3128,HTTP,United Kingdom,GB,🇬🇧,84,high,No,OVH SAS,10312,Not Checked,,
