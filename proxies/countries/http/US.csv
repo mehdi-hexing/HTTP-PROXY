@@ -1,20 +1,19 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-173.205.202.33:8181,HTTP,United States,US,🇺🇸,0,low,No,"Swayzee Telephone Company, Inc.",5509,Yes,189.3,8/8
-104.225.162.20:8082,HTTP,United States,US,🇺🇸,0,low,No,"iboss, inc",8952,Yes,182.7,8/8
-104.225.162.20:8082,HTTP,United States,US,🇺🇸,0,low,No,"iboss, inc",8079,Yes,182.7,8/8
-43.173.120.13:8899,HTTP,United States,US,🇺🇸,0,low,No,Shenzhen Tencent Computer Systems Company Limited,619,Timeout,,
-43.173.120.13:8899,HTTP,United States,US,🇺🇸,0,low,No,Shenzhen Tencent Computer Systems Company Limited,985,Timeout,,
-47.252.11.233:80,HTTP,United States,US,🇺🇸,11,low,No,Alibaba Cloud LLC,7186,Not Checked,,
-47.252.18.37:8443,HTTP,United States,US,🇺🇸,11,low,No,Alibaba Cloud LLC,7147,Not Checked,,
-47.251.73.54:8081,HTTP,United States,US,🇺🇸,11,low,No,Alibaba Cloud LLC,7207,Not Checked,,
-76.169.128.104:8080,HTTP,United States,US,🇺🇸,12,low,No,Charter Communications,9163,Not Checked,,
-3.211.120.181:443,HTTP,United States,US,🇺🇸,13,low,No,Amazon Technologies Inc.,252,Not Checked,,
-3.211.120.181:443,HTTP,United States,US,🇺🇸,13,low,No,Amazon Technologies Inc.,275,Not Checked,,
-104.237.232.145:8080,HTTP,United States,US,🇺🇸,14,low,Yes,DedFiberCo,6523,Not Checked,,
-217.216.67.197:3128,HTTP,United States,US,🇺🇸,44,medium,No,Contabo Inc.,2825,Not Checked,,
-138.68.60.8:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",323,Not Checked,,
-198.199.86.11:8080,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",233,Not Checked,,
-138.68.60.8:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",314,Not Checked,,
-209.97.150.167:3128,HTTP,United States,US,🇺🇸,51,medium,Yes,"DigitalOcean, LLC",276,Not Checked,,
-146.190.60.147:8013,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",315,Not Checked,,
-172.85.99.167:16062,HTTP,United States,US,🇺🇸,100,very_high,Yes,Host Wagon LLC,8543,Not Checked,,
+43.173.120.13:8899,HTTP,United States,US,🇺🇸,0,low,No,Shenzhen Tencent Computer Systems Company Limited,1161,Yes,244.7,8/8
+170.39.29.33:8080,HTTP,United States,US,🇺🇸,0,low,No,"The Fusion Network, LLC",9923,Yes,223.7,8/8
+67.43.112.129:8080,HTTP,United States,US,🇺🇸,0,low,No,"Wisper ISP, Inc.",10287,Yes,182.6,8/8
+12.199.82.226:8080,HTTP,United States,US,🇺🇸,1,low,No,"AT&T Enterprises, LLC",5569,Yes,213.5,8/8
+165.154.162.73:8888,HTTP,United States,US,🇺🇸,0,low,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1033,No,,0/8
+104.225.162.20:8082,HTTP,United States,US,🇺🇸,0,low,No,"iboss, inc",897,Timeout,,
+43.173.120.13:8899,HTTP,United States,US,🇺🇸,0,low,No,Shenzhen Tencent Computer Systems Company Limited,540,Timeout,,
+104.225.162.20:8082,HTTP,United States,US,🇺🇸,0,low,No,"iboss, inc",651,Timeout,,
+141.148.65.110:1081,HTTP,United States,US,🇺🇸,2,low,No,Oracle Corporation,9740,Not Checked,,
+34.43.46.91:443,HTTP,United States,US,🇺🇸,2,low,No,Google LLC,6277,Not Checked,,
+158.101.23.103:40002,HTTP,United States,US,🇺🇸,4,low,No,Oracle Corporation,5570,Not Checked,,
+47.251.73.54:5060,HTTP,United States,US,🇺🇸,11,low,No,Alibaba Cloud LLC,7286,Not Checked,,
+47.252.11.233:91,HTTP,United States,US,🇺🇸,11,low,No,Alibaba Cloud LLC,9182,Not Checked,,
+15.204.245.180:8088,HTTP,United States,US,🇺🇸,41,medium,No,OVH SAS,217,Not Checked,,
+198.199.86.11:8080,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",215,Not Checked,,
+138.68.60.8:8080,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",397,Not Checked,,
+209.97.150.167:3128,HTTP,United States,US,🇺🇸,51,medium,Yes,"DigitalOcean, LLC",286,Not Checked,,
+198.199.86.11:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",226,Not Checked,,
