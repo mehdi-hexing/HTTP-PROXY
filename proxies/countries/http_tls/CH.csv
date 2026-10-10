@@ -1,15 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.131.254.246:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,hosttech GmbH,1064,Yes,99.7,8/8
-45.131.254.246:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,hosttech GmbH,1029,Yes,99.7,8/8
-212.243.240.120:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,1083,No,,0/8
-212.243.240.120:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,1062,No,,0/8
-84.72.72.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,1,low,No,UPC Schweiz GmbH,1230,Not Checked,,
-84.72.72.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,1,low,No,UPC Schweiz GmbH,1197,Not Checked,,
-149.88.27.46:9443,HTTP_TLS,Switzerland,CH,🇨🇭,46,medium,Yes,Datacamp Limited,1095,Not Checked,,
-149.88.27.46:9443,HTTP_TLS,Switzerland,CH,🇨🇭,46,medium,Yes,Datacamp Limited,1099,Not Checked,,
-37.120.213.210:9443,HTTP_TLS,Switzerland,CH,🇨🇭,51,medium,Yes,M247 Europe,1112,Not Checked,,
-37.120.213.210:9443,HTTP_TLS,Switzerland,CH,🇨🇭,51,medium,Yes,M247 Europe,1291,Not Checked,,
-89.187.165.97:443,HTTP_TLS,Switzerland,CH,🇨🇭,60,high,Yes,Datacamp Limited,1075,Not Checked,,
-89.187.165.97:9443,HTTP_TLS,Switzerland,CH,🇨🇭,60,high,Yes,Datacamp Limited,1103,Not Checked,,
-89.187.165.97:443,HTTP_TLS,Switzerland,CH,🇨🇭,60,high,Yes,Datacamp Limited,1110,Not Checked,,
-89.187.165.97:9443,HTTP_TLS,Switzerland,CH,🇨🇭,60,high,Yes,Datacamp Limited,1147,Not Checked,,
+45.131.254.246:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,hosttech GmbH,1132,Yes,109.3,8/8
+45.131.254.246:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,hosttech GmbH,1041,Yes,109.3,8/8
+212.243.240.120:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,1091,No,,0/8
+212.243.240.120:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,1057,No,,0/8
+84.72.72.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,1,low,No,UPC Schweiz GmbH,1211,Not Checked,,
+84.72.72.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,1,low,No,UPC Schweiz GmbH,1163,Not Checked,,
+146.70.126.34:9443,HTTP_TLS,Switzerland,CH,🇨🇭,42,medium,Yes,M247 Europe Infra,1117,Not Checked,,
+146.70.126.34:9443,HTTP_TLS,Switzerland,CH,🇨🇭,42,medium,Yes,M247 Europe Infra,1080,Not Checked,,
+169.150.197.247:9443,HTTP_TLS,Switzerland,CH,🇨🇭,46,medium,Yes,Datacamp Limited,1093,Not Checked,,
+169.150.197.247:9443,HTTP_TLS,Switzerland,CH,🇨🇭,46,medium,Yes,Datacamp Limited,1085,Not Checked,,
