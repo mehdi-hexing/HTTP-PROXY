@@ -1,9 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,804,Yes,75.8,8/8
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,801,Yes,83.9,8/8
-167.233.243.116:3128,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,9235,Not Checked,,
-167.233.243.116:3129,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,10855,Not Checked,,
-161.35.70.249:8080,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",844,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",843,Not Checked,,
-157.230.28.51:1975,HTTP,Germany,DE,🇩🇪,51,medium,Yes,"DigitalOcean, LLC",1263,Not Checked,,
-157.230.28.51:1975,HTTP,Germany,DE,🇩🇪,51,medium,Yes,"DigitalOcean, LLC",2897,Not Checked,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1186,Yes,90.3,8/8
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1773,Yes,90.4,8/8
+64.188.71.169:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Senko Digital LLC,10077,No,,0/8
+18.157.159.247:23949,HTTP,Germany,DE,🇩🇪,3,low,No,"Amazon.com, Inc.",4008,Not Checked,,
+84.119.198.99:443,HTTP,Germany,DE,🇩🇪,3,low,No,Vodafone,1093,Not Checked,,
+2.28.105.45:8888,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,10318,Not Checked,,
+167.233.243.116:3129,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,11485,Not Checked,,
+159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,11,low,No,netcup GmbH,15684,Not Checked,,
+198.105.115.233:2000,HTTP,Germany,DE,🇩🇪,12,low,No,YottaSrc,823,Not Checked,,
+198.105.115.233:2000,HTTP,Germany,DE,🇩🇪,12,low,No,YottaSrc,811,Not Checked,,
+161.35.70.249:8080,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",842,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",822,Not Checked,,
