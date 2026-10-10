@@ -1,24 +1,46 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-94.253.95.241:3629,SOCKS4,Russia,RU,🇷🇺,0,low,Yes,Itkm ISP,1503,Yes,81.6,8/8
-188.143.169.22:33333,SOCKS4,Russia,RU,🇷🇺,0,low,No,PIN morespecific,2284,Yes,79.1,8/8
-95.163.20.1:4153,SOCKS4,Russia,RU,🇷🇺,0,low,No,Digital Network JSC,2167,Yes,81.8,8/8
-94.247.241.70:51006,SOCKS4,Russia,RU,🇷🇺,0,low,No,"JSC ""ER-Telecom Holding""",2103,Yes,81.7,8/8
-188.143.169.22:33333,SOCKS4,Russia,RU,🇷🇺,0,low,No,PIN morespecific,2250,Yes,79.1,8/8
-46.29.116.6:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,KMVtelecom,1168,Yes,103.8,8/8
-213.248.39.166:4153,SOCKS4,Russia,RU,🇷🇺,0,low,No,Digital Network JSC,2079,Yes,78.6,8/8
-89.237.33.193:51549,SOCKS4,Russia,RU,🇷🇺,0,low,No,multi-origin SUTTK,2213,Yes,131.5,8/8
-217.17.112.98:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,OOO Kiss,2318,Yes,113.0,8/8
-217.114.12.153:443,SOCKS4,Russia,RU,🇷🇺,0,low,No,LLC Skynet,1222,Yes,96.1,8/8
-176.118.232.12:5678,SOCKS4,Russia,RU,🇷🇺,0,low,No,Prime-Service LLC,2136,No,,0/8
-95.46.105.163:4145,SOCKS4,Russia,RU,🇷🇺,0,low,Yes,Kompleks Media LLC,6633,Not Checked,,
-188.191.18.66:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,CrimeaCom South LLC,4540,Not Checked,,
-89.151.134.157:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,VolgaTelecom Cheboxary,5564,Not Checked,,
-37.193.125.68:1090,SOCKS4,Russia,RU,🇷🇺,0,low,No,Novotelecom Ltd,6908,Not Checked,,
-46.8.104.176:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Evro Telecom OOO,4267,Not Checked,,
-85.30.215.48:60541,SOCKS4,Russia,RU,🇷🇺,0,low,No,National Cable Networks,4949,Not Checked,,
-195.9.146.246:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,PJSC Moscow city telephone network,3138,Not Checked,,
-212.220.13.98:4153,SOCKS4,Russia,RU,🇷🇺,0,low,No,Rostelecom networks,3118,Not Checked,,
-213.21.53.119:4153,SOCKS4,Russia,RU,🇷🇺,0,low,Yes,Global Network Management Inc,3093,Not Checked,,
-176.122.74.108:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Gorset Vladimir Network,3478,Not Checked,,
-95.188.83.253:1080,SOCKS4,Russia,RU,🇷🇺,1,low,No,Rostelecom networks,5773,Not Checked,,
-93.100.133.197:1080,SOCKS4,Russia,RU,🇷🇺,2,low,No,SkyNet LLC,5572,Not Checked,,
+188.191.18.66:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,CrimeaCom South LLC,1395,Yes,98.5,8/8
+46.8.104.176:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Evro Telecom OOO,955,Yes,86.6,8/8
+89.250.148.154:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,"JSC ""ER-Telecom Holding""",1217,No,,0/8
+217.17.112.98:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,OOO Kiss,1120,No,,0/8
+31.129.107.119:443,SOCKS4,Russia,RU,🇷🇺,0,low,No,Beget LLC,1102,No,,0/8
+85.237.62.189:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,PJSC Rostelecom,3222,Not Checked,,
+83.220.46.106:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,GARS-Block1,3090,Not Checked,,
+94.253.95.241:3629,SOCKS4,Russia,RU,🇷🇺,0,low,Yes,Itkm ISP,4131,Not Checked,,
+92.42.8.20:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,KMVtelecom,5564,Not Checked,,
+93.90.212.2:4153,SOCKS4,Russia,RU,🇷🇺,0,low,No,Stavtelecom LLC,1798,Not Checked,,
+212.220.13.98:4153,SOCKS4,Russia,RU,🇷🇺,0,low,No,Rostelecom networks,2125,Not Checked,,
+89.151.134.157:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,VolgaTelecom Cheboxary,1733,Not Checked,,
+185.216.18.138:44550,SOCKS4,Russia,RU,🇷🇺,0,low,Yes,Mega Tec LLC,2303,Not Checked,,
+88.87.79.18:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,"CJSC ""ER-Telecom Holding"" Volgograd branch",5980,Not Checked,,
+89.222.132.31:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,Netorn LLC,6220,Not Checked,,
+185.216.18.138:44550,SOCKS4,Russia,RU,🇷🇺,0,low,Yes,Mega Tec LLC,1593,Not Checked,,
+176.118.232.12:5678,SOCKS4,Russia,RU,🇷🇺,0,low,No,Prime-Service LLC,2504,Not Checked,,
+95.163.20.1:4153,SOCKS4,Russia,RU,🇷🇺,0,low,No,Digital Network JSC,4232,Not Checked,,
+91.223.224.238:48293,SOCKS4,Russia,RU,🇷🇺,0,low,No,LLC ATK Telecom,3956,Not Checked,,
+51.250.6.232:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Yandex.Cloud LLC,7115,Not Checked,,
+109.68.189.22:54643,SOCKS4,Russia,RU,🇷🇺,0,low,No,OOO Suntel,2353,Not Checked,,
+46.8.104.176:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Evro Telecom OOO,2007,Not Checked,,
+31.148.13.96:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,AZIMUT TELECOM Ltd.,3125,Not Checked,,
+91.223.224.238:48293,SOCKS4,Russia,RU,🇷🇺,0,low,No,LLC ATK Telecom,7764,Not Checked,,
+89.250.148.158:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,"JSC ""ER-Telecom Holding""",4278,Not Checked,,
+5.23.104.251:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,RU RZN Vidikon,2118,Not Checked,,
+89.250.148.154:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,"JSC ""ER-Telecom Holding""",5425,Not Checked,,
+5.254.178.160:10801,SOCKS4,Russia,RU,🇷🇺,0,low,No,South-East Transtelecom Joint Stock Co.,1817,Not Checked,,
+178.57.106.43:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,SEVER-TELECOM,4158,Not Checked,,
+188.113.174.12:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,Sakhalin Cable Telesystems Ltd,1899,Not Checked,,
+89.237.35.129:51549,SOCKS4,Russia,RU,🇷🇺,0,low,No,multi-origin SUTTK,3222,Not Checked,,
+37.18.73.60:5566,SOCKS4,Russia,RU,🇷🇺,0,low,No,"""Cloud Technologies"" LLC trading as Cloud.ru",1800,Not Checked,,
+46.29.116.3:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,KMVtelecom,3446,Not Checked,,
+95.46.105.163:4145,SOCKS4,Russia,RU,🇷🇺,0,low,Yes,Kompleks Media LLC,6604,Not Checked,,
+37.193.71.189:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Novotelecom Ltd.,2314,Not Checked,,
+217.17.112.98:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,OOO Kiss,3140,Not Checked,,
+89.151.134.157:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,VolgaTelecom Cheboxary,4573,Not Checked,,
+176.195.231.44:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Net By Net Holding LLC (Spb),3254,Not Checked,,
+37.193.125.68:1090,SOCKS4,Russia,RU,🇷🇺,0,low,No,Novotelecom Ltd,4626,Not Checked,,
+95.188.83.253:1080,SOCKS4,Russia,RU,🇷🇺,1,low,No,Rostelecom networks,2484,Not Checked,,
+83.219.1.130:5678,SOCKS4,Russia,RU,🇷🇺,2,low,No,Rostelecom networks,2285,Not Checked,,
+83.219.1.130:5678,SOCKS4,Russia,RU,🇷🇺,2,low,No,Rostelecom networks,2271,Not Checked,,
+91.230.154.221:4145,SOCKS4,Russia,RU,🇷🇺,4,low,No,"CJSC ""ER-Telecom Holding"" Yekaterinburg branch",2617,Not Checked,,
+91.230.154.221:4145,SOCKS4,Russia,RU,🇷🇺,4,low,No,"CJSC ""ER-Telecom Holding"" Yekaterinburg branch",5959,Not Checked,,
+46.17.43.219:7890,SOCKS4,Russia,RU,🇷🇺,25,medium,No,LLC BAXET,7672,Not Checked,,
