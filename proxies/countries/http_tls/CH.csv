@@ -1,11 +1,17 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.131.254.246:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,hosttech GmbH,1132,Yes,109.3,8/8
-45.131.254.246:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,hosttech GmbH,1041,Yes,109.3,8/8
-212.243.240.120:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,1091,No,,0/8
-212.243.240.120:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,1057,No,,0/8
-84.72.72.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,1,low,No,UPC Schweiz GmbH,1211,Not Checked,,
-84.72.72.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,1,low,No,UPC Schweiz GmbH,1163,Not Checked,,
-146.70.126.34:9443,HTTP_TLS,Switzerland,CH,🇨🇭,42,medium,Yes,M247 Europe Infra,1117,Not Checked,,
-146.70.126.34:9443,HTTP_TLS,Switzerland,CH,🇨🇭,42,medium,Yes,M247 Europe Infra,1080,Not Checked,,
-169.150.197.247:9443,HTTP_TLS,Switzerland,CH,🇨🇭,46,medium,Yes,Datacamp Limited,1093,Not Checked,,
-169.150.197.247:9443,HTTP_TLS,Switzerland,CH,🇨🇭,46,medium,Yes,Datacamp Limited,1085,Not Checked,,
+45.131.254.246:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,hosttech GmbH,975,Yes,100.2,8/8
+212.243.240.120:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,1002,No,,0/8
+212.243.240.120:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,978,No,,0/8
+45.131.254.246:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,hosttech GmbH,1033,Not Checked,,
+84.72.72.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,1,low,No,UPC Schweiz GmbH,1152,Not Checked,,
+84.72.72.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,1,low,No,UPC Schweiz GmbH,1112,Not Checked,,
+146.70.126.34:9443,HTTP_TLS,Switzerland,CH,🇨🇭,42,medium,Yes,M247 Europe Infra,1038,Not Checked,,
+146.70.126.34:9443,HTTP_TLS,Switzerland,CH,🇨🇭,42,medium,Yes,M247 Europe Infra,1035,Not Checked,,
+169.150.197.247:9443,HTTP_TLS,Switzerland,CH,🇨🇭,46,medium,Yes,Datacamp Limited,1001,Not Checked,,
+169.150.197.247:9443,HTTP_TLS,Switzerland,CH,🇨🇭,46,medium,Yes,Datacamp Limited,1015,Not Checked,,
+216.152.150.189:443,HTTP_TLS,Switzerland,CH,🇨🇭,63,high,No,GTHost,1491,Not Checked,,
+216.152.150.189:443,HTTP_TLS,Switzerland,CH,🇨🇭,63,high,No,GTHost,1526,Not Checked,,
+216.152.150.180:443,HTTP_TLS,Switzerland,CH,🇨🇭,63,high,No,GTHost,1473,Not Checked,,
+216.152.150.188:443,HTTP_TLS,Switzerland,CH,🇨🇭,63,high,No,GTHost,1561,Not Checked,,
+216.152.150.180:443,HTTP_TLS,Switzerland,CH,🇨🇭,63,high,No,GTHost,1512,Not Checked,,
+216.152.150.188:443,HTTP_TLS,Switzerland,CH,🇨🇭,63,high,No,GTHost,1501,Not Checked,,
