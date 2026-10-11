@@ -1,6 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-210.211.113.34:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,5142,No,,0/8
-210.211.113.34:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,4506,No,,0/8
-210.211.113.35:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,2906,No,,0/8
-27.69.77.5:2111,HTTP,Vietnam,VN,🇻🇳,13,low,No,Viettel Group,8697,Not Checked,,
-27.67.54.178:8080,HTTP,Vietnam,VN,🇻🇳,13,low,No,Viettel Group,11959,Not Checked,,
+203.205.49.2:10187,HTTP,Vietnam,VN,🇻🇳,0,low,No,CMC Telecom Infrastructure Company,2182,Yes,279.8,8/8
+210.211.113.34:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,4087,No,,0/8
+210.211.113.34:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,1364,No,,0/8
+210.211.113.33:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,2082,No,,0/8
+210.211.113.35:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,2899,No,,0/8
+113.161.93.6:8080,HTTP,Vietnam,VN,🇻🇳,0,low,No,VietNam Post and Telecom Corporation,12915,Not Checked,,
+42.116.10.198:514,HTTP,Vietnam,VN,🇻🇳,0,low,Yes,FPT Telecom Company,13793,Not Checked,,
