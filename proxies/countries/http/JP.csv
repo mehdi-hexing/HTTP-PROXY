@@ -1,6 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.192.198.50:40001,HTTP,Japan,JP,🇯🇵,0,low,No,Acck LLC,6575,Yes,504.7,8/8
-8.221.141.88:9036,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7701,No,,0/8
-45.76.104.147:40001,HTTP,Japan,JP,🇯🇵,38,medium,No,The Constant Company,6152,Not Checked,,
-139.162.78.109:80,HTTP,Japan,JP,🇯🇵,54,medium,No,"Akamai Technologies, Inc.",1097,Not Checked,,
-139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,54,medium,No,"Akamai Technologies, Inc.",997,Not Checked,,
+45.192.198.50:40001,HTTP,Japan,JP,🇯🇵,0,low,No,Acck LLC,4620,Yes,459.3,8/8
+8.221.139.222:3128,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7779,No,,0/8
+47.91.29.151:9080,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba.com LLC,7749,No,,0/8
+43.207.113.167:28080,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",881,Not Checked,,
+43.207.113.167:15638,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",893,Not Checked,,
+43.207.113.167:44833,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",886,Not Checked,,
+64.176.55.231:8886,HTTP,Japan,JP,🇯🇵,27,medium,No,"The Constant Company, LLC",7163,Not Checked,,
+139.162.78.109:80,HTTP,Japan,JP,🇯🇵,54,medium,No,"Akamai Technologies, Inc.",1164,Not Checked,,
+139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,54,medium,No,"Akamai Technologies, Inc.",1063,Not Checked,,

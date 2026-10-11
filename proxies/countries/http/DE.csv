@@ -1,5 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,837,Timeout,,
-167.233.243.116:3128,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,3972,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",910,Not Checked,,
-161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",832,Not Checked,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,761,Yes,77.6,8/8
+8.211.42.167:41890,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7599,No,,0/8
+64.188.71.169:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Senko Digital LLC,11415,No,,0/8
+64.188.57.241:8888,HTTP,Germany,DE,🇩🇪,3,low,No,"Timeweb, LLP",7421,Not Checked,,
+167.233.243.116:3128,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,854,Not Checked,,
+159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,11,low,No,netcup GmbH,9964,Not Checked,,
+159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,11,low,No,netcup GmbH,7304,Not Checked,,
+161.97.94.168:6001,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,4982,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",861,Not Checked,,
+161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",784,Not Checked,,
