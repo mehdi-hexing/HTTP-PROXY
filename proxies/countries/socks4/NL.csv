@@ -1,9 +1,16 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-145.220.227.3:1080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,463,Yes,90.8,6/6
-145.220.227.2:9050,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,460,Yes,114.2,6/6
-145.220.227.6:1080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,466,Yes,116.1,6/6
-145.220.227.2:8080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,331,Yes,114.2,6/6
-145.220.227.3:9050,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,358,Yes,90.8,6/6
-145.220.227.1:8080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,362,Yes,95.8,6/6
-31.59.170.18:1080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,CGI GLOBAL LIMITED,7676,Not Checked,,
-72.56.94.27:1081,SOCKS4,Netherlands,NL,🇳🇱,3,low,No,"Timeweb, LLP",4530,Not Checked,,
+145.220.227.3:1080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,491,Yes,90.9,6/6
+145.220.227.3:9050,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,405,Yes,90.9,6/6
+145.220.227.2:9050,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,397,Yes,91.2,4/6
+145.220.227.1:8080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,393,No,,0/6
+145.220.227.6:1080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,2443,Not Checked,,
+145.220.227.2:8080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,4512,Not Checked,,
+89.124.81.186:1082,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,Servers Tech Fzco,5706,Not Checked,,
+89.124.81.186:1082,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,Servers Tech Fzco,7775,Not Checked,,
+31.59.170.18:1080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,CGI GLOBAL LIMITED,6154,Not Checked,,
+89.125.147.135:1080,SOCKS4,Netherlands,NL,🇳🇱,26,medium,No,Baxet Group Inc.,2881,Not Checked,,
+217.60.26.5:10808,SOCKS4,Netherlands,NL,🇳🇱,43,medium,No,CGI GLOBAL LIMITED,5120,Not Checked,,
+217.60.26.5:10808,SOCKS4,Netherlands,NL,🇳🇱,43,medium,No,CGI GLOBAL LIMITED,4891,Not Checked,,
+213.176.74.119:1080,SOCKS4,Netherlands,NL,🇳🇱,44,medium,No,NetCrafters OU,4029,Not Checked,,
+213.176.74.119:1080,SOCKS4,Netherlands,NL,🇳🇱,44,medium,No,NetCrafters OU,4061,Not Checked,,
+128.199.37.92:1080,SOCKS4,Netherlands,NL,🇳🇱,51,medium,No,"DigitalOcean, LLC",3755,Not Checked,,
