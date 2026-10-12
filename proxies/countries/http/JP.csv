@@ -1,11 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.192.198.50:40001,HTTP,Japan,JP,🇯🇵,0,low,No,Acck LLC,4672,Yes,498.6,6/6
-101.32.94.127:8089,HTTP,Japan,JP,🇯🇵,0,low,Yes,Shenzhen Tencent Computer Systems Company Limited,4536,Yes,331.9,6/6
-45.192.198.50:40001,HTTP,Japan,JP,🇯🇵,0,low,No,Acck LLC,4603,Yes,498.6,6/6
-8.221.138.111:8072,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",10057,Not Checked,,
-140.227.61.201:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,8312,Not Checked,,
-140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,1207,Not Checked,,
-139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,54,medium,No,"Akamai Technologies, Inc.",1122,Not Checked,,
-139.162.78.109:8080,HTTP,Japan,JP,🇯🇵,54,medium,No,"Akamai Technologies, Inc.",1120,Not Checked,,
-45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,78,high,No,Zenlayer Inc,8238,Not Checked,,
-45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,78,high,No,Zenlayer Inc,8325,Not Checked,,
+45.192.198.50:40001,HTTP,Japan,JP,🇯🇵,0,low,No,Acck LLC,3976,Yes,557.3,6/6
+163.43.113.134:80,HTTP,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,13128,Not Checked,,
+140.227.61.201:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,10502,Not Checked,,
+140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,2163,Not Checked,,
+209.182.234.151:40000,HTTP,Japan,JP,🇯🇵,25,medium,No,"HIVELOCITY, Inc.",1849,Not Checked,,
+139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,54,medium,No,"Akamai Technologies, Inc.",1141,Not Checked,,
+139.162.78.109:8080,HTTP,Japan,JP,🇯🇵,54,medium,No,"Akamai Technologies, Inc.",1122,Not Checked,,
+45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,78,high,No,Zenlayer Inc,8420,Not Checked,,
