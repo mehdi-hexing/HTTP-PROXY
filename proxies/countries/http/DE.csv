@@ -1,10 +1,20 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1130,Yes,81.8,6/6
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,682,Yes,81.8,6/6
-91.26.188.170:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,8098,Yes,86.5,6/6
-51.225.138.29:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",1759,No,,0/6
-217.12.215.163:10808,HTTP,Germany,DE,🇩🇪,0,low,No,Route 95 LLC,9061,Not Checked,,
-47.91.65.23:3128,HTTP,Germany,DE,🇩🇪,14,low,Yes,Alibaba.com LLC,872,Not Checked,,
-47.91.65.23:3128,HTTP,Germany,DE,🇩🇪,14,low,Yes,Alibaba.com LLC,652,Not Checked,,
-161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",799,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",689,Not Checked,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,796,Yes,80.0,6/6
+91.26.188.170:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,3283,Yes,86.9,6/6
+64.188.71.169:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Senko Digital LLC,778,No,,0/6
+64.188.71.169:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Senko Digital LLC,4953,No,,0/6
+51.224.131.122:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",894,No,,0/6
+51.225.138.29:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",859,No,,0/6
+8.211.42.167:1234,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7604,Not Checked,,
+8.211.51.115:8080,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",10647,Not Checked,,
+2.27.98.183:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Packet Loss LTD,8477,Not Checked,,
+51.225.138.217:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",7843,Not Checked,,
+213.135.6.13:8080,HTTP,Germany,DE,🇩🇪,0,low,No,intersaar GmbH,10066,Not Checked,,
+46.4.84.244:8088,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,821,Not Checked,,
+198.105.115.233:2000,HTTP,Germany,DE,🇩🇪,12,low,Yes,YottaSrc,737,Not Checked,,
+198.105.115.233:2000,HTTP,Germany,DE,🇩🇪,12,low,Yes,YottaSrc,721,Not Checked,,
+47.91.89.3:5060,HTTP,Germany,DE,🇩🇪,14,low,No,Alibaba.com LLC,7606,Not Checked,,
+47.91.65.23:3128,HTTP,Germany,DE,🇩🇪,14,low,Yes,Alibaba.com LLC,790,Not Checked,,
+89.23.108.58:8080,HTTP,Germany,DE,🇩🇪,24,medium,No,Global Connectivity Solutions LLP,11743,Not Checked,,
+51.38.120.110:10011,HTTP,Germany,DE,🇩🇪,47,medium,No,OVH SAS,751,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",792,Not Checked,,
