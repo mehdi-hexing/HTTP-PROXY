@@ -1,17 +1,15 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,915,Yes,83.7,6/6
-51.224.131.122:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",941,No,,0/6
-51.225.138.217:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",940,No,,0/6
-51.224.132.72:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",984,No,,0/6
-51.225.138.217:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",939,No,,0/6
-51.224.132.72:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",1075,No,,0/6
-51.224.131.122:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",905,No,,0/6
-158.179.58.126:3128,HTTP,Germany,DE,🇩🇪,2,low,Yes,Oracle Corporation,928,Not Checked,,
-158.179.58.126:3128,HTTP,Germany,DE,🇩🇪,2,low,Yes,Oracle Corporation,861,Not Checked,,
-138.201.52.251:3128,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,13129,Not Checked,,
-159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,12,low,No,netcup GmbH,4213,Not Checked,,
-159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,12,low,No,netcup GmbH,3571,Not Checked,,
-161.97.94.168:6001,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,8784,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1052,Not Checked,,
-161.35.70.249:8080,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1073,Not Checked,,
-139.162.150.46:3128,HTTP,Germany,DE,🇩🇪,54,medium,No,"Akamai Technologies, Inc.",9238,Not Checked,,
+8.211.42.167:41890,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7747,No,,0/6
+8.211.49.86:808,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7760,No,,0/6
+51.224.131.122:80,HTTP,Germany,DE,🇩🇪,0,low,No,Amazon Data Services European Sovereign Cloud GmbH,1107,No,,0/6
+51.224.132.72:80,HTTP,Germany,DE,🇩🇪,0,low,No,Amazon Data Services European Sovereign Cloud GmbH,2218,No,,0/6
+51.224.132.72:80,HTTP,Germany,DE,🇩🇪,0,low,No,Amazon Data Services European Sovereign Cloud GmbH,1124,No,,0/6
+51.224.131.122:80,HTTP,Germany,DE,🇩🇪,0,low,No,Amazon Data Services European Sovereign Cloud GmbH,1682,No,,0/6
+51.224.131.122:7048,HTTP,Germany,DE,🇩🇪,0,low,No,Amazon Data Services European Sovereign Cloud GmbH,1316,No,,0/6
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1008,Timeout,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1008,Timeout,,
+63.180.203.233:8090,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon.com,2565,Not Checked,,
+185.166.196.14:3128,HTTP,Germany,DE,🇩🇪,3,low,No,"Timeweb, LLP",6800,Not Checked,,
+194.163.175.167:40002,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,4956,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1015,Not Checked,,
+161.35.70.249:8080,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1008,Not Checked,,
