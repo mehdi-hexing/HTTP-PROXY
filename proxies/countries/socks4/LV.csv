@@ -1,11 +1,12 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-159.148.146.65:5678,SOCKS4,Latvia,LV,🇱🇻,0,low,No,"SIA ""BITE Latvija""",5280,Not Checked,,
-195.13.182.212:8888,SOCKS4,Latvia,LV,🇱🇻,0,low,No,SIA Tet,1401,Not Checked,,
-195.13.182.212:8080,SOCKS4,Latvia,LV,🇱🇻,0,low,No,SIA Tet,1830,Not Checked,,
-195.13.182.212:8888,SOCKS4,Latvia,LV,🇱🇻,0,low,No,SIA Tet,2568,Not Checked,,
-195.13.182.212:8080,SOCKS4,Latvia,LV,🇱🇻,0,low,No,SIA Tet,1300,Not Checked,,
-195.13.182.211:8080,SOCKS4,Latvia,LV,🇱🇻,0,low,No,SIA Tet,1298,Not Checked,,
-195.13.182.211:8888,SOCKS4,Latvia,LV,🇱🇻,0,low,No,SIA Tet,1245,Not Checked,,
-195.13.169.219:4153,SOCKS4,Latvia,LV,🇱🇻,1,low,No,LATTELEKOM,1033,Not Checked,,
-195.13.169.219:4153,SOCKS4,Latvia,LV,🇱🇻,1,low,No,LATTELEKOM,1020,Not Checked,,
-31.170.17.141:4153,SOCKS4,Latvia,LV,🇱🇻,50,medium,No,Sia Nano IT,4113,Not Checked,,
+195.13.182.212:8080,SOCKS4,Latvia,LV,🇱🇻,0,low,No,SIA Tet,1196,Yes,111.4,6/6
+46.32.187.70:10808,SOCKS4,Latvia,LV,🇱🇻,0,low,No,SIA VEESP,986,Yes,98.2,6/6
+159.148.146.65:5678,SOCKS4,Latvia,LV,🇱🇻,0,low,No,"SIA ""BITE Latvija""",1248,Yes,105.8,5/6
+159.148.146.65:5678,SOCKS4,Latvia,LV,🇱🇻,0,low,No,"SIA ""BITE Latvija""",1210,Yes,105.8,5/6
+195.13.182.212:8888,SOCKS4,Latvia,LV,🇱🇻,0,low,No,SIA Tet,3989,Not Checked,,
+195.13.182.212:8080,SOCKS4,Latvia,LV,🇱🇻,0,low,No,SIA Tet,4307,Not Checked,,
+195.13.182.212:8888,SOCKS4,Latvia,LV,🇱🇻,0,low,No,SIA Tet,5042,Not Checked,,
+195.13.169.219:4153,SOCKS4,Latvia,LV,🇱🇻,1,low,No,LATTELEKOM,1413,Not Checked,,
+195.13.169.219:4153,SOCKS4,Latvia,LV,🇱🇻,1,low,No,LATTELEKOM,1238,Not Checked,,
+31.170.18.129:4153,SOCKS4,Latvia,LV,🇱🇻,50,medium,No,Sia Nano IT,3374,Not Checked,,
+31.170.17.225:4153,SOCKS4,Latvia,LV,🇱🇻,50,medium,No,Sia Nano IT,4308,Not Checked,,
