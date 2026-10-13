@@ -1,833 +1,1048 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-181.209.39.90:999,HTTP,Argentina,AR,🇦🇷,0,low,No,ARSAT - Empresa Argentina de Soluciones Satelitales S.A,4660,Yes,339.4,6/6
-45.232.0.2:8080,HTTP,Argentina,AR,🇦🇷,0,low,No,Sistemas Informaticos S.A.S.,5386,Yes,338.3,6/6
-45.172.142.186:999,HTTP,Argentina,AR,🇦🇷,0,low,No,Techtron Argentina S.A.,4030,Yes,281.3,6/6
-181.209.39.90:999,HTTP,Argentina,AR,🇦🇷,0,low,No,ARSAT - Empresa Argentina de Soluciones Satelitales S.A,6410,Yes,339.4,6/6
-181.209.114.220:8080,HTTP,Argentina,AR,🇦🇷,0,low,No,ARSAT - Empresa Argentina de Soluciones Satelitales S.A,6215,Yes,346.2,6/6
-186.38.100.130:999,HTTP,Argentina,AR,🇦🇷,0,low,No,Telefonica de Argentina,5544,Yes,315.6,6/6
-185.222.94.66:808,HTTP,Azerbaijan,AZ,🇦🇿,0,low,No,AzFiberNet LLC,5006,Yes,83.3,6/6
-103.155.71.88:8080,HTTP,Bangladesh,BD,🇧🇩,0,low,Yes,Orange Communication,5413,Yes,260.5,6/6
-123.253.145.165:8080,HTTP,Bangladesh,BD,🇧🇩,0,low,No,ADN Telecom Ltd.,5165,Yes,242.9,6/6
-138.204.95.193:8989,HTTP,Brazil,BR,🇧🇷,0,low,No,Fibrion Internet Ltda,4435,Yes,277.8,6/6
-177.130.25.76:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Help Internet,5048,Yes,301.7,6/6
-179.48.10.1:8088,HTTP,Brazil,BR,🇧🇷,0,low,No,Carnaubanet Ltda,6259,Yes,265.4,6/6
-45.175.171.71:8085,HTTP,Brazil,BR,🇧🇷,0,low,No,Inffotreini Provedores e Informatica LTDA - ME,6342,Yes,289.5,6/6
-94.156.3.205:8080,HTTP,Bulgaria,BG,🇧🇬,0,low,No,Silistra Telecom Solutions Ltd.,4606,Yes,88.1,6/6
-110.74.195.34:25,HTTP,Cambodia,KH,🇰🇭,0,low,No,"EZECOM CO., LTD.",4173,Yes,260.1,6/6
-45.225.206.248:999,HTTP,Chile,CL,🇨🇱,0,low,No,Netdelsur Telecomunicaciones SPA,7185,Yes,280.7,6/6
-121.46.226.221:10808,HTTP,China,CN,🇨🇳,0,low,No,ZHAOONE,2014,Yes,272.2,6/6
-200.110.173.240:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Media Commerce Partners S.A,3076,Yes,242.2,6/6
-190.131.205.150:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Liberty Networks De Colombia S.A.S,6996,Yes,218.1,6/6
-45.179.246.65:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Genionet Telecomunicaciones S.A.S,6444,Yes,244.8,6/6
-24.152.58.125:999,HTTP,Colombia,CO,🇨🇴,0,low,Yes,Atenea Telecomunicaciones,2095,Yes,246.8,6/6
-38.211.68.70:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Cogent Communications,4768,Yes,254.0,6/6
-45.167.125.62:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Sepcom Comunicaciones SAS,6121,Yes,242.5,6/6
-45.167.124.30:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Sepcom Comunicaciones SAS,7168,Yes,250.7,6/6
-188.119.98.126:9999,HTTP,Czechia,CZ,🇨🇿,0,low,No,"O2 Czech Republic, a.s.",7018,Yes,98.0,6/6
-190.166.204.189:8080,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,Compañía Dominicana de Teléfonos S. A.,885,Yes,221.5,6/6
-38.41.184.73:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,Ludwin Group Company SRL,6921,Yes,207.1,6/6
-190.12.150.244:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Servitelconet Cia. Ltda.,3945,Yes,266.2,6/6
-177.234.221.201:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,4567,Yes,256.5,6/6
-190.12.150.244:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Servitelconet Cia. Ltda.,4220,Yes,266.2,6/6
-177.234.221.198:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,3494,Yes,255.7,6/6
-186.5.94.206:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Telconet S.A,1258,Yes,262.0,6/6
-190.83.15.241:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA),6736,Yes,261.0,6/6
-177.234.221.201:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,6626,Yes,256.5,6/6
-45.245.208.180:8080,HTTP,Egypt,EG,🇪🇬,0,low,No,LINKdotNET AS number,1396,Yes,155.7,6/6
-45.245.208.180:8080,HTTP,Egypt,EG,🇪🇬,0,low,No,LINKdotNET AS number,1283,Yes,155.7,6/6
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,796,Yes,80.0,6/6
-91.26.188.170:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,3283,Yes,86.9,6/6
-188.164.201.197:666,HTTP,Greece,GR,🇬🇷,0,low,Yes,INTERWORKS Single Member S.A.,6106,Yes,140.8,6/6
-181.119.103.237:999,HTTP,Guatemala,GT,🇬🇹,0,low,No,Ufinet Panama S.A.,4777,Yes,223.8,6/6
-190.83.3.35:999,HTTP,Honduras,HN,🇭🇳,0,low,No,AIR NETWORK S. DE R. L. DE C.V.,3543,Yes,216.4,6/6
-47.52.223.161:5872,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC,2865,Yes,283.3,6/6
-103.139.200.230:8080,HTTP,India,IN,🇮🇳,0,low,No,Winnet Broadband Private Limited,6289,Yes,236.1,6/6
-103.23.236.191:8080,HTTP,India,IN,🇮🇳,0,low,No,Kappa Internet Services Private Limited,6910,Yes,301.3,6/6
-103.55.104.57:8080,HTTP,India,IN,🇮🇳,0,low,No,SBR Telecom Pvt. Ltd,5782,Yes,218.8,6/6
-103.193.144.251:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Lintas Jaringan Nusantara,5573,Yes,245.8,6/6
-103.191.154.62:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Ilham Wifi Solution,7049,Yes,241.2,6/6
-111.95.161.133:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,Linknet-Fastnet ASN,1806,Yes,274.4,6/6
-45.198.11.183:9191,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jaringan Lintas Artha,3789,Yes,247.5,6/6
-144.79.228.174:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Teja Bala Abadi,4285,Yes,260.6,6/6
-103.179.253.25:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Pusaka Kreasi Mandiri,4486,Yes,239.4,6/6
-202.169.250.149:8111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Rabik Bangun Pertiwi,5123,Yes,252.4,6/6
-163.61.245.26:1452,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT NAOMI AURORA TEKNOLOGI,6484,Yes,249.5,6/6
-45.198.11.164:9191,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jaringan Lintas Artha,3781,Yes,246.7,6/6
-103.152.238.179:1080,HTTP,Indonesia,ID,🇮🇩,0,low,No,APRIN,7322,Yes,242.9,6/6
-103.112.139.162:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Power Networking Indonesia,6242,Yes,276.5,6/6
-36.50.56.231:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Andromega Data Nusantara,4793,Yes,243.2,6/6
-103.158.210.80:8082,HTTP,Indonesia,ID,🇮🇩,0,low,No,DIGITNET,6897,Yes,243.4,6/6
-38.46.214.177:8085,HTTP,Indonesia,ID,🇮🇩,0,low,Yes,PT. Usaha Adi Sanggoro,6111,Yes,240.7,6/6
-103.152.148.19:8282,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Satu Nusa Bangsa,3624,Yes,298.1,6/6
-103.175.240.80:7777,HTTP,Indonesia,ID,🇮🇩,0,low,No,LDP,4371,Yes,253.2,6/6
-103.125.19.94:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,JAVAMEDIA,5149,Yes,239.0,6/6
-210.87.124.215:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,CV Brawijaya Giga Network,5664,Yes,251.0,6/6
-103.152.238.21:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,APRIN,7213,Yes,244.2,6/6
-163.227.248.119:8818,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Rajasa Sinergi Komunikasi,5761,Yes,248.9,6/6
-103.177.153.6:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Beibi Cemerlang Indonesia,2916,Yes,248.8,6/6
-165.99.194.139:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Network Bumi Saridin,6203,Yes,249.8,6/6
-160.19.146.221:2022,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Taska Sarana Nusantara,5828,Yes,245.5,6/6
-202.10.55.50:3128,HTTP,Indonesia,ID,🇮🇩,0,low,No,HIGEN,6217,Yes,237.0,6/6
-103.46.186.57:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Air Lintas Komunikasi,4228,Yes,233.7,6/6
-45.123.142.179:8086,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Anten Sarana Teknologi,4179,Yes,241.2,6/6
-103.157.79.58:8080,HTTP,Indonesia,ID,🇮🇩,0,low,Yes,EASTMEDIA,6429,Yes,240.1,6/6
-103.54.171.46:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jembatan Data Pangrango,5293,Yes,243.5,6/6
-163.61.245.70:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT NAOMI AURORA TEKNOLOGI,5568,Yes,249.1,6/6
-103.153.63.146:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Ikhlas Cipta Teknologi,6083,Yes,239.1,6/6
-103.139.99.246:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,Digital Network Setiawan,3779,Yes,245.2,6/6
-203.175.127.240:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Cubiespot Pilar Data Nusantara,3901,Yes,261.5,6/6
-160.19.18.115:3127,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Indo Telemedia Solusi,5956,Yes,244.4,6/6
-202.138.240.249:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Melvar Lintasnusa,6918,Yes,244.1,6/6
-45.198.147.238:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Eka Mas Republik,5069,Yes,246.3,6/6
-103.139.99.222:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,Digital Network Setiawan,5854,Yes,243.2,6/6
-202.162.195.157:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Media Antar Nusa,6039,Yes,246.9,6/6
-103.193.144.41:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Lintas Jaringan Nusantara,3713,Yes,238.8,6/6
-103.125.174.123:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Trinity Teknologi Nusantara,7012,Yes,249.7,6/6
-165.99.194.139:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Network Bumi Saridin,3961,Yes,249.8,6/6
-165.99.194.184:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Network Bumi Saridin,7184,Yes,251.9,6/6
-103.122.1.130:8181,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Java Digital Nusantara,5756,Yes,246.0,6/6
-103.54.171.46:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jembatan Data Pangrango,6940,Yes,243.5,6/6
-103.81.110.137:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Fiber Data Nusantara,5845,Yes,241.6,6/6
-163.227.248.119:8818,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Rajasa Sinergi Komunikasi,5195,Yes,248.9,6/6
-103.76.109.123:8090,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Mahawira Nusantara Grup,3926,Yes,253.3,6/6
-103.133.27.143:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT PHATRIA INTI PERSADA,5889,Yes,245.5,6/6
-202.145.5.208:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jala Lintas Media,3917,Yes,257.8,6/6
-103.222.255.161:8055,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Iktiar Doa Tawakal,6603,Yes,254.0,6/6
-103.67.85.150:3127,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Tujuh Fondasi Teknologi,6567,Yes,257.6,6/6
-103.46.186.126:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Air Lintas Komunikasi,3764,Yes,243.6,6/6
-103.188.168.225:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Lintas Jaringan Nusantara,4972,Yes,270.2,6/6
-103.46.11.129:8090,HTTP,Indonesia,ID,🇮🇩,0,low,No,"Lintas Data Prima, PT",5953,Yes,259.5,6/6
-116.68.162.174:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Sumber Data Indonesia,6141,Yes,265.5,6/6
-165.101.231.107:8181,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Anugerah Cimanuk Raya,3827,Yes,250.1,6/6
-103.39.51.184:8088,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Mega Mentari Mandiri,5233,Yes,249.2,6/6
-103.132.54.150:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. ADEAKSA INDO JAYATAMA,6029,Yes,275.9,6/6
-210.87.93.164:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Indo Telemedia Solusi,5850,Yes,245.5,6/6
-103.156.71.25:3128,HTTP,Indonesia,ID,🇮🇩,0,low,No,ONET,6208,Yes,254.7,6/6
-103.97.140.199:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jembatan Data Pangrango,4328,Yes,244.1,6/6
-103.172.71.151:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,AZNET,5110,Yes,254.5,6/6
-160.187.174.71:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Netindo Persada Nusantara,4825,Yes,242.4,6/6
-202.159.35.84:9933,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT IndoInternet,7088,Yes,239.3,6/6
-103.242.104.145:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Lintas Jaringan Nusantara,3414,Yes,245.0,6/6
-41.216.191.85:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,Perwira,2919,Yes,258.1,6/6
-103.177.177.250:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Milenial Inti Telekomunikasi,5581,Yes,241.9,6/6
-103.156.233.33:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,MULTIMEDIALINKTECH,6936,Yes,239.1,6/6
-101.255.209.166:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Remala Abadi,2682,Yes,247.7,6/6
-103.97.141.33:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jembatan Data Pangrango,4734,Yes,240.8,6/6
-103.162.16.69:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Mega Data Perkasa,4877,Yes,245.5,6/6
-103.124.138.93:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,Global Media Data Prima,2712,Yes,248.8,6/6
-103.178.21.104:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Trisna Mega Abadi,7225,Yes,254.7,6/6
-110.232.92.228:2404,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Media Antar Nusa,6534,Yes,249.4,6/6
-103.189.249.210:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Berkah Media Kusuma Vision,7093,Yes,248.5,6/6
-65.20.183.178:8080,HTTP,Iraq,IQ,🇮🇶,0,low,No,Hulum,5601,Yes,161.2,6/6
-101.32.94.127:8089,HTTP,Japan,JP,🇯🇵,0,low,Yes,Shenzhen Tencent Computer Systems Company Limited,6721,Yes,331.6,6/6
-41.79.9.229:8080,HTTP,Kenya,KE,🇰🇪,0,low,No,Frontier Optical Networks Ltd,2707,Yes,236.6,6/6
-38.194.253.115:999,HTTP,Mexico,MX,🇲🇽,0,low,No,IENTC S de RL de CV,7011,Yes,228.6,6/6
-38.19.36.82:999,HTTP,Mexico,MX,🇲🇽,0,low,No,TV CABLE DEL GUADIANA S.A DE C.V.,4537,Yes,230.9,6/6
-187.190.58.152:80,HTTP,Mexico,MX,🇲🇽,0,low,No,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",4186,Yes,213.6,6/6
-189.51.168.164:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Comunicación por Fibra SA de CV,510,Yes,208.4,6/6
-189.51.168.165:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Comunicación por Fibra SA de CV,412,Yes,210.1,6/6
-189.51.168.165:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Comunicación por Fibra SA de CV,430,Yes,210.3,6/6
-170.78.208.1:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Wantelco SAS de CV,3523,Yes,221.8,6/6
-187.190.58.152:80,HTTP,Mexico,MX,🇲🇽,0,low,No,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",4527,Yes,213.6,6/6
-186.96.160.220:999,HTTP,Mexico,MX,🇲🇽,0,low,No,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",4098,Yes,218.5,6/6
-45.174.56.21:999,HTTP,Mexico,MX,🇲🇽,0,low,No,2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES,3987,Yes,228.3,6/6
-206.135.63.146:999,HTTP,Mexico,MX,🇲🇽,0,low,No,GTT Americas,4579,Yes,218.4,6/6
-45.7.67.158:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Maysnet SA De CV,2287,Yes,247.3,6/6
-38.194.246.34:999,HTTP,Mexico,MX,🇲🇽,0,low,Yes,IENTC S de RL de CV,2738,Yes,232.9,6/6
-89.42.71.98:8097,HTTP,Mexico,MX,🇲🇽,0,low,No,Optical Line Terminal SAS De CV,5719,Yes,225.1,6/6
-189.51.168.22:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Comunicación por Fibra SA de CV,6189,Yes,207.2,6/6
-145.220.227.5:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,4231,Yes,91.6,6/6
-145.220.227.4:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,4203,Yes,91.2,6/6
-145.220.227.6:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,4223,Yes,95.2,6/6
-145.220.227.7:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,4122,Yes,93.3,6/6
-145.220.227.3:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,4215,Yes,90.9,6/6
-145.220.227.6:1080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,5115,Yes,95.2,6/6
-145.220.227.5:9050,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,5285,Yes,91.6,6/6
-145.220.227.5:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,6241,Yes,91.6,6/6
-145.220.227.4:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,6187,Yes,91.2,6/6
-145.220.227.3:1080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,6140,Yes,90.9,6/6
-145.220.227.6:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,796,Yes,95.2,6/6
-145.220.227.4:9050,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,720,Yes,91.2,6/6
-145.220.227.5:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,729,Yes,91.6,6/6
-145.220.227.7:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,840,Yes,93.3,6/6
-145.220.227.6:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,1283,Yes,95.2,6/6
-145.220.227.7:1080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,1436,Yes,93.3,6/6
-145.220.227.6:9050,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,1366,Yes,95.2,6/6
-145.220.227.4:1080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,3791,Yes,91.2,6/6
-43.248.15.35:50009,HTTP,Pakistan,PK,🇵🇰,0,low,No,Z COM Networks (Private) Limited,1981,Yes,217.5,6/6
-200.90.136.162:8080,HTTP,Panama,PA,🇵🇦,0,low,No,Cable Onda,1967,Yes,234.2,6/6
-179.63.6.236:999,HTTP,Peru,PE,🇵🇪,0,low,No,RED AMONES S.A.C.,6505,Yes,263.9,6/6
-190.108.82.251:999,HTTP,Peru,PE,🇵🇪,0,low,No,Internexa Peru S.A,3872,Yes,280.2,6/6
-103.25.220.42:8084,HTTP,Philippines,PH,🇵🇭,0,low,No,Imjwanklik Internet Communication Services,6818,Yes,269.4,6/6
-185.128.240.77:8080,HTTP,Romania,RO,🇷🇴,0,low,No,Data ZYX SRL,7083,Yes,83.8,6/6
-87.236.23.100:1080,HTTP,Russia,RU,🇷🇺,0,low,No,BEGET.RU,3182,Yes,95.2,6/6
-5.129.254.215:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",2064,Yes,76.5,6/6
-5.129.254.243:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",3808,Yes,75.3,6/6
-91.233.223.147:3128,HTTP,Russia,RU,🇷🇺,0,low,No,Radist LTD,3603,Yes,102.5,6/6
-95.73.123.25:3128,HTTP,Russia,RU,🇷🇺,0,low,No,CTC-JNPR,6505,Yes,80.1,6/6
-81.176.228.191:2080,HTTP,Russia,RU,🇷🇺,0,low,No,RTCOMM,6522,Yes,72.7,6/6
-87.228.102.241:40001,HTTP,Russia,RU,🇷🇺,0,low,No,JSC Selectel,2664,Yes,82.1,6/6
-8.219.97.248:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Alibaba Cloud (Singapore) Private Limited,1988,Yes,263.4,6/6
-91.185.193.115:8080,HTTP,Slovenia,SI,🇸🇮,0,low,No,TELEMACH,6385,Yes,92.5,6/6
-105.22.37.218:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,SEACOM Limited Networks,6456,Yes,251.0,6/6
-185.225.42.134:8080,HTTP,Syria,SY,🇸🇾,0,low,No,sy-samaweb,6650,Yes,159.6,6/6
-125.25.167.129:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,7231,Yes,260.9,6/6
-125.25.167.202:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,2602,Yes,261.4,6/6
-125.25.167.208:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,6460,Yes,259.4,6/6
-45.149.24.137:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,7196,Yes,80.6,6/6
-109.224.242.26:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,6380,Yes,80.2,6/6
-193.33.157.18:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,5845,Yes,105.0,6/6
-188.132.249.147:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,3661,Yes,84.1,6/6
-201.4.68.113:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,6181,Yes,97.7,6/6
-201.4.65.103:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,2571,Yes,100.4,6/6
-94.154.34.111:8082,HTTP,Turkey,TR,🇹🇷,0,low,No,KEYUBU Internet ve Bilisim Tic. Ltd. Sti.,2556,Yes,50.5,6/6
-176.88.166.163:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,Superonline Iletisim Hizmetleri A.S.,3094,Yes,72.3,6/6
-109.224.242.247:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,5753,Yes,74.2,6/6
-109.224.242.7:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,7065,Yes,74.6,6/6
-43.173.120.13:8899,HTTP,United States,US,🇺🇸,0,low,No,Shenzhen Tencent Computer Systems Company Limited,438,Yes,230.3,6/6
-173.205.202.33:8181,HTTP,United States,US,🇺🇸,0,low,No,"Swayzee Telephone Company, Inc.",5972,Yes,191.2,6/6
-43.173.120.13:8899,HTTP,United States,US,🇺🇸,0,low,No,Shenzhen Tencent Computer Systems Company Limited,697,Yes,230.3,6/6
-104.225.162.20:8082,HTTP,United States,US,🇺🇸,0,low,No,"iboss, inc",399,Yes,186.8,6/6
-104.225.162.20:8082,HTTP,United States,US,🇺🇸,0,low,No,"iboss, inc",869,Yes,186.8,6/6
-173.205.202.241:8181,HTTP,United States,US,🇺🇸,0,low,No,"Swayzee Telephone Company, Inc.",6765,Yes,190.7,6/6
-90.156.160.235:8080,HTTP,Uzbekistan,UZ,🇺🇿,0,low,No,Uzbektelecom JSC,6908,Yes,127.8,6/6
-45.190.85.5:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"TELECOM.CORPORATIVAS TELECORP, C.A",5593,Yes,223.5,6/6
-38.172.181.0:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"RED SERVITEL, CA",6512,Yes,239.5,6/6
-181.233.161.50:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"TELECOMUNICACIONES FASTNET F.G 50, C.A.",3845,Yes,225.4,6/6
-161.22.33.226:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"THUNDERNET, C.A",6370,Yes,220.0,6/6
-154.59.56.74:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Cogent Communications,5881,Yes,240.5,6/6
-203.205.49.2:10047,HTTP,Vietnam,VN,🇻🇳,0,low,No,CMC Telecom Infrastructure Company,2859,Yes,278.6,6/6
-113.163.189.162:8080,HTTP,Vietnam,VN,🇻🇳,0,low,No,VietNam Post and Telecom Corporation,6256,Yes,308.6,6/6
-103.174.122.120:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jaya Sejahtra Nugraha,2801,Yes,259.0,5/6
-154.19.38.195:1111,HTTP,Indonesia,ID,🇮🇩,0,low,Yes,PT Lintas Network Solusi,5880,Yes,242.1,5/6
-200.188.74.3:8080,HTTP,Mexico,MX,🇲🇽,0,low,No,"Alestra, S. de R.L. de C.V.",7197,Yes,230.8,5/6
-196.251.222.242:8104,HTTP,South Africa,ZA,🇿🇦,0,low,No,Info-Gro (PTY) Ltd,6855,Yes,252.3,5/6
-196.251.212.52:8081,HTTP,South Africa,ZA,🇿🇦,0,low,No,Info-Gro (PTY) Ltd,6033,Yes,253.3,5/6
-160.22.65.129:4004,HTTP,Indonesia,ID,🇮🇩,0,low,No,"Lintas Data Prima, PT",5890,Yes,272.2,4/6
-145.220.227.2:9050,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,1802,Yes,91.2,4/6
-145.220.227.2:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,2766,Yes,91.2,4/6
-145.220.227.2:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,4744,Yes,91.2,4/6
-145.220.227.2:1080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,4721,Yes,91.2,4/6
-103.20.102.155:2929,HTTP,Vietnam,VN,🇻🇳,0,low,No,Thai An Khang,6429,Yes,299.8,2/6
-103.20.102.155:2929,HTTP,Vietnam,VN,🇻🇳,0,low,No,Thai An Khang,4412,Yes,299.8,2/6
-5.129.254.49:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1767,Yes,44.6,1/6
-109.164.110.55:2311,HTTP,Czechia,CZ,🇨🇿,0,low,No,"STARNET, s.r.o.",917,No,,0/6
-102.164.249.144:8080,HTTP,Equatorial Guinea,GQ,🇬🇶,0,low,No,Conexxia GE S.L,6844,No,,0/6
-102.164.252.150:8080,HTTP,Equatorial Guinea,GQ,🇬🇶,0,low,No,"Conexxia Guinea Equatorial, S.L",2754,No,,0/6
-64.188.71.169:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Senko Digital LLC,778,No,,0/6
-64.188.71.169:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Senko Digital LLC,4953,No,,0/6
-51.224.131.122:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",894,No,,0/6
-51.225.138.29:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",859,No,,0/6
-47.242.218.151:9020,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC,1340,No,,0/6
-176.111.37.5:39811,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Cogento Backbone Limited,930,No,,0/6
-43.129.31.69:9055,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Aceville Pte.ltd,1432,No,,0/6
-176.111.37.5:39811,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Cogento Backbone Limited,1149,No,,0/6
-103.103.8.222:8080,HTTP,India,IN,🇮🇳,0,low,No,F2h Networks Pvt Ltd,1673,No,,0/6
-13.127.222.175:443,HTTP,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc,1537,No,,0/6
-65.20.79.228:40002,HTTP,India,IN,🇮🇳,0,low,No,The Constant Company,1421,No,,0/6
-103.133.26.17:3128,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT PHATRIA INTI PERSADA,2313,No,,0/6
-103.133.26.17:3128,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT PHATRIA INTI PERSADA,2401,No,,0/6
-103.133.26.72:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT PHATRIA INTI PERSADA,1805,No,,0/6
-103.133.26.72:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT PHATRIA INTI PERSADA,3889,No,,0/6
-157.66.50.153:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT BARAYA TELEKOMUNIKASI INDONESIA,1655,No,,0/6
-103.172.70.17:9191,HTTP,Indonesia,ID,🇮🇩,0,low,No,AZNET,1727,No,,0/6
-102.213.179.66:8080,HTTP,Kenya,KE,🇰🇪,0,low,No,NEXT THING NETWORKS Limited,5599,No,,0/6
-145.220.227.1:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,4217,No,,0/6
-145.220.227.1:9050,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,1792,No,,0/6
-145.220.227.1:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,1764,No,,0/6
-145.220.227.1:1080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,1808,No,,0/6
-5.129.254.60:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1692,No,,0/6
-5.129.254.70:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1706,No,,0/6
-4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1551,No,,0/6
-102.208.228.90:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,2258,No,,0/6
-102.208.228.90:3128,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,2236,No,,0/6
-102.208.228.90:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,2066,No,,0/6
-220.128.223.136:8084,HTTP,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",3772,No,,0/6
-220.128.223.136:8084,HTTP,Taiwan,TW,🇹🇼,0,low,No,"Chunghwa Telecom Co., Ltd.",1670,No,,0/6
-148.135.181.168:8082,HTTP,Turkey,TR,🇹🇷,0,low,No,KEYUBU Internet ve Bilisim Tic. Ltd. Sti.,2474,No,,0/6
-148.135.181.168:8082,HTTP,Turkey,TR,🇹🇷,0,low,No,KEYUBU Internet ve Bilisim Tic. Ltd. Sti.,3780,No,,0/6
-190.97.241.106:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Viginet C.A,1789,No,,0/6
-210.211.113.33:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,1909,No,,0/6
-145.220.227.3:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,693,Timeout,,
-185.89.156.2:44224,HTTP,Albania,AL,🇦🇱,0,low,No,ATU,7577,Not Checked,,
-66.186.199.33:8080,HTTP,Albania,AL,🇦🇱,0,low,No,Vodafone Albania Sh.A.,10357,Not Checked,,
-190.14.32.231:1080,HTTP,Argentina,AR,🇦🇷,0,low,No,Atlantica Video Cable S.A.,8076,Not Checked,,
-138.121.114.142:999,HTTP,Argentina,AR,🇦🇷,0,low,No,Refsa Telecomunicaciones,12055,Not Checked,,
-45.229.28.9:11211,HTTP,Argentina,AR,🇦🇷,0,low,No,Fibras Opticas De MAR Del Plata S.A.,8994,Not Checked,,
-200.110.218.12:999,HTTP,Argentina,AR,🇦🇷,1,low,No,CPS,12500,Not Checked,,
-61.29.96.146:80,HTTP,Australia,AU,🇦🇺,1,low,No,AAPT Limited,11432,Not Checked,,
-90.146.196.18:8080,HTTP,Austria,AT,🇦🇹,0,low,No,LIWEST Kabelmedien GmbH,7617,Not Checked,,
-103.132.91.210:8080,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Matrix BD,11336,Not Checked,,
-103.92.218.121:9514,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Md Rezaul Karim,12849,Not Checked,,
-27.131.14.9:8812,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Dhaka Fiber Net Limited,14893,Not Checked,,
-103.7.120.141:8080,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Exabyte Ltd,9206,Not Checked,,
-103.155.71.88:8080,HTTP,Bangladesh,BD,🇧🇩,0,low,Yes,Orange Communication,12377,Not Checked,,
-103.107.78.192:8080,HTTP,Bangladesh,BD,🇧🇩,0,low,No,bbariaNet,9503,Not Checked,,
-103.89.27.32:8080,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Skyview Online Ltd,14177,Not Checked,,
-103.146.54.6:8080,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Md. Sohel,9518,Not Checked,,
-103.138.123.196:8090,HTTP,Bangladesh,BD,🇧🇩,0,low,No,CAFE,10089,Not Checked,,
-123.0.18.20:1452,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Icon Infotech,7460,Not Checked,,
-182.252.89.130:8080,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Agni Systems Limited,10291,Not Checked,,
-203.76.220.126:16464,HTTP,Bangladesh,BD,🇧🇩,3,low,No,BUSINESSNETWORK,5634,Not Checked,,
-175.29.125.242:8080,HTTP,Bangladesh,BD,🇧🇩,8,low,No,Access Telecom (BD) Ltd,10579,Not Checked,,
-123.200.8.170:10000,HTTP,Bangladesh,BD,🇧🇩,17,low,No,Link3 Technologies Limited,5919,Not Checked,,
-93.125.3.22:8080,HTTP,Belarus,BY,🇧🇾,2,low,No,Unitary enterprise A1,7706,Not Checked,,
-41.216.57.75:8080,HTTP,Benin,BJ,🇧🇯,0,low,No,Benin Telecoms Infrastructures SA,9108,Not Checked,,
-45.174.176.9:8087,HTTP,Brazil,BR,🇧🇷,0,low,No,M & G TELECON LTDA,9275,Not Checked,,
-189.91.154.253:3128,HTTP,Brazil,BR,🇧🇷,0,low,No,M. COELHO M. LIMA SERVICOS DE TELECOMUNICACAO - ME,11097,Not Checked,,
-181.191.14.5:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Linknet Telecomunicações LTDA,9751,Not Checked,,
-45.234.101.120:8081,HTTP,Brazil,BR,🇧🇷,0,low,No,Fortlink Internet Corporativa,14245,Not Checked,,
-170.81.131.70:3128,HTTP,Brazil,BR,🇧🇷,0,low,No,IFTNET Telecomunicacoes Ltda,10530,Not Checked,,
-138.122.140.194:3128,HTTP,Brazil,BR,🇧🇷,4,low,No,Netway Informatica Ltda,10671,Not Checked,,
-128.201.29.6:8666,HTTP,Brazil,BR,🇧🇷,18,low,No,Poliserv Servicos E Comercio Ltda - ME,12792,Not Checked,,
-46.10.209.230:8080,HTTP,Bulgaria,BG,🇧🇬,1,low,No,BTC-BROADBAND,9163,Not Checked,,
-49.156.44.166:8080,HTTP,Cambodia,KH,🇰🇭,0,low,No,WiCAM Corporation Ltd,10148,Not Checked,,
-49.156.44.115:8080,HTTP,Cambodia,KH,🇰🇭,0,low,No,WiCAM Corporation Ltd,11338,Not Checked,,
-203.95.198.125:1256,HTTP,Cambodia,KH,🇰🇭,0,low,No,Today Communication Co,9345,Not Checked,,
-102.244.78.61:8081,HTTP,Cameroon,CM,🇨🇲,3,low,No,Orange CAM INTERNET,2118,Not Checked,,
-102.244.78.61:8086,HTTP,Cameroon,CM,🇨🇲,3,low,No,Orange CAM INTERNET,2083,Not Checked,,
-102.244.78.61:8084,HTTP,Cameroon,CM,🇨🇲,3,low,No,Orange CAM INTERNET,2097,Not Checked,,
+177.136.86.155:999,HTTP,Argentina,AR,🇦🇷,0,low,No,Access AIR Sociedad Simple,5008,Yes,310.2,6/6
+103.7.120.141:8080,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Exabyte Ltd,4954,Yes,263.5,6/6
+103.138.145.130:8090,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Neef IT Limited,5793,Yes,259.1,6/6
+103.6.251.240:8080,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Shahjahan Kabir,5164,Yes,277.6,6/6
+203.112.75.209:1111,HTTP,Bangladesh,BD,🇧🇩,0,low,No,OptiMax Communication Ltd,4238,Yes,271.6,6/6
+78.142.61.77:3128,HTTP,Bulgaria,BG,🇧🇬,0,low,No,BGO Cloud OOD,1038,Yes,79.9,6/6
+78.142.61.78:3128,HTTP,Bulgaria,BG,🇧🇬,0,low,No,BGO Cloud OOD,1644,Yes,77.2,6/6
+78.142.61.74:3128,HTTP,Bulgaria,BG,🇧🇬,0,low,No,BGO Cloud OOD,3292,Yes,89.4,6/6
+139.159.97.82:10900,HTTP,China,CN,🇨🇳,0,low,No,Guangdong LITONG Network Technology Limited,2678,Yes,277.7,6/6
+121.46.226.221:10808,HTTP,China,CN,🇨🇳,0,low,No,ZHAOONE,3339,Yes,279.7,6/6
+222.182.112.134:1088,HTTP,China,CN,🇨🇳,0,low,No,Chinanet,2160,Yes,290.5,6/6
+121.46.226.221:10808,HTTP,China,CN,🇨🇳,0,low,No,ZHAOONE,5391,Yes,279.7,6/6
+38.211.76.201:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Cogent Communications,1809,Yes,264.1,6/6
+190.14.224.244:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Media Commerce Partners S.A,4015,Yes,260.9,6/6
+45.167.124.30:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Sepcom Comunicaciones SAS,2690,Yes,253.8,6/6
+45.167.125.4:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Sepcom Comunicaciones SAS,5451,Yes,248.1,6/6
+64.204.90.177:999,HTTP,Colombia,CO,🇨🇴,0,low,No,GTT Americas,6172,Yes,256.6,6/6
+190.14.231.137:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Media Commerce Partners S.A,3452,Yes,244.6,6/6
+88.146.222.250:8000,HTTP,Czechia,CZ,🇨🇿,0,low,No,Vodafone Czech Republic a.s.,5715,Yes,89.6,6/6
+85.239.156.66:5555,HTTP,Czechia,CZ,🇨🇿,0,low,No,Ondrej Vrana,5021,Yes,88.1,6/6
+85.239.156.66:5555,HTTP,Czechia,CZ,🇨🇿,0,low,No,Ondrej Vrana,4088,Yes,88.1,6/6
+88.146.222.250:8000,HTTP,Czechia,CZ,🇨🇿,0,low,No,Vodafone Czech Republic a.s.,5948,Yes,89.6,6/6
+154.88.136.182:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"DOMINICAN CABLE GROUP DCG, S.R.L.",1505,Yes,214.7,6/6
+38.156.238.24:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"BITNET DOMINICANA, S.R.L",4662,Yes,215.7,6/6
+38.156.238.24:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"BITNET DOMINICANA, S.R.L",3679,Yes,215.7,6/6
+177.52.221.99:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"TELERY NETWORKS, S.R.L",4536,Yes,214.9,6/6
+190.110.36.196:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,Centric Mobility,2313,Yes,207.2,6/6
+177.234.221.196:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,4895,Yes,258.3,6/6
+186.5.94.206:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Telconet S.A,1081,Yes,267.5,6/6
+177.234.221.200:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,4812,Yes,259.9,6/6
+179.60.189.81:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Eliana Vanessa Morocho Oña,4602,Yes,244.4,6/6
+45.245.208.180:8080,HTTP,Egypt,EG,🇪🇬,0,low,No,LINKdotNET AS number,2502,Yes,156.3,6/6
+45.245.208.182:8080,HTTP,Egypt,EG,🇪🇬,0,low,No,LINKdotNET AS number,2426,Yes,148.2,6/6
+213.131.85.29:1976,HTTP,Egypt,EG,🇪🇬,0,low,No,Link Egypt (Link.NET),1324,Yes,145.6,6/6
+45.245.208.182:8080,HTTP,Egypt,EG,🇪🇬,0,low,No,LINKdotNET AS number,1551,Yes,148.2,6/6
+213.131.85.29:1981,HTTP,Egypt,EG,🇪🇬,0,low,No,Link Egypt (Link.NET),1345,Yes,145.6,6/6
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,915,Yes,83.7,6/6
+200.107.235.226:999,HTTP,Honduras,HN,🇭🇳,0,low,No,Redes y Telecomunicaciones,4323,Yes,218.3,6/6
+181.115.67.3:999,HTTP,Honduras,HN,🇭🇳,0,low,No,"TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",5266,Yes,230.0,6/6
+181.115.67.3:999,HTTP,Honduras,HN,🇭🇳,0,low,No,"TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",3320,Yes,230.0,6/6
+47.242.218.151:9020,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC,4493,Yes,280.9,6/6
+43.99.60.244:8089,HTTP,Hong Kong,HK,🇭🇰,0,low,No,"Alibaba (US) Technology Co., Ltd.",1284,Yes,271.7,6/6
+47.242.218.151:9020,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC,2299,Yes,280.9,6/6
+165.154.7.156:8888,HTTP,Hong Kong,HK,🇭🇰,0,low,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1305,Yes,274.1,6/6
+47.242.218.151:9002,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC,2912,Yes,280.9,6/6
+47.242.218.151:9002,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC,2008,Yes,280.9,6/6
+43.99.60.244:8089,HTTP,Hong Kong,HK,🇭🇰,0,low,No,"Alibaba (US) Technology Co., Ltd.",1273,Yes,271.7,6/6
+43.132.189.30:3128,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Aceville Pte.ltd,1286,Yes,287.3,6/6
+43.132.189.30:3128,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Aceville Pte.ltd,3560,Yes,287.3,6/6
+47.52.223.161:5872,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Alibaba Cloud LLC,3417,Yes,284.2,6/6
+13.127.222.175:443,HTTP,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc,1678,Yes,217.4,6/6
+45.116.230.79:8080,HTTP,India,IN,🇮🇳,0,low,No,Dwan Supports P LTD,5711,Yes,265.2,6/6
+45.194.41.231:8080,HTTP,India,IN,🇮🇳,0,low,No,Real Time Data Services Private Limited,1924,Yes,212.3,6/6
+45.194.41.103:8080,HTTP,India,IN,🇮🇳,0,low,No,Real Time Data Services Private Limited,1783,Yes,222.2,6/6
+13.127.222.175:443,HTTP,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc,1677,Yes,217.4,6/6
+111.92.88.27:3128,HTTP,India,IN,🇮🇳,0,low,No,Asianet Satellite Communications Pvt Ltd,2081,Yes,254.0,6/6
+8.215.25.3:2080,HTTP,Indonesia,ID,🇮🇩,0,low,No,"Alibaba (US) Technology Co., Ltd.",1567,Yes,276.7,6/6
+103.179.253.43:8181,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Pusaka Kreasi Mandiri,1756,Yes,244.8,6/6
+103.125.38.50:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Eka Mas Republik,4926,Yes,253.3,6/6
+183.91.88.226:8087,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Aplikanusa Lintasarta,5815,Yes,243.5,6/6
+160.20.38.58:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT SAMUDRA DIGITAL NETWORK,6120,Yes,244.8,6/6
+202.58.77.195:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Data Buana Nusantara,5856,Yes,256.9,6/6
+160.25.54.34:7777,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Nara Borneo Pratama,1520,Yes,239.6,6/6
+103.180.127.116:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Alam Media Data,3748,Yes,246.7,6/6
+103.172.70.203:9191,HTTP,Indonesia,ID,🇮🇩,0,low,No,AZNET,4691,Yes,255.8,6/6
+203.128.69.230:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,Neuviz,3307,Yes,304.0,6/6
+36.50.56.231:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Andromega Data Nusantara,4826,Yes,244.3,6/6
+103.179.183.153:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Internusa Duta Makmur,6064,Yes,257.5,6/6
+157.10.97.185:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Lintas Jaringan Nusantara,5982,Yes,250.1,6/6
+45.198.10.43:9191,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jaringan Lintas Artha,3844,Yes,246.2,6/6
+103.120.76.45:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Haci Telekomunikasi Indonesia,5726,Yes,240.3,6/6
+202.47.189.15:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,"Lintas Data Prima, PT",6028,Yes,258.8,6/6
+103.166.158.41:1080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Timor Lintas Nusantara,3611,Yes,243.2,6/6
+103.180.123.229:1080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Indo Telemedia Solusi,5661,Yes,242.5,6/6
+113.192.48.159:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT.Global Media Data Prima,5453,Yes,254.1,6/6
+144.79.241.254:3128,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Aryaka Lintas Media,5527,Yes,237.2,6/6
+103.189.223.19:7557,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. WIKAPLUS GLOBAL NUSANTARA,5859,Yes,248.5,6/6
+202.47.189.15:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,"Lintas Data Prima, PT",5051,Yes,258.8,6/6
+103.66.62.187:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Buana Visualnet Sentra,3888,Yes,249.8,6/6
+103.19.56.68:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,BITSNET,4752,Yes,247.2,6/6
+103.22.98.69:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,CV. KHALISTA GROUP,4062,Yes,240.8,6/6
+160.19.19.18:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Indo Telemedia Solusi,2669,Yes,243.1,6/6
+38.103.250.107:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Erajaya Telco Indonesia / Eratel /Eratelindo,5150,Yes,248.8,6/6
+103.152.148.19:8282,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Satu Nusa Bangsa,5917,Yes,297.7,6/6
+103.156.16.67:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,RSTNET,5280,Yes,250.6,6/6
+160.19.146.221:2022,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Taska Sarana Nusantara,2984,Yes,247.4,6/6
+103.209.10.209:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Lima Cahaya Kotim,2865,Yes,266.3,6/6
+49.0.2.104:8989,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Usaha Adi Sanggoro,3617,Yes,237.9,6/6
+103.157.78.102:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Super Media Indonesia,4601,Yes,238.5,6/6
+103.86.117.27:8090,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Link Data Sumber Barokah,4827,Yes,257.1,6/6
+103.191.165.140:8081,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Sakti Wijaya Network,5386,Yes,242.3,6/6
+103.166.33.89:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Daniswara Citra Informatika,6116,Yes,278.7,6/6
+38.103.250.107:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Erajaya Telco Indonesia / Eratel /Eratelindo,6031,Yes,248.8,6/6
+103.169.232.138:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Sukma Sejati Media,2981,Yes,250.9,6/6
+103.39.51.157:1080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Mega Mentari Mandiri,4689,Yes,248.1,6/6
+8.215.25.3:2081,HTTP,Indonesia,ID,🇮🇩,0,low,No,"Alibaba (US) Technology Co., Ltd.",1590,Yes,276.7,6/6
+36.50.56.231:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Andromega Data Nusantara,2758,Yes,244.3,6/6
+103.146.38.89:3127,HTTP,Indonesia,ID,🇮🇩,0,low,No,MEDIASOLUSISUKSES,5971,Yes,239.4,6/6
+103.175.81.249:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Panglima Kamayo Media,2723,Yes,252.3,6/6
+103.151.35.215:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,GAYUHNET,3389,Yes,239.7,6/6
+163.61.245.53:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT NAOMI AURORA TEKNOLOGI,5727,Yes,263.4,6/6
+45.198.10.169:9191,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jaringan Lintas Artha,6030,Yes,249.1,6/6
+103.178.194.95:8181,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jaringan Keluarga Bersama,4884,Yes,238.6,6/6
+103.172.122.46:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PRIME,5389,Yes,282.9,6/6
+160.19.146.220:2022,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Taska Sarana Nusantara,4092,Yes,245.8,6/6
+103.175.81.249:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Panglima Kamayo Media,4200,Yes,252.3,6/6
+103.157.79.17:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,EASTMEDIA,4647,Yes,239.3,6/6
+103.173.162.237:8818,HTTP,Indonesia,ID,🇮🇩,0,low,No,Paket Data Andal,5356,Yes,249.0,6/6
+210.87.125.58:1080,HTTP,Indonesia,ID,🇮🇩,0,low,No,CV Brawijaya Giga Network,5458,Yes,261.2,6/6
+116.254.118.180:80,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Media Sarana Data,3430,Yes,247.6,6/6
+8.215.25.3:2081,HTTP,Indonesia,ID,🇮🇩,0,low,No,"Alibaba (US) Technology Co., Ltd.",1556,Yes,276.7,6/6
+103.147.247.171:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PLBNET,5913,Yes,256.6,6/6
+8.215.25.3:2080,HTTP,Indonesia,ID,🇮🇩,0,low,No,"Alibaba (US) Technology Co., Ltd.",1585,Yes,276.7,6/6
+103.172.71.203:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,AZNET,4953,Yes,254.8,6/6
+103.174.122.89:3128,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jaya Sejahtra Nugraha,4693,Yes,259.4,6/6
+103.175.81.251:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Panglima Kamayo Media,4785,Yes,248.5,6/6
+182.253.109.169:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,Biznet Networks,4686,Yes,260.7,6/6
+182.253.6.236:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,Biznet Networks,5589,Yes,268.5,6/6
+109.122.240.157:8118,HTTP,Iran,IR,🇮🇷,0,low,No,Avini cultural and Art Institute,3544,Yes,6.1,6/6
+194.31.108.109:2080,HTTP,Iran,IR,🇮🇷,0,low,No,Avaye Segal Net Co. PJS,1958,Yes,4.9,6/6
+89.40.143.28:7788,HTTP,Italy,IT,🇮🇹,0,low,No,NetJoin srl,1676,Yes,90.6,6/6
+189.51.168.164:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Comunicación por Fibra SA de CV,406,Yes,211.5,6/6
+189.51.168.165:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Comunicación por Fibra SA de CV,390,Yes,208.0,6/6
+201.165.162.55:999,HTTP,Mexico,MX,🇲🇽,0,low,No,"Mega Cable, S.A. de C.V.",4654,Yes,251.1,6/6
+189.51.168.165:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Comunicación por Fibra SA de CV,410,Yes,208.0,6/6
+38.49.140.226:999,HTTP,Mexico,MX,🇲🇽,0,low,No,IENTC S de RL de CV,4627,Yes,226.8,6/6
+89.213.106.25:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Wifimax Connection S.a.s De C.V,3579,Yes,223.4,6/6
+38.194.246.34:999,HTTP,Mexico,MX,🇲🇽,0,low,Yes,IENTC S de RL de CV,3174,Yes,234.4,6/6
+206.135.35.50:999,HTTP,Mexico,MX,🇲🇽,0,low,No,GTT Americas,5633,Yes,222.7,6/6
+187.190.127.212:80,HTTP,Mexico,MX,🇲🇽,0,low,No,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",5426,Yes,221.2,6/6
+38.123.74.98:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Velocom SA De CV,4175,Yes,232.1,6/6
+38.19.106.44:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Hulux Telecomunicaciones,4888,Yes,223.8,6/6
+38.194.246.34:999,HTTP,Mexico,MX,🇲🇽,0,low,Yes,IENTC S de RL de CV,5898,Yes,234.4,6/6
+148.230.212.70:8080,HTTP,Mexico,MX,🇲🇽,0,low,No,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",4280,Yes,221.8,6/6
+38.252.145.15:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Osbaldo Tovar Campero,4449,Yes,231.5,6/6
+145.220.227.5:9050,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,795,Yes,93.1,6/6
+145.220.227.5:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,802,Yes,93.1,6/6
+145.220.227.1:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,794,Yes,96.4,6/6
+145.220.227.4:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,801,Yes,93.4,6/6
+145.220.227.3:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,802,Yes,92.8,6/6
+145.220.227.5:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,801,Yes,93.1,6/6
+145.220.227.6:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,963,Yes,96.3,6/6
+145.220.227.4:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,796,Yes,93.4,6/6
+145.220.227.7:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,803,Yes,94.8,6/6
+145.220.227.6:1080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,799,Yes,96.3,6/6
+145.220.227.3:1080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,799,Yes,92.8,6/6
+145.220.227.1:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,795,Yes,96.2,6/6
+145.220.227.1:9050,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,798,Yes,96.2,6/6
+145.220.227.2:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,812,Yes,94.7,6/6
+145.220.227.5:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,815,Yes,93.1,6/6
+145.220.227.2:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,810,Yes,94.7,6/6
+145.220.227.7:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,801,Yes,94.8,6/6
+145.220.227.2:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,813,Yes,94.7,6/6
+145.220.227.3:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,802,Yes,92.8,6/6
+145.220.227.7:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,795,Yes,94.8,6/6
+145.220.227.7:1080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,805,Yes,94.8,6/6
+145.220.227.6:9050,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,795,Yes,96.3,6/6
+145.220.227.6:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,808,Yes,96.3,6/6
+145.220.227.4:1080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,796,Yes,93.4,6/6
+145.220.227.1:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,1828,Yes,96.4,6/6
+145.220.227.2:1080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,1854,Yes,94.7,6/6
+145.220.227.6:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,2841,Yes,96.3,6/6
+145.220.227.4:9050,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,2893,Yes,93.4,6/6
+145.220.227.1:1080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,3851,Yes,96.4,6/6
+145.220.227.2:9050,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,3868,Yes,94.7,6/6
+145.220.227.7:9050,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,985,Yes,94.8,6/6
+145.220.227.3:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,988,Yes,92.8,6/6
+145.220.227.4:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,999,Yes,93.4,6/6
+145.220.227.1:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,796,Yes,96.2,6/6
+218.100.23.130:8080,HTTP,New Zealand,NZ,🇳🇿,0,low,No,Vital Data Ltd,4224,Yes,369.4,6/6
+58.27.200.225:8080,HTTP,Pakistan,PK,🇵🇰,0,low,No,Wateen Telecom Limited,5161,Yes,222.5,6/6
+160.238.185.192:999,HTTP,Paraguay,PY,🇵🇾,0,low,No,Flynet SRL,3250,Yes,297.6,6/6
+170.245.132.81:999,HTTP,Paraguay,PY,🇵🇾,0,low,No,"MACHADO BAEZ, NERY JAVIER",2293,Yes,302.4,6/6
+158.172.217.112:999,HTTP,Paraguay,PY,🇵🇾,0,low,No,Ufinet Panama S.A.,4868,Yes,308.1,6/6
+138.186.76.57:999,HTTP,Peru,PE,🇵🇪,0,low,No,EXA NETWORKS S.A.C.,2944,Yes,256.1,6/6
+190.102.146.98:10101,HTTP,Peru,PE,🇵🇪,0,low,No,ON EMPRESAS S.A.C,3796,Yes,258.6,6/6
+200.39.153.1:999,HTTP,Peru,PE,🇵🇪,0,low,No,Airwiz Peru E.I.R.L,5509,Yes,265.6,6/6
+209.14.109.212:999,HTTP,Peru,PE,🇵🇪,0,low,No,Corporacion Tarazona Catv S.A.C,4198,Yes,253.6,6/6
+203.177.139.11:8082,HTTP,Philippines,PH,🇵🇭,0,low,No,SUPERCAT,4633,Yes,390.3,6/6
+87.236.23.100:1080,HTTP,Russia,RU,🇷🇺,0,low,No,BEGET.RU,1638,Yes,96.1,6/6
+80.252.137.246:1194,HTTP,Russia,RU,🇷🇺,0,low,No,for Flex Ltd,5292,Yes,83.8,6/6
+5.129.254.215:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1143,Yes,79.2,6/6
+5.129.254.243:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1158,Yes,78.1,6/6
+5.129.254.60:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1179,Yes,73.1,6/6
+5.129.254.70:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1203,Yes,79.5,6/6
+5.129.254.49:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1220,Yes,73.3,6/6
+87.228.102.241:40001,HTTP,Russia,RU,🇷🇺,0,low,No,JSC Selectel,3769,Yes,82.9,6/6
+105.22.37.218:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,SEACOM Limited Networks,6014,Yes,252.6,6/6
+91.92.155.207:3128,HTTP,Switzerland,CH,🇨🇭,0,low,No,Akenes SA,1559,Yes,93.5,6/6
+185.191.239.248:3128,HTTP,Switzerland,CH,🇨🇭,0,low,Yes,Geronimo Ramirez Computer Network,2023,Yes,162.9,6/6
+185.191.239.248:3128,HTTP,Switzerland,CH,🇨🇭,0,low,Yes,Geronimo Ramirez Computer Network,4358,Yes,162.9,6/6
+193.43.159.168:8080,HTTP,Syria,SY,🇸🇾,0,low,No,Syrian Telecom,6155,Yes,150.0,6/6
+193.43.140.101:8080,HTTP,Syria,SY,🇸🇾,0,low,No,Syrian Telecom,5464,Yes,151.4,6/6
+89.43.133.165:8080,HTTP,Syria,SY,🇸🇾,0,low,No,High Speed For Internet Services L.L.C,6132,Yes,99.4,6/6
+185.225.41.228:7890,HTTP,Syria,SY,🇸🇾,0,low,No,sy-samaweb,1383,Yes,144.3,6/6
+193.43.159.166:8080,HTTP,Syria,SY,🇸🇾,0,low,No,Syrian Telecom,4344,Yes,147.3,6/6
+205.209.64.193:8080,HTTP,Syria,SY,🇸🇾,0,low,No,RCell LLC,6080,Yes,134.2,6/6
+118.173.88.209:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,2208,Yes,261.3,6/6
+118.173.88.209:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,3050,Yes,261.3,6/6
+1.20.101.27:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,4719,Yes,286.3,6/6
+125.25.167.129:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,5032,Yes,264.2,6/6
+201.4.68.78:8080,HTTP,Turkey,TR,🇹🇷,0,low,Yes,High Speed For Internet Services L.L.C,4403,Yes,107.8,6/6
+201.4.68.78:8080,HTTP,Turkey,TR,🇹🇷,0,low,Yes,High Speed For Internet Services L.L.C,1290,Yes,107.8,6/6
+201.4.71.23:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,4410,Yes,82.3,6/6
+222.167.236.100:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,3804,Yes,86.5,6/6
+212.175.50.76:8085,HTTP,Turkey,TR,🇹🇷,0,low,No,Turk Telekomunikasyon Anonim Sirketi,2890,Yes,130.7,6/6
+176.88.65.164:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,Superonline Iletisim Hizmetleri A.S.,5662,Yes,71.9,6/6
+201.4.65.103:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,3896,Yes,102.5,6/6
+201.7.31.171:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,5386,Yes,92.7,6/6
+185.195.254.72:5432,HTTP,Turkey,TR,🇹🇷,0,low,No,Veganet Teknolojileri ve Hizmetleri LTD STI,1257,Yes,87.3,6/6
+34.105.252.3:3128,HTTP,United Kingdom,GB,🇬🇧,0,low,No,Google LLC,820,Yes,95.3,6/6
+104.225.162.20:8082,HTTP,United States,US,🇺🇸,0,low,No,"iboss, inc",1572,Yes,187.4,6/6
+108.61.29.163:10001,HTTP,United States,US,🇺🇸,0,low,No,The Constant Company,4351,Yes,170.9,6/6
+104.225.162.20:8082,HTTP,United States,US,🇺🇸,0,low,No,"iboss, inc",569,Yes,187.4,6/6
+108.61.29.163:10001,HTTP,United States,US,🇺🇸,0,low,No,The Constant Company,5360,Yes,170.9,6/6
+90.156.160.234:3128,HTTP,Uzbekistan,UZ,🇺🇿,0,low,No,Uzbektelecom JSC,4789,Yes,142.3,6/6
+186.167.83.181:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Corporacion Digitel C.A,3379,Yes,270.9,6/6
+154.59.56.74:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Cogent Communications,3850,Yes,244.1,6/6
+138.118.203.152:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Iguana Network Services C.A.,5750,Yes,220.3,6/6
+154.59.56.76:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Cogent Communications,5830,Yes,249.4,6/6
+38.76.138.46:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,CORPORACIÓN GALA IT C.A,1304,Yes,266.2,6/6
+38.137.232.134:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,CORPORACIÓN GALA IT C.A,5021,Yes,225.9,6/6
+203.205.49.2:10097,HTTP,Vietnam,VN,🇻🇳,0,low,No,CMC Telecom Infrastructure Company,3160,Yes,281.2,6/6
+160.25.242.250:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Sarana Media Cemerlang,3735,Yes,275.8,4/6
+160.25.242.250:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Sarana Media Cemerlang,3828,Yes,275.8,4/6
+103.160.12.159:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Mora Telematika Indonesia,5452,Yes,256.0,3/6
+185.200.177.61:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,Clodo Cloud Service CO. L.L.C,807,Yes,90.6,3/6
+151.241.86.129:999,HTTP,Chile,CL,🇨🇱,0,low,No,Vallenet SPA,3773,No,,0/6
+177.234.217.43:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,5285,No,,0/6
+51.224.131.122:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",941,No,,0/6
+51.225.138.217:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",940,No,,0/6
+51.224.132.72:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",984,No,,0/6
+51.225.138.217:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",939,No,,0/6
+51.224.132.72:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",1075,No,,0/6
+51.224.131.122:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",905,No,,0/6
+176.111.37.5:39811,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Cogento Backbone Limited,1035,No,,0/6
+176.111.37.5:39811,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Cogento Backbone Limited,974,No,,0/6
+144.31.146.190:8080,HTTP,India,IN,🇮🇳,0,low,No,Micro Hosting Private Limited,1936,No,,0/6
+103.133.26.17:3128,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT PHATRIA INTI PERSADA,2796,No,,0/6
+103.133.26.72:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT PHATRIA INTI PERSADA,3748,No,,0/6
+103.133.26.72:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT PHATRIA INTI PERSADA,3551,No,,0/6
+188.73.182.140:10809,HTTP,Russia,RU,🇷🇺,0,low,No,"LLC ""KomTehCentr""",4485,No,,0/6
+16.28.29.244:22252,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,1435,No,,0/6
+16.28.29.244:14148,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,1450,No,,0/6
+16.28.29.244:8217,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,1460,No,,0/6
+16.28.29.244:47768,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,1455,No,,0/6
+165.154.162.73:8888,HTTP,United States,US,🇺🇸,0,low,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1259,No,,0/6
+210.211.113.34:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,5144,No,,0/6
+210.211.113.33:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,1647,No,,0/6
+210.211.113.35:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,1559,No,,0/6
+165.101.26.18:8080,HTTP,Afghanistan,AF,🇦🇫,0,low,No,Aryan Dunya ICT,12377,Not Checked,,
+66.186.199.33:8080,HTTP,Albania,AL,🇦🇱,0,low,No,Vodafone Albania Sh.A.,10684,Not Checked,,
+190.7.59.10:8080,HTTP,Argentina,AR,🇦🇷,0,low,No,Gigared S.A,9595,Not Checked,,
+181.209.110.27:999,HTTP,Argentina,AR,🇦🇷,0,low,No,ARSAT - Empresa Argentina de Soluciones Satelitales S.A,11236,Not Checked,,
+45.229.30.29:11211,HTTP,Argentina,AR,🇦🇷,0,low,No,Fibras Opticas De MAR Del Plata S.A.,15097,Not Checked,,
+198.12.37.6:8080,HTTP,Argentina,AR,🇦🇷,0,low,No,Servicios y Telecomunicaciones S.A,12978,Not Checked,,
+45.172.142.186:999,HTTP,Argentina,AR,🇦🇷,0,low,No,Techtron Argentina S.A.,8670,Not Checked,,
+45.229.28.9:11211,HTTP,Argentina,AR,🇦🇷,0,low,No,Fibras Opticas De MAR Del Plata S.A.,8052,Not Checked,,
+181.209.110.27:999,HTTP,Argentina,AR,🇦🇷,0,low,No,ARSAT - Empresa Argentina de Soluciones Satelitales S.A,12566,Not Checked,,
+181.10.138.226:8083,HTTP,Argentina,AR,🇦🇷,1,low,No,Telecom Argentina S.A.,7165,Not Checked,,
+190.210.62.131:8080,HTTP,Argentina,AR,🇦🇷,2,low,No,NSS S.A.,8376,Not Checked,,
+195.250.92.58:8080,HTTP,Armenia,AM,🇦🇲,0,low,No,GNC-Alfa CJSC,7236,Not Checked,,
+61.29.96.146:80,HTTP,Australia,AU,🇦🇺,1,low,No,AAPT Limited,7389,Not Checked,,
+61.29.96.146:8000,HTTP,Australia,AU,🇦🇺,1,low,No,AAPT Limited,8939,Not Checked,,
+3.27.16.140:80,HTTP,Australia,AU,🇦🇺,3,low,No,Amazon Technologies Inc.,1255,Not Checked,,
+198.251.85.115:3128,HTTP,Australia,AU,🇦🇺,17,low,No,RouterHosting LLC,11789,Not Checked,,
+103.7.4.15:8082,HTTP,Bangladesh,BD,🇧🇩,0,low,No,HPLink NT,10442,Not Checked,,
+103.150.49.90:8090,HTTP,Bangladesh,BD,🇧🇩,0,low,No,United Enterprises & CO Ltd.,6548,Not Checked,,
+103.141.174.38:11411,HTTP,Bangladesh,BD,🇧🇩,0,low,No,ICC Communication Ltd,10883,Not Checked,,
+202.125.68.177:8080,HTTP,Bangladesh,BD,🇧🇩,0,low,No,MIR INFO SYSTEMS LTD,9162,Not Checked,,
+118.179.136.153:81,HTTP,Bangladesh,BD,🇧🇩,0,low,No,AmberIT Limited,6771,Not Checked,,
+103.119.101.59:8080,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Dot Internet,6476,Not Checked,,
+202.40.180.145:38423,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Ranks ITT,8241,Not Checked,,
+103.181.162.25:8080,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Business Zone Limited,13452,Not Checked,,
+103.107.78.192:8080,HTTP,Bangladesh,BD,🇧🇩,0,low,No,bbariaNet,7017,Not Checked,,
+103.140.25.230:8080,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Ali Akber,10746,Not Checked,,
+103.89.27.32:8080,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Skyview Online Ltd,10509,Not Checked,,
+103.141.174.54:11411,HTTP,Bangladesh,BD,🇧🇩,0,low,No,ICC Communication Ltd,10779,Not Checked,,
+202.40.180.145:38423,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Ranks ITT,11626,Not Checked,,
+103.138.123.196:8090,HTTP,Bangladesh,BD,🇧🇩,0,low,No,CAFE,13463,Not Checked,,
+103.245.110.198:1452,HTTP,Bangladesh,BD,🇧🇩,0,low,No,ACE IT Networks Limited,13208,Not Checked,,
+59.153.30.20:8888,HTTP,Bangladesh,BD,🇧🇩,0,low,No,Yournet Communications,9432,Not Checked,,
+203.76.222.232:8090,HTTP,Bangladesh,BD,🇧🇩,3,low,No,BUSINESSNETWORK,7161,Not Checked,,
+203.76.222.232:8090,HTTP,Bangladesh,BD,🇧🇩,3,low,No,BUSINESSNETWORK,14570,Not Checked,,
+118.179.152.122:81,HTTP,Bangladesh,BD,🇧🇩,3,low,No,Amber IT Limited,7361,Not Checked,,
+103.239.253.66:8080,HTTP,Bangladesh,BD,🇧🇩,3,low,No,Carnival Internet,8496,Not Checked,,
+123.200.8.170:10000,HTTP,Bangladesh,BD,🇧🇩,17,low,No,Link3 Technologies Limited,2991,Not Checked,,
+93.125.3.22:8080,HTTP,Belarus,BY,🇧🇾,2,low,No,Unitary enterprise A1,10025,Not Checked,,
+186.121.244.178:8080,HTTP,Bolivia,BO,🇧🇴,4,low,No,AXS Bolivia S. A.,7553,Not Checked,,
+83.143.24.66:80,HTTP,Botswana,BW,🇧🇼,0,low,No,inqBW,6345,Not Checked,,
+83.143.24.66:80,HTTP,Botswana,BW,🇧🇼,0,low,No,inqBW,9272,Not Checked,,
+45.163.116.86:3900,HTTP,Brazil,BR,🇧🇷,0,low,No,Ligeiro Fibra Telecom Ltda,9367,Not Checked,,
+164.163.237.196:9091,HTTP,Brazil,BR,🇧🇷,0,low,No,Nets Telecomunicacoes Ltda,9496,Not Checked,,
+170.84.93.122:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Bomfim E Sousa Ltda,7826,Not Checked,,
+179.48.80.9:8085,HTTP,Brazil,BR,🇧🇷,0,low,No,Fbnet Telecom,9486,Not Checked,,
+168.195.168.182:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,SkyNet Telecomunicações,9966,Not Checked,,
+138.59.233.59:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,RZ NET LTDA.,10110,Not Checked,,
+177.12.140.108:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Maria P. Fontenele Souza,10060,Not Checked,,
+186.227.246.82:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Rede Exitus Ltda,10853,Not Checked,,
+45.175.171.71:8085,HTTP,Brazil,BR,🇧🇷,0,low,No,Inffotreini Provedores e Informatica LTDA - ME,8288,Not Checked,,
+177.12.140.107:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Maria P. Fontenele Souza,6336,Not Checked,,
+186.232.176.210:3128,HTTP,Brazil,BR,🇧🇷,0,low,No,Amazonia Publicidade Ltda,8461,Not Checked,,
+186.216.208.98:3128,HTTP,Brazil,BR,🇧🇷,0,low,No,Clicknet Brasil Informatica E Telecomunicacoes LT,9643,Not Checked,,
+200.115.100.33:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,FiberPon telecom,8238,Not Checked,,
+201.65.173.178:8080,HTTP,Brazil,BR,🇧🇷,2,low,No,Claro S.A.,6559,Not Checked,,
+167.234.251.155:8880,HTTP,Brazil,BR,🇧🇷,2,low,No,Oracle Corporation,5150,Not Checked,,
+206.42.16.94:8080,HTTP,Brazil,BR,🇧🇷,3,low,No,Brisanet Prestacao De Servicos De Internet Ltda,8513,Not Checked,,
+179.184.163.133:44443,HTTP,Brazil,BR,🇧🇷,3,low,No,TELEFÔNICA BRASIL S.A,6478,Not Checked,,
+206.42.12.58:3132,HTTP,Brazil,BR,🇧🇷,3,low,No,Brisanet Prestacao De Servicos De Internet Ltda,6882,Not Checked,,
+187.110.232.118:8080,HTTP,Brazil,BR,🇧🇷,7,low,No,DB3 SERVICOS DE TELECOMUNICACOES S.A,13508,Not Checked,,
+203.217.169.26:8080,HTTP,Cambodia,KH,🇰🇭,0,low,No,S.I Group,13314,Not Checked,,
+175.100.23.121:8080,HTTP,Cambodia,KH,🇰🇭,8,low,No,"VIETTEL (CAMBODIA) PTE., LTD",12343,Not Checked,,
+102.244.78.61:8090,HTTP,Cameroon,CM,🇨🇲,3,low,No,Orange CAM INTERNET,2126,Not Checked,,
+102.244.78.61:8081,HTTP,Cameroon,CM,🇨🇲,3,low,No,Orange CAM INTERNET,2147,Not Checked,,
+102.244.78.61:8080,HTTP,Cameroon,CM,🇨🇲,3,low,No,Orange CAM INTERNET,2107,Not Checked,,
+102.244.78.61:8089,HTTP,Cameroon,CM,🇨🇲,3,low,No,Orange CAM INTERNET,2130,Not Checked,,
 102.244.78.61:8088,HTTP,Cameroon,CM,🇨🇲,3,low,No,Orange CAM INTERNET,2114,Not Checked,,
-102.244.78.61:8090,HTTP,Cameroon,CM,🇨🇲,3,low,No,Orange CAM INTERNET,2108,Not Checked,,
-102.244.78.61:8081,HTTP,Cameroon,CM,🇨🇲,3,low,No,Orange CAM INTERNET,2094,Not Checked,,
-102.244.78.61:8080,HTTP,Cameroon,CM,🇨🇲,3,low,No,Orange CAM INTERNET,2103,Not Checked,,
-102.244.78.61:8082,HTTP,Cameroon,CM,🇨🇲,3,low,No,Orange CAM INTERNET,2113,Not Checked,,
-102.244.78.61:8089,HTTP,Cameroon,CM,🇨🇲,3,low,No,Orange CAM INTERNET,2148,Not Checked,,
-184.70.113.34:3128,HTTP,Canada,CA,🇨🇦,2,low,No,Shaw Communications,7743,Not Checked,,
-159.203.61.169:3128,HTTP,Canada,CA,🇨🇦,51,medium,Yes,"DigitalOcean, LLC",200,Not Checked,,
-134.195.196.161:40001,HTTP,Canada,CA,🇨🇦,52,medium,No,GLOBALTELEHOST Corp.,1195,Not Checked,,
-134.195.196.161:40001,HTTP,Canada,CA,🇨🇦,52,medium,No,GLOBALTELEHOST Corp.,152,Not Checked,,
-200.39.139.65:999,HTTP,Chile,CL,🇨🇱,0,low,No,Iconex SPA,14523,Not Checked,,
-190.110.96.250:999,HTTP,Chile,CL,🇨🇱,0,low,No,Silica Networks Argentina S.A.,7551,Not Checked,,
-151.241.86.129:999,HTTP,Chile,CL,🇨🇱,0,low,No,Vallenet SPA,12780,Not Checked,,
-190.102.247.122:999,HTTP,Chile,CL,🇨🇱,3,low,No,Pacifico Cable SPA.,9535,Not Checked,,
-186.10.150.185:8080,HTTP,Chile,CL,🇨🇱,4,low,No,Entel Chile S.A.,9285,Not Checked,,
-38.7.195.53:999,HTTP,Chile,CL,🇨🇱,67,high,No,Grupo ZGH SpA,14213,Not Checked,,
-38.7.195.53:999,HTTP,Chile,CL,🇨🇱,67,high,No,Grupo ZGH SpA,14658,Not Checked,,
-47.100.130.127:8090,HTTP,China,CN,🇨🇳,0,low,No,Alibaba (US) Technology Co,8123,Not Checked,,
-101.132.252.152:3128,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8129,Not Checked,,
-47.100.73.178:8008,HTTP,China,CN,🇨🇳,0,low,No,Addresses CNNIC,8130,Not Checked,,
-8.138.82.6:4145,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8133,Not Checked,,
-47.112.19.200:8333,HTTP,China,CN,🇨🇳,0,low,No,Addresses CNNIC,8159,Not Checked,,
-47.106.75.125:5000,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8175,Not Checked,,
-47.112.11.170:9000,HTTP,China,CN,🇨🇳,0,low,No,Addresses CNNIC,8181,Not Checked,,
-47.104.198.111:10,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8202,Not Checked,,
-8.148.4.166:13,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8206,Not Checked,,
-8.146.200.53:1337,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8230,Not Checked,,
-8.148.20.126:8080,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8241,Not Checked,,
-8.130.36.163:8888,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8256,Not Checked,,
-39.100.88.89:2000,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8267,Not Checked,,
-8.130.71.75:1081,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8276,Not Checked,,
-8.130.74.114:8443,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8277,Not Checked,,
-8.137.13.191:9999,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8317,Not Checked,,
-47.112.15.44:999,HTTP,China,CN,🇨🇳,0,low,No,Addresses CNNIC,8360,Not Checked,,
-8.138.125.130:8888,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8131,Not Checked,,
-47.116.181.146:8080,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8123,Not Checked,,
-8.130.37.235:1081,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8271,Not Checked,,
-47.119.22.92:8085,HTTP,China,CN,🇨🇳,0,low,No,Addresses CNNIC,8195,Not Checked,,
-47.116.126.57:5060,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8138,Not Checked,,
-39.102.211.64:9098,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8216,Not Checked,,
-121.43.154.123:8008,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8187,Not Checked,,
-39.104.27.89:8004,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8283,Not Checked,,
-106.14.91.83:8080,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8141,Not Checked,,
-39.102.211.162:3128,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8199,Not Checked,,
-47.119.164.33:6379,HTTP,China,CN,🇨🇳,0,low,No,Addresses CNNIC,8175,Not Checked,,
-47.121.182.88:9080,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8205,Not Checked,,
-8.130.54.67:8004,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8271,Not Checked,,
-139.224.195.153:8008,HTTP,China,CN,🇨🇳,0,low,No,Addresses CNNIC,8145,Not Checked,,
-47.106.198.144:8888,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8171,Not Checked,,
-47.106.216.202:8081,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8180,Not Checked,,
-139.196.175.68:8118,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8157,Not Checked,,
-47.107.142.198:8082,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8332,Not Checked,,
-47.121.182.36:3129,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8201,Not Checked,,
-139.224.207.73:8080,HTTP,China,CN,🇨🇳,0,low,No,Addresses CNNIC,8145,Not Checked,,
-121.43.109.88:8047,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8152,Not Checked,,
-47.92.143.92:8181,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8226,Not Checked,,
-39.102.214.199:9999,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8232,Not Checked,,
-39.104.59.56:8889,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8284,Not Checked,,
-39.102.208.189:8085,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8204,Not Checked,,
-39.102.213.50:8888,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8246,Not Checked,,
-39.102.214.208:7788,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8207,Not Checked,,
-39.102.214.152:3333,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8223,Not Checked,,
-39.102.208.236:34567,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8253,Not Checked,,
-39.102.208.23:5566,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8218,Not Checked,,
-8.138.149.37:30001,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8179,Not Checked,,
-101.132.248.7:3128,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8157,Not Checked,,
-114.215.127.92:100,HTTP,China,CN,🇨🇳,0,low,No,China Internet Network Information Center,8205,Not Checked,,
-47.120.0.231:90,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8204,Not Checked,,
-8.138.131.110:1081,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8178,Not Checked,,
-47.92.219.102:8333,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8227,Not Checked,,
-8.148.23.202:4000,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8253,Not Checked,,
-47.107.166.143:3128,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8177,Not Checked,,
-202.141.161.52:10808,HTTP,China,CN,🇨🇳,0,low,No,Chinanet,10896,Not Checked,,
-39.104.69.76:2022,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8255,Not Checked,,
-39.102.214.192:10000,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8202,Not Checked,,
-106.15.137.41:9090,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8119,Not Checked,,
-47.105.122.72:1337,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8186,Not Checked,,
-120.25.189.254:9000,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8168,Not Checked,,
-106.15.58.163:9080,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8163,Not Checked,,
-139.224.186.221:7890,HTTP,China,CN,🇨🇳,0,low,No,Addresses CNNIC,8136,Not Checked,,
-8.130.90.177:1081,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8235,Not Checked,,
-8.137.62.53:3129,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8288,Not Checked,,
-8.148.24.225:8800,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8247,Not Checked,,
-120.26.52.35:80,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8157,Not Checked,,
-39.102.209.121:10002,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8225,Not Checked,,
-39.102.209.163:10002,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8226,Not Checked,,
-8.148.23.165:1111,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8240,Not Checked,,
-8.134.149.133:3128,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8161,Not Checked,,
-8.138.133.207:3129,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8142,Not Checked,,
-47.121.133.212:3129,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8195,Not Checked,,
-101.132.249.207:4443,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8145,Not Checked,,
-39.102.209.128:10000,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8226,Not Checked,,
-39.102.210.176:10002,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8246,Not Checked,,
-181.129.16.218:8080,HTTP,Colombia,CO,🇨🇴,0,low,No,EPM Telecomunicaciones S.A. E.S.P.,8963,Not Checked,,
-177.93.52.67:999,HTTP,Colombia,CO,🇨🇴,0,low,No,TV AZTECA SUCURSAL COLOMBIA,10182,Not Checked,,
-38.199.66.11:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Cogent Communications,9373,Not Checked,,
-45.167.124.133:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Sepcom Comunicaciones SAS,7738,Not Checked,,
-181.129.183.19:53281,HTTP,Colombia,CO,🇨🇴,0,low,No,EPM Telecomunicaciones S.A. E.S.P.,12729,Not Checked,,
-38.191.204.21:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Hola Telecomunicacines Colombia S.A.S,7848,Not Checked,,
-179.1.241.200:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,8200,Not Checked,,
-186.190.224.86:999,HTTP,Colombia,CO,🇨🇴,0,low,No,TV AZTECA SUCURSAL COLOMBIA,14084,Not Checked,,
-38.191.208.41:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Netslink SAS,8294,Not Checked,,
-190.14.224.244:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Media Commerce Partners S.A,14516,Not Checked,,
-179.1.196.217:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,10412,Not Checked,,
-24.152.58.108:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Atenea Telecomunicaciones,10342,Not Checked,,
-8.242.153.166:999,HTTP,Colombia,CO,🇨🇴,0,low,No,CTL Colombia,12992,Not Checked,,
-179.1.143.42:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,10266,Not Checked,,
-190.90.21.35:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,9664,Not Checked,,
-181.78.79.11:999,HTTP,Colombia,CO,🇨🇴,1,low,No,Ufinet Panama S.A.,7490,Not Checked,,
-186.180.66.138:8080,HTTP,Colombia,CO,🇨🇴,1,low,No,EPM Telecomunicaciones S.A. E.S.P.,3901,Not Checked,,
-186.97.236.99:8080,HTTP,Colombia,CO,🇨🇴,1,low,No,EPM Telecomunicaciones S.A. E.S.P.,10853,Not Checked,,
-190.7.214.134:8080,HTTP,Costa Rica,CR,🇨🇷,0,low,No,American Data Networks,10597,Not Checked,,
-38.50.165.126:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"NEXTELECOM, S.R.L",10327,Not Checked,,
-38.50.165.126:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"NEXTELECOM, S.R.L",7976,Not Checked,,
-190.110.36.184:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,Centric Mobility,9349,Not Checked,,
-154.88.129.11:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"DOMINICAN CABLE GROUP DCG, S.R.L.",7465,Not Checked,,
-148.222.136.64:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"BITNET DOMINICANA, S.R.L.",9357,Not Checked,,
-186.7.145.96:8080,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,Compañía Dominicana de Teléfonos S. A.,9028,Not Checked,,
-200.125.169.51:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",8800,Not Checked,,
-38.156.238.32:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"BITNET DOMINICANA, S.R.L",8562,Not Checked,,
-181.232.190.121:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,Airtime Technology SRL,9228,Not Checked,,
-38.75.82.215:999,HTTP,Dominican Republic,DO,🇩🇴,7,low,No,Cogent Communications,9480,Not Checked,,
-45.6.224.76:1256,HTTP,Ecuador,EC,🇪🇨,0,low,No,Teneda Corporación CIA. LTDA,8250,Not Checked,,
-177.234.217.88:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,12482,Not Checked,,
-45.229.16.34:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Turbonet S.A.,13728,Not Checked,,
-177.234.217.45:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,9817,Not Checked,,
-177.234.221.195:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,9675,Not Checked,,
-177.234.217.43:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,9975,Not Checked,,
-177.234.217.237:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,10413,Not Checked,,
-177.234.221.204:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,8805,Not Checked,,
-181.233.50.233:8787,HTTP,Ecuador,EC,🇪🇨,0,low,No,Optilink CIA Ltda,9591,Not Checked,,
-45.71.186.210:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,8632,Not Checked,,
-45.71.186.213:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,7685,Not Checked,,
-181.78.195.137:999,HTTP,Ecuador,EC,🇪🇨,1,low,No,Ufinet Panama S.A.,819,Not Checked,,
-181.78.195.137:999,HTTP,Ecuador,EC,🇪🇨,1,low,No,Ufinet Panama S.A.,1886,Not Checked,,
-181.78.194.249:999,HTTP,Ecuador,EC,🇪🇨,1,low,No,Ufinet Panama S.A.,11406,Not Checked,,
-181.78.203.3:999,HTTP,Ecuador,EC,🇪🇨,1,low,No,Ufinet Panama S.A.,6716,Not Checked,,
-45.173.228.217:1550,HTTP,Ecuador,EC,🇪🇨,1,low,No,Eliana Vanessa Morocho Oña,8530,Not Checked,,
-181.188.203.112:999,HTTP,Ecuador,EC,🇪🇨,2,low,No,Ufinet Panama S.A.,12422,Not Checked,,
-200.24.147.66:999,HTTP,Ecuador,EC,🇪🇨,2,low,No,Ufinet Panama S.A.,6170,Not Checked,,
-177.234.245.71:9696,HTTP,Ecuador,EC,🇪🇨,2,low,No,Ufinet Panama S.A.,8835,Not Checked,,
-45.245.208.182:8080,HTTP,Egypt,EG,🇪🇬,0,low,No,LINKdotNET AS number,9708,Not Checked,,
-41.33.245.138:1981,HTTP,Egypt,EG,🇪🇬,2,low,No,TE Data,6457,Not Checked,,
-82.64.186.155:8080,HTTP,France,FR,🇫🇷,0,low,No,ProXad network / Free SA,12154,Not Checked,,
-85.117.60.118:8080,HTTP,Georgia,GE,🇬🇪,0,low,No,Caucasus Online Ltd.,11859,Not Checked,,
-85.117.56.115:8080,HTTP,Georgia,GE,🇬🇪,0,low,No,Caucasus Online Ltd.,10858,Not Checked,,
-8.211.42.167:1234,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7604,Not Checked,,
-8.211.51.115:8080,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",10647,Not Checked,,
-2.27.98.183:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Packet Loss LTD,8477,Not Checked,,
-51.225.138.217:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",7843,Not Checked,,
-213.135.6.13:8080,HTTP,Germany,DE,🇩🇪,0,low,No,intersaar GmbH,10066,Not Checked,,
-46.4.84.244:8088,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,821,Not Checked,,
-198.105.115.233:2000,HTTP,Germany,DE,🇩🇪,12,low,Yes,YottaSrc,737,Not Checked,,
-198.105.115.233:2000,HTTP,Germany,DE,🇩🇪,12,low,Yes,YottaSrc,721,Not Checked,,
-47.91.89.3:5060,HTTP,Germany,DE,🇩🇪,14,low,No,Alibaba.com LLC,7606,Not Checked,,
-47.91.65.23:3128,HTTP,Germany,DE,🇩🇪,14,low,Yes,Alibaba.com LLC,790,Not Checked,,
-89.23.108.58:8080,HTTP,Germany,DE,🇩🇪,24,medium,No,Global Connectivity Solutions LLP,11743,Not Checked,,
-51.38.120.110:10011,HTTP,Germany,DE,🇩🇪,47,medium,No,OVH SAS,751,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",792,Not Checked,,
-179.49.113.230:999,HTTP,Honduras,HN,🇭🇳,0,low,No,Asociacion De Servicio De Internet S. De RL,7898,Not Checked,,
-181.115.67.3:999,HTTP,Honduras,HN,🇭🇳,0,low,No,"TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",10555,Not Checked,,
-103.43.191.71:8888,HTTP,Hong Kong,HK,🇭🇰,0,low,No,West263 International Limited,11239,Not Checked,,
-103.135.189.6:83,HTTP,India,IN,🇮🇳,0,low,No,Swibi Airnet Broadband Services Pvt Ltd,13177,Not Checked,,
-111.125.242.34:1111,HTTP,India,IN,🇮🇳,0,low,No,Microscan Internet Limited,7640,Not Checked,,
-124.108.19.6:9292,HTTP,India,IN,🇮🇳,0,low,No,Advantus Corporate Infoserv Private Ltd,11593,Not Checked,,
-80.225.250.95:8888,HTTP,India,IN,🇮🇳,2,low,No,Oracle Corporation,7211,Not Checked,,
-122.176.158.103:80,HTTP,India,IN,🇮🇳,3,low,No,Bharti Airtel,5028,Not Checked,,
-139.59.1.14:80,HTTP,India,IN,🇮🇳,39,medium,No,DIGITALOCEAN,1554,Not Checked,,
-203.175.103.39:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Mitra Kita Brilian,7859,Not Checked,,
-103.166.159.227:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Timor Lintas Nusantara,9115,Not Checked,,
-103.172.42.179:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Media Solusi Sukses,9580,Not Checked,,
-103.68.213.3:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Mars Data Telekomunikasi,9422,Not Checked,,
-103.18.79.108:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Usaha Adi Sanggoro,9685,Not Checked,,
-160.191.63.29:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Alsavanet Global Media,9670,Not Checked,,
-2.26.234.4:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Fiber Networks Indonesia,12336,Not Checked,,
-103.31.235.102:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Usaha Adi Sanggoro,8738,Not Checked,,
-160.191.180.149:8090,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT.Global Media Data Prima,14161,Not Checked,,
-160.22.65.129:4004,HTTP,Indonesia,ID,🇮🇩,0,low,No,"Lintas Data Prima, PT",7456,Not Checked,,
-103.69.106.94:8181,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Berkat Dunia Digital Cikande,8382,Not Checked,,
-157.20.144.157:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Lintas Network Solusi,8469,Not Checked,,
-110.232.78.195:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Media Antar Nusa,8780,Not Checked,,
-160.22.45.1:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Celebes Multi Network,9901,Not Checked,,
-103.193.144.13:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Lintas Jaringan Nusantara,8682,Not Checked,,
-110.232.92.49:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Media Antar Nusa,10960,Not Checked,,
-103.166.9.194:8888,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Akses Bersama Sedaya,11815,Not Checked,,
-103.142.255.32:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT.CITRA BERDIKARI NUSANTARA,11975,Not Checked,,
-203.190.44.107:2022,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jaring Lintas Utara,10397,Not Checked,,
-157.20.253.164:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT.Global Media Data Prima,9493,Not Checked,,
-103.122.67.97:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Jinom Network Indonesia,9353,Not Checked,,
-157.20.144.157:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Lintas Network Solusi,10847,Not Checked,,
-165.99.239.90:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT MERDEKA TELEKOMUNIKASI CENTER,9481,Not Checked,,
-163.223.137.254:8181,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT QUEENQINAN DATAMEDIA MANDIRI,8075,Not Checked,,
-103.125.38.50:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Eka Mas Republik,8646,Not Checked,,
-165.101.25.186:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT ALPHA DATA CONNECSINDO,11380,Not Checked,,
-192.42.85.14:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Ryndo Jaringan Nusantara,10343,Not Checked,,
-103.152.238.89:1080,HTTP,Indonesia,ID,🇮🇩,0,low,No,APRIN,10468,Not Checked,,
-103.247.14.27:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,TERABIT,12534,Not Checked,,
-103.155.198.163:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Lintas Jaringan Nusantara,12448,Not Checked,,
-38.188.63.169:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Nesta Indo Media,7680,Not Checked,,
-103.39.51.130:1080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Mega Mentari Mandiri,8878,Not Checked,,
-103.191.171.51:1234,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Sahabat Manjur Grup,9308,Not Checked,,
-103.159.195.221:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Giga Digital Nusantara,9895,Not Checked,,
-103.26.176.25:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Lintas Jaringan Nusantara,9419,Not Checked,,
-103.19.78.136:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Persada Data Multimedia,14720,Not Checked,,
-103.147.211.34:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Global Visi Vindici,8127,Not Checked,,
-157.20.244.117:8821,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT.Global Media Data Prima,11101,Not Checked,,
-144.79.94.211:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Nusa Data Koneksi,9219,Not Checked,,
-103.191.196.98:8081,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Pangkalan Lintas Data,9535,Not Checked,,
-103.174.123.5:8089,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jaya Sejahtra Nugraha,10034,Not Checked,,
-103.166.33.88:8088,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Daniswara Citra Informatika,8347,Not Checked,,
-202.1.24.206:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Global Media Jaringan Nasional,11662,Not Checked,,
-160.22.205.66:8090,HTTP,Indonesia,ID,🇮🇩,0,low,No,DNS,11244,Not Checked,,
-114.129.19.139:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Hipernet Indodata,11647,Not Checked,,
-157.15.1.190:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,Gopalnet,8322,Not Checked,,
-202.47.67.192:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,JETCOMSNET,10661,Not Checked,,
-43.252.238.138:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Usaha Adi Sanggoro,11274,Not Checked,,
-45.126.250.102:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT WIFIKCB LINTAS DATA,10297,Not Checked,,
-103.245.16.133:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Quantum Tera Network,8076,Not Checked,,
-103.203.233.133:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Inti Data Guna,12622,Not Checked,,
-103.157.79.58:8080,HTTP,Indonesia,ID,🇮🇩,0,low,Yes,EASTMEDIA,9700,Not Checked,,
-103.105.76.10:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Garuda Media Telematika,13781,Not Checked,,
-43.248.212.29:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Matrixnet Global Indonesia,9066,Not Checked,,
-43.248.212.29:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Matrixnet Global Indonesia,14521,Not Checked,,
-103.131.19.51:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Global Media Data Prima,12133,Not Checked,,
-103.46.11.160:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,"Lintas Data Prima, PT",10975,Not Checked,,
-103.155.198.138:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Lintas Jaringan Nusantara,9683,Not Checked,,
-103.183.58.230:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Core Digital Network,9393,Not Checked,,
-103.171.245.124:8090,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Data Arta Sedaya,8576,Not Checked,,
-103.114.52.78:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,Proxy-registered,8955,Not Checked,,
-38.46.214.243:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Usaha Adi Sanggoro,8227,Not Checked,,
-103.162.106.19:1080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Kafilah Intermedia Nusantara,10519,Not Checked,,
-202.58.77.239:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Data Buana Nusantara,9345,Not Checked,,
-103.18.77.101:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Usaha Adi Sanggoro,9960,Not Checked,,
-103.155.198.163:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Lintas Jaringan Nusantara,9839,Not Checked,,
-103.124.136.219:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,Global Media Data Prima,8134,Not Checked,,
-103.179.183.153:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Internusa Duta Makmur,8404,Not Checked,,
-160.19.146.95:2022,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Taska Sarana Nusantara,11265,Not Checked,,
-103.167.222.16:3128,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Equator Telecom Indonesia,11766,Not Checked,,
-103.152.148.19:8282,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Satu Nusa Bangsa,11787,Not Checked,,
-103.169.188.34:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,Sarana Media Cemerlang,12374,Not Checked,,
-103.68.215.52:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Media Grasi Internet,13575,Not Checked,,
-103.166.33.88:8088,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Daniswara Citra Informatika,8881,Not Checked,,
-45.198.10.39:9191,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jaringan Lintas Artha,9867,Not Checked,,
-103.162.54.91:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Pratama Asia Globalindo,8288,Not Checked,,
-203.175.102.67:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Mitra Kita Brilian,8552,Not Checked,,
-157.10.97.101:8181,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Lintas Jaringan Nusantara,8763,Not Checked,,
-163.223.78.125:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Big Network Indonesia,7676,Not Checked,,
-49.213.43.6:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,Chandranet Pvt.Ltd,11534,Not Checked,,
-116.68.171.226:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,Asia Pacific Network Information Center,9342,Not Checked,,
-103.19.78.125:1080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Persada Data Multimedia,9748,Not Checked,,
-36.50.184.90:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Parsaoran Global Datatrans,10316,Not Checked,,
-103.156.16.227:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,RSTNET,8936,Not Checked,,
-160.22.64.16:8097,HTTP,Indonesia,ID,🇮🇩,0,low,No,"Lintas Data Prima, PT",10365,Not Checked,,
-103.188.169.46:1080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Lintas Jaringan Nusantara,10514,Not Checked,,
-103.189.249.152:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Berkah Media Kusuma Vision,7840,Not Checked,,
-103.177.177.250:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Milenial Inti Telekomunikasi,12937,Not Checked,,
-203.2.151.21:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT BARAYA BARENG SADULUR,8586,Not Checked,,
-103.69.106.158:8181,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Berkat Dunia Digital Cikande,8819,Not Checked,,
-103.179.252.229:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Pusaka Kreasi Mandiri,9226,Not Checked,,
-103.181.255.69:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Giga Digital Nusantara,9530,Not Checked,,
-103.169.189.202:9090,HTTP,Indonesia,ID,🇮🇩,0,low,No,Sarana Media Cemerlang,10960,Not Checked,,
-8.215.76.82:3333,HTTP,Indonesia,ID,🇮🇩,0,low,No,"Alibaba (US) Technology Co., Ltd.",7760,Not Checked,,
-116.254.118.180:80,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Media Sarana Data,9776,Not Checked,,
-103.157.79.17:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,EASTMEDIA,8218,Not Checked,,
-121.101.129.103:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT SELARAS CITRA TERABIT,8778,Not Checked,,
-165.99.192.31:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT IDN NUSANTARA NETWORK,10719,Not Checked,,
-154.18.255.115:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Media Solusi Sukses,11476,Not Checked,,
-103.175.81.249:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Panglima Kamayo Media,9918,Not Checked,,
-103.97.140.64:8080,HTTP,Indonesia,ID,🇮🇩,0,low,Yes,PT Jembatan Data Pangrango,10058,Not Checked,,
-165.101.230.77:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Anugerah Cimanuk Raya,13009,Not Checked,,
-110.232.92.228:2404,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Media Antar Nusa,9853,Not Checked,,
-103.184.181.71:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,"Lintas Data Prima, PT",10260,Not Checked,,
-103.177.153.6:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Beibi Cemerlang Indonesia,12038,Not Checked,,
-103.184.52.66:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Milenial Inti Telekomunikasi,8826,Not Checked,,
-157.66.50.125:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT BARAYA TELEKOMUNIKASI INDONESIA,8498,Not Checked,,
-103.173.162.39:8818,HTTP,Indonesia,ID,🇮🇩,0,low,No,Paket Data Andal,10976,Not Checked,,
-103.46.186.126:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Air Lintas Komunikasi,11452,Not Checked,,
-103.171.83.49:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Multi Network Indonesia,10745,Not Checked,,
-103.187.226.52:8082,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Arsya Bintang Nusantara,14374,Not Checked,,
-182.253.110.130:8080,HTTP,Indonesia,ID,🇮🇩,1,low,No,BIZNET,10103,Not Checked,,
-117.102.86.146:8080,HTTP,Indonesia,ID,🇮🇩,1,low,No,BIZNET,7233,Not Checked,,
-36.92.199.158:8080,HTTP,Indonesia,ID,🇮🇩,2,low,No,PT. Telekomunikasi Indonesia,10382,Not Checked,,
-103.154.152.62:8085,HTTP,Indonesia,ID,🇮🇩,5,low,No,MORATELINDONAP,13296,Not Checked,,
-103.162.61.167:8080,HTTP,Indonesia,ID,🇮🇩,100,very_high,No,PT Indo Prima Akses,10062,Not Checked,,
-193.19.145.194:8080,HTTP,Iran,IR,🇮🇷,0,low,No,Ertebatat Sabet Parsian Co. PJS,9384,Not Checked,,
-62.201.217.194:8080,HTTP,Iraq,IQ,🇮🇶,0,low,No,BAG,11548,Not Checked,,
-188.72.42.241:47193,HTTP,Iraq,IQ,🇮🇶,0,low,No,Pirmam For Information Technology Services Ltd,11257,Not Checked,,
-135.149.41.223:3128,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation,8163,Not Checked,,
-135.149.41.223:3128,HTTP,Japan,JP,🇯🇵,0,low,No,Microsoft Corporation,9349,Not Checked,,
-140.227.61.201:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,10461,Not Checked,,
-35.78.252.142:51758,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",889,Not Checked,,
-35.78.252.142:11080,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",900,Not Checked,,
-35.78.252.142:54990,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1325,Not Checked,,
-35.78.252.142:22430,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1334,Not Checked,,
-35.78.252.142:45771,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1338,Not Checked,,
-139.162.78.109:80,HTTP,Japan,JP,🇯🇵,54,medium,No,"Akamai Technologies, Inc.",1064,Not Checked,,
-102.0.20.200:8080,HTTP,Kenya,KE,🇰🇪,3,low,No,Airtel KE Mobile & Fixed Internet,4883,Not Checked,,
-197.248.59.159:8082,HTTP,Kenya,KE,🇰🇪,6,low,No,Safaricom Limited,11053,Not Checked,,
-102.203.101.77:8080,HTTP,Kenya,KE,🇰🇪,6,low,No,Avitech Solutions LTD,8834,Not Checked,,
-102.219.209.86:3346,HTTP,Kenya,KE,🇰🇪,10,low,No,Vijiji Connect LTD,13432,Not Checked,,
-165.16.2.250:9999,HTTP,Libya,LY,🇱🇾,3,low,No,Aljeel Aljadeed For Technology,7592,Not Checked,,
-47.250.155.254:8004,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",8100,Not Checked,,
-47.250.177.202:10804,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",8101,Not Checked,,
-47.250.51.110:8080,HTTP,Malaysia,MY,🇲🇾,1,low,No,Alibaba Cloud LLC,8106,Not Checked,,
-47.250.11.111:4002,HTTP,Malaysia,MY,🇲🇾,1,low,No,Alibaba Cloud LLC,8085,Not Checked,,
-175.144.25.52:8081,HTTP,Malaysia,MY,🇲🇾,2,low,No,TM TECHNOLOGY SERVICES SDN BHD,10765,Not Checked,,
-175.144.25.52:8081,HTTP,Malaysia,MY,🇲🇾,2,low,No,TM TECHNOLOGY SERVICES SDN BHD,8577,Not Checked,,
-60.53.92.90:8123,HTTP,Malaysia,MY,🇲🇾,2,low,No,TM TECHNOLOGY SERVICES SDN BHD,6132,Not Checked,,
-89.45.209.131:8080,HTTP,Mexico,MX,🇲🇽,0,low,No,Optical Line Terminal SAS De CV,10066,Not Checked,,
-38.210.179.4:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Jair Lozano / Intercom Internet,11253,Not Checked,,
-45.188.167.25:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Velocom SA De CV,7408,Not Checked,,
-38.19.36.206:999,HTTP,Mexico,MX,🇲🇽,0,low,No,TV CABLE DEL GUADIANA S.A DE C.V.,11046,Not Checked,,
-148.244.144.194:8097,HTTP,Mexico,MX,🇲🇽,0,low,No,"Alestra, S. de R.L. de C.V.",8488,Not Checked,,
-38.194.245.226:3128,HTTP,Mexico,MX,🇲🇽,0,low,No,IENTC S de RL de CV,13060,Not Checked,,
-38.94.74.11:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,9293,Not Checked,,
-201.139.115.206:8082,HTTP,Mexico,MX,🇲🇽,0,low,No,Kiwi Networks S A P I de CV,10526,Not Checked,,
-45.167.115.57:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cosmored Puerto Vallarta S.A. de C.V.,9271,Not Checked,,
-38.56.249.10:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Asespri Ethernet,11407,Not Checked,,
-189.51.168.162:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Comunicación por Fibra SA de CV,11380,Not Checked,,
-201.77.110.129:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Nidix Networks S.a. De C.V.,10111,Not Checked,,
-207.248.108.129:20185,HTTP,Mexico,MX,🇲🇽,0,low,No,Redes y Comunicaciones de Michoacan S.A. de C.V.,10681,Not Checked,,
-38.194.231.66:999,HTTP,Mexico,MX,🇲🇽,0,low,No,IENTC S de RL de CV,13550,Not Checked,,
-38.158.202.78:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Onfiber SA De CV,10091,Not Checked,,
-201.165.187.252:999,HTTP,Mexico,MX,🇲🇽,0,low,No,"Mega Cable, S.A. de C.V.",8170,Not Checked,,
-203.142.5.91:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Onfiber SA De CV,8828,Not Checked,,
-38.194.236.106:999,HTTP,Mexico,MX,🇲🇽,0,low,No,IENTC S de RL de CV,7661,Not Checked,,
-85.92.127.30:999,HTTP,Mexico,MX,🇲🇽,0,low,Yes,Roger Edwin Monzon Mejia,8725,Not Checked,,
-89.213.106.25:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Wifimax Connection S.a.s De C.V,11859,Not Checked,,
-38.191.149.221:999,HTTP,Mexico,MX,🇲🇽,0,low,No,GRIDNED,10099,Not Checked,,
-38.123.74.98:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Velocom SA De CV,8733,Not Checked,,
-186.96.15.70:8080,HTTP,Mexico,MX,🇲🇽,0,low,No,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",7944,Not Checked,,
-89.213.106.25:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Wifimax Connection S.a.s De C.V,9898,Not Checked,,
-187.249.120.139:999,HTTP,Mexico,MX,🇲🇽,1,low,No,Transtelco Inc,8703,Not Checked,,
-187.249.84.147:999,HTTP,Mexico,MX,🇲🇽,1,low,No,Transtelco Inc,536,Not Checked,,
-187.245.202.15:999,HTTP,Mexico,MX,🇲🇽,1,low,No,"Mega Cable, S.A. de C.V.",6014,Not Checked,,
-45.174.241.241:999,HTTP,Mexico,MX,🇲🇽,14,low,No,Sistemas Y Soluciones De Campeche SAS De CV,11097,Not Checked,,
-45.174.243.24:999,HTTP,Mexico,MX,🇲🇽,14,low,No,Sistemas Y Soluciones De Campeche SAS De CV,7844,Not Checked,,
-103.88.234.239:40005,HTTP,Mexico,MX,🇲🇽,46,medium,No,Latitude.sh,1007,Not Checked,,
-202.21.101.37:8088,HTTP,Mongolia,MN,🇲🇳,0,low,No,Mobinet LLC,7322,Not Checked,,
-203.81.69.126:1248,HTTP,Myanmar,MM,🇲🇲,12,low,No,Myanma Post & Telecommunication,13003,Not Checked,,
-202.166.220.40:8080,HTTP,Nepal,NP,🇳🇵,4,low,No,WorldLink Communications,7260,Not Checked,,
-205.234.123.108:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,RedSwitches Pty LTD.,9108,Not Checked,,
-144.124.251.24:10187,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,699,Not Checked,,
-144.124.251.24:10101,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,702,Not Checked,,
-144.124.251.24:10522,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,718,Not Checked,,
-144.124.251.24:10226,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,766,Not Checked,,
-144.124.251.24:10812,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,911,Not Checked,,
-144.124.251.24:10628,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1145,Not Checked,,
-144.124.251.24:10813,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,681,Not Checked,,
-144.124.251.24:11108,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,689,Not Checked,,
-144.124.251.24:10646,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,669,Not Checked,,
-144.124.251.24:10605,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,681,Not Checked,,
-144.124.251.24:10366,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,769,Not Checked,,
-144.124.251.24:10261,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,869,Not Checked,,
-144.124.251.24:10261,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,681,Not Checked,,
-144.124.251.24:10167,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,672,Not Checked,,
-144.124.251.24:10084,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,742,Not Checked,,
-144.124.251.24:10279,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,745,Not Checked,,
-144.124.251.24:10007,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,664,Not Checked,,
-144.124.251.24:10492,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,700,Not Checked,,
-144.124.251.24:10552,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1007,Not Checked,,
-144.124.251.24:10801,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,660,Not Checked,,
-144.124.251.24:10803,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,697,Not Checked,,
-144.124.251.24:10117,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,696,Not Checked,,
-144.124.251.24:10084,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,713,Not Checked,,
-144.124.251.24:10744,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,910,Not Checked,,
-144.124.251.24:10007,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,822,Not Checked,,
-144.124.251.24:10818,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,722,Not Checked,,
-191.44.71.208:8080,HTTP,Netherlands,NL,🇳🇱,50,medium,Yes,High Speed For Internet Services L.L.C,8255,Not Checked,,
-103.158.237.90:8080,HTTP,Pakistan,PK,🇵🇰,0,low,No,Gerrys Information Technology (PVT) Ltd,14138,Not Checked,,
-110.93.218.62:8080,HTTP,Pakistan,PK,🇵🇰,0,low,No,TRANSWORLD ASSOCIATES (PVT) LIMITED,8761,Not Checked,,
-110.93.236.171:8080,HTTP,Pakistan,PK,🇵🇰,0,low,Yes,TW RO,12162,Not Checked,,
-202.69.38.82:8080,HTTP,Pakistan,PK,🇵🇰,0,low,No,Gerrys Information Technology (PVT) Ltd,10924,Not Checked,,
-103.134.1.14:8080,HTTP,Pakistan,PK,🇵🇰,0,low,No,Prime Networks,11137,Not Checked,,
-110.39.13.162:1,HTTP,Pakistan,PK,🇵🇰,2,low,No,Wateen Telecom Limited,7531,Not Checked,,
-110.39.13.162:1,HTTP,Pakistan,PK,🇵🇰,2,low,No,Wateen Telecom Limited,13002,Not Checked,,
-58.65.202.159:808,HTTP,Pakistan,PK,🇵🇰,3,low,No,Cyber Internet Services Pakistan,9425,Not Checked,,
-213.6.240.211:19000,HTTP,Palestine,PS,🇵🇸,5,low,No,Palestine Telecommunications Company,10088,Not Checked,,
-45.177.16.137:999,HTTP,Paraguay,PY,🇵🇾,0,low,No,MSW S.A.,10024,Not Checked,,
-38.52.135.222:8080,HTTP,Paraguay,PY,🇵🇾,0,low,No,Cogent Communications,10029,Not Checked,,
-160.238.185.192:999,HTTP,Paraguay,PY,🇵🇾,0,low,No,Flynet SRL,13553,Not Checked,,
-38.253.80.35:999,HTTP,Peru,PE,🇵🇪,0,low,No,Corporacion Tarazona Catv S.A.C.,7760,Not Checked,,
-138.186.76.57:999,HTTP,Peru,PE,🇵🇪,0,low,No,EXA NETWORKS S.A.C.,7882,Not Checked,,
-38.252.215.111:999,HTTP,Peru,PE,🇵🇪,0,low,No,Cogent Communications,8339,Not Checked,,
-190.108.82.251:999,HTTP,Peru,PE,🇵🇪,0,low,No,Internexa Peru S.A,8890,Not Checked,,
-161.132.45.17:1081,HTTP,Peru,PE,🇵🇪,0,low,No,Red Cientifica Peruana,11660,Not Checked,,
-167.249.28.73:999,HTTP,Peru,PE,🇵🇪,0,low,No,Grupo Metrowan Telecom SPA,8235,Not Checked,,
-8.212.165.164:86,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8163,Not Checked,,
-8.212.168.170:9080,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8131,Not Checked,,
-8.212.151.166:1080,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8141,Not Checked,,
-8.220.141.8:8081,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8177,Not Checked,,
-8.220.136.174:45,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8173,Not Checked,,
-103.25.220.246:8086,HTTP,Philippines,PH,🇵🇭,0,low,No,Imjwanklik Internet Communication Services,7628,Not Checked,,
-202.61.110.162:8082,HTTP,Philippines,PH,🇵🇭,0,low,No,Medrozo IT Solutions,11071,Not Checked,,
-49.157.158.178:8084,HTTP,Philippines,PH,🇵🇭,0,low,No,Eastern Telecommunications Philippines,12096,Not Checked,,
-120.28.82.207:8082,HTTP,Philippines,PH,🇵🇭,0,low,No,Globe Telecom,10955,Not Checked,,
-139.135.160.13:8083,HTTP,Philippines,PH,🇵🇭,3,low,No,ComClark Network & Technology Corp,10692,Not Checked,,
-49.149.112.44:8081,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,7100,Not Checked,,
-124.107.39.186:8082,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,8050,Not Checked,,
-180.190.186.161:8082,HTTP,Philippines,PH,🇵🇭,4,low,No,Globe Telecom,9698,Not Checked,,
-49.149.205.219:8082,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,9161,Not Checked,,
-122.53.48.41:8080,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,12883,Not Checked,,
-119.92.138.118:8088,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,9321,Not Checked,,
-119.93.153.10:8087,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,9528,Not Checked,,
-124.106.39.123:8083,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,8168,Not Checked,,
-180.191.124.188:5555,HTTP,Philippines,PH,🇵🇭,4,low,No,Globe Telecom,2826,Not Checked,,
-180.191.120.247:5050,HTTP,Philippines,PH,🇵🇭,4,low,No,Globe Telecom,12782,Not Checked,,
-49.146.155.183:8082,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,7897,Not Checked,,
-49.146.57.238:8082,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,11874,Not Checked,,
-49.149.174.69:8082,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,13896,Not Checked,,
-126.209.75.83:5050,HTTP,Philippines,PH,🇵🇭,5,low,No,Infinivan Incorporated,9475,Not Checked,,
-112.201.188.87:8080,HTTP,Philippines,PH,🇵🇭,5,low,No,Philippine Long Distance Telephone Co.,4691,Not Checked,,
-126.209.105.226:5050,HTTP,Philippines,PH,🇵🇭,6,low,No,Infinivan Incorporated,8758,Not Checked,,
-126.209.124.147:8089,HTTP,Philippines,PH,🇵🇭,6,low,No,Infinivan Incorporated,11816,Not Checked,,
-203.177.217.222:8082,HTTP,Philippines,PH,🇵🇭,9,low,No,Globe Telecom,4225,Not Checked,,
-138.84.65.187:9090,HTTP,Philippines,PH,🇵🇭,9,low,No,Globe Telecom,1772,Not Checked,,
-163.227.244.244:8080,HTTP,Philippines,PH,🇵🇭,52,medium,No,Rdnaks Network and Data Solution,6678,Not Checked,,
-193.126.225.110:8089,HTTP,Portugal,PT,🇵🇹,0,low,No,"NOS COMUNICACOES, S.A.",13074,Not Checked,,
-45.133.107.128:81,HTTP,Russia,RU,🇷🇺,0,low,No,Art-net LLC,9407,Not Checked,,
-109.225.40.145:58080,HTTP,Russia,RU,🇷🇺,0,low,No,KLGELECS,8108,Not Checked,,
-193.187.107.120:8095,HTTP,Russia,RU,🇷🇺,0,low,No,Voronezh Telecom LLC,11347,Not Checked,,
-188.127.235.21:10809,HTTP,Russia,RU,🇷🇺,0,low,No,LLC Smart Ape,12981,Not Checked,,
-188.127.235.21:10808,HTTP,Russia,RU,🇷🇺,0,low,No,LLC Smart Ape,8882,Not Checked,,
-193.187.107.120:8095,HTTP,Russia,RU,🇷🇺,0,low,No,Voronezh Telecom LLC,9982,Not Checked,,
-92.53.119.228:3128,HTTP,Russia,RU,🇷🇺,0,low,No,TimeWeb,13023,Not Checked,,
-130.110.103.245:3128,HTTP,Saudi Arabia,SA,🇸🇦,2,low,Yes,Oracle Corporation,1636,Not Checked,,
-212.200.223.89:8080,HTTP,Serbia,RS,🇷🇸,0,low,No,TELEKOM SRBIJA a.d.,8313,Not Checked,,
-47.237.92.86:1080,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8078,Not Checked,,
-31.57.178.255:8181,HTTP,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi,8207,Not Checked,,
-18.143.174.188:8080,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,3564,Not Checked,,
-192.46.230.254:3128,HTTP,Singapore,SG,🇸🇬,36,medium,No,Akamai Technologies,11241,Not Checked,,
-128.199.202.122:8080,HTTP,Singapore,SG,🇸🇬,51,medium,No,"DigitalOcean, LLC",1504,Not Checked,,
-196.251.222.242:8104,HTTP,South Africa,ZA,🇿🇦,0,low,No,Info-Gro (PTY) Ltd,12830,Not Checked,,
-102.66.8.18:9999,HTTP,South Africa,ZA,🇿🇦,1,low,No,Herotel,13349,Not Checked,,
-102.66.8.18:9999,HTTP,South Africa,ZA,🇿🇦,1,low,No,Herotel,5179,Not Checked,,
-8.220.204.215:8086,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7846,Not Checked,,
-8.220.205.172:4002,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7853,Not Checked,,
-85.85.187.31:8080,HTTP,Spain,ES,🇪🇸,0,low,No,Xtra Telecom S.A.,10934,Not Checked,,
-193.43.159.96:8080,HTTP,Syria,SY,🇸🇾,0,low,No,Syrian Telecom,8482,Not Checked,,
-91.144.30.93:8080,HTTP,Syria,SY,🇸🇾,0,low,No,STE Public Data Network Backbone and LIR,9972,Not Checked,,
-205.209.66.132:3128,HTTP,Syria,SY,🇸🇾,0,low,No,RCell LLC,9051,Not Checked,,
-78.155.66.84:8080,HTTP,Syria,SY,🇸🇾,1,low,No,ISP-TARASSUL,11220,Not Checked,,
-89.43.135.42:8080,HTTP,Syria,SY,🇸🇾,25,medium,No,High Speed For Internet Services L.L.C,7974,Not Checked,,
-164.52.11.194:18080,HTTP,Taiwan,TW,🇹🇼,0,low,No,"CDS Global Cloud Co., Ltd",12204,Not Checked,,
-8.213.222.247:4002,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8205,Not Checked,,
-8.213.195.191:30000,HTTP,Thailand,TH,🇹🇭,0,low,No,Alibaba Cloud (Singapore) Private Limited,8212,Not Checked,,
-1.20.101.31:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,10031,Not Checked,,
-1.20.178.208:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,11073,Not Checked,,
-182.53.253.5:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,10999,Not Checked,,
-1.20.101.22:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,11335,Not Checked,,
-125.25.167.208:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,8655,Not Checked,,
-110.238.113.119:4444,HTTP,Thailand,TH,🇹🇭,2,low,No,Huawei International Pte. LTD,8343,Not Checked,,
-223.207.103.48:8080,HTTP,Thailand,TH,🇹🇭,4,low,No,Triple T Broadband Public Company Limited,11119,Not Checked,,
-183.88.213.178:8080,HTTP,Thailand,TH,🇹🇭,4,low,No,Triple T Broadband Public Company Limited,13301,Not Checked,,
-124.121.183.238:8080,HTTP,Thailand,TH,🇹🇭,14,low,No,TRUE,7847,Not Checked,,
-176.88.65.165:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,Superonline Iletisim Hizmetleri A.S.,8647,Not Checked,,
-201.4.68.243:8080,HTTP,Turkey,TR,🇹🇷,0,low,Yes,High Speed For Internet Services L.L.C,9802,Not Checked,,
-201.4.64.147:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,10360,Not Checked,,
-201.4.68.243:8080,HTTP,Turkey,TR,🇹🇷,0,low,Yes,High Speed For Internet Services L.L.C,7740,Not Checked,,
-89.251.21.148:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,10535,Not Checked,,
-212.252.73.66:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,Superonline Iletisim Hizmetleri A.S.,10796,Not Checked,,
-116.204.166.51:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,8772,Not Checked,,
-195.62.50.98:8080,HTTP,Turkey,TR,🇹🇷,0,low,Yes,High Speed For Internet Services L.L.C,7521,Not Checked,,
-116.204.166.49:8080,HTTP,Turkey,TR,🇹🇷,0,low,Yes,High Speed For Internet Services L.L.C,7550,Not Checked,,
-201.4.69.92:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,12555,Not Checked,,
-201.4.69.113:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,10394,Not Checked,,
-201.7.31.230:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,10287,Not Checked,,
-201.4.68.106:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,11700,Not Checked,,
-109.224.242.247:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,10329,Not Checked,,
-201.4.64.37:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,8709,Not Checked,,
-95.9.67.158:3310,HTTP,Turkey,TR,🇹🇷,1,low,No,Turk Telekomunikasyon Anonim Sirketi,2408,Not Checked,,
-95.9.67.158:3310,HTTP,Turkey,TR,🇹🇷,1,low,No,Turk Telekomunikasyon Anonim Sirketi,2408,Not Checked,,
-88.247.49.47:19053,HTTP,Turkey,TR,🇹🇷,3,low,No,Turk Telekomunikasyon A.S,7430,Not Checked,,
-88.247.49.47:19053,HTTP,Turkey,TR,🇹🇷,3,low,No,Turk Telekomunikasyon A.S,2337,Not Checked,,
-149.86.140.210:8080,HTTP,Turkey,TR,🇹🇷,15,low,No,Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi,7000,Not Checked,,
-185.200.37.66:8080,HTTP,Turkey,TR,🇹🇷,20,medium,No,High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.,8185,Not Checked,,
-185.200.37.231:8686,HTTP,Turkey,TR,🇹🇷,20,medium,No,High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.,6835,Not Checked,,
-212.252.73.43:8080,HTTP,Turkey,TR,🇹🇷,33,medium,No,GUNEYDOGUTELEKOM,8007,Not Checked,,
-82.47.161.152:8443,HTTP,Turkey,TR,🇹🇷,62,high,No,Datacamp Limited,1511,Not Checked,,
-185.65.247.133:48049,HTTP,Ukraine,UA,🇺🇦,0,low,No,Hosting Ukraine LTD,15048,Not Checked,,
-195.34.91.67:8080,HTTP,Ukraine,UA,🇺🇦,0,low,No,Modus-Global LLC,10117,Not Checked,,
-94.179.153.218:8081,HTTP,Ukraine,UA,🇺🇦,1,low,No,UKRTELECOM,8002,Not Checked,,
-194.44.255.112:8080,HTTP,Ukraine,UA,🇺🇦,22,medium,No,LLC EKSINTECH,9089,Not Checked,,
-47.91.121.127:9080,HTTP,United Arab Emirates,AE,🇦🇪,0,low,No,Alibaba Cloud LLC,7925,Not Checked,,
-47.91.120.190:80,HTTP,United Arab Emirates,AE,🇦🇪,0,low,No,Alibaba Cloud LLC,7923,Not Checked,,
-47.91.110.148:9080,HTTP,United Arab Emirates,AE,🇦🇪,0,low,No,Alibaba Cloud LLC,7915,Not Checked,,
-151.253.146.146:8080,HTTP,United Arab Emirates,AE,🇦🇪,2,low,No,EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC,10773,Not Checked,,
-134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,"DigitalOcean, LLC",695,Not Checked,,
-198.244.254.77:3128,HTTP,United Kingdom,GB,🇬🇧,83,high,No,OVH SAS,6250,Not Checked,,
-24.173.217.114:55443,HTTP,United States,US,🇺🇸,0,low,No,Spectrum,9649,Not Checked,,
-207.246.234.115:4669,HTTP,United States,US,🇺🇸,0,low,No,Plateau Telecommunications Incorporated,11674,Not Checked,,
-31.220.54.93:8080,HTTP,United States,US,🇺🇸,0,low,No,HOSTINGER US,7660,Not Checked,,
-50.200.166.130:8080,HTTP,United States,US,🇺🇸,0,low,No,Comcast Cable Communications,10178,Not Checked,,
-64.181.247.193:443,HTTP,United States,US,🇺🇸,2,low,No,Oracle Corporation,6572,Not Checked,,
-34.43.46.91:443,HTTP,United States,US,🇺🇸,2,low,No,Google LLC,831,Not Checked,,
-104.129.203.85:9480,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC.",397,Not Checked,,
-64.181.247.193:443,HTTP,United States,US,🇺🇸,2,low,No,Oracle Corporation,9756,Not Checked,,
-98.153.152.141:7070,HTTP,United States,US,🇺🇸,3,low,No,Charter Communications Inc,8956,Not Checked,,
-98.154.21.253:4228,HTTP,United States,US,🇺🇸,3,low,No,Charter Communications Inc,11345,Not Checked,,
-75.109.189.86:8080,HTTP,United States,US,🇺🇸,5,low,No,Suddenlink Communications,8397,Not Checked,,
-5.161.50.82:8118,HTTP,United States,US,🇺🇸,6,low,No,Hetzner Online GmbH,11035,Not Checked,,
-47.89.159.212:13,HTTP,United States,US,🇺🇸,8,low,No,Alibaba.com LLC,7100,Not Checked,,
-47.251.73.54:9050,HTTP,United States,US,🇺🇸,11,low,No,Alibaba Cloud LLC,8340,Not Checked,,
-47.251.87.74:13,HTTP,United States,US,🇺🇸,11,low,No,Alibaba Cloud LLC,9350,Not Checked,,
-47.254.36.25:11080,HTTP,United States,US,🇺🇸,11,low,No,Alibaba Cloud LLC,670,Not Checked,,
-47.254.36.25:11080,HTTP,United States,US,🇺🇸,11,low,No,Alibaba Cloud LLC,413,Not Checked,,
-3.211.120.181:443,HTTP,United States,US,🇺🇸,12,low,No,Amazon Technologies Inc.,216,Not Checked,,
-3.239.61.209:8084,HTTP,United States,US,🇺🇸,12,low,No,Amazon Technologies Inc.,4520,Not Checked,,
-3.239.61.209:8084,HTTP,United States,US,🇺🇸,12,low,No,Amazon Technologies Inc.,3056,Not Checked,,
-45.130.127.14:3128,HTTP,United States,US,🇺🇸,24,medium,Yes,Global Connectivity Solutions LLP,4507,Not Checked,,
-104.218.199.61:16062,HTTP,United States,US,🇺🇸,40,medium,Yes,BraveWay LLC,13083,Not Checked,,
-104.218.199.231:16062,HTTP,United States,US,🇺🇸,40,medium,Yes,BraveWay LLC,5901,Not Checked,,
-138.68.60.8:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",468,Not Checked,,
-134.209.74.227:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",12927,Not Checked,,
-157.245.129.129:10000,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",329,Not Checked,,
-159.223.167.188:10000,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",11155,Not Checked,,
-159.223.167.188:10000,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",7638,Not Checked,,
-146.190.221.21:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",12295,Not Checked,,
-138.68.60.8:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",623,Not Checked,,
-198.199.86.11:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",170,Not Checked,,
-209.97.150.167:3128,HTTP,United States,US,🇺🇸,51,medium,Yes,"DigitalOcean, LLC",166,Not Checked,,
-104.248.55.188:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",11232,Not Checked,,
-167.99.8.113:8011,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",174,Not Checked,,
-104.248.55.188:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",12707,Not Checked,,
-167.99.8.113:8011,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",183,Not Checked,,
-83.222.7.47:3333,HTTP,Uzbekistan,UZ,🇺🇿,1,low,No,"""Uzbektelekom"" Joint Stock Company",11636,Not Checked,,
-90.156.196.230:3128,HTTP,Uzbekistan,UZ,🇺🇿,1,low,No,"""Uzbektelekom"" Joint Stock Company",10107,Not Checked,,
-38.9.184.177:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Cogent Communications,9726,Not Checked,,
-154.62.127.128:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Cogent Communications,14530,Not Checked,,
-38.51.207.116:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Tecnoven Services C.A,10004,Not Checked,,
-38.41.0.62:11201,HTTP,Venezuela,VE,🇻🇪,0,low,No,MDS TELECOM C.A.,8949,Not Checked,,
-38.172.181.0:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"RED SERVITEL, CA",8376,Not Checked,,
-186.167.113.103:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Corporacion Digitel C.A,10220,Not Checked,,
-161.22.33.80:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"THUNDERNET, C.A",11660,Not Checked,,
-154.59.56.76:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Cogent Communications,7390,Not Checked,,
-154.59.56.72:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Cogent Communications,11162,Not Checked,,
-185.226.194.248:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"DAT - COM SERVICES, C.A.",13625,Not Checked,,
-200.59.191.137:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,TotalCom Venezuela C.A.,7579,Not Checked,,
-190.94.213.6:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,IFX Networks Venezuela C.A.,7845,Not Checked,,
-161.22.33.185:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"THUNDERNET, C.A",10099,Not Checked,,
-190.89.29.110:999,HTTP,Venezuela,VE,🇻🇪,9,low,No,"CORPORACION FIBEX TELECOM, C.A.",7768,Not Checked,,
-14.170.154.193:19132,HTTP,Vietnam,VN,🇻🇳,0,low,No,VNPT-VNNIC,9792,Not Checked,,
-58.187.121.4:8081,HTTP,Vietnam,VN,🇻🇳,5,low,No,FPT Telecom Company,9176,Not Checked,,
-116.101.54.121:8080,HTTP,Vietnam,VN,🇻🇳,13,low,No,Viettel Group,11617,Not Checked,,
+102.244.78.61:8084,HTTP,Cameroon,CM,🇨🇲,3,low,No,Orange CAM INTERNET,2074,Not Checked,,
+102.244.78.61:8086,HTTP,Cameroon,CM,🇨🇲,3,low,No,Orange CAM INTERNET,2144,Not Checked,,
+102.244.78.61:8089,HTTP,Cameroon,CM,🇨🇲,3,low,No,Orange CAM INTERNET,2150,Not Checked,,
+102.244.78.61:8082,HTTP,Cameroon,CM,🇨🇲,3,low,No,Orange CAM INTERNET,2065,Not Checked,,
+15.223.187.219:17200,HTTP,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,4881,Not Checked,,
+16.52.81.236:443,HTTP,Canada,CA,🇨🇦,10,low,No,Amazon.com,314,Not Checked,,
+16.52.81.236:32705,HTTP,Canada,CA,🇨🇦,10,low,No,Amazon.com,344,Not Checked,,
+16.52.81.236:31501,HTTP,Canada,CA,🇨🇦,10,low,No,Amazon.com,331,Not Checked,,
+16.52.81.236:3414,HTTP,Canada,CA,🇨🇦,10,low,No,Amazon.com,323,Not Checked,,
+16.52.81.236:27487,HTTP,Canada,CA,🇨🇦,10,low,No,Amazon.com,319,Not Checked,,
+16.52.81.236:5553,HTTP,Canada,CA,🇨🇦,10,low,No,Amazon.com,361,Not Checked,,
+16.52.81.236:5553,HTTP,Canada,CA,🇨🇦,10,low,No,Amazon.com,573,Not Checked,,
+184.75.221.82:3118,HTTP,Canada,CA,🇨🇦,50,medium,No,Amanah Tech Inc.,7539,Not Checked,,
+159.203.61.169:3128,HTTP,Canada,CA,🇨🇦,51,medium,Yes,"DigitalOcean, LLC",454,Not Checked,,
+134.195.196.161:40001,HTTP,Canada,CA,🇨🇦,52,medium,No,GLOBALTELEHOST Corp.,350,Not Checked,,
+134.195.196.161:40001,HTTP,Canada,CA,🇨🇦,52,medium,No,GLOBALTELEHOST Corp.,290,Not Checked,,
+51.79.71.106:8080,HTTP,Canada,CA,🇨🇦,60,high,No,OVH SAS,404,Not Checked,,
+51.79.71.106:8080,HTTP,Canada,CA,🇨🇦,60,high,No,OVH SAS,406,Not Checked,,
+190.93.229.1:18080,HTTP,Chile,CL,🇨🇱,0,low,No,Makronet Consulting Tecnologia E Informatica Limitada,13049,Not Checked,,
+160.19.203.108:18080,HTTP,Chile,CL,🇨🇱,0,low,No,Makronet Consulting Tecnologia E Informatica Limitada,12021,Not Checked,,
+207.248.0.193:999,HTTP,Chile,CL,🇨🇱,0,low,No,Grupo Metrowan Telecom SPA,7392,Not Checked,,
+200.111.104.59:3128,HTTP,Chile,CL,🇨🇱,4,low,No,Entel Chile S.A.,14675,Not Checked,,
+39.104.16.201:55443,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8206,Not Checked,,
+121.43.109.88:8047,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8102,Not Checked,,
+39.104.59.56:8889,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8162,Not Checked,,
+39.102.214.199:9999,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8169,Not Checked,,
+47.121.182.36:20002,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8127,Not Checked,,
+39.102.214.208:7788,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8157,Not Checked,,
+39.102.214.152:3333,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8143,Not Checked,,
+39.104.27.89:10000,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8172,Not Checked,,
+8.130.74.114:8888,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8175,Not Checked,,
+39.102.208.236:34567,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8161,Not Checked,,
+8.130.37.235:3128,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8180,Not Checked,,
+47.119.164.33:8085,HTTP,China,CN,🇨🇳,0,low,No,Addresses CNNIC,8084,Not Checked,,
+8.138.149.37:30001,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8059,Not Checked,,
+39.102.208.23:5566,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8131,Not Checked,,
+47.121.182.88:8888,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8125,Not Checked,,
+39.100.88.89:4006,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8177,Not Checked,,
+101.132.248.7:3128,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8047,Not Checked,,
+101.132.252.152:8123,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8061,Not Checked,,
+121.43.154.123:14,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8075,Not Checked,,
+47.107.142.198:2000,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8093,Not Checked,,
+8.138.125.130:80,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8061,Not Checked,,
+8.138.131.110:1081,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8076,Not Checked,,
+120.79.217.196:9000,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8105,Not Checked,,
+47.106.75.125:8181,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8085,Not Checked,,
+47.120.0.231:90,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8135,Not Checked,,
+8.148.20.126:8081,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8150,Not Checked,,
+139.224.195.153:3128,HTTP,China,CN,🇨🇳,0,low,No,Addresses CNNIC,8066,Not Checked,,
+114.215.127.92:100,HTTP,China,CN,🇨🇳,0,low,No,China Internet Network Information Center,8237,Not Checked,,
+8.138.82.6:443,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8080,Not Checked,,
+47.106.216.202:443,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8105,Not Checked,,
+39.102.213.50:8888,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8766,Not Checked,,
+8.148.23.202:4000,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8140,Not Checked,,
+8.130.71.75:10000,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8199,Not Checked,,
+47.107.166.143:3128,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8094,Not Checked,,
+47.92.143.92:8181,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,9128,Not Checked,,
+139.224.207.73:3129,HTTP,China,CN,🇨🇳,0,low,No,Addresses CNNIC,8056,Not Checked,,
+47.92.219.102:8333,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,9032,Not Checked,,
+39.102.208.189:8085,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,10194,Not Checked,,
+47.116.126.57:5060,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8062,Not Checked,,
+47.119.22.92:8085,HTTP,China,CN,🇨🇳,0,low,No,Addresses CNNIC,8085,Not Checked,,
+39.102.211.64:9098,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8123,Not Checked,,
+47.104.28.135:4216,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8143,Not Checked,,
+106.14.91.83:8080,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8047,Not Checked,,
+39.102.211.162:3128,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8144,Not Checked,,
+8.148.22.214:2000,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8148,Not Checked,,
+8.137.13.191:8080,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8248,Not Checked,,
+47.116.181.146:9090,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8071,Not Checked,,
+8.130.54.67:8004,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8192,Not Checked,,
+39.104.69.76:2022,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8179,Not Checked,,
+39.102.214.192:10000,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8146,Not Checked,,
+47.105.122.72:1337,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8137,Not Checked,,
+47.106.198.144:2000,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8104,Not Checked,,
+106.15.137.41:9090,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8297,Not Checked,,
+120.25.189.254:9000,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8104,Not Checked,,
+106.15.58.163:9080,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8098,Not Checked,,
+47.100.130.127:8080,HTTP,China,CN,🇨🇳,0,low,No,Alibaba (US) Technology Co,8068,Not Checked,,
+139.224.186.221:7890,HTTP,China,CN,🇨🇳,0,low,No,Addresses CNNIC,8072,Not Checked,,
+8.137.62.53:3129,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8208,Not Checked,,
+8.148.24.225:8800,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8142,Not Checked,,
+47.112.19.200:80,HTTP,China,CN,🇨🇳,0,low,No,Addresses CNNIC,8103,Not Checked,,
+47.112.15.44:8081,HTTP,China,CN,🇨🇳,0,low,No,Addresses CNNIC,8102,Not Checked,,
+120.26.52.35:80,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8083,Not Checked,,
+39.102.209.121:10002,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8166,Not Checked,,
+39.102.209.163:10002,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8167,Not Checked,,
+8.148.23.165:1111,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8144,Not Checked,,
+8.134.149.133:3128,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8091,Not Checked,,
+8.146.200.53:7777,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8136,Not Checked,,
+39.102.208.149:4145,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8149,Not Checked,,
+8.138.133.207:3129,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8074,Not Checked,,
+47.121.133.212:3129,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8119,Not Checked,,
+47.104.198.111:808,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8128,Not Checked,,
+101.132.249.207:4443,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8057,Not Checked,,
+47.100.73.178:8000,HTTP,China,CN,🇨🇳,0,low,No,Addresses CNNIC,8074,Not Checked,,
+47.112.11.170:8090,HTTP,China,CN,🇨🇳,0,low,No,Addresses CNNIC,8084,Not Checked,,
+39.102.209.128:10000,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8156,Not Checked,,
+39.102.210.176:10002,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8165,Not Checked,,
+8.130.36.163:3129,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8198,Not Checked,,
+139.196.175.68:3129,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8062,Not Checked,,
+39.104.23.154:8088,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8183,Not Checked,,
+39.102.210.222:8089,HTTP,China,CN,🇨🇳,0,low,No,Hangzhou Alibaba Advertising Co,8138,Not Checked,,
+47.121.129.129:7777,HTTP,China,CN,🇨🇳,0,low,No,"Hangzhou Alibaba Advertising Co., Ltd.",8105,Not Checked,,
+38.211.76.201:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Cogent Communications,7937,Not Checked,,
+38.19.41.226:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Super Redes S.A.S,8138,Not Checked,,
+179.1.182.20:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,10159,Not Checked,,
+45.179.200.89:999,HTTP,Colombia,CO,🇨🇴,0,low,No,NET&COM LTDA.,10006,Not Checked,,
+181.78.25.252:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,9647,Not Checked,,
+38.19.43.79:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Super Redes S.A.S,10255,Not Checked,,
+38.191.214.252:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Transporte De Internet Y Medios Tecnologicos S.A.S,10309,Not Checked,,
+200.10.30.5:8083,HTTP,Colombia,CO,🇨🇴,0,low,No,Super Redes S.A.S,11468,Not Checked,,
+190.14.241.87:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Media Commerce Partners S.A,7498,Not Checked,,
+24.152.58.100:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Atenea Telecomunicaciones,14705,Not Checked,,
+216.28.154.42:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Cogent Communications,8879,Not Checked,,
+8.243.73.66:8080,HTTP,Colombia,CO,🇨🇴,0,low,No,CTL Colombia,9297,Not Checked,,
+38.191.212.117:999,HTTP,Colombia,CO,🇨🇴,0,low,No,TV&MÁS S.A.S,13270,Not Checked,,
+38.211.76.193:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Cogent Communications,7365,Not Checked,,
+181.78.1.230:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,8196,Not Checked,,
+186.96.111.214:999,HTTP,Colombia,CO,🇨🇴,0,low,No,TV AZTECA SUCURSAL COLOMBIA,7169,Not Checked,,
+190.242.58.148:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Liberty Networks De Colombia,9876,Not Checked,,
+181.204.81.179:999,HTTP,Colombia,CO,🇨🇴,1,low,No,EPM Telecomunicaciones S.A. E.S.P.,7201,Not Checked,,
+186.180.20.18:8080,HTTP,Colombia,CO,🇨🇴,1,low,No,EPM Telecomunicaciones S.A. E.S.P.,8640,Not Checked,,
+181.205.205.170:999,HTTP,Colombia,CO,🇨🇴,1,low,No,EPM Telecomunicaciones S.A. E.S.P.,5013,Not Checked,,
+181.78.208.227:999,HTTP,Colombia,CO,🇨🇴,1,low,No,Ufinet Panama S.A.,7907,Not Checked,,
+181.204.81.180:999,HTTP,Colombia,CO,🇨🇴,1,low,No,EPM Telecomunicaciones S.A. E.S.P.,10601,Not Checked,,
+190.60.39.226:999,HTTP,Colombia,CO,🇨🇴,1,low,No,Ufinet Panama S.A.,6720,Not Checked,,
+181.205.134.125:8080,HTTP,Colombia,CO,🇨🇴,1,low,No,EPM Telecomunicaciones S.A. E.S.P.,7092,Not Checked,,
+161.10.122.13:999,HTTP,Colombia,CO,🇨🇴,1,low,No,Colombia Telecomunicaciones S.a. ESP BIC,13055,Not Checked,,
+186.97.200.210:999,HTTP,Colombia,CO,🇨🇴,1,low,No,EPM Telecomunicaciones S.A. E.S.P.,7845,Not Checked,,
+190.29.25.245:3128,HTTP,Colombia,CO,🇨🇴,2,low,No,EPM Telecomunicaciones S.A. E.S.P.,3108,Not Checked,,
+190.29.25.245:3128,HTTP,Colombia,CO,🇨🇴,2,low,No,EPM Telecomunicaciones S.A. E.S.P.,4413,Not Checked,,
+191.103.219.225:48612,HTTP,Colombia,CO,🇨🇴,2,low,No,EPM Telecomunicaciones S.A. E.S.P.,11140,Not Checked,,
+190.99.192.158:999,HTTP,Colombia,CO,🇨🇴,4,low,No,Empresas Municipales De Cali E.i.c.e. E.S.P.,7523,Not Checked,,
+217.75.208.178:8080,HTTP,Czechia,CZ,🇨🇿,0,low,No,Grape SC V,7864,Not Checked,,
+77.240.102.149:800,HTTP,Czechia,CZ,🇨🇿,0,low,No,Druzstvo EUROSIGNAL,6419,Not Checked,,
+154.88.136.182:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"DOMINICAN CABLE GROUP DCG, S.R.L.",12812,Not Checked,,
+154.88.137.50:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"DOMINICAN CABLE GROUP DCG, S.R.L.",11036,Not Checked,,
+38.57.65.195:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"FALCO TELECOM, S.R.L.",13680,Not Checked,,
+186.7.145.96:8080,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,Compañía Dominicana de Teléfonos S. A.,10115,Not Checked,,
+200.35.153.56:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"LAUAM MEGARED TELECOM, S.R.L.",9842,Not Checked,,
+38.156.233.219:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"BITNET DOMINICANA, S.R.L",7249,Not Checked,,
+185.27.144.74:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,Airtime Technology SRL,9278,Not Checked,,
+38.159.223.159:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"REYNOSO, S.R.L",11114,Not Checked,,
+38.156.23.169:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,Visnetwork SRL,12525,Not Checked,,
+200.107.206.113:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,DLD SERVICIO SRL,6735,Not Checked,,
+38.191.161.182:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,Three Networks SRL,12957,Not Checked,,
+185.27.144.53:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,Airtime Technology SRL,9982,Not Checked,,
+38.191.161.182:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,Three Networks SRL,8489,Not Checked,,
+38.10.82.128:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,NET LINK DOMINICANA EMIMAR SRL,7824,Not Checked,,
+38.50.165.122:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"NEXTELECOM, S.R.L",11498,Not Checked,,
+38.156.233.173:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"BITNET DOMINICANA, S.R.L",13775,Not Checked,,
+38.95.88.3:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"TELECABLE DOMINICANO, S.A.",9234,Not Checked,,
+38.248.80.19:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,Cogent Communications,8118,Not Checked,,
+38.75.82.217:999,HTTP,Dominican Republic,DO,🇩🇴,7,low,No,Cogent Communications,8084,Not Checked,,
+177.234.217.46:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,11831,Not Checked,,
+45.71.186.212:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,8489,Not Checked,,
+177.234.221.195:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,10921,Not Checked,,
+45.71.186.210:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,15036,Not Checked,,
+177.234.217.236:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,8311,Not Checked,,
+181.198.75.186:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Telconet S.A,11955,Not Checked,,
+200.24.217.148:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Otecel S.A,8524,Not Checked,,
+45.71.186.211:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,6981,Not Checked,,
+181.78.195.137:999,HTTP,Ecuador,EC,🇪🇨,1,low,No,Ufinet Panama S.A.,816,Not Checked,,
+200.63.104.131:8089,HTTP,Ecuador,EC,🇪🇨,1,low,Yes,Eliana Vanessa Morocho Oña,11783,Not Checked,,
+181.119.224.25:8080,HTTP,Ecuador,EC,🇪🇨,1,low,Yes,Ufinet Panama S.A.,3740,Not Checked,,
+157.100.12.149:999,HTTP,Ecuador,EC,🇪🇨,1,low,No,Telconet S.A,12118,Not Checked,,
+157.100.52.68:999,HTTP,Ecuador,EC,🇪🇨,2,low,No,Ufinet Panama S.A.,13471,Not Checked,,
+164.163.133.158:999,HTTP,Ecuador,EC,🇪🇨,2,low,No,Ufinet Panama S.A.,7967,Not Checked,,
+181.188.216.3:8080,HTTP,Ecuador,EC,🇪🇨,2,low,No,Ufinet Panama S.A.,6801,Not Checked,,
+102.164.252.150:8080,HTTP,Equatorial Guinea,GQ,🇬🇶,0,low,No,"Conexxia Guinea Equatorial, S.L",6639,Not Checked,,
+85.209.156.148:1080,HTTP,Finland,FI,🇫🇮,0,low,No,Oy Crea Nova Hosting Solution Ltd,7156,Not Checked,,
+204.168.225.55:8888,HTTP,Finland,FI,🇫🇮,7,low,No,Hetzner Online GmbH,4045,Not Checked,,
+191.44.91.60:8080,HTTP,France,FR,🇫🇷,0,low,No,High Speed For Internet Services L.L.C,11594,Not Checked,,
+94.43.164.242:8080,HTTP,Georgia,GE,🇬🇪,0,low,No,"JSC ""Silknet""",9725,Not Checked,,
+85.117.56.66:8080,HTTP,Georgia,GE,🇬🇪,0,low,No,Caucasus Online Ltd.,9765,Not Checked,,
+85.117.56.29:8080,HTTP,Georgia,GE,🇬🇪,0,low,No,Caucasus Online Ltd.,7261,Not Checked,,
+85.117.56.85:8080,HTTP,Georgia,GE,🇬🇪,0,low,No,Caucasus Online Ltd.,14537,Not Checked,,
+95.104.123.18:8080,HTTP,Georgia,GE,🇬🇪,4,low,No,Magticom Ltd.,9990,Not Checked,,
+158.179.58.126:3128,HTTP,Germany,DE,🇩🇪,2,low,Yes,Oracle Corporation,928,Not Checked,,
+158.179.58.126:3128,HTTP,Germany,DE,🇩🇪,2,low,Yes,Oracle Corporation,861,Not Checked,,
+138.201.52.251:3128,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,13129,Not Checked,,
+159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,12,low,No,netcup GmbH,4213,Not Checked,,
+159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,12,low,No,netcup GmbH,3571,Not Checked,,
+161.97.94.168:6001,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,8784,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1052,Not Checked,,
+161.35.70.249:8080,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1073,Not Checked,,
+139.162.150.46:3128,HTTP,Germany,DE,🇩🇪,54,medium,No,"Akamai Technologies, Inc.",9238,Not Checked,,
+138.118.107.29:999,HTTP,Guatemala,GT,🇬🇹,0,low,No,"ONNO NETWORKS, SOCIEDAD ANÓNIMA",10068,Not Checked,,
+38.52.209.229:999,HTTP,Guatemala,GT,🇬🇹,0,low,No,Central De Redes Y Comunicaciones De Guatemala S.A,9172,Not Checked,,
+181.119.109.10:999,HTTP,Guatemala,GT,🇬🇹,1,low,No,Ufinet Panama S.A.,13894,Not Checked,,
+45.228.233.78:999,HTTP,Guatemala,GT,🇬🇹,2,low,No,Ufinet Panama S.A.,5224,Not Checked,,
+179.49.113.230:999,HTTP,Honduras,HN,🇭🇳,0,low,No,Asociacion De Servicio De Internet S. De RL,10675,Not Checked,,
+164.163.74.97:999,HTTP,Honduras,HN,🇭🇳,0,low,No,Grupo Inma S.A,7831,Not Checked,,
+200.52.148.212:999,HTTP,Honduras,HN,🇭🇳,0,low,No,Redes y Telecomunicaciones,10503,Not Checked,,
+192.141.165.131:999,HTTP,Honduras,HN,🇭🇳,0,low,No,Denis Javier Rodríguez Guzmán,11805,Not Checked,,
+200.52.148.212:999,HTTP,Honduras,HN,🇭🇳,0,low,No,Redes y Telecomunicaciones,8433,Not Checked,,
+165.154.7.156:8888,HTTP,Hong Kong,HK,🇭🇰,0,low,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,7640,Not Checked,,
+39.109.76.241:8080,HTTP,Hong Kong,HK,🇭🇰,0,low,No,Union FU WAH Digital Technology Limited,7908,Not Checked,,
+103.26.110.125:84,HTTP,India,IN,🇮🇳,0,low,No,Niss Networks,10902,Not Checked,,
+103.24.127.129:8080,HTTP,India,IN,🇮🇳,0,low,No,Pioneer Elabs Ltd.,10985,Not Checked,,
+103.74.144.57:83,HTTP,India,IN,🇮🇳,0,low,No,Airmax Internet Private Limited,15515,Not Checked,,
+103.137.218.113:83,HTTP,India,IN,🇮🇳,0,low,No,Nandbalaji Connecting Zone Pvt. Ltd,6874,Not Checked,,
+160.19.41.40:80,HTTP,India,IN,🇮🇳,0,low,No,ATC INFOCOM SOLUTIONS PVT LTD,11834,Not Checked,,
+103.178.160.149:3128,HTTP,India,IN,🇮🇳,0,low,No,Nktechnologies Itsol Private Limited,8652,Not Checked,,
+103.170.46.245:8080,HTTP,India,IN,🇮🇳,0,low,No,THINGS OF INDIA (OPC) PRIVATE LIMITED,10879,Not Checked,,
+103.155.130.94:8080,HTTP,India,IN,🇮🇳,0,low,No,Haash Media,12033,Not Checked,,
+80.225.236.163:3128,HTTP,India,IN,🇮🇳,2,low,No,Oracle Corporation,10108,Not Checked,,
+62.171.161.88:2018,HTTP,India,IN,🇮🇳,15,low,No,Contabo GmbH,6728,Not Checked,,
+139.59.1.14:80,HTTP,India,IN,🇮🇳,39,medium,No,DIGITALOCEAN,1765,Not Checked,,
+139.59.1.14:8080,HTTP,India,IN,🇮🇳,39,medium,No,DIGITALOCEAN,1974,Not Checked,,
+103.147.247.203:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PLBNET,6810,Not Checked,,
+103.86.117.23:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Link Data Sumber Barokah,6889,Not Checked,,
+2.26.234.3:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Fiber Networks Indonesia,6724,Not Checked,,
+103.112.139.162:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Power Networking Indonesia,7489,Not Checked,,
+160.19.146.76:2022,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Taska Sarana Nusantara,8145,Not Checked,,
+103.173.163.199:8818,HTTP,Indonesia,ID,🇮🇩,0,low,No,Paket Data Andal,8745,Not Checked,,
+103.172.71.205:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,AZNET,9369,Not Checked,,
+103.247.14.138:7778,HTTP,Indonesia,ID,🇮🇩,0,low,No,TERABIT,10301,Not Checked,,
+103.248.9.229:8090,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Flashnet Inovasi Teknologi,11507,Not Checked,,
+103.156.17.125:8818,HTTP,Indonesia,ID,🇮🇩,0,low,No,RSTNET,7170,Not Checked,,
+103.183.8.183:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Cepat Multi Data,12717,Not Checked,,
+103.183.13.94:80,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT iForte Global Internet,12214,Not Checked,,
+8.215.15.163:111,HTTP,Indonesia,ID,🇮🇩,0,low,No,"Alibaba (US) Technology Co., Ltd.",8060,Not Checked,,
+202.162.195.157:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Media Antar Nusa,6728,Not Checked,,
+38.253.240.87:9191,HTTP,Indonesia,ID,🇮🇩,0,low,No,Cogent Communications,6823,Not Checked,,
+157.15.212.38:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Griya Akses Teknologi,6814,Not Checked,,
+103.172.42.37:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Media Solusi Sukses,6316,Not Checked,,
+8.215.3.250:8443,HTTP,Indonesia,ID,🇮🇩,0,low,No,Alibaba Cloud (Singapore) Private Limited,8063,Not Checked,,
+103.191.218.51:9090,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Replay Inti Media,8042,Not Checked,,
+103.131.18.82:8011,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Global Media Data Prima,6825,Not Checked,,
+103.156.233.57:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,MULTIMEDIALINKTECH,8154,Not Checked,,
+103.156.15.55:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Lintas Jaringan Nusantara,9926,Not Checked,,
+103.187.86.6:8183,HTTP,Indonesia,ID,🇮🇩,0,low,No,BINERI,10011,Not Checked,,
+103.172.120.189:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Digital Akses Nusantara,11011,Not Checked,,
+203.175.103.173:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Mitra Kita Brilian,10835,Not Checked,,
+103.184.180.135:2021,HTTP,Indonesia,ID,🇮🇩,0,low,No,"Lintas Data Prima, PT",11135,Not Checked,,
+210.87.92.212:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Indo Telemedia Solusi,8663,Not Checked,,
+144.79.241.254:3128,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Aryaka Lintas Media,10788,Not Checked,,
+160.19.19.239:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Indo Telemedia Solusi,13823,Not Checked,,
+103.97.141.67:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jembatan Data Pangrango,9365,Not Checked,,
+160.22.45.14:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Celebes Multi Network,11879,Not Checked,,
+162.4.219.145:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Nexzet Network Digital,11731,Not Checked,,
+103.171.255.188:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Zona Kolektif Indonesia,8876,Not Checked,,
+103.165.232.82:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT iForte Global Internet,10204,Not Checked,,
+103.153.62.217:8181,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Ikhlas Cipta Teknologi,10105,Not Checked,,
+210.87.93.164:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Indo Telemedia Solusi,10915,Not Checked,,
+103.56.205.84:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,Argon Data Communication,12761,Not Checked,,
+103.19.78.136:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Persada Data Multimedia,6816,Not Checked,,
+103.158.210.80:8082,HTTP,Indonesia,ID,🇮🇩,0,low,No,DIGITNET,6804,Not Checked,,
+103.111.99.6:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Mitra Lintas Multimedia,13149,Not Checked,,
+202.47.188.205:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,"Lintas Data Prima, PT",6227,Not Checked,,
+38.46.214.249:7777,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Usaha Adi Sanggoro,11260,Not Checked,,
+103.162.55.2:8050,HTTP,Indonesia,ID,🇮🇩,0,low,No,Institut Agama Islam Negeri Madura,6905,Not Checked,,
+163.47.25.50:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT STAR HOME INDONESIA,7409,Not Checked,,
+103.174.123.5:8089,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jaya Sejahtra Nugraha,8524,Not Checked,,
+210.79.140.156:8181,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Era Zia Sakti,8068,Not Checked,,
+210.87.92.84:3128,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Indo Telemedia Solusi,9124,Not Checked,,
+103.166.158.239:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Timor Lintas Nusantara,9150,Not Checked,,
+180.211.93.108:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,KINGS,9039,Not Checked,,
+160.22.205.66:8090,HTTP,Indonesia,ID,🇮🇩,0,low,No,DNS,9651,Not Checked,,
+103.97.140.64:8080,HTTP,Indonesia,ID,🇮🇩,0,low,Yes,PT Jembatan Data Pangrango,13003,Not Checked,,
+5.181.178.46:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Perwira Media Solusi,8571,Not Checked,,
+157.66.36.55:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Trik Media Data,6753,Not Checked,,
+163.61.55.173:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT INFINITY GLOBAL DATA NUSANTARA,6773,Not Checked,,
+103.155.190.130:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,Trisula Media Data,6992,Not Checked,,
+146.196.108.81:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Maxindo Mitra Solusi,7212,Not Checked,,
+202.47.67.192:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,JETCOMSNET,7596,Not Checked,,
+103.154.77.204:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,T2NET,8435,Not Checked,,
+163.61.245.26:1452,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT NAOMI AURORA TEKNOLOGI,8554,Not Checked,,
+157.20.35.18:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Desible Eradata Komunikasi,8704,Not Checked,,
+144.79.37.44:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Netindo Persada Nusantara,10616,Not Checked,,
+165.99.194.139:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Network Bumi Saridin,12312,Not Checked,,
+111.68.122.156:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,"Varnion Technology Semesta, PT",11074,Not Checked,,
+103.156.74.209:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Trika Global Media,11683,Not Checked,,
+103.165.155.210:2016,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jaringan Keluarga Bersama,10048,Not Checked,,
+154.19.39.111:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Lintas Network Solusi,11884,Not Checked,,
+103.110.11.219:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Citra Jelajah Informatika,14505,Not Checked,,
+103.157.79.58:8080,HTTP,Indonesia,ID,🇮🇩,0,low,Yes,EASTMEDIA,10843,Not Checked,,
+160.25.54.34:7777,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Nara Borneo Pratama,10441,Not Checked,,
+49.0.2.104:8989,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Usaha Adi Sanggoro,10249,Not Checked,,
+165.99.100.31:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT TELEKOMUNIKASI INDO PRIMA,10559,Not Checked,,
+103.194.175.51:7777,HTTP,Indonesia,ID,🇮🇩,0,low,No,MYNET,13035,Not Checked,,
+154.18.255.121:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Media Solusi Sukses,7740,Not Checked,,
+103.118.224.19:5678,HTTP,Indonesia,ID,🇮🇩,0,low,No,CBN,7396,Not Checked,,
+103.46.11.160:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,"Lintas Data Prima, PT",8927,Not Checked,,
+121.101.133.209:8081,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT SELARAS CITRA TERABIT,11561,Not Checked,,
+103.169.135.43:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Neo Santara Solusi,11518,Not Checked,,
+103.151.226.246:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,URBANACCESS,6762,Not Checked,,
+103.146.38.89:3127,HTTP,Indonesia,ID,🇮🇩,0,low,No,MEDIASOLUSISUKSES,8141,Not Checked,,
+103.114.52.78:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,Proxy-registered,11634,Not Checked,,
+103.139.99.246:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,Digital Network Setiawan,11057,Not Checked,,
+103.161.195.22:3125,HTTP,Indonesia,ID,🇮🇩,0,low,Yes,PT Java Media Grup,11552,Not Checked,,
+202.47.65.146:3129,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Filltech Antar Nusa,7648,Not Checked,,
+103.169.133.118:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Alfa Omega Interkoneksi,12399,Not Checked,,
+160.19.19.170:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Indo Telemedia Solusi,11284,Not Checked,,
+160.19.146.95:2022,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Taska Sarana Nusantara,11451,Not Checked,,
+157.66.2.5:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Ashyla Karya Abadi,12402,Not Checked,,
+36.89.90.97:3128,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Telekomunikasi Indonesia,11337,Not Checked,,
+210.79.141.87:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Reueus Sumber Data,8944,Not Checked,,
+154.18.255.121:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Media Solusi Sukses,11133,Not Checked,,
+103.159.96.117:80,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jinde Grup Indonesia,12812,Not Checked,,
+163.128.149.200:3128,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT METROMATIKA TEKNOLOGI REKAYASA,9941,Not Checked,,
+160.22.26.37:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Sinar Technology Jaya,7889,Not Checked,,
+103.189.138.254:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Nexa Media Pratama,14796,Not Checked,,
+41.216.190.239:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,Perwira,8220,Not Checked,,
+113.192.31.79:8099,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Indo Telemedia Solusi,11492,Not Checked,,
+103.179.183.153:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Internusa Duta Makmur,14955,Not Checked,,
+103.193.144.13:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Lintas Jaringan Nusantara,14021,Not Checked,,
+110.232.92.49:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Media Antar Nusa,9623,Not Checked,,
+163.223.150.82:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Microcyber Data Indonesia,9363,Not Checked,,
+202.145.5.208:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jala Lintas Media,7757,Not Checked,,
+103.133.27.143:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT PHATRIA INTI PERSADA,9844,Not Checked,,
+160.19.146.173:2022,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Taska Sarana Nusantara,10037,Not Checked,,
+163.61.55.113:7777,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT INFINITY GLOBAL DATA NUSANTARA,9636,Not Checked,,
+103.232.67.58:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. KINEZ CREATIVE SOLUTIONS,9624,Not Checked,,
+163.223.78.125:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Big Network Indonesia,6830,Not Checked,,
+103.162.54.91:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Pratama Asia Globalindo,11398,Not Checked,,
+103.166.158.41:1080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Timor Lintas Nusantara,6244,Not Checked,,
+103.147.77.66:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,TRIDATA,7928,Not Checked,,
+160.22.64.16:8097,HTTP,Indonesia,ID,🇮🇩,0,low,No,"Lintas Data Prima, PT",7014,Not Checked,,
+157.10.156.155:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Singki Media Telekomunikasi,13038,Not Checked,,
+103.193.144.223:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Lintas Jaringan Nusantara,8519,Not Checked,,
+103.4.76.242:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Khazanah Net Indonesia,12197,Not Checked,,
+103.124.136.219:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,Global Media Data Prima,7666,Not Checked,,
+103.172.42.147:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Media Solusi Sukses,7199,Not Checked,,
+101.255.104.54:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Remala Abadi,9904,Not Checked,,
+103.175.202.165:8090,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Ameera Mega Buana,8549,Not Checked,,
+38.103.250.115:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Erajaya Telco Indonesia / Eratel /Eratelindo,10618,Not Checked,,
+103.147.247.169:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PLBNET,11959,Not Checked,,
+103.156.75.243:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Trika Global Media,7194,Not Checked,,
+103.187.113.241:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Adi Solusindo Teknologi,13531,Not Checked,,
+202.73.27.154:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Usaha Adisanggoro,8252,Not Checked,,
+139.255.33.243:3128,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. LINKNET,8120,Not Checked,,
+165.99.239.7:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT MERDEKA TELEKOMUNIKASI CENTER,8633,Not Checked,,
+103.178.2.190:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,RSTNET,9075,Not Checked,,
+103.156.14.54:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Lintas Jaringan Nusantara,7644,Not Checked,,
+103.178.171.113:8181,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Trisari Data Indonusa,9323,Not Checked,,
+160.22.197.120:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Bifimerah Network Solution,7926,Not Checked,,
+116.68.249.25:8089,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Cross Network Indonesia,11111,Not Checked,,
+103.174.236.88:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Global Erasiber Teknologi,11236,Not Checked,,
+160.19.145.103:3127,HTTP,Indonesia,ID,🇮🇩,0,low,No,"Lintas Data Prima, PT",12388,Not Checked,,
+116.254.118.180:80,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Media Sarana Data,9516,Not Checked,,
+154.58.138.231:8088,HTTP,Indonesia,ID,🇮🇩,0,low,No,Cogent Communications,10298,Not Checked,,
+103.24.214.169:8081,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. ADAU PUTRA NETWORK,7230,Not Checked,,
+156.230.176.245:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,My Republic Indonesia,8255,Not Checked,,
+103.146.38.121:8086,HTTP,Indonesia,ID,🇮🇩,0,low,No,MEDIASOLUSISUKSES,11079,Not Checked,,
+121.101.134.181:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT SELARAS CITRA TERABIT,9419,Not Checked,,
+103.80.214.243:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Redi Revolusi Digital Solusi,7721,Not Checked,,
+103.167.156.202:8084,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jaringan Tiang Indonesia Group,12162,Not Checked,,
+103.165.212.26:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT iForte Global Internet,10126,Not Checked,,
+101.255.32.41:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Remala Abadi,13764,Not Checked,,
+103.97.141.33:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jembatan Data Pangrango,10972,Not Checked,,
+103.146.38.53:1080,HTTP,Indonesia,ID,🇮🇩,0,low,No,MEDIASOLUSISUKSES,7948,Not Checked,,
+103.97.140.199:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jembatan Data Pangrango,11371,Not Checked,,
+203.175.103.139:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Mitra Kita Brilian,8991,Not Checked,,
+103.146.38.107:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,MEDIASOLUSISUKSES,12315,Not Checked,,
+103.184.54.171:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Proxi Jaringan Nusantara,11532,Not Checked,,
+175.184.236.12:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,Indonesia Network Information Center,9455,Not Checked,,
+103.156.233.33:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,MULTIMEDIALINKTECH,8503,Not Checked,,
+182.253.109.169:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,Biznet Networks,8681,Not Checked,,
+202.51.121.59:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT iForte Global Internet,10615,Not Checked,,
+103.68.214.164:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Media Grasi Internet,6896,Not Checked,,
+202.179.188.6:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Telemedia Dinamika Sarana,8806,Not Checked,,
+202.73.27.154:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Usaha Adisanggoro,6653,Not Checked,,
+160.19.145.101:3127,HTTP,Indonesia,ID,🇮🇩,0,low,No,"Lintas Data Prima, PT",12770,Not Checked,,
+103.173.230.250:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Jaringan Internet Banten,6203,Not Checked,,
+103.184.52.66:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Milenial Inti Telekomunikasi,10009,Not Checked,,
+160.19.146.220:2022,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Taska Sarana Nusantara,7805,Not Checked,,
+113.192.12.225:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Parsaoran Global Datatrans,7856,Not Checked,,
+103.162.63.70:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Ring Media Nusantara,10329,Not Checked,,
+43.252.106.147:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Lintas Data Prima,9931,Not Checked,,
+160.22.197.120:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Bifimerah Network Solution,11037,Not Checked,,
+103.191.171.18:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Sahabat Manjur Grup,10772,Not Checked,,
+202.1.24.149:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Global Media Jaringan Nasional,13655,Not Checked,,
+103.124.138.93:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,Global Media Data Prima,9899,Not Checked,,
+160.19.178.62:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jaringan Cyber Evo,9626,Not Checked,,
+103.167.68.84:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Kataji Nukami Indonesia,7701,Not Checked,,
+103.131.19.30:8011,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Global Media Data Prima,8451,Not Checked,,
+103.160.202.174:3125,HTTP,Indonesia,ID,🇮🇩,0,low,Yes,PT Sembilan Mediadata Nusaraya,9176,Not Checked,,
+103.204.46.2:8090,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Wifa Lintas Data,8976,Not Checked,,
+160.19.19.100:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Indo Telemedia Solusi,13483,Not Checked,,
+202.58.73.246:1111,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Data Buana Nusantara,10461,Not Checked,,
+103.157.79.228:1080,HTTP,Indonesia,ID,🇮🇩,0,low,No,EASTMEDIA,8306,Not Checked,,
+203.175.103.45:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. Mitra Kita Brilian,8491,Not Checked,,
+103.146.26.12:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,INMEET,8386,Not Checked,,
+103.161.131.110:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jaringan Internet Nusantara,6682,Not Checked,,
+103.188.168.67:3125,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Lintas Jaringan Nusantara,7570,Not Checked,,
+163.227.252.3:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT DASA INFRA INDONESIA,10268,Not Checked,,
+103.106.219.171:8081,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. ARTHA LINTAS DATA MANDIRI,13401,Not Checked,,
+157.20.35.40:9090,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Desible Eradata Komunikasi,9191,Not Checked,,
+103.203.233.134:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Inti Data Guna,13464,Not Checked,,
+115.178.55.221:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,NOC SIMAYA,9197,Not Checked,,
+38.52.148.18:3125,HTTP,Indonesia,ID,🇮🇩,0,low,Yes,PT Nusa Data Multimedia,14877,Not Checked,,
+139.255.33.243:3128,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT. LINKNET,11767,Not Checked,,
+103.211.82.92:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,Badan Pengelola Keuangan dan Aset Daerah Kota Batu,7576,Not Checked,,
+103.131.19.30:8011,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Global Media Data Prima,14907,Not Checked,,
+103.66.62.125:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Buana Visualnet Sentra,7208,Not Checked,,
+103.191.196.33:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Pangkalan Lintas Data,8639,Not Checked,,
+124.158.186.254:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Jala Lintas Media,9395,Not Checked,,
+103.147.77.212:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,TRIDATA,13088,Not Checked,,
+103.178.3.253:8818,HTTP,Indonesia,ID,🇮🇩,0,low,No,RSTNET,9616,Not Checked,,
+103.172.120.94:8080,HTTP,Indonesia,ID,🇮🇩,0,low,No,PT Digital Akses Nusantara,15527,Not Checked,,
+36.64.2.214:8090,HTTP,Indonesia,ID,🇮🇩,0,low,No,Telekomunikasi Indonesia,13781,Not Checked,,
+36.92.199.158:8080,HTTP,Indonesia,ID,🇮🇩,2,low,No,PT. Telekomunikasi Indonesia,9978,Not Checked,,
+36.66.180.186:8080,HTTP,Indonesia,ID,🇮🇩,2,low,No,PT. Telekomunikasi Indonesia,10675,Not Checked,,
+149.129.255.179:5060,HTTP,Indonesia,ID,🇮🇩,3,low,No,Alibaba.com Singapore E-Commerce Private Limited,8225,Not Checked,,
+103.145.34.141:1111,HTTP,Indonesia,ID,🇮🇩,25,medium,No,PT Lintas Data Multimedia,13963,Not Checked,,
+111.68.26.237:8080,HTTP,Indonesia,ID,🇮🇩,25,medium,No,GMEDIA,10606,Not Checked,,
+81.12.70.98:8080,HTTP,Iran,IR,🇮🇷,0,low,Yes,Respina Networks & Beyond PJSC,8623,Not Checked,,
+80.210.52.28:8080,HTTP,Iran,IR,🇮🇷,0,low,No,TIC,6621,Not Checked,,
+79.175.133.48:8080,HTTP,Iran,IR,🇮🇷,0,low,No,AFranet Co,12087,Not Checked,,
+85.9.87.26:8080,HTTP,Iran,IR,🇮🇷,0,low,No,Web Gostaran Bandar Company,12854,Not Checked,,
+46.100.44.35:8080,HTTP,Iran,IR,🇮🇷,0,low,No,Iran Telecommunication Company PJS,7107,Not Checked,,
+31.14.124.45:8080,HTTP,Iran,IR,🇮🇷,0,low,No,Afranet,11368,Not Checked,,
+62.201.217.194:8080,HTTP,Iraq,IQ,🇮🇶,0,low,No,BAG,12705,Not Checked,,
+65.20.230.118:9090,HTTP,Iraq,IQ,🇮🇶,0,low,No,Hulum,10916,Not Checked,,
+149.86.206.27:8080,HTTP,Italy,IT,🇮🇹,0,low,No,Sirius Technology SRL,13047,Not Checked,,
+188.217.229.36:8080,HTTP,Italy,IT,🇮🇹,2,low,No,VODAFONE,9288,Not Checked,,
+47.91.29.151:8081,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba.com LLC,8536,Not Checked,,
+163.43.113.134:80,HTTP,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,6884,Not Checked,,
+163.43.113.134:80,HTTP,Japan,JP,🇯🇵,0,low,No,SAKURA Internet Inc.,7920,Not Checked,,
+140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,965,Not Checked,,
+139.162.78.109:80,HTTP,Japan,JP,🇯🇵,54,medium,No,"Akamai Technologies, Inc.",933,Not Checked,,
+139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,54,medium,No,"Akamai Technologies, Inc.",1019,Not Checked,,
+102.213.179.194:8081,HTTP,Kenya,KE,🇰🇪,0,low,No,NEXT THING NETWORKS Limited,7747,Not Checked,,
+102.213.179.66:8080,HTTP,Kenya,KE,🇰🇪,0,low,No,NEXT THING NETWORKS Limited,7147,Not Checked,,
+102.213.179.66:8080,HTTP,Kenya,KE,🇰🇪,0,low,No,NEXT THING NETWORKS Limited,7039,Not Checked,,
+102.0.18.18:8080,HTTP,Kenya,KE,🇰🇪,3,low,No,Airtel KE Mobile & Fixed Internet,10279,Not Checked,,
+197.248.16.109:8080,HTTP,Kenya,KE,🇰🇪,6,low,No,Safaricom Limited,4066,Not Checked,,
+41.139.164.19:8080,HTTP,Kenya,KE,🇰🇪,8,low,No,Converged services Eastern,9163,Not Checked,,
+41.139.160.219:8104,HTTP,Kenya,KE,🇰🇪,8,low,No,Converged services Eastern,14640,Not Checked,,
+188.253.20.105:3129,HTTP,Latvia,LV,🇱🇻,7,low,No,SIA VEESP,9977,Not Checked,,
+185.82.99.204:92,HTTP,Lebanon,LB,🇱🇧,0,low,No,NET 360 S.A.R.L,10622,Not Checked,,
+154.73.28.89:8080,HTTP,Libya,LY,🇱🇾,0,low,No,"LTT Autonomous System, Tripoli Libya",8303,Not Checked,,
+102.23.220.66:8520,HTTP,Libya,LY,🇱🇾,0,low,No,LibyanElite,8606,Not Checked,,
+62.68.48.22:8080,HTTP,Libya,LY,🇱🇾,0,low,No,LTT Network Backbone and POPs,13487,Not Checked,,
+165.16.2.250:9999,HTTP,Libya,LY,🇱🇾,3,low,No,Aljeel Aljadeed For Technology,11379,Not Checked,,
+47.250.177.202:10804,HTTP,Malaysia,MY,🇲🇾,0,low,No,"Alibaba (US) Technology Co., Ltd.",8057,Not Checked,,
+47.250.11.111:9080,HTTP,Malaysia,MY,🇲🇾,1,low,No,Alibaba Cloud LLC,8023,Not Checked,,
+201.165.187.252:999,HTTP,Mexico,MX,🇲🇽,0,low,No,"Mega Cable, S.A. de C.V.",6965,Not Checked,,
+201.139.115.206:8082,HTTP,Mexico,MX,🇲🇽,0,low,No,Kiwi Networks S A P I de CV,14310,Not Checked,,
+187.251.224.167:80,HTTP,Mexico,MX,🇲🇽,0,low,No,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",9536,Not Checked,,
+45.189.252.50:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Tracered SA De CV,8681,Not Checked,,
+190.9.48.193:999,HTTP,Mexico,MX,🇲🇽,0,low,No,"Konecta de Mexico, S. de R.L. de C.V.",8507,Not Checked,,
+38.19.111.74:8080,HTTP,Mexico,MX,🇲🇽,0,low,No,Tecnologias FEM S.a.s De C.V,8280,Not Checked,,
+205.164.192.115:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,9914,Not Checked,,
+177.242.132.38:999,HTTP,Mexico,MX,🇲🇽,0,low,No,"Mega Cable, S.A. de C.V.",7897,Not Checked,,
+38.194.231.66:999,HTTP,Mexico,MX,🇲🇽,0,low,No,IENTC S de RL de CV,10419,Not Checked,,
+164.163.188.115:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Internet Telefonia Y TV De Michoacan SA De CV,11451,Not Checked,,
+148.230.212.70:8080,HTTP,Mexico,MX,🇲🇽,0,low,No,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",9136,Not Checked,,
+45.184.124.33:1985,HTTP,Mexico,MX,🇲🇽,0,low,No,Servicios y Asesoria Tecnobba S.A.S. de C.V.,10416,Not Checked,,
+170.78.208.32:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Wantelco SAS de CV,6727,Not Checked,,
+38.49.140.226:999,HTTP,Mexico,MX,🇲🇽,0,low,No,IENTC S de RL de CV,6431,Not Checked,,
+45.7.67.158:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Maysnet SA De CV,9138,Not Checked,,
+38.123.220.211:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,10523,Not Checked,,
+189.51.171.226:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Comunicación por Fibra SA de CV,10587,Not Checked,,
+187.251.230.15:8080,HTTP,Mexico,MX,🇲🇽,0,low,No,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",6289,Not Checked,,
+205.164.192.115:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,11770,Not Checked,,
+187.249.92.247:999,HTTP,Mexico,MX,🇲🇽,1,low,No,Transtelco Inc,7792,Not Checked,,
+187.147.82.2:8080,HTTP,Mexico,MX,🇲🇽,1,low,No,Uninet S.A. de C.V.,5384,Not Checked,,
+187.243.251.254:999,HTTP,Mexico,MX,🇲🇽,1,low,No,"Mega Cable, S.A. de C.V.",7741,Not Checked,,
+45.174.242.145:999,HTTP,Mexico,MX,🇲🇽,14,low,No,Sistemas Y Soluciones De Campeche SAS De CV,7150,Not Checked,,
+45.174.243.96:999,HTTP,Mexico,MX,🇲🇽,14,low,No,Sistemas Y Soluciones De Campeche SAS De CV,7610,Not Checked,,
+45.174.242.145:999,HTTP,Mexico,MX,🇲🇽,14,low,No,Sistemas Y Soluciones De Campeche SAS De CV,4669,Not Checked,,
+45.174.243.96:999,HTTP,Mexico,MX,🇲🇽,14,low,No,Sistemas Y Soluciones De Campeche SAS De CV,4600,Not Checked,,
+45.174.243.160:999,HTTP,Mexico,MX,🇲🇽,14,low,No,Sistemas Y Soluciones De Campeche SAS De CV,6422,Not Checked,,
+45.174.243.24:999,HTTP,Mexico,MX,🇲🇽,14,low,No,Sistemas Y Soluciones De Campeche SAS De CV,8279,Not Checked,,
+45.174.243.20:999,HTTP,Mexico,MX,🇲🇽,14,low,No,Sistemas Y Soluciones De Campeche SAS De CV,10169,Not Checked,,
+69.171.214.128:999,HTTP,Mexico,MX,🇲🇽,62,high,No,Ipxo LLC,5978,Not Checked,,
+202.21.101.37:8088,HTTP,Mongolia,MN,🇲🇳,0,low,No,Mobinet LLC,10232,Not Checked,,
+160.179.186.133:3129,HTTP,Morocco,MA,🇲🇦,1,low,No,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,6249,Not Checked,,
+160.179.186.129:3129,HTTP,Morocco,MA,🇲🇦,1,low,No,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,6429,Not Checked,,
+160.179.189.239:3129,HTTP,Morocco,MA,🇲🇦,1,low,No,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,5672,Not Checked,,
+203.81.69.126:1248,HTTP,Myanmar,MM,🇲🇲,12,low,No,Myanma Post & Telecommunication,9537,Not Checked,,
+139.5.75.83:8080,HTTP,Nepal,NP,🇳🇵,0,low,No,WLINK,6408,Not Checked,,
+205.234.123.109:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,RedSwitches Pty LTD.,7902,Not Checked,,
+194.48.141.34:3129,HTTP,Netherlands,NL,🇳🇱,0,low,No,Anton Levin,9764,Not Checked,,
+141.144.206.124:1080,HTTP,Netherlands,NL,🇳🇱,2,low,No,Oracle Corporation,8019,Not Checked,,
+144.124.251.24:10605,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,844,Not Checked,,
+144.124.251.24:11480,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,794,Not Checked,,
+144.124.251.24:10428,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,905,Not Checked,,
+144.124.251.24:10771,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,824,Not Checked,,
+144.124.251.24:10806,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,841,Not Checked,,
+144.124.251.24:10877,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,801,Not Checked,,
+144.124.251.24:10261,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,872,Not Checked,,
+144.124.251.24:10465,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1128,Not Checked,,
+144.124.251.24:10366,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,795,Not Checked,,
+144.124.251.24:11480,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,799,Not Checked,,
+144.124.251.24:10261,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,922,Not Checked,,
+144.124.251.24:10136,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,824,Not Checked,,
+144.124.251.24:10123,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,832,Not Checked,,
+144.124.251.24:10167,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,957,Not Checked,,
+144.124.251.24:10526,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,895,Not Checked,,
+144.124.251.24:10813,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1287,Not Checked,,
+144.124.251.24:10279,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,909,Not Checked,,
+144.124.251.24:10007,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,836,Not Checked,,
+144.124.251.24:10811,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,929,Not Checked,,
+144.124.251.24:10818,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,816,Not Checked,,
+87.199.202.58:443,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,6869,Not Checked,,
+91.210.108.19:8080,HTTP,Netherlands,NL,🇳🇱,5,low,No,BlueVPS OU,10728,Not Checked,,
+146.190.232.76:3128,HTTP,Netherlands,NL,🇳🇱,51,medium,Yes,"DigitalOcean, LLC",822,Not Checked,,
+146.190.232.76:3128,HTTP,Netherlands,NL,🇳🇱,51,medium,Yes,"DigitalOcean, LLC",2129,Not Checked,,
+134.122.57.172:8080,HTTP,Netherlands,NL,🇳🇱,51,medium,No,"DigitalOcean, LLC",799,Not Checked,,
+41.184.188.20:8082,HTTP,Nigeria,NG,🇳🇬,43,medium,No,ipNX Nigeria Limited,10178,Not Checked,,
+103.246.109.114:8080,HTTP,Pakistan,PK,🇵🇰,0,low,No,Connect Communication,13412,Not Checked,,
+182.184.30.96:8080,HTTP,Pakistan,PK,🇵🇰,1,low,No,Pakistan Telecommuication company limited,12372,Not Checked,,
+182.184.30.96:8080,HTTP,Pakistan,PK,🇵🇰,1,low,No,Pakistan Telecommuication company limited,9659,Not Checked,,
+110.39.135.194:8080,HTTP,Pakistan,PK,🇵🇰,2,low,No,Wateen Telecom Limited,7081,Not Checked,,
+87.229.14.66:8080,HTTP,Palestine,PS,🇵🇸,0,low,No,Thaer A. T. Abuyousef trading as Abuyousef Co & Partners General Trade,11568,Not Checked,,
+213.6.240.211:19000,HTTP,Palestine,PS,🇵🇸,5,low,No,Palestine Telecommunications Company,10010,Not Checked,,
+188.161.150.217:9090,HTTP,Palestine,PS,🇵🇸,8,low,No,Palestine Telecommunications Company,11247,Not Checked,,
+181.78.186.3:999,HTTP,Panama,PA,🇵🇦,1,low,No,Ufinet Panama S.A.,8593,Not Checked,,
+37.230.58.20:999,HTTP,Paraguay,PY,🇵🇾,0,low,No,Startelecom S.A.,7770,Not Checked,,
+38.52.135.222:8080,HTTP,Paraguay,PY,🇵🇾,0,low,No,Cogent Communications,6399,Not Checked,,
+38.52.135.222:8080,HTTP,Paraguay,PY,🇵🇾,0,low,No,Cogent Communications,10635,Not Checked,,
+64.76.106.106:999,HTTP,Peru,PE,🇵🇪,0,low,No,LOA NETWORK JL S.A.C,12337,Not Checked,,
+38.158.83.241:999,HTTP,Peru,PE,🇵🇪,0,low,No,Fiberred SAC,6664,Not Checked,,
+190.108.82.251:999,HTTP,Peru,PE,🇵🇪,0,low,No,Internexa Peru S.A,8493,Not Checked,,
+38.52.182.55:999,HTTP,Peru,PE,🇵🇪,0,low,No,Nexsatel Sociedad Anonima Cerrada - .A.C.,9565,Not Checked,,
+209.14.108.105:999,HTTP,Peru,PE,🇵🇪,0,low,No,Corporacion Tarazona Catv S.A.C,10536,Not Checked,,
+209.45.65.53:1011,HTTP,Peru,PE,🇵🇪,0,low,No,Red Cientifica Peruana,10927,Not Checked,,
+190.119.185.156:999,HTTP,Peru,PE,🇵🇪,1,low,No,America Movil Peru S.A.C.,12742,Not Checked,,
+8.212.168.170:80,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8077,Not Checked,,
+152.32.64.43:8095,HTTP,Philippines,PH,🇵🇭,0,low,No,Converge ICT Solution Inc,11719,Not Checked,,
+8.220.141.8:9443,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8117,Not Checked,,
+8.220.136.174:45,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8070,Not Checked,,
+8.212.165.164:3128,HTTP,Philippines,PH,🇵🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",10076,Not Checked,,
+222.127.68.126:8080,HTTP,Philippines,PH,🇵🇭,0,low,No,INNOVE,10976,Not Checked,,
+160.187.221.78:5050,HTTP,Philippines,PH,🇵🇭,0,low,No,Imtech Solution and Data Providers,9211,Not Checked,,
+115.147.254.250:6040,HTTP,Philippines,PH,🇵🇭,0,low,No,Philippine Long Distance Telephone Co.,10635,Not Checked,,
+202.6.206.2:8082,HTTP,Philippines,PH,🇵🇭,0,low,No,JAT I.T. SERVICES,8155,Not Checked,,
+124.6.168.26:8282,HTTP,Philippines,PH,🇵🇭,0,low,No,INNOVE,6459,Not Checked,,
+58.69.248.180:8080,HTTP,Philippines,PH,🇵🇭,2,low,No,Philippine Long Distance Telephone Co.,5769,Not Checked,,
+112.211.38.208:8081,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,11508,Not Checked,,
+180.191.98.117:8080,HTTP,Philippines,PH,🇵🇭,4,low,No,Globe Telecom,6552,Not Checked,,
+122.52.184.149:8082,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,7811,Not Checked,,
+49.147.61.85:8082,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,7743,Not Checked,,
+49.145.55.76:5050,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,9117,Not Checked,,
+119.93.128.161:8082,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,5585,Not Checked,,
+119.93.128.161:8082,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,8508,Not Checked,,
+180.191.142.206:8081,HTTP,Philippines,PH,🇵🇭,4,low,No,Globe Telecom,11130,Not Checked,,
+180.191.143.185:8081,HTTP,Philippines,PH,🇵🇭,4,low,No,Globe Telecom,7105,Not Checked,,
+180.191.229.193:5050,HTTP,Philippines,PH,🇵🇭,4,low,No,Globe Telecom,10196,Not Checked,,
+124.217.0.75:8082,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,6307,Not Checked,,
+49.149.95.151:8080,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,8046,Not Checked,,
+49.151.198.220:8082,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,7985,Not Checked,,
+180.190.241.124:8082,HTTP,Philippines,PH,🇵🇭,4,low,No,Globe Telecom,4268,Not Checked,,
+122.3.52.40:8081,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,5293,Not Checked,,
+180.190.185.211:9999,HTTP,Philippines,PH,🇵🇭,4,low,No,Globe Telecom,10283,Not Checked,,
+49.149.174.69:8082,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,9160,Not Checked,,
+49.146.155.183:8082,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,11612,Not Checked,,
+124.105.3.173:5051,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,2628,Not Checked,,
+112.198.138.29:8082,HTTP,Philippines,PH,🇵🇭,4,low,No,Globe Telecom,5824,Not Checked,,
+124.107.173.219:8082,HTTP,Philippines,PH,🇵🇭,4,low,No,Philippine Long Distance Telephone Co.,3796,Not Checked,,
+180.191.49.73:8090,HTTP,Philippines,PH,🇵🇭,4,low,No,Globe Telecom,12146,Not Checked,,
+112.208.167.183:8081,HTTP,Philippines,PH,🇵🇭,5,low,No,Philippine Long Distance Telephone Co.,5621,Not Checked,,
+112.208.167.50:8082,HTTP,Philippines,PH,🇵🇭,5,low,No,Philippine Long Distance Telephone Co.,9832,Not Checked,,
+112.202.247.74:8082,HTTP,Philippines,PH,🇵🇭,5,low,No,Philippine Long Distance Telephone Co.,6720,Not Checked,,
+124.217.78.107:8081,HTTP,Philippines,PH,🇵🇭,8,low,No,Philippine Long Distance Telephone Co.,9203,Not Checked,,
+203.177.217.222:8082,HTTP,Philippines,PH,🇵🇭,9,low,No,Globe Telecom,2060,Not Checked,,
+138.84.65.187:9090,HTTP,Philippines,PH,🇵🇭,9,low,No,Globe Telecom,8887,Not Checked,,
+67.206.213.202:3120,HTTP,Puerto Rico,PR,🇵🇷,0,low,No,Liberty Mobile Puerto Rico Inc.,6207,Not Checked,,
+192.203.0.166:999,HTTP,Puerto Rico,PR,🇵🇷,0,low,No,Boom NET,13772,Not Checked,,
+45.67.213.4:3128,HTTP,Russia,RU,🇷🇺,0,low,No,Itsoft LLC,12588,Not Checked,,
+45.67.213.4:3128,HTTP,Russia,RU,🇷🇺,0,low,No,Itsoft LLC,11209,Not Checked,,
+80.82.55.71:80,HTTP,Russia,RU,🇷🇺,0,low,No,CenterTelecom Voronezh ISP,6820,Not Checked,,
+188.73.182.140:10808,HTTP,Russia,RU,🇷🇺,0,low,No,"LLC ""KomTehCentr""",6728,Not Checked,,
+188.235.21.247:8080,HTTP,Russia,RU,🇷🇺,0,low,No,"CJSC ""ER-Telecom Holding"" Voronezh branch",7305,Not Checked,,
+176.114.203.165:10809,HTTP,Russia,RU,🇷🇺,0,low,No,Annet Ltd.,9764,Not Checked,,
+80.252.137.246:1194,HTTP,Russia,RU,🇷🇺,0,low,No,for Flex Ltd,9690,Not Checked,,
+188.127.235.21:10809,HTTP,Russia,RU,🇷🇺,0,low,No,LLC Smart Ape,7899,Not Checked,,
+139.28.222.236:1080,HTTP,Russia,RU,🇷🇺,7,low,No,First Server Limited,1789,Not Checked,,
+130.110.103.245:3128,HTTP,Saudi Arabia,SA,🇸🇦,2,low,Yes,Oracle Corporation,1765,Not Checked,,
+47.237.113.119:81,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8029,Not Checked,,
+8.219.229.53:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",9498,Not Checked,,
+47.237.107.41:193,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8028,Not Checked,,
+43.156.66.78:12345,HTTP,Singapore,SG,🇸🇬,1,low,No,Shenzhen Tencent Computer Systems Company Limited,1418,Not Checked,,
+43.156.66.78:12345,HTTP,Singapore,SG,🇸🇬,1,low,No,Shenzhen Tencent Computer Systems Company Limited,1446,Not Checked,,
+18.142.95.213:1111,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,1196,Not Checked,,
+18.142.95.213:50012,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,1222,Not Checked,,
+18.142.95.213:42298,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,1832,Not Checked,,
+18.142.95.213:58,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,1858,Not Checked,,
+18.142.95.213:8095,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,1836,Not Checked,,
+18.142.95.213:6695,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,2400,Not Checked,,
+18.142.95.213:32743,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,2432,Not Checked,,
+13.212.114.145:3130,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,7799,Not Checked,,
+103.164.55.81:3128,HTTP,Singapore,SG,🇸🇬,7,low,Yes,Contabo Asia Private Limited,1508,Not Checked,,
+103.164.55.81:3128,HTTP,Singapore,SG,🇸🇬,7,low,Yes,Contabo Asia Private Limited,1582,Not Checked,,
+128.199.202.122:8080,HTTP,Singapore,SG,🇸🇬,51,medium,No,"DigitalOcean, LLC",1450,Not Checked,,
+128.199.202.122:8080,HTTP,Singapore,SG,🇸🇬,51,medium,No,"DigitalOcean, LLC",1470,Not Checked,,
+91.185.193.115:8080,HTTP,Slovenia,SI,🇸🇮,0,low,No,TELEMACH,9461,Not Checked,,
+169.239.85.121:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,Mezobyte (Pty) LTD,9391,Not Checked,,
+102.141.163.248:8080,HTTP,South Africa,ZA,🇿🇦,3,low,No,Level,7110,Not Checked,,
+8.220.205.172:8080,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",8432,Not Checked,,
+8.220.204.92:1088,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",11594,Not Checked,,
+112.216.54.226:12121,HTTP,South Korea,KR,🇰🇷,1,low,No,LG DACOM Corporation,1726,Not Checked,,
+140.245.66.105:8081,HTTP,South Korea,KR,🇰🇷,2,low,No,Oracle Corporation,13376,Not Checked,,
+140.245.66.105:8081,HTTP,South Korea,KR,🇰🇷,2,low,No,Oracle Corporation,11577,Not Checked,,
+3.35.49.14:8080,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",1210,Not Checked,,
+85.85.187.31:8080,HTTP,Spain,ES,🇪🇸,0,low,No,Xtra Telecom S.A.,13948,Not Checked,,
+90.161.220.67:3128,HTTP,Spain,ES,🇪🇸,0,low,No,UNI2-ABI,10247,Not Checked,,
+187.33.151.110:3128,HTTP,Spain,ES,🇪🇸,0,low,No,Cloudi Nextgen SL,11965,Not Checked,,
+77.228.1.132:8080,HTTP,Spain,ES,🇪🇸,1,low,No,IPCOM,7065,Not Checked,,
+185.225.42.134:8080,HTTP,Syria,SY,🇸🇾,0,low,No,sy-samaweb,10562,Not Checked,,
+185.225.41.228:7890,HTTP,Syria,SY,🇸🇾,0,low,No,sy-samaweb,11998,Not Checked,,
+193.43.140.220:7890,HTTP,Syria,SY,🇸🇾,0,low,No,Syrian Telecom,6237,Not Checked,,
+213.178.250.33:8080,HTTP,Syria,SY,🇸🇾,0,low,No,SCS,14596,Not Checked,,
+193.43.140.220:7890,HTTP,Syria,SY,🇸🇾,0,low,No,Syrian Telecom,10102,Not Checked,,
+78.155.66.87:8080,HTTP,Syria,SY,🇸🇾,1,low,No,ISP-TARASSUL,12648,Not Checked,,
+89.43.132.215:8080,HTTP,Syria,SY,🇸🇾,25,medium,No,High Speed For Internet Services L.L.C,4801,Not Checked,,
+203.73.62.104:60808,HTTP,Taiwan,TW,🇹🇼,0,low,No,Digital United Inc.,12021,Not Checked,,
+154.0.157.196:8080,HTTP,Tanzania,TZ,🇹🇿,0,low,No,Habari Node PLC Dar TIX,7374,Not Checked,,
+8.213.222.157:8119,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",11074,Not Checked,,
+182.52.113.85:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,6334,Not Checked,,
+1.20.101.24:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,11458,Not Checked,,
+182.52.113.57:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,12249,Not Checked,,
+1.4.165.243:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,14323,Not Checked,,
+1.4.141.10:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,9777,Not Checked,,
+1.20.101.17:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,7542,Not Checked,,
+1.20.101.22:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,8421,Not Checked,,
+1.20.101.18:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,10506,Not Checked,,
+125.27.192.162:8081,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,11913,Not Checked,,
+182.53.202.229:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,9073,Not Checked,,
+182.53.202.229:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,7203,Not Checked,,
+1.20.101.31:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,7722,Not Checked,,
+182.52.113.74:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,9508,Not Checked,,
+182.52.113.84:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,9463,Not Checked,,
+180.180.151.137:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,12476,Not Checked,,
+203.150.128.2:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,Internet Thailand Company Ltd,7822,Not Checked,,
+43.251.205.146:8080,HTTP,Thailand,TH,🇹🇭,2,low,No,"United Information Highway Co., Ltd.",8217,Not Checked,,
+180.183.158.68:8080,HTTP,Thailand,TH,🇹🇭,3,low,No,Advanced Wireless Network Company Limited,13042,Not Checked,,
+183.88.231.188:34599,HTTP,Thailand,TH,🇹🇭,4,low,No,Triple T Broadband Public Company Limited,13363,Not Checked,,
+191.44.125.66:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,7068,Not Checked,,
+201.4.71.23:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,8508,Not Checked,,
+116.204.166.148:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,9542,Not Checked,,
+45.149.24.19:8088,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,10574,Not Checked,,
+116.204.166.44:8080,HTTP,Turkey,TR,🇹🇷,0,low,Yes,High Speed For Internet Services L.L.C,10218,Not Checked,,
+201.7.31.115:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,7042,Not Checked,,
+201.4.69.164:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,10148,Not Checked,,
+116.204.166.149:8080,HTTP,Turkey,TR,🇹🇷,0,low,Yes,High Speed For Internet Services L.L.C,9922,Not Checked,,
+109.224.242.247:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,6241,Not Checked,,
+195.87.182.10:9090,HTTP,Turkey,TR,🇹🇷,0,low,No,Vodafone Net Iletisim Hizmetleri A.S.,8624,Not Checked,,
+176.88.65.162:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,Superonline Iletisim Hizmetleri A.S.,8618,Not Checked,,
+222.167.236.42:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,9910,Not Checked,,
+212.174.242.114:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,TurkTelecom,14204,Not Checked,,
+195.142.16.74:8080,HTTP,Turkey,TR,🇹🇷,2,low,No,Superonline Iletisim Hizmetleri A.S.,5188,Not Checked,,
+88.247.49.47:19053,HTTP,Turkey,TR,🇹🇷,3,low,No,Turk Telekomunikasyon A.S,2787,Not Checked,,
+88.247.49.47:19053,HTTP,Turkey,TR,🇹🇷,3,low,No,Turk Telekomunikasyon A.S,2866,Not Checked,,
+82.47.161.152:8443,HTTP,Turkey,TR,🇹🇷,62,high,No,Datacamp Limited,4343,Not Checked,,
+82.47.161.152:8443,HTTP,Turkey,TR,🇹🇷,62,high,No,Datacamp Limited,1095,Not Checked,,
+176.37.21.46:41890,HTTP,Ukraine,UA,🇺🇦,3,low,No,Lanet Network,12436,Not Checked,,
+47.91.110.148:9080,HTTP,United Arab Emirates,AE,🇦🇪,0,low,No,Alibaba Cloud LLC,8086,Not Checked,,
+47.91.121.127:8888,HTTP,United Arab Emirates,AE,🇦🇪,0,low,No,Alibaba Cloud LLC,8117,Not Checked,,
+47.91.120.190:9080,HTTP,United Arab Emirates,AE,🇦🇪,0,low,No,Alibaba Cloud LLC,8444,Not Checked,,
+47.91.115.179:8443,HTTP,United Arab Emirates,AE,🇦🇪,0,low,No,Alibaba Cloud LLC,8102,Not Checked,,
+151.253.146.146:8080,HTTP,United Arab Emirates,AE,🇦🇪,2,low,No,EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC,12735,Not Checked,,
+138.124.125.51:3128,HTTP,United Kingdom,GB,🇬🇧,5,low,No,Baykov Ilya Sergeevich,2297,Not Checked,,
+138.124.125.51:3128,HTTP,United Kingdom,GB,🇬🇧,5,low,No,Baykov Ilya Sergeevich,1718,Not Checked,,
+80.65.211.149:8888,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Contabo GmbH,2771,Not Checked,,
+80.65.211.149:8888,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Contabo GmbH,1009,Not Checked,,
+134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,"DigitalOcean, LLC",804,Not Checked,,
+134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,"DigitalOcean, LLC",790,Not Checked,,
+198.244.254.77:3128,HTTP,United Kingdom,GB,🇬🇧,83,high,No,OVH SAS,6318,Not Checked,,
+20.118.221.52:3128,HTTP,United States,US,🇺🇸,0,low,No,Microsoft Corporation,12793,Not Checked,,
+23.185.192.66:8181,HTTP,United States,US,🇺🇸,0,low,No,"Swayzee Telephone Company, Inc.",10802,Not Checked,,
+49.51.244.112:8888,HTTP,United States,US,🇺🇸,0,low,No,OPHL,12530,Not Checked,,
+64.112.42.97:20000,HTTP,United States,US,🇺🇸,0,low,No,Axedale,9102,Not Checked,,
+40.113.234.46:8080,HTTP,United States,US,🇺🇸,0,low,No,Microsoft Corporation,15162,Not Checked,,
+207.246.234.115:4669,HTTP,United States,US,🇺🇸,0,low,No,Plateau Telecommunications Incorporated,9331,Not Checked,,
+31.220.54.93:8080,HTTP,United States,US,🇺🇸,0,low,No,HOSTINGER US,7947,Not Checked,,
+31.220.54.93:8080,HTTP,United States,US,🇺🇸,0,low,No,HOSTINGER US,6784,Not Checked,,
+64.181.247.193:443,HTTP,United States,US,🇺🇸,2,low,No,Oracle Corporation,6656,Not Checked,,
+104.129.203.85:9480,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC.",310,Not Checked,,
+104.129.203.85:9480,HTTP,United States,US,🇺🇸,2,low,No,"ZSCALER, INC.",304,Not Checked,,
+98.153.152.141:7070,HTTP,United States,US,🇺🇸,3,low,No,Charter Communications Inc,7150,Not Checked,,
+178.156.206.253:8118,HTTP,United States,US,🇺🇸,7,low,No,Hetzner Online GmbH,8945,Not Checked,,
+47.89.159.212:9098,HTTP,United States,US,🇺🇸,8,low,No,Alibaba.com LLC,7210,Not Checked,,
+47.90.149.238:202,HTTP,United States,US,🇺🇸,8,low,No,Alibaba.com LLC,7205,Not Checked,,
+47.251.87.199:8088,HTTP,United States,US,🇺🇸,11,low,No,Alibaba Cloud LLC,8788,Not Checked,,
+3.211.120.181:443,HTTP,United States,US,🇺🇸,12,low,No,Amazon Technologies Inc.,275,Not Checked,,
+3.211.120.181:443,HTTP,United States,US,🇺🇸,12,low,No,Amazon Technologies Inc.,301,Not Checked,,
+204.13.233.74:3128,HTTP,United States,US,🇺🇸,19,low,No,"Interserver, Inc",11698,Not Checked,,
+172.232.173.157:3128,HTTP,United States,US,🇺🇸,23,medium,No,"Akamai Technologies, Inc.",4472,Not Checked,,
+172.232.173.157:3128,HTTP,United States,US,🇺🇸,23,medium,No,"Akamai Technologies, Inc.",7197,Not Checked,,
+45.130.127.14:3128,HTTP,United States,US,🇺🇸,24,medium,Yes,Global Connectivity Solutions LLP,6115,Not Checked,,
+23.95.197.107:3128,HTTP,United States,US,🇺🇸,39,medium,No,HostPapa,420,Not Checked,,
+23.95.197.107:3128,HTTP,United States,US,🇺🇸,39,medium,No,HostPapa,389,Not Checked,,
+104.251.93.103:16062,HTTP,United States,US,🇺🇸,40,medium,Yes,BraveWay LLC,8718,Not Checked,,
+104.218.199.24:16062,HTTP,United States,US,🇺🇸,40,medium,Yes,BraveWay LLC,5934,Not Checked,,
+195.26.243.76:3128,HTTP,United States,US,🇺🇸,43,medium,No,Contabo Inc.,8099,Not Checked,,
+146.190.211.220:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",8070,Not Checked,,
+146.190.221.21:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",10583,Not Checked,,
+146.190.221.21:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",10192,Not Checked,,
+134.209.74.227:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",14231,Not Checked,,
+146.190.211.220:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",9055,Not Checked,,
+138.68.60.8:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",389,Not Checked,,
+157.245.129.124:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",9604,Not Checked,,
+198.199.86.11:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",370,Not Checked,,
+209.97.150.167:3128,HTTP,United States,US,🇺🇸,51,medium,Yes,"DigitalOcean, LLC",361,Not Checked,,
+67.207.86.15:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",13363,Not Checked,,
+167.99.173.119:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",4614,Not Checked,,
+159.65.235.48:3128,HTTP,United States,US,🇺🇸,100,very_high,No,"DigitalOcean, LLC",8713,Not Checked,,
+195.158.8.123:3128,HTTP,Uzbekistan,UZ,🇺🇿,1,low,No,"""Uzbektelekom"" Joint Stock Company",9459,Not Checked,,
+90.156.196.230:3128,HTTP,Uzbekistan,UZ,🇺🇿,1,low,No,"""Uzbektelekom"" Joint Stock Company",5642,Not Checked,,
+83.222.7.47:3333,HTTP,Uzbekistan,UZ,🇺🇿,1,low,No,"""Uzbektelekom"" Joint Stock Company",12198,Not Checked,,
+186.167.113.103:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Corporacion Digitel C.A,9359,Not Checked,,
+161.22.33.80:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"THUNDERNET, C.A",7191,Not Checked,,
+45.38.22.64:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Corporacion Gala IT C.A,11864,Not Checked,,
+161.22.33.89:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"THUNDERNET, C.A",8711,Not Checked,,
+38.76.139.202:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,CORPORACIÓN GALA IT C.A,9629,Not Checked,,
+200.59.191.137:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,TotalCom Venezuela C.A.,13679,Not Checked,,
+45.175.39.115:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,TCA SERVICES C.A.,6782,Not Checked,,
+161.22.33.152:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"THUNDERNET, C.A",7413,Not Checked,,
+161.22.33.152:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"THUNDERNET, C.A",10838,Not Checked,,
+190.97.241.106:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Viginet C.A,9374,Not Checked,,
+45.184.103.161:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"PRINTER-NET-SERVICE, C.A.",7382,Not Checked,,
+154.59.56.78:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Cogent Communications,9692,Not Checked,,
+190.97.249.30:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Viginet C.A,11791,Not Checked,,
+38.63.98.55:999,HTTP,Venezuela,VE,🇻🇪,19,low,No,Colnetwork C.A,8362,Not Checked,,
+203.205.49.2:10013,HTTP,Vietnam,VN,🇻🇳,0,low,No,CMC Telecom Infrastructure Company,8171,Not Checked,,
+203.205.49.2:10056,HTTP,Vietnam,VN,🇻🇳,0,low,No,CMC Telecom Infrastructure Company,8517,Not Checked,,
+113.176.118.255:7654,HTTP,Vietnam,VN,🇻🇳,0,low,No,VNPT,11467,Not Checked,,
+113.160.241.196:19132,HTTP,Vietnam,VN,🇻🇳,0,low,No,VietNam Post and Telecom Corporation,7384,Not Checked,,
+210.211.113.34:80,HTTP,Vietnam,VN,🇻🇳,0,low,No,VTDC,7280,Not Checked,,
+115.78.135.4:3334,HTTP,Vietnam,VN,🇻🇳,0,low,No,VIETELftth,8392,Not Checked,,
+101.96.122.196:8080,HTTP,Vietnam,VN,🇻🇳,0,low,No,NetNam Corporation,10409,Not Checked,,
+171.240.67.66:8080,HTTP,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,10609,Not Checked,,
+118.69.186.75:1452,HTTP,Vietnam,VN,🇻🇳,2,low,No,Vietnam Internet Network Information Center,9966,Not Checked,,
+58.187.121.4:8081,HTTP,Vietnam,VN,🇻🇳,5,low,No,FPT Telecom Company,9160,Not Checked,,
+116.101.54.121:8080,HTTP,Vietnam,VN,🇻🇳,13,low,No,Viettel Group,11605,Not Checked,,

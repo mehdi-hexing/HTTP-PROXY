@@ -1,20 +1,17 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,796,Yes,80.0,6/6
-91.26.188.170:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,3283,Yes,86.9,6/6
-64.188.71.169:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Senko Digital LLC,778,No,,0/6
-64.188.71.169:3128,HTTP,Germany,DE,🇩🇪,0,low,Yes,Senko Digital LLC,4953,No,,0/6
-51.224.131.122:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",894,No,,0/6
-51.225.138.29:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",859,No,,0/6
-8.211.42.167:1234,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7604,Not Checked,,
-8.211.51.115:8080,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",10647,Not Checked,,
-2.27.98.183:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Packet Loss LTD,8477,Not Checked,,
-51.225.138.217:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",7843,Not Checked,,
-213.135.6.13:8080,HTTP,Germany,DE,🇩🇪,0,low,No,intersaar GmbH,10066,Not Checked,,
-46.4.84.244:8088,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,821,Not Checked,,
-198.105.115.233:2000,HTTP,Germany,DE,🇩🇪,12,low,Yes,YottaSrc,737,Not Checked,,
-198.105.115.233:2000,HTTP,Germany,DE,🇩🇪,12,low,Yes,YottaSrc,721,Not Checked,,
-47.91.89.3:5060,HTTP,Germany,DE,🇩🇪,14,low,No,Alibaba.com LLC,7606,Not Checked,,
-47.91.65.23:3128,HTTP,Germany,DE,🇩🇪,14,low,Yes,Alibaba.com LLC,790,Not Checked,,
-89.23.108.58:8080,HTTP,Germany,DE,🇩🇪,24,medium,No,Global Connectivity Solutions LLP,11743,Not Checked,,
-51.38.120.110:10011,HTTP,Germany,DE,🇩🇪,47,medium,No,OVH SAS,751,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",792,Not Checked,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,915,Yes,83.7,6/6
+51.224.131.122:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",941,No,,0/6
+51.225.138.217:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",940,No,,0/6
+51.224.132.72:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",984,No,,0/6
+51.225.138.217:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",939,No,,0/6
+51.224.132.72:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",1075,No,,0/6
+51.224.131.122:80,HTTP,Germany,DE,🇩🇪,0,low,No,"Amazon.com, Inc.",905,No,,0/6
+158.179.58.126:3128,HTTP,Germany,DE,🇩🇪,2,low,Yes,Oracle Corporation,928,Not Checked,,
+158.179.58.126:3128,HTTP,Germany,DE,🇩🇪,2,low,Yes,Oracle Corporation,861,Not Checked,,
+138.201.52.251:3128,HTTP,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,13129,Not Checked,,
+159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,12,low,No,netcup GmbH,4213,Not Checked,,
+159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,12,low,No,netcup GmbH,3571,Not Checked,,
+161.97.94.168:6001,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,8784,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1052,Not Checked,,
+161.35.70.249:8080,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1073,Not Checked,,
+139.162.150.46:3128,HTTP,Germany,DE,🇩🇪,54,medium,No,"Akamai Technologies, Inc.",9238,Not Checked,,
