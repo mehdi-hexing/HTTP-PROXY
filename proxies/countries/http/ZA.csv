@@ -1,7 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-20.33.10.132:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,4174,Yes,241.9,6/6
-20.33.10.132:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,3089,Yes,241.9,6/6
-16.28.32.67:13726,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,2248,Unknown,,
-16.28.32.67:36,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,2397,Unknown,,
-16.28.32.67:7453,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,5086,Unknown,,
-20.33.10.79:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,2844,Unknown,,
+20.33.10.132:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,3542,Yes,237.7,6/6
+20.33.10.132:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,3244,Yes,237.7,6/6
+20.33.10.79:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,2702,Yes,243.6,6/6
+20.33.10.79:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,3623,Yes,243.6,6/6
+16.28.32.67:36,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,1520,No,,0/6
+102.208.228.90:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,7933,No,,0/6
+102.208.228.90:3128,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,9871,No,,0/6
+102.208.228.90:3128,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,2654,No,,0/6
+102.208.228.90:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,4546,No,,0/6

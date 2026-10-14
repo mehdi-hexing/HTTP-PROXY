@@ -1,10 +1,12 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-206.135.47.110:999,HTTP,Mexico,MX,🇲🇽,0,low,No,GTT Americas,8204,Unknown,,
-206.135.53.146:999,HTTP,Mexico,MX,🇲🇽,0,low,No,GTT Americas,7041,Unknown,,
-38.194.251.246:999,HTTP,Mexico,MX,🇲🇽,0,low,No,IENTC S de RL de CV,6994,Unknown,,
-201.139.180.44:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Computadoras y Servicios Especiales SA de CV,9692,Unknown,,
-177.242.132.38:999,HTTP,Mexico,MX,🇲🇽,0,low,No,"Mega Cable, S.A. de C.V.",10321,Unknown,,
-45.174.108.141:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Iptvtel Comunicaciones S De RL De CV,11768,Not Checked,,
-187.249.84.147:999,HTTP,Mexico,MX,🇲🇽,1,low,No,Transtelco Inc,5515,Not Checked,,
-189.154.242.187:999,HTTP,Mexico,MX,🇲🇽,1,low,No,Uninet S.A. de C.V,649,Not Checked,,
-45.174.243.160:999,HTTP,Mexico,MX,🇲🇽,14,low,No,Sistemas Y Soluciones De Campeche SAS De CV,3099,Not Checked,,
+38.19.36.82:999,HTTP,Mexico,MX,🇲🇽,0,low,No,TV CABLE DEL GUADIANA S.A DE C.V.,6654,Yes,233.2,6/6
+189.51.168.30:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Comunicación por Fibra SA de CV,5985,Yes,206.4,6/6
+187.190.58.152:8081,HTTP,Mexico,MX,🇲🇽,0,low,No,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",9838,Yes,215.4,6/6
+187.189.175.136:999,HTTP,Mexico,MX,🇲🇽,0,low,No,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",3588,Yes,217.4,6/6
+38.49.142.174:999,HTTP,Mexico,MX,🇲🇽,0,low,No,IENTC S de RL de CV,8706,Yes,230.4,6/6
+205.164.192.115:999,HTTP,Mexico,MX,🇲🇽,0,low,No,Cogent Communications,4296,Yes,232.0,6/6
+206.135.47.110:999,HTTP,Mexico,MX,🇲🇽,0,low,No,GTT Americas,7876,Yes,222.5,6/6
+206.135.47.106:999,HTTP,Mexico,MX,🇲🇽,0,low,No,GTT Americas,12079,Not Checked,,
+177.242.137.182:999,HTTP,Mexico,MX,🇲🇽,0,low,No,"Mega Cable, S.A. de C.V.",12805,Not Checked,,
+187.249.92.247:999,HTTP,Mexico,MX,🇲🇽,1,low,No,Transtelco Inc,6547,Not Checked,,
+38.7.20.200:999,HTTP,Mexico,MX,🇲🇽,1,low,No,Internet Telefonia Y TV De Michoacan SA De CV,7815,Not Checked,,
