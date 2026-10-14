@@ -1,7 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-46.246.39.246:443,HTTP_TLS,Sweden,SE,🇸🇪,0,low,Yes,GleSYS AB,1055,Not Checked,,
-46.246.39.246:443,HTTP_TLS,Sweden,SE,🇸🇪,0,low,Yes,GleSYS AB,1007,Not Checked,,
-31.77.158.162:443,HTTP_TLS,Sweden,SE,🇸🇪,0,low,No,Play2go International Limited,1069,Not Checked,,
-31.77.158.162:443,HTTP_TLS,Sweden,SE,🇸🇪,0,low,No,Play2go International Limited,1056,Not Checked,,
-77.221.136.60:8443,HTTP_TLS,Sweden,SE,🇸🇪,18,low,No,Aeza International LTD,1154,Not Checked,,
-77.221.136.60:8443,HTTP_TLS,Sweden,SE,🇸🇪,18,low,No,Aeza International LTD,1196,Not Checked,,
+46.246.39.246:443,HTTP_TLS,Sweden,SE,🇸🇪,0,low,Yes,GleSYS AB,1450,Yes,89.9,6/6
+46.246.39.246:443,HTTP_TLS,Sweden,SE,🇸🇪,0,low,Yes,GleSYS AB,1478,Not Checked,,
+31.77.158.162:443,HTTP_TLS,Sweden,SE,🇸🇪,0,low,No,Play2go International Limited,1669,Not Checked,,
+31.77.158.162:443,HTTP_TLS,Sweden,SE,🇸🇪,0,low,No,Play2go International Limited,2954,Not Checked,,
+77.221.136.60:8443,HTTP_TLS,Sweden,SE,🇸🇪,18,low,No,Aeza International LTD,1872,Not Checked,,
+77.221.136.60:8443,HTTP_TLS,Sweden,SE,🇸🇪,18,low,No,Aeza International LTD,1867,Not Checked,,
+166.0.9.180:9443,HTTP_TLS,Sweden,SE,🇸🇪,46,medium,No,Datacamp Limited,1623,Not Checked,,
+166.0.9.134:9443,HTTP_TLS,Sweden,SE,🇸🇪,46,medium,No,Datacamp Limited,2376,Not Checked,,
+166.0.9.134:9443,HTTP_TLS,Sweden,SE,🇸🇪,46,medium,No,Datacamp Limited,2322,Not Checked,,
