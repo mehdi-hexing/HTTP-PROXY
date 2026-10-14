@@ -1,13 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1072,Yes,81.9,6/6
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1070,Yes,82.0,6/6
-2.27.98.183:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Packet Loss LTD,8149,Yes,123.8,6/6
-95.133.236.11:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Layer7,2330,Yes,90.4,6/6
-8.211.42.167:5060,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7781,No,,0/6
-8.211.49.86:9050,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7799,No,,0/6
-159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,12,low,No,netcup GmbH,2599,Not Checked,,
-159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,12,low,No,netcup GmbH,1099,Not Checked,,
-47.91.89.3:176,HTTP,Germany,DE,🇩🇪,14,low,No,Alibaba.com LLC,7807,Not Checked,,
-51.38.120.110:10007,HTTP,Germany,DE,🇩🇪,47,medium,No,OVH SAS,1223,Not Checked,,
-161.35.70.249:8080,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1179,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1102,Not Checked,,
+8.211.42.167:8000,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7700,No,,0/6
+8.211.49.86:9050,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7709,No,,0/6
+18.157.159.247:9080,HTTP,Germany,DE,🇩🇪,3,low,No,"Amazon.com, Inc.",3025,Not Checked,,
+18.157.159.247:9080,HTTP,Germany,DE,🇩🇪,3,low,No,"Amazon.com, Inc.",5349,Not Checked,,
+47.91.89.3:35,HTTP,Germany,DE,🇩🇪,14,low,No,Alibaba.com LLC,7709,Not Checked,,
+161.35.70.249:8080,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",952,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",967,Not Checked,,
