@@ -1,27 +1,22 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-193.158.12.141:4153,SOCKS4,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,816,Yes,88.1,6/6
-193.158.12.140:4153,SOCKS4,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,671,Yes,88.4,6/6
-192.248.186.51:1080,SOCKS4,Germany,DE,🇩🇪,0,low,No,Vultr,688,Yes,86.2,6/6
-31.77.19.92:443,SOCKS4,Germany,DE,🇩🇪,0,low,No,Play2go - Fzco,644,Yes,82.1,6/6
-31.77.19.92:443,SOCKS4,Germany,DE,🇩🇪,0,low,No,Play2go - Fzco,737,Yes,82.1,6/6
-50.114.58.15:1080,SOCKS4,Germany,DE,🇩🇪,0,low,No,Sculk Ltd.,688,Yes,91.3,6/6
-81.90.25.129:1080,SOCKS4,Germany,DE,🇩🇪,0,low,No,Node Host Limited,665,Yes,94.2,3/6
-43.131.25.228:9000,SOCKS4,Germany,DE,🇩🇪,0,low,No,Aceville Pte.ltd,4751,Not Checked,,
-144.31.11.58:1085,SOCKS4,Germany,DE,🇩🇪,0,low,No,H2nexus Cloud Services - Fzco,6816,Not Checked,,
-89.191.226.51:1080,SOCKS4,Germany,DE,🇩🇪,0,low,Yes,"Timeweb, LLP",4173,Not Checked,,
-185.133.239.244:16299,SOCKS4,Germany,DE,🇩🇪,0,low,No,OCKNet GmbH,6588,Not Checked,,
-92.205.186.129:1080,SOCKS4,Germany,DE,🇩🇪,0,low,No,Host Europe GmbH,7896,Not Checked,,
-8.211.49.86:3129,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",4680,Not Checked,,
-8.211.42.167:51,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",5725,Not Checked,,
-50.114.58.15:1080,SOCKS4,Germany,DE,🇩🇪,0,low,No,Sculk Ltd.,2953,Not Checked,,
-89.168.67.102:1080,SOCKS4,Germany,DE,🇩🇪,2,low,No,Oracle Corporation,1839,Not Checked,,
-72.56.106.48:1080,SOCKS4,Germany,DE,🇩🇪,3,low,No,"Timeweb, LLP",6651,Not Checked,,
-157.90.113.23:9052,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,1638,Not Checked,,
-49.12.99.250:9050,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,7251,Not Checked,,
-157.90.113.23:9052,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,1888,Not Checked,,
-47.91.89.3:35,SOCKS4,Germany,DE,🇩🇪,14,low,No,Alibaba.com LLC,4308,Not Checked,,
-161.97.129.202:9060,SOCKS4,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,3879,Not Checked,,
-153.80.242.105:8080,SOCKS4,Germany,DE,🇩🇪,24,medium,No,Global Connectivity Solutions LLP,4897,Not Checked,,
-82.22.174.113:1080,SOCKS4,Germany,DE,🇩🇪,27,medium,Yes,Freakhosting LTD,7171,Not Checked,,
-51.75.68.184:9050,SOCKS4,Germany,DE,🇩🇪,47,medium,No,OVH SAS,866,Not Checked,,
-51.75.68.184:9050,SOCKS4,Germany,DE,🇩🇪,47,medium,No,OVH SAS,958,Not Checked,,
+193.158.12.140:4153,SOCKS4,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,690,Yes,87.0,6/6
+31.77.19.92:443,SOCKS4,Germany,DE,🇩🇪,0,low,No,Play2go - Fzco,633,Yes,80.0,6/6
+31.77.19.92:443,SOCKS4,Germany,DE,🇩🇪,0,low,No,Play2go - Fzco,710,Yes,80.0,6/6
+193.158.12.141:4153,SOCKS4,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,691,Yes,88.0,6/6
+193.158.12.141:4153,SOCKS4,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,1714,Not Checked,,
+81.90.25.129:1080,SOCKS4,Germany,DE,🇩🇪,0,low,No,Node Host Limited,5807,Not Checked,,
+8.211.42.167:8080,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",4286,Not Checked,,
+8.211.42.167:80,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",4291,Not Checked,,
+8.211.42.167:81,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",4289,Not Checked,,
+185.133.239.244:32784,SOCKS4,Germany,DE,🇩🇪,0,low,No,OCKNet GmbH,7010,Not Checked,,
+185.133.239.244:32784,SOCKS4,Germany,DE,🇩🇪,0,low,No,OCKNet GmbH,7258,Not Checked,,
+8.209.96.245:1099,SOCKS4,Germany,DE,🇩🇪,3,low,No,Alibaba.com Singapore E-Commerce Private Limited,7253,Not Checked,,
+8.209.96.245:80,SOCKS4,Germany,DE,🇩🇪,3,low,No,Alibaba.com Singapore E-Commerce Private Limited,4279,Not Checked,,
+157.90.113.23:9052,SOCKS4,Germany,DE,🇩🇪,6,low,No,Hetzner Online GmbH,919,Not Checked,,
+144.31.255.9:1080,SOCKS4,Germany,DE,🇩🇪,6,low,No,U1 DIGITAL SERVICES LTD,1169,Not Checked,,
+47.91.89.3:1000,SOCKS4,Germany,DE,🇩🇪,14,low,No,Alibaba.com LLC,7320,Not Checked,,
+47.91.89.3:9119,SOCKS4,Germany,DE,🇩🇪,14,low,No,Alibaba.com LLC,7728,Not Checked,,
+47.91.89.3:1111,SOCKS4,Germany,DE,🇩🇪,14,low,No,Alibaba.com LLC,4411,Not Checked,,
+47.91.89.3:139,SOCKS4,Germany,DE,🇩🇪,14,low,No,Alibaba.com LLC,5635,Not Checked,,
+161.97.129.202:9060,SOCKS4,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,6103,Not Checked,,
+77.239.96.194:1081,SOCKS4,Germany,DE,🇩🇪,22,medium,No,International Hosting Company Limited,629,Not Checked,,
