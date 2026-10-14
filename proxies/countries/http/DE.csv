@@ -1,19 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-92.205.186.129:1080,HTTP,Germany,DE,🇩🇪,0,low,No,Host Europe GmbH,7848,Yes,89.3,6/6
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,666,Yes,79.7,6/6
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,692,Yes,80.1,6/6
-178.83.46.167:3128,HTTP,Germany,DE,🇩🇪,0,low,No,OVH SAS,1711,Yes,85.7,6/6
-13.143.128.118:3128,HTTP,Germany,DE,🇩🇪,0,low,No,DpkgSoft International Limited,7467,Yes,88.6,6/6
-217.12.215.163:10808,HTTP,Germany,DE,🇩🇪,0,low,No,Route 95 LLC,3729,Yes,109.0,3/6
-8.211.42.167:3128,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7482,No,,0/6
-2.27.98.183:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Packet Loss LTD,12305,Not Checked,,
-63.180.203.233:8090,HTTP,Germany,DE,🇩🇪,3,low,No,Amazon.com,655,Not Checked,,
-194.163.129.217:40000,HTTP,Germany,DE,🇩🇪,10,low,No,Contabo GmbH,8535,Not Checked,,
-159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,12,low,No,netcup GmbH,11374,Not Checked,,
-159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,12,low,No,netcup GmbH,4925,Not Checked,,
-173.212.234.174:3128,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,1570,Not Checked,,
-173.212.234.174:3128,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,2122,Not Checked,,
-169.58.251.94:1080,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,1596,Not Checked,,
-217.154.200.178:8888,HTTP,Germany,DE,🇩🇪,35,medium,No,IONOS SE,809,Not Checked,,
-217.154.200.178:8888,HTTP,Germany,DE,🇩🇪,35,medium,No,IONOS SE,7089,Not Checked,,
-161.35.70.249:8080,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",734,Not Checked,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1072,Yes,81.9,6/6
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1070,Yes,82.0,6/6
+2.27.98.183:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Packet Loss LTD,8149,Yes,123.8,6/6
+95.133.236.11:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Layer7,2330,Yes,90.4,6/6
+8.211.42.167:5060,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7781,No,,0/6
+8.211.49.86:9050,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7799,No,,0/6
+159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,12,low,No,netcup GmbH,2599,Not Checked,,
+159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,12,low,No,netcup GmbH,1099,Not Checked,,
+47.91.89.3:176,HTTP,Germany,DE,🇩🇪,14,low,No,Alibaba.com LLC,7807,Not Checked,,
+51.38.120.110:10007,HTTP,Germany,DE,🇩🇪,47,medium,No,OVH SAS,1223,Not Checked,,
+161.35.70.249:8080,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1179,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1102,Not Checked,,
