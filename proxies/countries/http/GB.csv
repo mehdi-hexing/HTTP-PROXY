@@ -1,12 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-8.211.194.85:1081,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7713,No,,0/6
-8.211.194.78:6379,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",8917,No,,0/6
-34.105.252.3:3128,HTTP,United Kingdom,GB,🇬🇧,0,low,No,Google LLC,1004,Timeout,,
-34.105.252.3:3128,HTTP,United Kingdom,GB,🇬🇧,0,low,No,Google LLC,957,Timeout,,
-8.211.195.173:80,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",10448,Not Checked,,
-138.124.125.51:3128,HTTP,United Kingdom,GB,🇬🇧,5,low,No,Baykov Ilya Sergeevich,7599,Not Checked,,
-138.124.125.51:3128,HTTP,United Kingdom,GB,🇬🇧,5,low,No,Baykov Ilya Sergeevich,2131,Not Checked,,
-80.65.211.149:8888,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Contabo GmbH,2774,Not Checked,,
-134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,"DigitalOcean, LLC",986,Not Checked,,
-198.244.254.77:3128,HTTP,United Kingdom,GB,🇬🇧,83,high,No,OVH SAS,8659,Not Checked,,
-198.244.254.77:3128,HTTP,United Kingdom,GB,🇬🇧,83,high,No,OVH SAS,10881,Not Checked,,
+8.211.194.78:51,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7419,Not Checked,,
+8.211.195.173:5060,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",10045,Not Checked,,
+138.124.125.51:3128,HTTP,United Kingdom,GB,🇬🇧,5,low,No,Baykov Ilya Sergeevich,4099,Not Checked,,
+80.65.211.149:8888,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Contabo GmbH,7987,Not Checked,,
+186.190.211.67:80,HTTP,United Kingdom,GB,🇬🇧,47,medium,No,GTHost,13901,Not Checked,,
+186.190.211.67:80,HTTP,United Kingdom,GB,🇬🇧,47,medium,No,GTHost,9935,Not Checked,,
+134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,"DigitalOcean, LLC",734,Not Checked,,
+68.183.46.181:3128,HTTP,United Kingdom,GB,🇬🇧,51,medium,No,"DigitalOcean, LLC",567,Not Checked,,
+198.244.254.77:3128,HTTP,United Kingdom,GB,🇬🇧,83,high,No,OVH SAS,4182,Not Checked,,
+198.244.254.77:3128,HTTP,United Kingdom,GB,🇬🇧,83,high,No,OVH SAS,4031,Not Checked,,
