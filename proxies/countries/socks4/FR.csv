@@ -1,2 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-51.15.253.45:8080,SOCKS4,France,FR,🇫🇷,34,medium,No,SCALEWAY,4514,Not Checked,,
+95.178.108.189:5678,SOCKS4,France,FR,🇫🇷,0,low,No,Eurofiber France SAS,698,Yes,103.5,8/8
+45.140.165.142:40001,SOCKS4,France,FR,🇫🇷,0,low,No,OuiHeberg - Hébergeur (Network V2),3309,Not Checked,,
+45.140.165.128:40001,SOCKS4,France,FR,🇫🇷,0,low,No,OuiHeberg - Hébergeur (Network V2),4586,Not Checked,,
+51.15.253.45:8080,SOCKS4,France,FR,🇫🇷,34,medium,No,SCALEWAY,4291,Not Checked,,

@@ -1,27 +1,44 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-5.23.104.251:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,RU RZN Vidikon,912,Yes,78.5,8/8
-31.163.200.63:4153,SOCKS4,Russia,RU,🇷🇺,0,low,No,OJSC Rostelecom,1319,Yes,136.6,8/8
-37.18.73.60:5566,SOCKS4,Russia,RU,🇷🇺,0,low,No,"""Cloud Technologies"" LLC trading as Cloud.ru",1701,Yes,74.4,8/8
-217.17.112.98:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,OOO Kiss,939,Yes,112.1,8/8
-31.129.107.119:443,SOCKS4,Russia,RU,🇷🇺,0,low,No,Beget LLC,1704,Yes,84.9,8/8
-31.129.107.119:443,SOCKS4,Russia,RU,🇷🇺,0,low,No,Beget LLC,1064,Yes,100.5,8/8
-212.46.242.185:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,SOVINTEL/END broadband internet,867,Yes,85.3,8/8
-87.228.102.241:40001,SOCKS4,Russia,RU,🇷🇺,0,low,No,JSC Selectel,1942,Yes,88.8,8/8
-45.91.54.160:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Delta Ltd,945,Yes,93.6,8/8
-93.90.41.104:10808,SOCKS4,Russia,RU,🇷🇺,0,low,No,Net By Net Holding LLC,926,No,,0/8
-176.118.232.12:5678,SOCKS4,Russia,RU,🇷🇺,0,low,No,Prime-Service LLC,1278,No,,0/8
-46.29.116.6:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,KMVtelecom,3311,Not Checked,,
-92.39.69.134:11200,SOCKS4,Russia,RU,🇷🇺,0,low,No,Mobile Telesystems OJSC,4895,Not Checked,,
-83.220.46.106:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,GARS-Block1,2035,Not Checked,,
-213.21.53.119:4153,SOCKS4,Russia,RU,🇷🇺,0,low,Yes,Global Network Management Inc,2885,Not Checked,,
-37.18.73.60:5566,SOCKS4,Russia,RU,🇷🇺,0,low,No,"""Cloud Technologies"" LLC trading as Cloud.ru",3922,Not Checked,,
-91.204.57.48:8989,SOCKS4,Russia,RU,🇷🇺,0,low,No,Yunta Ltd.,4079,Not Checked,,
-176.195.231.44:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Net By Net Holding LLC (Spb),2407,Not Checked,,
-94.253.95.241:3629,SOCKS4,Russia,RU,🇷🇺,0,low,Yes,Itkm ISP,6155,Not Checked,,
-46.188.2.42:5678,SOCKS4,Russia,RU,🇷🇺,0,low,No,2COM,2957,Not Checked,,
-83.220.46.106:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,GARS-Block1,6397,Not Checked,,
-87.236.23.100:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,BEGET.RU,2890,Not Checked,,
-89.237.33.113:51549,SOCKS4,Russia,RU,🇷🇺,0,low,No,multi-origin SUTTK,2158,Not Checked,,
-45.90.217.190:1085,SOCKS4,Russia,RU,🇷🇺,0,low,No,First Server Limited,7523,Not Checked,,
-88.87.79.18:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,"CJSC ""ER-Telecom Holding"" Volgograd branch",4240,Not Checked,,
-90.188.92.116:36335,SOCKS4,Russia,RU,🇷🇺,1,low,No,Rostelecom networks,6451,Not Checked,,
+188.143.169.22:33333,SOCKS4,Russia,RU,🇷🇺,0,low,No,PIN morespecific,779,Yes,92.0,8/8
+89.250.148.154:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,"JSC ""ER-Telecom Holding""",1319,Yes,104.5,8/8
+46.29.116.6:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,KMVtelecom,1019,Yes,129.6,8/8
+46.29.116.3:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,KMVtelecom,1097,Yes,129.6,8/8
+185.182.110.74:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,"""Domain names registrar REG.RU"", Ltd",1179,Yes,90.9,8/8
+213.21.53.119:4153,SOCKS4,Russia,RU,🇷🇺,0,low,Yes,Global Network Management Inc,839,Yes,89.6,8/8
+31.129.107.119:443,SOCKS4,Russia,RU,🇷🇺,0,low,No,Beget LLC,1521,Yes,86.6,8/8
+31.129.107.119:443,SOCKS4,Russia,RU,🇷🇺,0,low,No,Beget LLC,1059,Yes,86.6,8/8
+87.228.102.241:40001,SOCKS4,Russia,RU,🇷🇺,0,low,No,JSC Selectel,1133,Yes,91.0,8/8
+109.232.106.150:52435,SOCKS4,Russia,RU,🇷🇺,0,low,No,CJSC Thyphone Communications 106,1092,Yes,79.7,8/8
+46.188.2.42:5678,SOCKS4,Russia,RU,🇷🇺,0,low,No,2COM,1095,Yes,93.7,8/8
+87.228.102.241:40001,SOCKS4,Russia,RU,🇷🇺,0,low,No,JSC Selectel,873,Yes,91.0,8/8
+46.161.49.174:10808,SOCKS4,Russia,RU,🇷🇺,0,low,No,Petersburg Internet Network ltd,907,Yes,74.1,8/8
+212.103.118.77:5678,SOCKS4,Russia,RU,🇷🇺,0,low,No,"CJSC ""ER-Telecom Holding"" Bryansk branch",901,Yes,91.8,8/8
+37.193.71.189:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Novotelecom Ltd.,5204,Not Checked,,
+213.171.26.67:8008,SOCKS4,Russia,RU,🇷🇺,0,low,No,"""Cloud Technologies"" LLC trading as Cloud.ru",1643,Not Checked,,
+5.23.104.251:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,RU RZN Vidikon,6121,Not Checked,,
+109.68.189.22:54643,SOCKS4,Russia,RU,🇷🇺,0,low,No,OOO Suntel,1899,Not Checked,,
+94.242.50.113:2080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Veesp datacenter,6601,Not Checked,,
+212.220.13.98:4153,SOCKS4,Russia,RU,🇷🇺,0,low,No,Rostelecom networks,3252,Not Checked,,
+89.237.33.65:51549,SOCKS4,Russia,RU,🇷🇺,0,low,No,multi-origin SUTTK,2033,Not Checked,,
+213.210.67.186:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,TOMSKTELECOM,2256,Not Checked,,
+46.8.104.176:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Evro Telecom OOO,2893,Not Checked,,
+37.193.125.68:1090,SOCKS4,Russia,RU,🇷🇺,0,low,No,Novotelecom Ltd,4373,Not Checked,,
+176.195.231.44:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Net By Net Holding LLC (Spb),2910,Not Checked,,
+87.236.23.100:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,BEGET.RU,1662,Not Checked,,
+213.210.67.186:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,TOMSKTELECOM,5487,Not Checked,,
+87.236.23.100:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,BEGET.RU,2018,Not Checked,,
+46.188.2.42:5678,SOCKS4,Russia,RU,🇷🇺,0,low,No,2COM,2131,Not Checked,,
+141.98.188.251:49050,SOCKS4,Russia,RU,🇷🇺,0,low,No,UFO Hosting LLC,7608,Not Checked,,
+185.30.43.65:60606,SOCKS4,Russia,RU,🇷🇺,0,low,No,SERDI,1627,Not Checked,,
+46.161.49.174:10808,SOCKS4,Russia,RU,🇷🇺,0,low,No,Petersburg Internet Network ltd,2052,Not Checked,,
+89.151.134.157:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,VolgaTelecom Cheboxary,2902,Not Checked,,
+89.237.32.177:51549,SOCKS4,Russia,RU,🇷🇺,0,low,No,multi-origin SUTTK,4107,Not Checked,,
+88.87.79.18:3629,SOCKS4,Russia,RU,🇷🇺,0,low,No,"CJSC ""ER-Telecom Holding"" Volgograd branch",6167,Not Checked,,
+89.250.148.154:4145,SOCKS4,Russia,RU,🇷🇺,0,low,No,"JSC ""ER-Telecom Holding""",3072,Not Checked,,
+94.247.241.70:51006,SOCKS4,Russia,RU,🇷🇺,0,low,No,"JSC ""ER-Telecom Holding""",1895,Not Checked,,
+94.253.95.241:3629,SOCKS4,Russia,RU,🇷🇺,0,low,Yes,Itkm ISP,3956,Not Checked,,
+46.8.104.176:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,Evro Telecom OOO,5911,Not Checked,,
+185.87.199.40:1080,SOCKS4,Russia,RU,🇷🇺,0,low,No,IHC,7721,Not Checked,,
+95.188.83.253:1080,SOCKS4,Russia,RU,🇷🇺,1,low,No,Rostelecom networks,5388,Not Checked,,
+46.17.43.219:7890,SOCKS4,Russia,RU,🇷🇺,25,medium,No,LLC BAXET,2005,Not Checked,,
+46.17.43.219:7890,SOCKS4,Russia,RU,🇷🇺,25,medium,No,LLC BAXET,7528,Not Checked,,
