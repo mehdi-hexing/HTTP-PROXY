@@ -1,8 +1,19 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-43.200.174.95:35423,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",5397,Not Checked,,
-112.169.99.71:8008,HTTP,South Korea,KR,🇰🇷,6,low,No,Korea Telecom,5007,Not Checked,,
-112.169.99.71:8069,HTTP,South Korea,KR,🇰🇷,6,low,No,Korea Telecom,5736,Not Checked,,
-112.169.99.71:8016,HTTP,South Korea,KR,🇰🇷,6,low,No,Korea Telecom,7350,Not Checked,,
-112.169.99.71:8010,HTTP,South Korea,KR,🇰🇷,6,low,No,Korea Telecom,1528,Not Checked,,
-112.169.99.71:8061,HTTP,South Korea,KR,🇰🇷,6,low,No,Korea Telecom,7552,Not Checked,,
-112.169.99.71:8010,HTTP,South Korea,KR,🇰🇷,6,low,No,Korea Telecom,1496,Not Checked,,
+8.213.128.6:1234,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7888,Yes,315.2,6/6
+8.220.204.215:8086,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7898,No,,0/6
+8.220.204.92:9091,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7876,No,,0/6
+8.213.134.213:8889,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",8003,No,,0/6
+8.213.156.191:138,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7889,No,,0/6
+27.255.80.167:8080,HTTP,South Korea,KR,🇰🇷,0,low,No,Hostcenter,10952,Not Checked,,
+27.255.80.167:8080,HTTP,South Korea,KR,🇰🇷,0,low,No,Hostcenter,9954,Not Checked,,
+13.209.65.136:8083,HTTP,South Korea,KR,🇰🇷,1,low,No,Amazon Technologies Inc.,5225,Not Checked,,
+43.200.174.95:22125,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",1096,Not Checked,,
+43.200.174.95:13501,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",1074,Not Checked,,
+43.200.174.95:36442,HTTP,South Korea,KR,🇰🇷,3,low,No,"Amazon.com, Inc.",1091,Not Checked,,
+112.169.99.71:8083,HTTP,South Korea,KR,🇰🇷,6,low,No,Korea Telecom,5519,Not Checked,,
+112.169.99.71:8079,HTTP,South Korea,KR,🇰🇷,6,low,No,Korea Telecom,5705,Not Checked,,
+112.169.99.71:8070,HTTP,South Korea,KR,🇰🇷,6,low,No,Korea Telecom,4611,Not Checked,,
+112.169.99.71:8008,HTTP,South Korea,KR,🇰🇷,6,low,No,Korea Telecom,4740,Not Checked,,
+112.169.99.71:8010,HTTP,South Korea,KR,🇰🇷,6,low,No,Korea Telecom,1707,Not Checked,,
+112.169.99.71:8061,HTTP,South Korea,KR,🇰🇷,6,low,No,Korea Telecom,9089,Not Checked,,
+112.169.99.71:8010,HTTP,South Korea,KR,🇰🇷,6,low,No,Korea Telecom,1662,Not Checked,,
