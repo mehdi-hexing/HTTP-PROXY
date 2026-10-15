@@ -1,13 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.225.207.172:999,HTTP,Chile,CL,🇨🇱,0,low,No,Netdelsur Telecomunicaciones SPA,8312,No,,0/6
-200.39.139.65:999,HTTP,Chile,CL,🇨🇱,0,low,No,Iconex SPA,11083,Not Checked,,
-45.225.206.248:999,HTTP,Chile,CL,🇨🇱,0,low,No,Netdelsur Telecomunicaciones SPA,14469,Not Checked,,
-38.7.195.52:999,HTTP,Chile,CL,🇨🇱,67,high,No,Grupo ZGH SpA,6945,Not Checked,,
-38.7.195.50:999,HTTP,Chile,CL,🇨🇱,67,high,No,Grupo ZGH SpA,5698,Not Checked,,
-38.7.195.52:999,HTTP,Chile,CL,🇨🇱,67,high,No,Grupo ZGH SpA,4198,Not Checked,,
-38.7.195.49:999,HTTP,Chile,CL,🇨🇱,67,high,No,Grupo ZGH SpA,11772,Not Checked,,
-38.7.195.50:999,HTTP,Chile,CL,🇨🇱,67,high,No,Grupo ZGH SpA,6106,Not Checked,,
-38.7.195.49:999,HTTP,Chile,CL,🇨🇱,67,high,No,Grupo ZGH SpA,11968,Not Checked,,
-38.7.195.53:999,HTTP,Chile,CL,🇨🇱,67,high,No,Grupo ZGH SpA,9003,Not Checked,,
-38.7.195.51:999,HTTP,Chile,CL,🇨🇱,67,high,No,Grupo ZGH SpA,3661,Not Checked,,
-38.7.195.53:999,HTTP,Chile,CL,🇨🇱,67,high,No,Grupo ZGH SpA,8267,Not Checked,,
+45.225.207.172:999,HTTP,Chile,CL,🇨🇱,0,low,No,Netdelsur Telecomunicaciones SPA,5312,Yes,291.8,8/8
+167.249.29.105:999,HTTP,Chile,CL,🇨🇱,0,low,No,Grupo Metrowan Telecom SPA,9228,Not Checked,,
+38.7.195.50:999,HTTP,Chile,CL,🇨🇱,67,high,No,Grupo ZGH SpA,10128,Not Checked,,
+38.7.195.53:999,HTTP,Chile,CL,🇨🇱,67,high,No,Grupo ZGH SpA,10674,Not Checked,,
