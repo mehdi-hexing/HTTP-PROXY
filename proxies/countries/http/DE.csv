@@ -1,9 +1,12 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-95.133.236.11:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Layer7,1175,No,,0/8
-95.133.236.11:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Layer7,989,Timeout,,
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,915,Timeout,,
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,905,Timeout,,
-8.209.96.245:7070,HTTP,Germany,DE,🇩🇪,3,low,No,Alibaba.com Singapore E-Commerce Private Limited,10431,Not Checked,,
-159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,12,low,No,netcup GmbH,11470,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",988,Not Checked,,
-161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",943,Not Checked,,
+95.133.236.11:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Layer7,2292,Yes,96.7,8/8
+95.133.236.11:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Layer7,2325,Yes,96.7,8/8
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,688,Timeout,,
+176.96.138.105:2025,HTTP,Germany,DE,🇩🇪,0,low,No,dataforest GmbH,10119,Not Checked,,
+178.83.46.167:3128,HTTP,Germany,DE,🇩🇪,0,low,No,OVH SAS,11470,Not Checked,,
+18.157.159.247:9080,HTTP,Germany,DE,🇩🇪,3,low,No,"Amazon.com, Inc.",3991,Not Checked,,
+159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,12,low,No,netcup GmbH,10883,Not Checked,,
+194.163.175.167:40002,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,4750,Not Checked,,
+194.163.175.167:40000,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,3248,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",714,Not Checked,,
+161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",861,Not Checked,,
