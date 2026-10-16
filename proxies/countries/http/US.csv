@@ -1,34 +1,29 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-192.73.243.98:3128,HTTP,United States,US,🇺🇸,0,low,No,"NetActuate, Inc",3060,Yes,195.8,7/7
-104.51.39.146:8080,HTTP,United States,US,🇺🇸,0,low,No,"AT&T Enterprises, LLC",2574,Yes,232.5,4/7
-107.161.178.244:3128,HTTP,United States,US,🇺🇸,0,low,No,HostDime.com,6818,No,,0/7
-165.154.162.73:8888,HTTP,United States,US,🇺🇸,0,low,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,648,Timeout,,
-43.153.123.79:80,HTTP,United States,US,🇺🇸,0,low,No,Shenzhen Tencent Computer Systems Company Limited,435,Timeout,,
-43.153.123.79:80,HTTP,United States,US,🇺🇸,0,low,No,Shenzhen Tencent Computer Systems Company Limited,471,Timeout,,
-34.106.133.182:40001,HTTP,United States,US,🇺🇸,0,low,No,Google LLC,242,Timeout,,
-172.85.99.167:16062,HTTP,United States,US,🇺🇸,0,low,Yes,Host Wagon LLC,15042,Not Checked,,
-184.170.104.86:80,HTTP,United States,US,🇺🇸,0,low,No,Shenandoah Cable Television LLC,9646,Not Checked,,
-49.51.244.112:8888,HTTP,United States,US,🇺🇸,0,low,No,OPHL,11894,Not Checked,,
-184.170.104.86:8888,HTTP,United States,US,🇺🇸,0,low,No,Shenandoah Cable Television LLC,8063,Not Checked,,
-34.43.46.91:80,HTTP,United States,US,🇺🇸,2,low,No,Google LLC,1213,Not Checked,,
-64.181.247.193:443,HTTP,United States,US,🇺🇸,2,low,No,Oracle Corporation,13593,Not Checked,,
-34.43.46.91:80,HTTP,United States,US,🇺🇸,2,low,No,Google LLC,467,Not Checked,,
-98.81.204.137:37886,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",1562,Not Checked,,
-18.226.240.209:3128,HTTP,United States,US,🇺🇸,6,low,No,"Amazon.com, Inc.",414,Not Checked,,
-54.210.5.187:3128,HTTP,United States,US,🇺🇸,6,low,No,"Amazon.com, Inc.",909,Not Checked,,
-47.90.149.238:3128,HTTP,United States,US,🇺🇸,8,low,No,Alibaba.com LLC,7272,Not Checked,,
-47.89.159.212:80,HTTP,United States,US,🇺🇸,8,low,No,Alibaba.com LLC,7269,Not Checked,,
-24.72.215.236:8246,HTTP,United States,US,🇺🇸,8,low,No,Vyve Broadband,6576,Not Checked,,
-47.251.74.38:8047,HTTP,United States,US,🇺🇸,11,low,No,Alibaba Cloud LLC,7122,Not Checked,,
-3.211.120.181:443,HTTP,United States,US,🇺🇸,12,low,No,Amazon Technologies Inc.,583,Not Checked,,
-3.211.120.181:443,HTTP,United States,US,🇺🇸,12,low,No,Amazon Technologies Inc.,1019,Not Checked,,
-104.218.199.24:16062,HTTP,United States,US,🇺🇸,40,medium,Yes,BraveWay LLC,8842,Not Checked,,
-40.160.36.112:999,HTTP,United States,US,🇺🇸,41,medium,No,OVH SAS,2014,Not Checked,,
-167.99.8.182:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",10012,Not Checked,,
-198.199.86.11:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",396,Not Checked,,
-209.97.150.167:3128,HTTP,United States,US,🇺🇸,51,medium,Yes,"DigitalOcean, LLC",445,Not Checked,,
-138.68.60.8:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",182,Not Checked,,
-167.71.245.33:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",10134,Not Checked,,
-198.199.86.11:8080,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",535,Not Checked,,
-138.68.60.8:3128,HTTP,United States,US,🇺🇸,51,medium,No,"DigitalOcean, LLC",416,Not Checked,,
-104.253.79.9:3128,HTTP,United States,US,🇺🇸,55,medium,No,Digital LLC,14084,Not Checked,,
+48.214.22.79:8080,HTTP,United States,US,🇺🇸,0,low,No,Microsoft Corporation,7162,Yes,169.6,7/7
+75.148.159.121:8080,HTTP,United States,US,🇺🇸,0,low,No,Comcast Cable Communications,3553,Yes,247.0,7/7
+97.76.251.138:8080,HTTP,United States,US,🇺🇸,0,low,No,Spectrum,8511,Yes,200.2,7/7
+113.20.7.76:30002,HTTP,United States,US,🇺🇸,0,low,No,Multacom Corporation,1975,Yes,254.8,3/7
+107.161.178.244:3128,HTTP,United States,US,🇺🇸,0,low,No,HostDime.com,2868,No,,0/7
+165.154.162.73:8888,HTTP,United States,US,🇺🇸,0,low,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,6487,No,,0/7
+165.154.162.73:8888,HTTP,United States,US,🇺🇸,0,low,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,1300,No,,0/7
+64.181.247.193:443,HTTP,United States,US,🇺🇸,1,low,No,Oracle Corporation,9686,Not Checked,,
+64.181.247.193:443,HTTP,United States,US,🇺🇸,1,low,No,Oracle Corporation,8908,Not Checked,,
+34.43.46.91:80,HTTP,United States,US,🇺🇸,2,low,No,Google LLC,414,Not Checked,,
+34.43.46.91:443,HTTP,United States,US,🇺🇸,2,low,No,Google LLC,4110,Not Checked,,
+34.43.46.91:443,HTTP,United States,US,🇺🇸,2,low,No,Google LLC,539,Not Checked,,
+3.21.129.156:33353,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",1770,Not Checked,,
+154.17.8.19:11080,HTTP,United States,US,🇺🇸,3,low,No,DMIT Cloud Services,7183,Not Checked,,
+154.17.8.19:11080,HTTP,United States,US,🇺🇸,3,low,No,DMIT Cloud Services,10481,Not Checked,,
+47.90.149.238:8888,HTTP,United States,US,🇺🇸,11,low,No,Alibaba.com LLC,7148,Not Checked,,
+47.90.167.27:8000,HTTP,United States,US,🇺🇸,11,low,No,Alibaba.com LLC,8219,Not Checked,,
+47.251.87.74:84,HTTP,United States,US,🇺🇸,12,low,No,Alibaba Cloud LLC,7212,Not Checked,,
+47.254.36.25:11080,HTTP,United States,US,🇺🇸,12,low,No,Alibaba Cloud LLC,8928,Not Checked,,
+3.211.120.181:443,HTTP,United States,US,🇺🇸,12,low,No,Amazon Technologies Inc.,235,Not Checked,,
+67.20.129.199:8080,HTTP,United States,US,🇺🇸,18,low,No,"Hargray Communications Group, Inc.",11118,Not Checked,,
+40.160.36.112:999,HTTP,United States,US,🇺🇸,42,medium,No,OVH SAS,11221,Not Checked,,
+104.218.199.26:16062,HTTP,United States,US,🇺🇸,50,medium,Yes,BraveWay LLC,8374,Not Checked,,
+209.97.150.167:3128,HTTP,United States,US,🇺🇸,52,medium,Yes,"DigitalOcean, LLC",317,Not Checked,,
+138.68.60.8:3128,HTTP,United States,US,🇺🇸,52,medium,No,"DigitalOcean, LLC",328,Not Checked,,
+198.199.86.11:8080,HTTP,United States,US,🇺🇸,52,medium,No,"DigitalOcean, LLC",314,Not Checked,,
+138.68.60.8:3128,HTTP,United States,US,🇺🇸,52,medium,No,"DigitalOcean, LLC",321,Not Checked,,
+209.97.150.167:3128,HTTP,United States,US,🇺🇸,52,medium,Yes,"DigitalOcean, LLC",270,Not Checked,,
