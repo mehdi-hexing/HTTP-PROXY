@@ -1,15 +1,15 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-5.129.254.51:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1274,No,,0/8
-5.129.254.154:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1292,No,,0/8
-5.129.254.129:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1312,No,,0/8
-147.45.164.178:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1337,No,,0/8
-87.228.102.241:40001,HTTP,Russia,RU,🇷🇺,0,low,No,JSC Selectel,3892,No,,0/8
-91.191.228.126:3128,HTTP,Russia,RU,🇷🇺,0,low,No,"LLC ""KomTehCentr""",7074,No,,0/8
-5.129.254.5:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1312,No,,0/8
-185.144.60.130:8095,HTTP,Russia,RU,🇷🇺,0,low,No,VORONEZHTELECOM,6239,No,,0/8
-159.194.228.40:8888,HTTP,Russia,RU,🇷🇺,0,low,No,Beget LLC,5193,No,,0/8
-87.228.102.241:40001,HTTP,Russia,RU,🇷🇺,0,low,No,JSC Selectel,3753,No,,0/8
-45.159.0.194:5050,HTTP,Russia,RU,🇷🇺,0,low,No,LLC Intercom,10944,Not Checked,,
-45.159.0.194:5050,HTTP,Russia,RU,🇷🇺,0,low,No,LLC Intercom,10932,Not Checked,,
-46.183.134.50:8080,HTTP,Russia,RU,🇷🇺,0,low,No,REDCOM LIR 3 Subroute VL,9461,Not Checked,,
-185.23.80.232:443,HTTP,Russia,RU,🇷🇺,0,low,No,OJSC Telecom-Service,9931,Not Checked,,
+5.129.254.70:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1303,Yes,76.3,7/7
+5.129.254.5:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1647,Yes,76.5,7/7
+46.253.143.110:3128,HTTP,Russia,RU,🇷🇺,0,low,No,ZTV CORP LLC,4804,Yes,74.3,7/7
+77.50.183.34:8080,HTTP,Russia,RU,🇷🇺,0,low,No,StarLink Telecom Network,2967,Yes,80.5,7/7
+212.15.47.50:8080,HTTP,Russia,RU,🇷🇺,0,low,No,"RDB 24, Ltd.",7525,Yes,93.7,7/7
+93.177.126.101:8088,HTTP,Russia,RU,🇷🇺,0,low,Yes,G COM Ltd.,2360,Yes,85.3,7/7
+31.131.248.51:3129,HTTP,Russia,RU,🇷🇺,0,low,No,JSC Selectel,1187,Yes,77.6,7/7
+31.131.248.51:3129,HTTP,Russia,RU,🇷🇺,0,low,No,JSC Selectel,1136,Yes,77.6,7/7
+46.161.49.174:10809,HTTP,Russia,RU,🇷🇺,0,low,No,Petersburg Internet Network ltd,10099,Not Checked,,
+80.252.137.246:1194,HTTP,Russia,RU,🇷🇺,0,low,No,for Flex Ltd,11248,Not Checked,,
+141.101.196.63:1080,HTTP,Russia,RU,🇷🇺,0,low,No,Vichislitelniy Centr Ltd.,9806,Not Checked,,
+62.113.118.200:10808,HTTP,Russia,RU,🇷🇺,0,low,No,Hosting technology LTD,9479,Not Checked,,
+95.165.97.185:8080,HTTP,Russia,RU,🇷🇺,2,low,No,Moscow Local Telephone Network (OAO MGTS),4381,Not Checked,,
+46.17.43.219:7890,HTTP,Russia,RU,🇷🇺,25,medium,No,LLC BAXET,4941,Not Checked,,

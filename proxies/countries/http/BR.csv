@@ -1,18 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-187.86.59.122:80,HTTP,Brazil,BR,🇧🇷,0,low,No,Opcao Telecom,1637,No,,0/8
-131.0.120.162:9292,HTTP,Brazil,BR,🇧🇷,0,low,No,Icenet Telecomunicacoes Ltda - ME,2573,No,,0/8
-187.86.59.122:80,HTTP,Brazil,BR,🇧🇷,0,low,No,Opcao Telecom,1392,No,,0/8
-138.94.236.71:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Nettcon Provedor De Internet Eireli EPP,6337,No,,0/8
-138.185.190.149:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,Virtex Telecom,6872,No,,0/8
-179.48.25.1:8095,HTTP,Brazil,BR,🇧🇷,0,low,No,Viana Telecom LTDA,14382,Not Checked,,
-138.0.143.120:8080,HTTP,Brazil,BR,🇧🇷,0,low,No,F.B. BABETO ME,9186,Not Checked,,
-147.15.126.122:28080,HTTP,Brazil,BR,🇧🇷,2,low,No,Oracle Corporation,10296,Not Checked,,
-200.95.192.61:9292,HTTP,Brazil,BR,🇧🇷,2,low,No,Oquei Telecom Ltda EPP,10660,Not Checked,,
-168.227.239.66:20000,HTTP,Brazil,BR,🇧🇷,4,low,No,BRASIL TECNOLOGIA E PARTICIPACOES S/A,1354,Not Checked,,
-18.230.23.72:4695,HTTP,Brazil,BR,🇧🇷,6,low,No,Amazon Technologies Inc.,993,Not Checked,,
-18.230.23.72:51556,HTTP,Brazil,BR,🇧🇷,6,low,No,Amazon Technologies Inc.,1029,Not Checked,,
-18.230.23.72:18995,HTTP,Brazil,BR,🇧🇷,6,low,No,Amazon Technologies Inc.,991,Not Checked,,
-18.230.23.72:8087,HTTP,Brazil,BR,🇧🇷,6,low,No,Amazon Technologies Inc.,996,Not Checked,,
-18.230.23.72:51556,HTTP,Brazil,BR,🇧🇷,6,low,No,Amazon Technologies Inc.,992,Not Checked,,
-18.230.23.72:22723,HTTP,Brazil,BR,🇧🇷,6,low,No,Amazon Technologies Inc.,991,Not Checked,,
-170.238.38.15:8080,HTTP,Brazil,BR,🇧🇷,8,low,No,Hilink Comunicações,9171,Not Checked,,
+187.86.59.122:80,HTTP,Brazil,BR,🇧🇷,0,low,No,Opcao Telecom,4042,Yes,291.1,7/7
+187.86.59.122:80,HTTP,Brazil,BR,🇧🇷,0,low,No,Opcao Telecom,1971,Yes,291.1,7/7
+186.226.167.191:3128,HTTP,Brazil,BR,🇧🇷,0,low,No,Infortel Comunicacoes Ltda,5479,Yes,272.0,7/7
+186.232.176.210:3128,HTTP,Brazil,BR,🇧🇷,0,low,No,Amazonia Publicidade Ltda,8852,Not Checked,,
+191.241.187.16:45005,HTTP,Brazil,BR,🇧🇷,0,low,No,NetGloria Telecom,12820,Not Checked,,
+168.227.239.66:20000,HTTP,Brazil,BR,🇧🇷,3,low,No,BRASIL TECNOLOGIA E PARTICIPACOES S/A,1206,Not Checked,,
+168.227.239.66:10000,HTTP,Brazil,BR,🇧🇷,3,low,No,BRASIL TECNOLOGIA E PARTICIPACOES S/A,10673,Not Checked,,
+168.227.239.66:20000,HTTP,Brazil,BR,🇧🇷,3,low,No,BRASIL TECNOLOGIA E PARTICIPACOES S/A,1342,Not Checked,,
+18.230.23.72:4695,HTTP,Brazil,BR,🇧🇷,6,low,No,Amazon Technologies Inc.,5072,Not Checked,,
+18.230.23.72:4695,HTTP,Brazil,BR,🇧🇷,6,low,No,Amazon Technologies Inc.,3082,Not Checked,,

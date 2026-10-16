@@ -1,7 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-185.195.254.72:5432,HTTP,Turkey,TR,🇹🇷,0,low,No,Veganet Teknolojileri ve Hizmetleri LTD STI,1346,No,,0/8
-45.149.24.137:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,10746,Not Checked,,
-193.33.157.147:8080,HTTP,Turkey,TR,🇹🇷,0,low,Yes,High Speed For Internet Services L.L.C,11149,Not Checked,,
-195.62.50.98:8080,HTTP,Turkey,TR,🇹🇷,0,low,Yes,High Speed For Internet Services L.L.C,8592,Not Checked,,
-116.204.166.183:8080,HTTP,Turkey,TR,🇹🇷,0,low,Yes,High Speed For Internet Services L.L.C,13185,Not Checked,,
-109.224.242.171:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,11426,Not Checked,,
+185.195.254.72:5432,HTTP,Turkey,TR,🇹🇷,0,low,No,Veganet Teknolojileri ve Hizmetleri LTD STI,1363,Yes,81.0,7/7
+87.76.138.32:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,5313,Yes,80.2,7/7
+201.7.31.60:8080,HTTP,Turkey,TR,🇹🇷,0,low,Yes,High Speed For Internet Services L.L.C,6840,Yes,88.0,7/7
+79.98.32.97:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,4532,Yes,104.2,7/7
+191.44.125.13:8080,HTTP,Turkey,TR,🇹🇷,0,low,No,High Speed For Internet Services L.L.C,12879,Not Checked,,
+95.9.67.158:3310,HTTP,Turkey,TR,🇹🇷,1,low,No,Turk Telekomunikasyon Anonim Sirketi,2589,Not Checked,,
+95.9.67.158:3310,HTTP,Turkey,TR,🇹🇷,1,low,No,Turk Telekomunikasyon Anonim Sirketi,5644,Not Checked,,
+88.247.49.47:19053,HTTP,Turkey,TR,🇹🇷,3,low,No,Turk Telekomunikasyon A.S,2896,Not Checked,,
+88.247.49.47:19053,HTTP,Turkey,TR,🇹🇷,3,low,No,Turk Telekomunikasyon A.S,2631,Not Checked,,
+149.86.151.182:8080,HTTP,Turkey,TR,🇹🇷,15,low,No,Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi,7606,Not Checked,,
+185.200.37.231:8686,HTTP,Turkey,TR,🇹🇷,20,medium,No,High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.,8544,Not Checked,,
+212.252.71.20:8080,HTTP,Turkey,TR,🇹🇷,33,medium,No,GUNEYDOGUTELEKOM,8855,Not Checked,,

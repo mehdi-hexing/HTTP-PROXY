@@ -1,10 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-81.168.119.85:443,HTTP,United Kingdom,GB,🇬🇧,0,low,Yes,Iomart Cloud Services Limited,2721,No,,0/8
-80.65.211.149:8888,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Contabo GmbH,12865,Not Checked,,
-35.178.51.34:3128,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,764,Not Checked,,
-35.178.51.34:3128,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Amazon Technologies Inc.,766,Not Checked,,
-186.190.211.67:80,HTTP,United Kingdom,GB,🇬🇧,47,medium,No,GTHost,8398,Not Checked,,
-94.237.59.253:80,HTTP,United Kingdom,GB,🇬🇧,49,medium,No,UpCloud Ltd,856,Not Checked,,
-134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,"DigitalOcean, LLC",897,Not Checked,,
-144.126.196.103:8080,HTTP,United Kingdom,GB,🇬🇧,51,medium,No,"DigitalOcean, LLC",900,Not Checked,,
-198.244.254.77:3128,HTTP,United Kingdom,GB,🇬🇧,83,high,No,OVH SAS,7040,Not Checked,,
+8.211.200.183:8081,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7663,No,,0/7
+34.105.252.3:3128,HTTP,United Kingdom,GB,🇬🇧,0,low,No,Google LLC,899,Unknown,,
+34.105.252.3:3128,HTTP,United Kingdom,GB,🇬🇧,0,low,No,Google LLC,879,Timeout,,
+35.178.51.34:3128,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Amazon Technologies Inc.,796,Not Checked,,
+35.178.51.34:3128,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Amazon Technologies Inc.,816,Not Checked,,
+134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,"DigitalOcean, LLC",872,Not Checked,,
+134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,51,medium,Yes,"DigitalOcean, LLC",854,Not Checked,,
+198.244.254.77:3128,HTTP,United Kingdom,GB,🇬🇧,83,high,No,OVH SAS,10253,Not Checked,,
