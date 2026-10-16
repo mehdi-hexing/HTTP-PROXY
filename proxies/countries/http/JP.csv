@@ -1,9 +1,30 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-101.32.94.127:8089,HTTP,Japan,JP,🇯🇵,0,low,Yes,Shenzhen Tencent Computer Systems Company Limited,4212,Yes,341.5,7/7
-13.208.246.143:22638,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,6204,No,,0/7
-140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,1000,Not Checked,,
-140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,7489,Not Checked,,
-139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",1127,Not Checked,,
-139.162.78.109:8080,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",973,Not Checked,,
-45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,82,high,No,Zenlayer Inc,6591,Not Checked,,
-45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,82,high,No,Zenlayer Inc,2148,Not Checked,,
+101.32.94.127:8089,HTTP,Japan,JP,🇯🇵,0,low,Yes,Shenzhen Tencent Computer Systems Company Limited,3544,Yes,327.1,7/7
+101.32.94.127:8089,HTTP,Japan,JP,🇯🇵,0,low,Yes,Shenzhen Tencent Computer Systems Company Limited,1618,Yes,327.1,7/7
+13.208.246.143:22638,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,709,No,,0/7
+13.208.246.143:50693,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,723,No,,0/7
+140.227.61.201:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,5068,No,,0/7
+13.208.246.143:22638,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,706,No,,0/7
+13.208.246.143:46420,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,705,No,,0/7
+13.208.246.143:46557,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,712,No,,0/7
+13.208.246.143:46557,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,708,No,,0/7
+13.208.246.143:5001,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,704,No,,0/7
+13.208.246.143:31230,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,706,No,,0/7
+13.208.246.143:23920,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,702,Timeout,,
+13.208.246.143:50693,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,703,Timeout,,
+13.208.246.143:14612,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,700,Timeout,,
+13.208.246.143:46420,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,700,Timeout,,
+8.221.139.222:1029,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",8590,Not Checked,,
+47.91.29.151:8080,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba.com LLC,9054,Not Checked,,
+35.78.252.142:59622,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",673,Not Checked,,
+35.78.252.142:8422,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",678,Not Checked,,
+35.78.252.142:56698,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1031,Not Checked,,
+35.78.252.142:51758,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1676,Not Checked,,
+35.78.252.142:224,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1680,Not Checked,,
+35.78.252.142:11080,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1682,Not Checked,,
+35.78.252.142:22430,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",5127,Not Checked,,
+35.78.212.217:100,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",3002,Not Checked,,
+140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,3892,Not Checked,,
+140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,8054,Not Checked,,
+139.162.78.109:8080,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",828,Not Checked,,
+45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,82,high,No,Zenlayer Inc,1399,Not Checked,,
