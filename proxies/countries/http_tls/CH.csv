@@ -1,12 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.131.254.246:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,hosttech GmbH,1256,Yes,98.0,8/8
-212.243.240.120:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,1265,No,,0/8
-212.243.240.120:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,1253,No,,0/8
-45.131.254.246:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,hosttech GmbH,1308,Not Checked,,
-84.72.72.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,1,low,No,UPC Schweiz GmbH,1436,Not Checked,,
-84.72.72.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,1,low,No,UPC Schweiz GmbH,1504,Not Checked,,
+45.131.254.246:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,hosttech GmbH,1315,Yes,96.5,7/7
+45.131.254.246:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,hosttech GmbH,1294,Yes,96.5,7/7
+212.243.240.120:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,1291,No,,0/7
+212.243.240.120:443,HTTP_TLS,Switzerland,CH,🇨🇭,0,low,No,Swisscom AG,1270,No,,0/7
+84.72.72.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,1,low,No,UPC Schweiz GmbH,1421,Not Checked,,
+84.72.72.153:443,HTTP_TLS,Switzerland,CH,🇨🇭,1,low,No,UPC Schweiz GmbH,1411,Not Checked,,
+169.150.197.162:9443,HTTP_TLS,Switzerland,CH,🇨🇭,46,medium,Yes,Datacamp Limited,1293,Not Checked,,
 169.150.197.162:9443,HTTP_TLS,Switzerland,CH,🇨🇭,46,medium,Yes,Datacamp Limited,1278,Not Checked,,
-169.150.197.162:9443,HTTP_TLS,Switzerland,CH,🇨🇭,46,medium,Yes,Datacamp Limited,1272,Not Checked,,
-149.88.27.46:9443,HTTP_TLS,Switzerland,CH,🇨🇭,46,medium,Yes,Datacamp Limited,1273,Not Checked,,
-149.88.27.33:9443,HTTP_TLS,Switzerland,CH,🇨🇭,46,medium,Yes,Datacamp Limited,1287,Not Checked,,
-89.187.165.97:9443,HTTP_TLS,Switzerland,CH,🇨🇭,56,medium,Yes,Datacamp Limited,1281,Not Checked,,
+149.88.27.33:9443,HTTP_TLS,Switzerland,CH,🇨🇭,46,medium,Yes,Datacamp Limited,1283,Not Checked,,
+149.88.27.46:9443,HTTP_TLS,Switzerland,CH,🇨🇭,46,medium,Yes,Datacamp Limited,1298,Not Checked,,
