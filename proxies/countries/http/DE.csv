@@ -1,10 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-95.133.236.11:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Layer7,709,Yes,88.0,8/8
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,665,Yes,79.6,8/8
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,668,Yes,79.7,8/8
-91.26.188.170:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,10316,Not Checked,,
-217.12.215.163:10808,HTTP,Germany,DE,🇩🇪,0,low,No,Route 95 LLC,8701,Not Checked,,
-8.209.96.245:5060,HTTP,Germany,DE,🇩🇪,3,low,No,Alibaba.com Singapore E-Commerce Private Limited,7477,Not Checked,,
-18.157.159.247:32975,HTTP,Germany,DE,🇩🇪,3,low,No,"Amazon.com, Inc.",3724,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",671,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",656,Not Checked,,
+95.133.236.11:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Layer7,941,Timeout,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,913,Timeout,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,909,Timeout,,
+8.211.49.86:10801,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",10504,Not Checked,,
+178.83.46.167:3128,HTTP,Germany,DE,🇩🇪,0,low,No,OVH SAS,9238,Not Checked,,
+18.157.159.247:10164,HTTP,Germany,DE,🇩🇪,3,low,No,"Amazon.com, Inc.",4043,Not Checked,,
+198.105.115.233:2000,HTTP,Germany,DE,🇩🇪,12,low,Yes,YottaSrc,967,Not Checked,,
+198.105.115.233:2000,HTTP,Germany,DE,🇩🇪,12,low,Yes,YottaSrc,959,Not Checked,,
+159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,12,low,No,netcup GmbH,9094,Not Checked,,
+173.212.234.174:3128,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,2155,Not Checked,,
+144.91.121.31:18080,HTTP,Germany,DE,🇩🇪,15,low,No,Contabo GmbH,10413,Not Checked,,
+161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,51,medium,No,"DigitalOcean, LLC",1043,Not Checked,,
