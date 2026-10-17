@@ -1,3 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-85.239.156.66:5555,HTTP,Czechia,CZ,🇨🇿,0,low,No,Ondrej Vrana,2103,Yes,87.8,7/7
-45.84.164.144:8080,HTTP,Czechia,CZ,🇨🇿,0,low,No,POPE servis s.r.o,7342,Not Checked,,
+45.84.164.144:8080,HTTP,Czechia,CZ,🇨🇿,0,low,No,POPE servis s.r.o,6211,Yes,104.3,7/7
+85.239.156.66:5555,HTTP,Czechia,CZ,🇨🇿,0,low,No,Ondrej Vrana,8056,Yes,94.1,6/7
+185.73.103.23:3128,HTTP,Czechia,CZ,🇨🇿,0,low,No,ISP Alliance a.s.,12814,Not Checked,,
+188.119.98.126:9999,HTTP,Czechia,CZ,🇨🇿,0,low,No,"O2 Czech Republic, a.s.",9686,Not Checked,,
