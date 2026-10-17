@@ -1,12 +1,12 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-34.105.252.3:3128,HTTP,United Kingdom,GB,🇬🇧,0,low,No,Google LLC,765,Yes,98.9,7/7
-8.211.200.183:84,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7569,No,,0/7
-8.211.194.85:9080,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",8893,Not Checked,,
-90.247.217.191:80,HTTP,United Kingdom,GB,🇬🇧,11,low,No,Vodafone Limited,4105,Not Checked,,
-90.247.217.191:80,HTTP,United Kingdom,GB,🇬🇧,11,low,No,Vodafone Limited,967,Not Checked,,
-35.178.51.34:3128,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Amazon Technologies Inc.,661,Not Checked,,
-35.178.51.34:3128,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Amazon Technologies Inc.,694,Not Checked,,
-213.199.53.16:8888,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Contabo GmbH,6557,Not Checked,,
-134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,52,medium,Yes,"DigitalOcean, LLC",741,Not Checked,,
-198.244.254.77:3128,HTTP,United Kingdom,GB,🇬🇧,84,high,No,OVH SAS,4726,Not Checked,,
-198.244.254.77:3128,HTTP,United Kingdom,GB,🇬🇧,84,high,No,OVH SAS,5513,Not Checked,,
+8.211.200.183:1080,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7730,No,,0/7
+34.105.252.3:3128,HTTP,United Kingdom,GB,🇬🇧,0,low,No,Google LLC,958,Timeout,,
+8.211.194.85:5060,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",11067,Not Checked,,
+8.211.194.78:138,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",10043,Not Checked,,
+141.147.100.148:3128,HTTP,United Kingdom,GB,🇬🇧,1,low,No,Oracle Corporation,11477,Not Checked,,
+80.65.211.149:8888,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Contabo GmbH,9109,Not Checked,,
+213.199.53.16:8888,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Contabo GmbH,8489,Not Checked,,
+80.65.211.149:8888,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Contabo GmbH,2923,Not Checked,,
+134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,52,medium,Yes,"DigitalOcean, LLC",935,Not Checked,,
+198.244.254.77:3128,HTTP,United Kingdom,GB,🇬🇧,84,high,No,OVH SAS,4663,Not Checked,,
+198.244.254.77:3128,HTTP,United Kingdom,GB,🇬🇧,84,high,No,OVH SAS,5590,Not Checked,,

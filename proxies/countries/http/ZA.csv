@@ -1,8 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-20.33.10.79:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,1735,Yes,245.3,7/7
-20.33.10.79:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,3715,Yes,245.3,7/7
-20.33.10.132:443,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,3265,Yes,244.3,7/7
-20.33.10.132:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,6000,Yes,244.3,7/7
-20.33.10.132:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,5378,Yes,244.3,7/7
-102.164.222.207:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,Jenny Internet cc,11069,Not Checked,,
-45.195.249.146:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,Jmjr Enterprises OPC,10082,Not Checked,,
+102.208.228.90:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,2650,No,,0/7
+102.208.228.90:3128,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,5184,No,,0/7
+196.251.213.192:8081,HTTP,South Africa,ZA,🇿🇦,0,low,No,Info-Gro (PTY) Ltd,11702,Not Checked,,
+102.164.222.207:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,Jenny Internet cc,11556,Not Checked,,
+102.141.163.248:8080,HTTP,South Africa,ZA,🇿🇦,3,low,No,Level,5507,Not Checked,,
