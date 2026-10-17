@@ -1,12 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-196.251.222.222:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,Info-Gro (PTY) Ltd,3026,Yes,257.4,7/7
-102.208.228.90:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,3212,No,,0/7
-102.208.228.90:3128,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,2631,No,,0/7
-102.208.228.90:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,4380,No,,0/7
-45.195.249.146:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,Jmjr Enterprises OPC,13330,Not Checked,,
-160.19.112.18:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,Interworks,14174,Not Checked,,
-102.218.195.126:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,Jumbo Technologies,11443,Not Checked,,
-102.208.228.90:3128,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,9032,Not Checked,,
-20.33.10.79:443,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,9785,Not Checked,,
-13.245.183.150:3125,HTTP,South Africa,ZA,🇿🇦,3,low,No,"Amazon.com, Inc.",6392,Not Checked,,
-213.172.130.3:9999,HTTP,South Africa,ZA,🇿🇦,4,low,No,HERO TELECOMS (PTY) LTD,9478,Not Checked,,
+20.33.10.132:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,1710,Yes,239.9,7/7
+20.33.10.79:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,4939,Yes,245.0,7/7
+20.33.10.132:443,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,4470,Yes,239.9,7/7
+102.208.228.90:3128,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,2585,No,,0/7
+102.208.228.90:3128,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,2731,No,,0/7
+16.28.32.67:43571,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,6449,Not Checked,,
+20.33.10.79:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,9040,Not Checked,,
+20.33.10.79:443,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,6870,Not Checked,,
+213.172.130.3:9999,HTTP,South Africa,ZA,🇿🇦,4,low,No,HERO TELECOMS (PTY) LTD,1695,Not Checked,,
