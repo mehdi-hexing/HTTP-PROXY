@@ -1,7 +1,14 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-8.211.194.85:8008,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4471,Not Checked,,
-8.211.194.78:138,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4461,Not Checked,,
-8.211.195.173:9080,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",6787,Not Checked,,
-8.211.195.139:18080,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",5067,Not Checked,,
-8.211.195.139:8889,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7138,Not Checked,,
-5.157.64.213:1080,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,IP River,2678,Not Checked,,
+5.157.64.213:1080,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,IP River,1298,Yes,138.5,7/7
+5.157.64.213:1080,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,IP River,1542,Yes,138.5,7/7
+8.211.194.85:9090,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4360,Not Checked,,
+8.211.200.183:8090,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",6454,Not Checked,,
+8.211.194.78:5800,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7644,Not Checked,,
+8.211.194.78:111,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7390,Not Checked,,
+8.211.194.78:5800,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7369,Not Checked,,
+8.211.194.78:8080,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7384,Not Checked,,
+8.211.194.78:9098,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4351,Not Checked,,
+8.211.200.183:10002,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4449,Not Checked,,
+8.211.194.78:5671,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",4352,Not Checked,,
+8.211.195.173:8443,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",6610,Not Checked,,
+8.211.195.173:999,SOCKS4,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",6629,Not Checked,,
