@@ -1,7 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-87.238.253.66:443,HTTP_TLS,Denmark,DK,🇩🇰,0,low,No,RockyNordic ApS,1551,Not Checked,,
-87.238.253.66:443,HTTP_TLS,Denmark,DK,🇩🇰,0,low,No,RockyNordic ApS,1621,Not Checked,,
-185.245.84.50:9443,HTTP_TLS,Denmark,DK,🇩🇰,73,high,Yes,M247 Europe SRL,1302,Not Checked,,
-185.245.84.50:443,HTTP_TLS,Denmark,DK,🇩🇰,73,high,Yes,M247 Europe SRL,1330,Not Checked,,
-185.245.84.50:9443,HTTP_TLS,Denmark,DK,🇩🇰,73,high,Yes,M247 Europe SRL,1357,Not Checked,,
-185.245.84.50:443,HTTP_TLS,Denmark,DK,🇩🇰,73,high,Yes,M247 Europe SRL,1309,Not Checked,,
+185.15.75.140:443,HTTP_TLS,Denmark,DK,🇩🇰,0,low,No,Hiper A/S,1116,No,,0/7
+185.15.75.140:443,HTTP_TLS,Denmark,DK,🇩🇰,0,low,No,Hiper A/S,1111,No,,0/7
+87.238.253.66:443,HTTP_TLS,Denmark,DK,🇩🇰,0,low,No,RockyNordic ApS,1281,Not Checked,,
+87.238.253.66:443,HTTP_TLS,Denmark,DK,🇩🇰,0,low,No,RockyNordic ApS,1483,Not Checked,,
+185.245.84.50:9443,HTTP_TLS,Denmark,DK,🇩🇰,73,high,Yes,M247 Europe SRL,1072,Not Checked,,
+185.245.84.50:443,HTTP_TLS,Denmark,DK,🇩🇰,73,high,Yes,M247 Europe SRL,1081,Not Checked,,
+185.245.84.50:9443,HTTP_TLS,Denmark,DK,🇩🇰,73,high,Yes,M247 Europe SRL,1046,Not Checked,,
+185.245.84.50:443,HTTP_TLS,Denmark,DK,🇩🇰,73,high,Yes,M247 Europe SRL,1094,Not Checked,,
