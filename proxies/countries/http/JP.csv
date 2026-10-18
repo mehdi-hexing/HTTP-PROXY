@@ -1,5 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-101.32.94.127:8089,HTTP,Japan,JP,🇯🇵,0,low,Yes,Shenzhen Tencent Computer Systems Company Limited,4753,Yes,327.4,7/7
-140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,5080,Not Checked,,
-139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",940,Not Checked,,
-139.162.78.109:8080,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",939,Not Checked,,
+101.32.94.127:8089,HTTP,Japan,JP,🇯🇵,0,low,Yes,Shenzhen Tencent Computer Systems Company Limited,4701,Yes,351.3,7/7
+140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,4925,Not Checked,,
+140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,4,low,No,Oracle Corporation,8344,Not Checked,,
+23.27.201.148:3128,HTTP,Japan,JP,🇯🇵,8,low,No,Ace Data Centers II,12499,Not Checked,,
+23.27.201.148:3128,HTTP,Japan,JP,🇯🇵,8,low,No,Ace Data Centers II,10420,Not Checked,,
+139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",813,Not Checked,,
+139.162.78.109:8080,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",844,Not Checked,,
+45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,82,high,No,Zenlayer Inc,5347,Not Checked,,
