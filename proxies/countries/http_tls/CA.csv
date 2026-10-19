@@ -1,24 +1,27 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-129.97.50.72:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,University of Waterloo,203,No,,0/7
-129.97.50.72:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,University of Waterloo,198,No,,0/7
-181.215.52.25:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,235,No,,0/7
-181.215.52.2:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,227,No,,0/7
-181.215.52.25:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,186,No,,0/7
-181.215.52.2:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,192,No,,0/7
-181.215.52.11:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,244,No,,0/7
-181.215.52.11:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,272,No,,0/7
-69.70.52.198:443,HTTP_TLS,Canada,CA,🇨🇦,2,low,No,Videotron Ltee,431,Not Checked,,
-206.223.161.47:9443,HTTP_TLS,Canada,CA,🇨🇦,6,low,Yes,Beanfield Technologies Inc.,238,Not Checked,,
-206.223.161.47:9443,HTTP_TLS,Canada,CA,🇨🇦,6,low,Yes,Beanfield Technologies Inc.,200,Not Checked,,
-192.95.37.111:443,HTTP_TLS,Canada,CA,🇨🇦,34,medium,No,OVH SAS,221,Not Checked,,
-192.95.37.111:443,HTTP_TLS,Canada,CA,🇨🇦,34,medium,No,OVH SAS,230,Not Checked,,
-159.203.22.247:443,HTTP_TLS,Canada,CA,🇨🇦,51,medium,No,"DigitalOcean, LLC",356,Not Checked,,
-159.203.22.247:443,HTTP_TLS,Canada,CA,🇨🇦,51,medium,No,"DigitalOcean, LLC",280,Not Checked,,
-198.100.153.39:443,HTTP_TLS,Canada,CA,🇨🇦,52,medium,No,OVH SAS,199,Not Checked,,
-15.235.104.62:443,HTTP_TLS,Canada,CA,🇨🇦,52,medium,No,OVH SAS,209,Not Checked,,
-15.235.104.61:443,HTTP_TLS,Canada,CA,🇨🇦,52,medium,No,OVH SAS,201,Not Checked,,
-66.70.170.84:443,HTTP_TLS,Canada,CA,🇨🇦,52,medium,No,OVH SAS,210,Not Checked,,
-15.235.104.62:443,HTTP_TLS,Canada,CA,🇨🇦,52,medium,No,OVH SAS,216,Not Checked,,
-198.100.153.39:443,HTTP_TLS,Canada,CA,🇨🇦,52,medium,No,OVH SAS,211,Not Checked,,
-15.235.104.61:443,HTTP_TLS,Canada,CA,🇨🇦,52,medium,No,OVH SAS,229,Not Checked,,
-66.70.170.84:443,HTTP_TLS,Canada,CA,🇨🇦,52,medium,No,OVH SAS,227,Not Checked,,
+181.215.52.2:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,581,Yes,178.2,7/7
+107.149.30.29:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,WawaCloud Inc.,652,Yes,220.6,7/7
+181.215.52.25:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,548,Yes,178.1,7/7
+181.215.52.2:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,588,Yes,178.2,7/7
+181.215.52.11:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,563,Yes,181.7,7/7
+181.215.52.11:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,542,Yes,180.8,7/7
+129.97.50.72:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,University of Waterloo,591,Yes,185.3,5/7
+129.97.50.72:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,University of Waterloo,566,Yes,274.2,5/7
+107.149.30.29:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,WawaCloud Inc.,762,No,,0/7
+181.215.52.25:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,559,Unknown,,
+69.70.52.198:443,HTTP_TLS,Canada,CA,🇨🇦,2,low,No,Videotron Ltee,861,Not Checked,,
+69.70.52.198:443,HTTP_TLS,Canada,CA,🇨🇦,2,low,No,Videotron Ltee,806,Not Checked,,
+206.223.161.47:9443,HTTP_TLS,Canada,CA,🇨🇦,6,low,Yes,Beanfield Technologies Inc.,618,Not Checked,,
+206.223.161.47:9443,HTTP_TLS,Canada,CA,🇨🇦,6,low,Yes,Beanfield Technologies Inc.,600,Not Checked,,
+192.95.37.111:443,HTTP_TLS,Canada,CA,🇨🇦,34,medium,No,OVH SAS,780,Not Checked,,
+192.95.37.111:443,HTTP_TLS,Canada,CA,🇨🇦,34,medium,No,OVH SAS,791,Not Checked,,
+66.70.170.84:443,HTTP_TLS,Canada,CA,🇨🇦,51,medium,No,OVH SAS,735,Not Checked,,
+15.235.104.61:443,HTTP_TLS,Canada,CA,🇨🇦,51,medium,No,OVH SAS,741,Not Checked,,
+15.235.104.62:443,HTTP_TLS,Canada,CA,🇨🇦,51,medium,No,OVH SAS,747,Not Checked,,
+198.100.153.39:443,HTTP_TLS,Canada,CA,🇨🇦,51,medium,No,OVH SAS,748,Not Checked,,
+15.235.104.62:443,HTTP_TLS,Canada,CA,🇨🇦,51,medium,No,OVH SAS,744,Not Checked,,
+198.100.153.39:443,HTTP_TLS,Canada,CA,🇨🇦,51,medium,No,OVH SAS,746,Not Checked,,
+66.70.170.84:443,HTTP_TLS,Canada,CA,🇨🇦,51,medium,No,OVH SAS,733,Not Checked,,
+15.235.104.61:443,HTTP_TLS,Canada,CA,🇨🇦,51,medium,No,OVH SAS,756,Not Checked,,
+159.203.22.247:443,HTTP_TLS,Canada,CA,🇨🇦,52,medium,No,"DigitalOcean, LLC",887,Not Checked,,
+159.203.22.247:443,HTTP_TLS,Canada,CA,🇨🇦,52,medium,No,"DigitalOcean, LLC",851,Not Checked,,
