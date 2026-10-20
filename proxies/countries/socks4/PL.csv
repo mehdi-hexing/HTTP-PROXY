@@ -1,15 +1,24 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-185.32.4.110:4153,SOCKS4,Poland,PL,🇵🇱,0,low,No,AS Consulting Sp. z o. o.,779,No,,0/7
-89.186.8.107:1080,SOCKS4,Poland,PL,🇵🇱,0,low,No,VIP AGENCJA REKLAMY sp. z o.o,5000,Not Checked,,
-89.186.8.107:1080,SOCKS4,Poland,PL,🇵🇱,0,low,No,VIP AGENCJA REKLAMY sp. z o.o,6251,Not Checked,,
-185.32.4.126:4153,SOCKS4,Poland,PL,🇵🇱,0,low,No,AS Consulting Sp. z o. o.,1863,Not Checked,,
-185.14.149.33:4145,SOCKS4,Poland,PL,🇵🇱,0,low,No,Enformatel Sp. z o.o.,3119,Not Checked,,
-31.42.6.125:5678,SOCKS4,Poland,PL,🇵🇱,0,low,No,MARCIN MALOLEPSZY @ALFANET,3847,Not Checked,,
-213.25.70.1:3629,SOCKS4,Poland,PL,🇵🇱,0,low,No,Orange Polska Spolka Akcyjna,2016,Not Checked,,
-185.79.243.153:38431,SOCKS4,Poland,PL,🇵🇱,0,low,No,PHU Kario-Sat Sp. z o.o.,1822,Not Checked,,
-185.147.69.48:1080,SOCKS4,Poland,PL,🇵🇱,0,low,No,Prymas Inwestycje Spolka Z Ograniczona Odpowiedzialnoscia Spolka Komandytowa,2885,Not Checked,,
-185.79.243.153:38431,SOCKS4,Poland,PL,🇵🇱,0,low,No,PHU Kario-Sat Sp. z o.o.,1774,Not Checked,,
-37.131.164.48:59341,SOCKS4,Poland,PL,🇵🇱,0,low,No,Provector Sp. z o.o,5063,Not Checked,,
-185.32.4.102:4153,SOCKS4,Poland,PL,🇵🇱,0,low,No,AS Consulting Sp. z o. o.,5878,Not Checked,,
-46.171.28.162:59311,SOCKS4,Poland,PL,🇵🇱,1,low,No,Orange Polska Spolka Akcyjna,4821,Not Checked,,
-77.65.50.118:34159,SOCKS4,Poland,PL,🇵🇱,4,low,No,Inea S.A,4848,Not Checked,,
+185.14.149.33:4145,SOCKS4,Poland,PL,🇵🇱,0,low,No,Enformatel Sp. z o.o.,875,Yes,134.2,7/7
+31.42.6.125:5678,SOCKS4,Poland,PL,🇵🇱,0,low,No,MARCIN MALOLEPSZY @ALFANET,782,Yes,115.8,7/7
+31.42.2.113:5678,SOCKS4,Poland,PL,🇵🇱,0,low,No,MARCIN MALOLEPSZY @ALFANET,813,Yes,124.7,7/7
+185.147.69.48:1080,SOCKS4,Poland,PL,🇵🇱,0,low,No,Prymas Inwestycje Spolka Z Ograniczona Odpowiedzialnoscia Spolka Komandytowa,812,Yes,116.7,7/7
+91.150.189.122:1080,SOCKS4,Poland,PL,🇵🇱,0,low,No,Skyware Sp. z o.o.,1066,Yes,106.1,7/7
+185.32.4.110:4153,SOCKS4,Poland,PL,🇵🇱,0,low,No,AS Consulting Sp. z o. o.,770,Yes,106.0,5/7
+185.32.4.110:4153,SOCKS4,Poland,PL,🇵🇱,0,low,No,AS Consulting Sp. z o. o.,1808,Not Checked,,
+212.126.5.245:42344,SOCKS4,Poland,PL,🇵🇱,0,low,No,"Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomput",3813,Not Checked,,
+212.126.5.242:42344,SOCKS4,Poland,PL,🇵🇱,0,low,No,"Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomput",2913,Not Checked,,
+37.131.164.48:59341,SOCKS4,Poland,PL,🇵🇱,0,low,No,Provector Sp. z o.o,1928,Not Checked,,
+37.131.164.48:59341,SOCKS4,Poland,PL,🇵🇱,0,low,No,Provector Sp. z o.o,1846,Not Checked,,
+185.79.243.153:38431,SOCKS4,Poland,PL,🇵🇱,0,low,No,PHU Kario-Sat Sp. z o.o.,7919,Not Checked,,
+185.147.69.48:1080,SOCKS4,Poland,PL,🇵🇱,0,low,No,Prymas Inwestycje Spolka Z Ograniczona Odpowiedzialnoscia Spolka Komandytowa,1842,Not Checked,,
+185.32.4.102:4153,SOCKS4,Poland,PL,🇵🇱,0,low,No,AS Consulting Sp. z o. o.,3859,Not Checked,,
+37.131.165.19:59341,SOCKS4,Poland,PL,🇵🇱,0,low,No,Provector Sp. z o.o,1822,Not Checked,,
+37.131.164.94:59341,SOCKS4,Poland,PL,🇵🇱,0,low,No,Provector Sp. z o.o,4866,Not Checked,,
+37.131.164.94:59341,SOCKS4,Poland,PL,🇵🇱,0,low,No,Provector Sp. z o.o,3932,Not Checked,,
+37.128.107.102:4145,SOCKS4,Poland,PL,🇵🇱,0,low,No,NETIA,4983,Not Checked,,
+37.131.164.39:59341,SOCKS4,Poland,PL,🇵🇱,0,low,No,Provector Sp. z o.o,5970,Not Checked,,
+31.42.6.125:5678,SOCKS4,Poland,PL,🇵🇱,0,low,No,MARCIN MALOLEPSZY @ALFANET,2025,Not Checked,,
+212.126.5.248:42344,SOCKS4,Poland,PL,🇵🇱,0,low,No,"Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomput",4872,Not Checked,,
+212.126.5.246:42344,SOCKS4,Poland,PL,🇵🇱,0,low,No,"Institute of Bioorganic Chemistry Polish Academy of Science, Poznan Supercomput",7884,Not Checked,,
+77.65.50.118:34159,SOCKS4,Poland,PL,🇵🇱,4,low,No,Inea S.A,1764,Not Checked,,

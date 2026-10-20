@@ -1,5 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-90.182.147.170:4145,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,"O2 Czech Republic, a.s.",713,No,,0/7
-217.197.151.182:5678,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,PREROV,751,No,,0/7
-90.178.216.215:4153,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,"Telefonica O2 Czech Republic, a.s.",2950,Not Checked,,
-109.69.211.18:1080,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,LAN servis s.r.o,6133,Not Checked,,
+217.197.151.182:5678,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,PREROV,910,Yes,102.7,7/7
+109.69.211.18:1080,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,LAN servis s.r.o,1021,Yes,142.6,7/7
+90.182.147.170:4145,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,"O2 Czech Republic, a.s.",814,Yes,92.3,7/7
+109.69.211.18:1080,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,LAN servis s.r.o,803,Yes,142.6,7/7
+90.182.147.170:4145,SOCKS4,Czechia,CZ,🇨🇿,0,low,No,"O2 Czech Republic, a.s.",3918,Not Checked,,
