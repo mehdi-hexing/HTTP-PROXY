@@ -1,20 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,990,Yes,80.1,7/7
-8.211.42.167:1234,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7670,Not Checked,,
-8.211.49.86:8080,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7674,Not Checked,,
-217.12.215.163:10808,HTTP,Germany,DE,🇩🇪,0,low,No,Route 95 LLC,15286,Not Checked,,
-91.107.247.193:7001,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,1391,Not Checked,,
-159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,5,low,No,netcup GmbH,8926,Not Checked,,
-91.107.248.132:1080,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,10466,Not Checked,,
-91.107.248.132:1080,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,9710,Not Checked,,
-194.163.175.167:40001,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,4975,Not Checked,,
-176.57.189.138:3128,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,4424,Not Checked,,
-176.57.189.138:3128,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,2796,Not Checked,,
-185.222.240.68:3028,HTTP,Germany,DE,🇩🇪,16,low,Yes,Contabo GmbH,3611,Not Checked,,
-185.222.240.68:3028,HTTP,Germany,DE,🇩🇪,16,low,Yes,Contabo GmbH,1592,Not Checked,,
-194.163.175.167:40000,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,5751,Not Checked,,
-46.232.249.209:40001,HTTP,Germany,DE,🇩🇪,24,medium,No,netcup GmbH,946,Not Checked,,
-89.58.38.239:3128,HTTP,Germany,DE,🇩🇪,24,medium,No,netcup GmbH,1540,Not Checked,,
-132.243.213.25:8080,HTTP,Germany,DE,🇩🇪,50,medium,No,Hostkey B.V.,4722,Not Checked,,
-161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",971,Not Checked,,
-68.183.79.30:3128,HTTP,Germany,DE,🇩🇪,52,medium,Yes,"DigitalOcean, LLC",1354,Not Checked,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1075,Yes,76.3,7/7
+91.26.188.170:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,4850,Yes,84.6,7/7
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1052,Yes,76.3,7/7
+81.200.154.152:8888,HTTP,Germany,DE,🇩🇪,3,low,No,"Timeweb, LLP",1363,Not Checked,,
+150.241.105.211:3128,HTTP,Germany,DE,🇩🇪,6,low,No,U1 DIGITAL SERVICES LTD,5031,Not Checked,,
+194.163.168.163:8091,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,1073,Not Checked,,
+169.58.251.94:1080,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,1192,Not Checked,,
+217.154.200.178:8888,HTTP,Germany,DE,🇩🇪,32,medium,No,IONOS SE,1189,Not Checked,,
+161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",1089,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",1052,Not Checked,,

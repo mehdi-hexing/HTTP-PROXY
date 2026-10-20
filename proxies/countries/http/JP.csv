@@ -1,15 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-8.221.141.88:2101,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7568,Not Checked,,
-8.221.138.111:8072,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7566,Not Checked,,
-35.78.212.217:8585,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",672,Not Checked,,
-35.78.212.217:18265,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",665,Not Checked,,
-35.78.212.217:10808,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",670,Not Checked,,
-35.78.212.217:25051,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",672,Not Checked,,
-35.78.212.217:111,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",674,Not Checked,,
-35.78.212.217:900,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",665,Not Checked,,
-35.78.212.217:14185,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1814,Not Checked,,
-35.78.212.217:50469,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",6046,Not Checked,,
-140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,3,low,No,Oracle Corporation,1921,Not Checked,,
-155.133.7.49:3128,HTTP,Japan,JP,🇯🇵,10,low,Yes,Contabo Asia Private Limited,7487,Not Checked,,
-139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,54,medium,No,"Akamai Technologies, Inc.",995,Not Checked,,
-139.162.78.109:8080,HTTP,Japan,JP,🇯🇵,54,medium,No,"Akamai Technologies, Inc.",833,Not Checked,,
+61.118.38.234:60808,HTTP,Japan,JP,🇯🇵,0,low,No,Open Computer Network,4857,Yes,370.6,7/7
+15.152.38.117:48871,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,5278,No,,0/7
+47.79.87.209:1085,HTTP,Japan,JP,🇯🇵,1,low,No,"Alibaba (US) Technology Co., Ltd.",10592,Not Checked,,
+140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,3,low,No,Oracle Corporation,817,Not Checked,,
+140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,3,low,No,Oracle Corporation,2831,Not Checked,,
+139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,54,medium,No,"Akamai Technologies, Inc.",834,Not Checked,,
+139.162.78.109:8080,HTTP,Japan,JP,🇯🇵,54,medium,No,"Akamai Technologies, Inc.",785,Not Checked,,
+45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,81,high,No,Zenlayer Inc,5416,Not Checked,,
