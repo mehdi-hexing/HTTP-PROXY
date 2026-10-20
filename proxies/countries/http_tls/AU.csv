@@ -1,12 +1,16 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-203.31.65.32:443,HTTP_TLS,Australia,AU,🇦🇺,0,low,No,Hosted Network Pty Ltd,1611,Yes,344.9,7/7
-203.31.65.32:443,HTTP_TLS,Australia,AU,🇦🇺,0,low,No,Hosted Network Pty Ltd,1594,Yes,344.9,7/7
-103.62.50.130:443,HTTP_TLS,Australia,AU,🇦🇺,0,low,Yes,GSL Networks Pty LTD,1515,Yes,353.9,7/7
-103.62.50.130:9443,HTTP_TLS,Australia,AU,🇦🇺,0,low,Yes,GSL Networks Pty LTD,1521,Yes,353.9,7/7
-103.62.50.130:9443,HTTP_TLS,Australia,AU,🇦🇺,0,low,Yes,GSL Networks Pty LTD,1518,Yes,353.9,7/7
-103.62.50.130:443,HTTP_TLS,Australia,AU,🇦🇺,0,low,Yes,GSL Networks Pty LTD,1534,Yes,353.9,7/7
-140.238.205.29:443,HTTP_TLS,Australia,AU,🇦🇺,3,low,No,Oracle Corporation,2376,Not Checked,,
-140.238.205.29:443,HTTP_TLS,Australia,AU,🇦🇺,3,low,No,Oracle Corporation,1760,Not Checked,,
-3.104.149.52:443,HTTP_TLS,Australia,AU,🇦🇺,3,low,No,Amazon Technologies Inc.,1441,Not Checked,,
-209.38.82.52:443,HTTP_TLS,Australia,AU,🇦🇺,52,medium,No,"DigitalOcean, LLC",1377,Not Checked,,
-209.38.19.186:443,HTTP_TLS,Australia,AU,🇦🇺,52,medium,No,"DigitalOcean, LLC",1416,Not Checked,,
+103.62.50.130:443,HTTP_TLS,Australia,AU,🇦🇺,0,low,Yes,GSL Networks Pty LTD,1651,Yes,353.4,7/7
+103.62.50.130:9443,HTTP_TLS,Australia,AU,🇦🇺,0,low,Yes,GSL Networks Pty LTD,1662,Not Checked,,
+103.62.50.130:443,HTTP_TLS,Australia,AU,🇦🇺,0,low,Yes,GSL Networks Pty LTD,1673,Not Checked,,
+103.62.50.130:9443,HTTP_TLS,Australia,AU,🇦🇺,0,low,Yes,GSL Networks Pty LTD,1664,Not Checked,,
+4.198.140.211:443,HTTP_TLS,Australia,AU,🇦🇺,0,low,No,Microsoft Corporation,1994,Not Checked,,
+159.13.44.228:443,HTTP_TLS,Australia,AU,🇦🇺,2,low,No,Oracle Corporation,4135,Not Checked,,
+140.238.205.29:443,HTTP_TLS,Australia,AU,🇦🇺,3,low,No,Oracle Corporation,2400,Not Checked,,
+3.104.149.52:443,HTTP_TLS,Australia,AU,🇦🇺,3,low,No,Amazon Technologies Inc.,1443,Not Checked,,
+51.161.152.170:443,HTTP_TLS,Australia,AU,🇦🇺,23,medium,No,OVH SAS,2561,Not Checked,,
+209.38.89.114:443,HTTP_TLS,Australia,AU,🇦🇺,52,medium,No,"DigitalOcean, LLC",1532,Not Checked,,
+209.38.19.229:443,HTTP_TLS,Australia,AU,🇦🇺,52,medium,No,"DigitalOcean, LLC",1583,Not Checked,,
+134.199.161.93:443,HTTP_TLS,Australia,AU,🇦🇺,52,medium,No,"DigitalOcean, LLC",1617,Not Checked,,
+209.38.82.52:443,HTTP_TLS,Australia,AU,🇦🇺,52,medium,No,"DigitalOcean, LLC",1578,Not Checked,,
+209.38.19.186:443,HTTP_TLS,Australia,AU,🇦🇺,52,medium,No,"DigitalOcean, LLC",1579,Not Checked,,
+134.199.147.75:443,HTTP_TLS,Australia,AU,🇦🇺,52,medium,No,"DigitalOcean, LLC",1526,Not Checked,,
