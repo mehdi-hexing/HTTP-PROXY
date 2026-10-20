@@ -1,5 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-185.225.28.50:443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,TELEKS DOOEL Skopje,1670,Not Checked,,
-185.225.28.50:9443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,TELEKS DOOEL Skopje,1642,Not Checked,,
-185.225.28.50:443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,TELEKS DOOEL Skopje,1633,Not Checked,,
-185.225.28.50:9443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,TELEKS DOOEL Skopje,1609,Not Checked,,
+185.225.28.50:443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,TELEKS DOOEL Skopje,1534,Yes,92.6,7/7
+185.225.28.50:9443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,TELEKS DOOEL Skopje,1529,Yes,92.6,7/7
+185.225.28.50:443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,TELEKS DOOEL Skopje,1532,Yes,92.6,7/7
+185.225.28.50:9443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,TELEKS DOOEL Skopje,1543,Yes,92.6,7/7
+203.12.28.18:9443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,Host.AL Shpk,1497,Yes,111.9,7/7
+203.12.28.18:443,HTTP_TLS,North Macedonia,MK,🇲🇰,0,low,Yes,Host.AL Shpk,1531,Yes,111.9,7/7

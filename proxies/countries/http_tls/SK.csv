@@ -1,11 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-193.87.1.71:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,SANET-AS2607,1515,Not Checked,,
-195.146.134.204:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,Slovak Telecom AS6855,1600,Not Checked,,
-193.87.1.47:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,SANET-AS2607,1833,Not Checked,,
-193.87.1.71:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,SANET-AS2607,1460,Not Checked,,
-195.146.134.204:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,Slovak Telecom AS6855,1564,Not Checked,,
-213.81.148.228:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,Slovak Telecom AS6855,2136,Not Checked,,
-193.87.1.47:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,SANET-AS2607,1833,Not Checked,,
-195.80.165.154:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,Slovanet a.s.,1837,Not Checked,,
-195.80.165.154:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,Slovanet a.s.,1661,Not Checked,,
-213.81.148.228:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,Slovak Telecom AS6855,2105,Not Checked,,
+193.87.1.71:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,SANET-AS2607,1356,Yes,92.4,7/7
+193.87.1.47:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,SANET-AS2607,1677,Yes,93.7,7/7
+195.146.134.204:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,Slovak Telecom AS6855,1453,No,,0/7
+195.80.165.154:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,Slovanet a.s.,1651,No,,0/7
+195.80.165.154:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,Slovanet a.s.,1587,No,,0/7
+213.81.148.228:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,Slovak Telecom AS6855,1890,Not Checked,,
+213.81.148.228:443,HTTP_TLS,Slovakia,SK,🇸🇰,0,low,No,Slovak Telecom AS6855,2025,Not Checked,,

@@ -1,9 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-200.75.11.94:443,HTTP_TLS,Chile,CL,🇨🇱,0,low,No,Gtd Internet S.A,1817,Not Checked,,
-200.75.11.94:443,HTTP_TLS,Chile,CL,🇨🇱,0,low,No,Gtd Internet S.A,1798,Not Checked,,
-198.41.43.116:443,HTTP_TLS,Chile,CL,🇨🇱,0,low,No,Sonda S.A.,2007,Not Checked,,
-198.41.43.116:443,HTTP_TLS,Chile,CL,🇨🇱,0,low,No,Sonda S.A.,2051,Not Checked,,
-152.230.28.131:8081,HTTP_TLS,Chile,CL,🇨🇱,0,low,No,Gtd Internet S.A.,1473,Not Checked,,
-152.230.28.131:8081,HTTP_TLS,Chile,CL,🇨🇱,0,low,No,Gtd Internet S.A.,1545,Not Checked,,
-129.151.121.143:443,HTTP_TLS,Chile,CL,🇨🇱,2,low,No,Oracle Corporation,1798,Not Checked,,
-129.151.121.143:443,HTTP_TLS,Chile,CL,🇨🇱,2,low,No,Oracle Corporation,1732,Not Checked,,
+200.75.11.94:443,HTTP_TLS,Chile,CL,🇨🇱,0,low,No,Gtd Internet S.A,1542,No,,0/7
+198.41.43.116:443,HTTP_TLS,Chile,CL,🇨🇱,0,low,No,Sonda S.A.,1688,No,,0/7
+152.230.28.131:8081,HTTP_TLS,Chile,CL,🇨🇱,0,low,No,Gtd Internet S.A.,1365,No,,0/7
+152.230.28.131:8081,HTTP_TLS,Chile,CL,🇨🇱,0,low,No,Gtd Internet S.A.,1351,No,,0/7
+198.41.43.116:443,HTTP_TLS,Chile,CL,🇨🇱,0,low,No,Sonda S.A.,1827,Not Checked,,
