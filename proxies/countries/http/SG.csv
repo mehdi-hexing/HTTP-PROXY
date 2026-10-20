@@ -1,13 +1,18 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1618,Yes,236.9,7/7
-8.219.97.248:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Alibaba Cloud (Singapore) Private Limited,2562,Yes,251.0,7/7
-4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1600,Yes,236.9,7/7
-47.237.2.245:2000,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8105,Not Checked,,
-157.20.43.1:8090,HTTP,Singapore,SG,🇸🇬,0,low,No,ERX,10238,Not Checked,,
-47.237.92.86:1080,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd.",8143,Not Checked,,
-13.215.184.250:51532,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,1338,Not Checked,,
-13.215.184.250:43036,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,6320,Not Checked,,
-34.142.210.154:40001,HTTP,Singapore,SG,🇸🇬,2,low,No,Google LLC,9685,Not Checked,,
-84.247.149.172:3128,HTTP,Singapore,SG,🇸🇬,10,low,No,Contabo Asia Private Limited,4227,Not Checked,,
-84.247.149.172:3128,HTTP,Singapore,SG,🇸🇬,10,low,No,Contabo Asia Private Limited,14605,Not Checked,,
-128.199.202.122:8080,HTTP,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",1921,Not Checked,,
+82.41.42.229:1080,HTTP,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi,7186,Yes,284.2,7/7
+4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1570,Yes,237.0,7/7
+4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1572,Yes,237.0,7/7
+20.197.84.160:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,3137,Yes,239.2,7/7
+20.197.84.160:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1619,Yes,239.2,7/7
+47.237.2.245:2000,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8103,No,,0/7
+8.219.229.53:59394,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8103,No,,0/7
+47.237.92.86:1025,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd.",8104,Not Checked,,
+47.237.107.41:443,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd.",8107,Not Checked,,
+54.255.249.161:4063,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.,6605,Not Checked,,
+13.215.184.250:51532,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,1342,Not Checked,,
+34.142.210.154:40001,HTTP,Singapore,SG,🇸🇬,2,low,No,Google LLC,2732,Not Checked,,
+13.215.184.250:43036,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,3605,Not Checked,,
+13.215.184.250:9898,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,6948,Not Checked,,
+103.164.55.81:3128,HTTP,Singapore,SG,🇸🇬,9,low,Yes,Contabo Asia Private Limited,1654,Not Checked,,
+128.199.202.122:8080,HTTP,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",1573,Not Checked,,
+165.22.99.36:8003,HTTP,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",1574,Not Checked,,
