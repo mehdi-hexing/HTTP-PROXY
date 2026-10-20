@@ -1,7 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-193.226.205.54:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Invitech ICT Services Kft.,1582,No,,0/7
-193.226.205.54:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Invitech ICT Services Kft.,1543,No,,0/7
-80.77.112.216:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Servergarden Kft.,1842,Not Checked,,
-193.201.185.68:443,HTTP_TLS,Hungary,HU,🇭🇺,20,medium,No,Rackforest Zrt.,1529,Not Checked,,
-193.201.185.155:443,HTTP_TLS,Hungary,HU,🇭🇺,20,medium,No,Rackforest Zrt.,1528,Not Checked,,
-46.29.140.237:443,HTTP_TLS,Hungary,HU,🇭🇺,20,medium,No,Rackforest Zrt.,1484,Not Checked,,
+80.77.112.216:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Servergarden Kft.,1281,Yes,91.0,7/7
+193.226.205.54:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Invitech ICT Services Kft.,1012,No,,0/7
+193.226.205.54:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Invitech ICT Services Kft.,2362,Not Checked,,
+193.201.185.68:443,HTTP_TLS,Hungary,HU,🇭🇺,20,medium,No,Rackforest Zrt.,992,Not Checked,,
+193.201.185.155:443,HTTP_TLS,Hungary,HU,🇭🇺,20,medium,No,Rackforest Zrt.,979,Not Checked,,
+46.29.140.237:443,HTTP_TLS,Hungary,HU,🇭🇺,20,medium,No,Rackforest Zrt.,1410,Not Checked,,
+193.201.185.63:443,HTTP_TLS,Hungary,HU,🇭🇺,20,medium,No,Rackforest Zrt.,997,Not Checked,,
