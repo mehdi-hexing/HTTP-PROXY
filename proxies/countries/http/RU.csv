@@ -1,18 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-92.62.149.82:8080,HTTP,Russia,RU,🇷🇺,0,low,No,FCOMM,4780,Yes,124.7,7/7
-5.129.254.49:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",991,Yes,75.8,7/7
-87.236.23.100:1080,HTTP,Russia,RU,🇷🇺,0,low,No,BEGET.RU,4715,Yes,100.6,7/7
-87.236.23.100:1080,HTTP,Russia,RU,🇷🇺,0,low,No,BEGET.RU,4758,Yes,100.6,7/7
-77.232.155.2:3128,HTTP,Russia,RU,🇷🇺,0,low,No,Zhukovsky.net,5078,Yes,84.9,7/7
-45.12.238.164:3128,HTTP,Russia,RU,🇷🇺,0,low,No,Beget LLC,1123,Yes,86.0,7/7
-94.103.183.19:1080,HTTP,Russia,RU,🇷🇺,0,low,No,Time-host LTD,4291,Yes,104.8,7/7
-176.115.146.232:8080,HTTP,Russia,RU,🇷🇺,0,low,No,Link Telecom NN Ltd,6840,Yes,82.9,7/7
-185.35.130.144:54782,HTTP,Russia,RU,🇷🇺,0,low,No,Plazmatelekom LLC,10782,Not Checked,,
-188.226.89.87:8080,HTTP,Russia,RU,🇷🇺,0,low,No,"LLC ""KomTehCentr""",8742,Not Checked,,
-194.87.197.21:8080,HTTP,Russia,RU,🇷🇺,0,low,No,LLC Baxet,9344,Not Checked,,
-5.101.227.133:10808,HTTP,Russia,RU,🇷🇺,0,low,No,LLC Real,9120,Not Checked,,
-185.136.185.120:8080,HTTP,Russia,RU,🇷🇺,0,low,No,"OOO ""L-Telecom""",8024,Not Checked,,
-95.84.164.92:8998,HTTP,Russia,RU,🇷🇺,1,low,No,NCNET,11491,Not Checked,,
-178.185.244.154:8080,HTTP,Russia,RU,🇷🇺,6,low,No,PJSC Rostelecom,10627,Not Checked,,
-46.17.43.219:7890,HTTP,Russia,RU,🇷🇺,25,medium,No,LLC BAXET,3379,Not Checked,,
-46.17.43.219:7890,HTTP,Russia,RU,🇷🇺,25,medium,No,LLC BAXET,4495,Not Checked,,
+159.194.228.40:8888,HTTP,Russia,RU,🇷🇺,0,low,No,Beget LLC,5001,No,,0/7
+45.159.0.194:5050,HTTP,Russia,RU,🇷🇺,0,low,No,LLC Intercom,9358,No,,0/7
+95.31.92.14:10808,HTTP,Russia,RU,🇷🇺,0,low,No,"PJSC ""Vimpelcom""",8886,No,,0/7
+194.87.197.21:8080,HTTP,Russia,RU,🇷🇺,0,low,No,LLC Baxet,12461,Not Checked,,
+193.19.190.59:8095,HTTP,Russia,RU,🇷🇺,0,low,No,Voronezh Telecom LLC,11657,Not Checked,,

@@ -1,14 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1576,Yes,232.4,7/7
-4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1684,Yes,232.4,7/7
-8.219.229.53:59394,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8116,Not Checked,,
-82.41.42.135:8181,HTTP,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi,12545,Not Checked,,
-54.255.249.161:55107,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.,5160,Not Checked,,
-47.237.92.86:1025,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd.",8108,Not Checked,,
-47.237.107.41:111,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd.",8105,Not Checked,,
-54.255.249.161:4063,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.,5026,Not Checked,,
-43.160.222.70:3128,HTTP,Singapore,SG,🇸🇬,1,low,No,Shenzhen Tencent Computer Systems Company Limited,4585,Not Checked,,
-34.142.210.154:40001,HTTP,Singapore,SG,🇸🇬,2,low,No,Google LLC,4497,Not Checked,,
-34.142.210.154:40001,HTTP,Singapore,SG,🇸🇬,2,low,No,Google LLC,5249,Not Checked,,
-47.129.105.10:35634,HTTP,Singapore,SG,🇸🇬,3,low,No,Amazon Technologies Inc,5255,Not Checked,,
-128.199.202.122:8080,HTTP,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",1601,Not Checked,,
+4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1543,No,,0/7
+8.219.229.53:9080,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8057,No,,0/7
+8.219.97.248:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Alibaba Cloud (Singapore) Private Limited,6454,No,,0/7
+4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1504,No,,0/7
+47.237.107.41:111,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd.",8061,Not Checked,,
+47.237.113.119:8008,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd.",8040,Not Checked,,
+43.160.222.70:3128,HTTP,Singapore,SG,🇸🇬,1,low,No,Shenzhen Tencent Computer Systems Company Limited,4732,Not Checked,,
+34.142.210.154:40001,HTTP,Singapore,SG,🇸🇬,2,low,No,Google LLC,4734,Not Checked,,
+34.142.210.154:40001,HTTP,Singapore,SG,🇸🇬,2,low,No,Google LLC,4807,Not Checked,,
+128.199.202.122:8080,HTTP,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",1682,Not Checked,,
