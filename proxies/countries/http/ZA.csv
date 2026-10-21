@@ -1,19 +1,14 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-147.161.162.46:13836,HTTP,South Africa,ZA,🇿🇦,0,low,No,Zscaler JNB3,1900,Yes,255.1,7/7
-147.161.162.46:30001,HTTP,South Africa,ZA,🇿🇦,0,low,No,Zscaler JNB3,1914,Yes,255.1,7/7
-16.28.29.244:37303,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,1656,No,,0/7
-16.28.29.244:39721,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,1659,No,,0/7
-16.28.29.244:43999,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,3958,No,,0/7
-102.208.228.90:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,2522,No,,0/7
-102.208.228.90:3128,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,2387,No,,0/7
-102.208.228.90:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,2393,No,,0/7
-16.28.101.55:8800,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,1643,No,,0/7
-16.28.101.55:50672,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,1635,No,,0/7
-16.28.101.55:28500,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,1631,No,,0/7
-16.28.101.55:58865,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,1607,No,,0/7
-102.208.228.90:3128,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,5834,No,,0/7
-196.251.212.52:8081,HTTP,South Africa,ZA,🇿🇦,0,low,No,Info-Gro (PTY) Ltd,8552,Not Checked,,
-41.180.70.2:8080,HTTP,South Africa,ZA,🇿🇦,0,low,Yes,X-DSL Networking Solutions,14175,Not Checked,,
-41.180.70.2:8080,HTTP,South Africa,ZA,🇿🇦,0,low,Yes,X-DSL Networking Solutions,12373,Not Checked,,
-13.245.161.189:9266,HTTP,South Africa,ZA,🇿🇦,3,low,No,"Amazon.com, Inc.",2923,Not Checked,,
-213.172.130.3:9999,HTTP,South Africa,ZA,🇿🇦,3,low,No,HERO TELECOMS (PTY) LTD,8060,Not Checked,,
+20.33.10.132:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,2929,Yes,242.8,7/7
+20.33.10.79:443,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,3499,Yes,248.0,7/7
+20.33.10.132:443,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,6412,Yes,242.8,7/7
+20.33.10.79:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,5723,Yes,248.0,7/7
+20.33.10.132:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,6676,Yes,242.8,7/7
+16.28.29.244:39721,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,1295,No,,0/7
+16.28.29.244:37303,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,1301,No,,0/7
+16.28.29.244:43999,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,3280,No,,0/7
+160.119.51.209:8088,HTTP,South Africa,ZA,🇿🇦,0,low,No,Municipal Network Services,11083,Not Checked,,
+196.251.212.52:8081,HTTP,South Africa,ZA,🇿🇦,0,low,No,Info-Gro (PTY) Ltd,13114,Not Checked,,
+102.164.222.207:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,Jenny Internet cc,10135,Not Checked,,
+156.155.50.93:8080,HTTP,South Africa,ZA,🇿🇦,1,low,No,AxxessNetworks,12013,Not Checked,,
+102.66.161.31:8888,HTTP,South Africa,ZA,🇿🇦,3,low,No,HERO TELECOMS (PTY) LTD,2683,Not Checked,,
