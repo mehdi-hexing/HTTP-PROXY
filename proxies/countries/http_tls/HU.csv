@@ -1,6 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-80.77.112.216:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Servergarden Kft.,1632,Not Checked,,
-193.201.185.68:443,HTTP_TLS,Hungary,HU,🇭🇺,20,medium,No,Rackforest Zrt.,1023,Not Checked,,
-193.201.185.155:443,HTTP_TLS,Hungary,HU,🇭🇺,20,medium,No,Rackforest Zrt.,1041,Not Checked,,
-46.29.140.237:443,HTTP_TLS,Hungary,HU,🇭🇺,20,medium,No,Rackforest Zrt.,991,Not Checked,,
-193.201.185.63:443,HTTP_TLS,Hungary,HU,🇭🇺,20,medium,No,Rackforest Zrt.,1162,Not Checked,,
+80.77.112.216:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Servergarden Kft.,1370,No,,0/7
+146.70.203.18:443,HTTP_TLS,Hungary,HU,🇭🇺,9,low,Yes,M247 Europe Infra,1180,Not Checked,,
+146.70.203.18:9443,HTTP_TLS,Hungary,HU,🇭🇺,9,low,Yes,M247 Europe Infra,1178,Not Checked,,
+193.201.185.68:443,HTTP_TLS,Hungary,HU,🇭🇺,20,medium,No,Rackforest Zrt.,1138,Not Checked,,
+193.201.185.155:443,HTTP_TLS,Hungary,HU,🇭🇺,20,medium,No,Rackforest Zrt.,1304,Not Checked,,
+46.29.140.237:443,HTTP_TLS,Hungary,HU,🇭🇺,20,medium,No,Rackforest Zrt.,1136,Not Checked,,
+193.201.185.63:443,HTTP_TLS,Hungary,HU,🇭🇺,20,medium,No,Rackforest Zrt.,1147,Not Checked,,

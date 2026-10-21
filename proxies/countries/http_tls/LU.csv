@@ -1,2 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-188.42.46.2:443,HTTP_TLS,Luxembourg,LU,🇱🇺,0,low,No,"Servers.com, Inc.",967,Yes,92.2,7/7
+188.42.46.2:443,HTTP_TLS,Luxembourg,LU,🇱🇺,0,low,No,"Servers.com, Inc.",1107,No,,0/7
+185.221.132.242:443,HTTP_TLS,Luxembourg,LU,🇱🇺,0,low,Yes,Realcloud OU,1074,No,,0/7
+185.221.132.242:9443,HTTP_TLS,Luxembourg,LU,🇱🇺,0,low,Yes,Realcloud OU,1074,No,,0/7

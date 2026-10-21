@@ -1,13 +1,14 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-193.25.2.239:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Gemini Internet,1202,Yes,118.6,7/7
-193.25.2.239:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Gemini Internet,1195,Yes,118.6,7/7
-213.241.124.228:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,NETIA SA,1271,Yes,110.0,7/7
-185.96.121.243:9443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Gabriel Sulka trading as Firma Handlowo - Uslugowa KOMPEX,1476,Not Checked,,
-83.13.36.250:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Orange Polska Spolka Akcyjna,2209,Not Checked,,
-94.246.130.82:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,ART-COM Sp. z o.o. LIR,3799,Not Checked,,
-94.246.130.82:5443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,ART-COM Sp. z o.o. LIR,3683,Not Checked,,
-46.170.93.122:443,HTTP_TLS,Poland,PL,🇵🇱,1,low,No,Orange Polska Spolka Akcyjna,1798,Not Checked,,
-46.170.93.122:443,HTTP_TLS,Poland,PL,🇵🇱,1,low,No,Orange Polska Spolka Akcyjna,2283,Not Checked,,
-79.188.239.40:8443,HTTP_TLS,Poland,PL,🇵🇱,1,low,No,Orange Polska Spolka Akcyjna,14698,Not Checked,,
-151.115.78.51:443,HTTP_TLS,Poland,PL,🇵🇱,17,low,No,SCALEWAY,962,Not Checked,,
-37.120.156.18:9443,HTTP_TLS,Poland,PL,🇵🇱,72,high,Yes,M247 Europe SRL,967,Not Checked,,
+79.133.217.233:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,eTOP sp. z o.o.,1217,No,,0/7
+213.241.124.228:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,NETIA SA,1450,No,,0/7
+83.13.36.250:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Orange Polska Spolka Akcyjna,2392,Not Checked,,
+94.246.130.82:5443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,ART-COM Sp. z o.o. LIR,3651,Not Checked,,
+94.246.130.82:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,ART-COM Sp. z o.o. LIR,3749,Not Checked,,
+185.96.121.243:9443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Gabriel Sulka trading as Firma Handlowo - Uslugowa KOMPEX,8456,Not Checked,,
+79.133.217.236:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,eTOP sp. z o.o.,2202,Not Checked,,
+79.133.217.237:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,eTOP sp. z o.o.,2223,Not Checked,,
+80.72.39.35:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,eTOP Sp. z o.o.,2365,Not Checked,,
+79.133.217.232:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,eTOP sp. z o.o.,2833,Not Checked,,
+79.188.239.43:8443,HTTP_TLS,Poland,PL,🇵🇱,1,low,No,Orange Polska Spolka Akcyjna,10441,Not Checked,,
+185.138.90.148:443,HTTP_TLS,Poland,PL,🇵🇱,25,medium,No,Global Connectivity Solutions LLP,1041,Not Checked,,
+37.120.156.18:9443,HTTP_TLS,Poland,PL,🇵🇱,72,high,Yes,M247 Europe SRL,1116,Not Checked,,
