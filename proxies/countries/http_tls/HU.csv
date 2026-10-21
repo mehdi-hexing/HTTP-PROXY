@@ -1,8 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-80.77.112.216:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Servergarden Kft.,1370,No,,0/7
-146.70.203.18:443,HTTP_TLS,Hungary,HU,🇭🇺,9,low,Yes,M247 Europe Infra,1180,Not Checked,,
-146.70.203.18:9443,HTTP_TLS,Hungary,HU,🇭🇺,9,low,Yes,M247 Europe Infra,1178,Not Checked,,
-193.201.185.68:443,HTTP_TLS,Hungary,HU,🇭🇺,20,medium,No,Rackforest Zrt.,1138,Not Checked,,
-193.201.185.155:443,HTTP_TLS,Hungary,HU,🇭🇺,20,medium,No,Rackforest Zrt.,1304,Not Checked,,
-46.29.140.237:443,HTTP_TLS,Hungary,HU,🇭🇺,20,medium,No,Rackforest Zrt.,1136,Not Checked,,
-193.201.185.63:443,HTTP_TLS,Hungary,HU,🇭🇺,20,medium,No,Rackforest Zrt.,1147,Not Checked,,
+80.77.112.216:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Servergarden Kft.,1292,Yes,93.9,7/7
+193.226.205.54:443,HTTP_TLS,Hungary,HU,🇭🇺,0,low,No,Invitech ICT Services Kft.,1557,No,,0/7
+146.70.203.18:443,HTTP_TLS,Hungary,HU,🇭🇺,9,low,Yes,M247 Europe Infra,1018,Not Checked,,
+146.70.203.18:9443,HTTP_TLS,Hungary,HU,🇭🇺,9,low,Yes,M247 Europe Infra,1042,Not Checked,,
+193.201.185.68:443,HTTP_TLS,Hungary,HU,🇭🇺,20,medium,No,Rackforest Zrt.,1029,Not Checked,,
+193.201.185.155:443,HTTP_TLS,Hungary,HU,🇭🇺,20,medium,No,Rackforest Zrt.,998,Not Checked,,
+46.29.140.237:443,HTTP_TLS,Hungary,HU,🇭🇺,20,medium,No,Rackforest Zrt.,984,Not Checked,,
+193.201.185.63:443,HTTP_TLS,Hungary,HU,🇭🇺,20,medium,No,Rackforest Zrt.,983,Not Checked,,

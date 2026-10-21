@@ -1,11 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-213.214.134.50:443,HTTP_TLS,Finland,FI,🇫🇮,0,low,No,Fujitsu Invia Finland IP-network,1105,No,,0/7
-185.4.228.99:443,HTTP_TLS,Finland,FI,🇫🇮,0,low,No,DATALAHTI,1685,Not Checked,,
-35.228.73.198:443,HTTP_TLS,Finland,FI,🇫🇮,2,low,No,Google LLC,1381,Not Checked,,
-157.180.98.233:443,HTTP_TLS,Finland,FI,🇫🇮,5,low,No,Hetzner Online GmbH,1748,Not Checked,,
-157.180.98.232:443,HTTP_TLS,Finland,FI,🇫🇮,5,low,No,Hetzner Online GmbH,1793,Not Checked,,
-65.109.179.56:8080,HTTP_TLS,Finland,FI,🇫🇮,6,low,No,Hetzner Online GmbH,1181,Not Checked,,
-65.109.168.21:666,HTTP_TLS,Finland,FI,🇫🇮,6,low,No,Hetzner Online GmbH,1191,Not Checked,,
-65.109.179.56:4030,HTTP_TLS,Finland,FI,🇫🇮,6,low,No,Hetzner Online GmbH,1186,Not Checked,,
-166.0.9.116:9443,HTTP_TLS,Finland,FI,🇫🇮,46,medium,No,Datacamp Limited,1351,Not Checked,,
-166.0.9.116:9443,HTTP_TLS,Finland,FI,🇫🇮,46,medium,No,Datacamp Limited,1430,Not Checked,,
+185.4.228.100:443,HTTP_TLS,Finland,FI,🇫🇮,0,low,No,DATALAHTI,1592,Yes,102.5,6/7
+213.214.134.50:443,HTTP_TLS,Finland,FI,🇫🇮,0,low,No,Fujitsu Invia Finland IP-network,1025,No,,0/7
+185.4.228.99:443,HTTP_TLS,Finland,FI,🇫🇮,0,low,No,DATALAHTI,2294,Not Checked,,
+35.228.73.198:443,HTTP_TLS,Finland,FI,🇫🇮,2,low,No,Google LLC,1244,Not Checked,,
+65.109.179.56:8080,HTTP_TLS,Finland,FI,🇫🇮,6,low,No,Hetzner Online GmbH,1119,Not Checked,,
+65.109.168.21:666,HTTP_TLS,Finland,FI,🇫🇮,6,low,No,Hetzner Online GmbH,1093,Not Checked,,
+65.109.179.56:4030,HTTP_TLS,Finland,FI,🇫🇮,6,low,No,Hetzner Online GmbH,1101,Not Checked,,
