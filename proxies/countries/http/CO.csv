@@ -1,19 +1,32 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-190.7.138.78:8080,HTTP,Colombia,CO,🇨🇴,0,low,No,EPM Telecomunicaciones S.A. E.S.P.,8643,No,,0/7
-45.167.124.161:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Sepcom Comunicaciones SAS,8924,No,,0/7
-45.65.138.48:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Telecomunicaciones Del Catatumbo S.A.S,9606,No,,0/7
-200.10.30.5:8083,HTTP,Colombia,CO,🇨🇴,0,low,No,Super Redes S.A.S,2932,No,,0/7
-181.174.231.97:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Sinergy Soluciones Integrales,7590,No,,0/7
-45.177.54.120:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Megared Telecomunicaciones S.A.S,10107,No,,0/7
-186.194.161.201:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Telenet Digital S.A.S,7026,No,,0/7
-181.174.231.97:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Sinergy Soluciones Integrales,6595,No,,0/7
-45.179.200.89:999,HTTP,Colombia,CO,🇨🇴,0,low,No,NET&COM LTDA.,9920,No,,0/7
-45.65.137.218:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Telecomunicaciones Del Catatumbo S.A.S,6145,No,,0/7
-181.129.16.218:8080,HTTP,Colombia,CO,🇨🇴,0,low,No,EPM Telecomunicaciones S.A. E.S.P.,8815,No,,0/7
-201.219.218.4:8080,HTTP,Colombia,CO,🇨🇴,0,low,No,ITELKOM,8934,No,,0/7
-179.1.182.25:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,11371,Not Checked,,
-177.93.33.76:999,HTTP,Colombia,CO,🇨🇴,0,low,No,TV AZTECA SUCURSAL COLOMBIA,13094,Not Checked,,
-190.61.46.162:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,10579,Not Checked,,
-179.1.182.27:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,10362,Not Checked,,
-190.144.238.66:8080,HTTP,Colombia,CO,🇨🇴,1,low,No,Telmex Colombia S.A.,9258,Not Checked,,
-181.57.131.122:8080,HTTP,Colombia,CO,🇨🇴,1,low,No,Telmex Colombia S.A.,10135,Not Checked,,
+181.78.176.147:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,2330,Yes,233.0,7/7
+181.78.176.147:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,1966,Yes,233.0,7/7
+38.211.76.201:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Cogent Communications,5979,Yes,274.5,7/7
+186.33.51.12:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,6291,Yes,288.3,7/7
+191.97.3.2:999,HTTP,Colombia,CO,🇨🇴,0,low,No,TV AZTECA SUCURSAL COLOMBIA,7421,Yes,243.7,7/7
+186.33.51.9:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,3253,Yes,238.4,7/7
+190.60.34.250:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,7826,Yes,310.1,7/7
+64.204.90.17:999,HTTP,Colombia,CO,🇨🇴,0,low,No,GTT Americas,3210,Yes,256.1,7/7
+181.78.79.11:999,HTTP,Colombia,CO,🇨🇴,0,low,No,IFX Networks Argentina S.R.L,7297,Yes,245.4,7/7
+186.33.51.14:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,3181,Yes,239.8,7/7
+38.211.76.157:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Cogent Communications,8267,Yes,256.6,7/7
+186.96.111.214:999,HTTP,Colombia,CO,🇨🇴,0,low,No,TV AZTECA SUCURSAL COLOMBIA,3240,Yes,268.6,6/7
+186.96.111.214:999,HTTP,Colombia,CO,🇨🇴,0,low,No,TV AZTECA SUCURSAL COLOMBIA,4844,Yes,268.6,6/7
+181.78.17.131:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,8574,Not Checked,,
+38.19.42.176:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Super Redes S.A.S,11133,Not Checked,,
+179.1.143.42:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,10230,Not Checked,,
+45.177.54.120:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Megared Telecomunicaciones S.A.S,11391,Not Checked,,
+209.14.115.9:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Cogent Communications,9624,Not Checked,,
+186.33.51.14:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,11734,Not Checked,,
+190.7.138.78:8080,HTTP,Colombia,CO,🇨🇴,0,low,No,EPM Telecomunicaciones S.A. E.S.P.,8662,Not Checked,,
+200.110.173.101:8080,HTTP,Colombia,CO,🇨🇴,0,low,No,Media Commerce Partners S.A,12858,Not Checked,,
+179.1.131.129:8080,HTTP,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,11643,Not Checked,,
+24.152.58.125:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Atenea Telecomunicaciones,10061,Not Checked,,
+177.93.52.67:999,HTTP,Colombia,CO,🇨🇴,0,low,No,TV AZTECA SUCURSAL COLOMBIA,10129,Not Checked,,
+179.49.160.94:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Integra Multisolutions,9110,Not Checked,,
+38.211.76.153:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Cogent Communications,11905,Not Checked,,
+190.60.39.196:999,HTTP,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,11193,Not Checked,,
+181.129.252.124:999,HTTP,Colombia,CO,🇨🇴,0,low,No,EPM Telecomunicaciones S.A. E.S.P.,15590,Not Checked,,
+152.200.218.28:80,HTTP,Colombia,CO,🇨🇴,1,low,No,Colombia Telecomunicaciones S.a. ESP BIC,5711,Not Checked,,
+181.205.205.170:999,HTTP,Colombia,CO,🇨🇴,1,low,No,EPM Telecomunicaciones S.A. E.S.P.,7957,Not Checked,,
+181.205.205.170:999,HTTP,Colombia,CO,🇨🇴,1,low,No,EPM Telecomunicaciones S.A. E.S.P.,5899,Not Checked,,

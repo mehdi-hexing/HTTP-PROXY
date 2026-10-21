@@ -1,12 +1,12 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-8.211.42.167:8443,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7591,No,,0/7
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1189,Timeout,,
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1298,Timeout,,
-158.101.175.124:5566,HTTP,Germany,DE,🇩🇪,3,low,No,Oracle Corporation,7243,Not Checked,,
-159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,5,low,No,netcup GmbH,14657,Not Checked,,
-159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,5,low,No,netcup GmbH,7332,Not Checked,,
-150.241.105.211:3128,HTTP,Germany,DE,🇩🇪,6,low,No,U1 DIGITAL SERVICES LTD,11789,Not Checked,,
-79.133.57.204:3128,HTTP,Germany,DE,🇩🇪,23,medium,No,"Ultahost, Inc.",3963,Not Checked,,
-89.58.42.118:3129,HTTP,Germany,DE,🇩🇪,24,medium,No,netcup GmbH,7583,Not Checked,,
-89.58.42.118:3129,HTTP,Germany,DE,🇩🇪,24,medium,No,netcup GmbH,3889,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",838,Not Checked,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,948,Yes,77.2,7/7
+91.26.188.170:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,4422,Yes,85.0,7/7
+8.211.42.167:9000,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7489,No,,0/7
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,694,Timeout,,
+2.28.105.45:8888,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,6607,Not Checked,,
+2.28.105.45:8888,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,5338,Not Checked,,
+194.163.168.163:8091,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,4448,Not Checked,,
+159.195.77.126:8080,HTTP,Germany,DE,🇩🇪,23,medium,Yes,netcup GmbH,4477,Not Checked,,
+89.58.42.118:3129,HTTP,Germany,DE,🇩🇪,24,medium,No,netcup GmbH,9182,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",691,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",682,Not Checked,,

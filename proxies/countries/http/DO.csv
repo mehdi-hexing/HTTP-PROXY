@@ -1,6 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-149.2.83.204:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"TELECABLE DOMINICANO, S.A.",4953,No,,0/7
-200.125.169.51:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",10321,Not Checked,,
-154.88.137.50:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"DOMINICAN CABLE GROUP DCG, S.R.L.",10311,Not Checked,,
-181.37.240.89:999,HTTP,Dominican Republic,DO,🇩🇴,1,low,No,Altice Dominicana S.A.,7218,Not Checked,,
-38.75.82.219:999,HTTP,Dominican Republic,DO,🇩🇴,6,low,No,Cogent Communications,14221,Not Checked,,
+38.255.121.1:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"INTERNET FACIL M.R., S.R.L",5150,Yes,220.6,7/7
+38.255.121.1:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"INTERNET FACIL M.R., S.R.L",7668,Yes,218.8,7/7
+217.76.245.80:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"CENTRIC MOBILITY, S.R.L",555,Timeout,,
+217.76.245.80:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"CENTRIC MOBILITY, S.R.L",486,Timeout,,
+38.50.165.182:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"NEXTELECOM, S.R.L",11177,Not Checked,,
+38.75.82.217:999,HTTP,Dominican Republic,DO,🇩🇴,6,low,No,Cogent Communications,9686,Not Checked,,
+38.196.221.6:999,HTTP,Dominican Republic,DO,🇩🇴,6,low,No,Cogent Communications,12043,Not Checked,,
+38.75.82.216:999,HTTP,Dominican Republic,DO,🇩🇴,6,low,No,Cogent Communications,9993,Not Checked,,
