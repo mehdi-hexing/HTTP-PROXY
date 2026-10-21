@@ -1,2 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-50.67.100.178:8080,SOCKS4,Canada,CA,🇨🇦,3,low,No,Shaw Communications,2538,Not Checked,,
+192.158.15.201:50877,SOCKS4,Canada,CA,🇨🇦,0,low,Yes,Ontario Inc.,1242,No,,0/7
+24.37.245.42:51056,SOCKS4,Canada,CA,🇨🇦,0,low,No,Le Groupe Videotron Ltee,1331,No,,0/7
+192.158.15.201:50877,SOCKS4,Canada,CA,🇨🇦,0,low,Yes,Ontario Inc.,1236,No,,0/7
+66.154.107.212:1080,SOCKS4,Canada,CA,🇨🇦,25,medium,No,ASSERTIVENET,1911,Not Checked,,
+66.154.107.212:1080,SOCKS4,Canada,CA,🇨🇦,25,medium,No,ASSERTIVENET,2698,Not Checked,,
+138.197.148.194:9050,SOCKS4,Canada,CA,🇨🇦,52,medium,Yes,"DigitalOcean, LLC",5146,Not Checked,,
