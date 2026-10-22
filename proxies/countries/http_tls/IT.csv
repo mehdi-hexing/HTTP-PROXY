@@ -1,20 +1,21 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-37.207.230.114:9443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Telecom Italia S.p.A,1665,Yes,127.7,7/7
-18.102.167.172:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Amazon Technologies Inc.,1566,No,,0/7
-37.100.85.116:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Wind TRE S.P.A,1346,No,,0/7
-194.243.172.243:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Telecom Italia S.p.A,1345,No,,0/7
-195.231.110.164:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Aruba S.p.A.,1563,No,,0/7
-5.158.70.34:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Orakom S.r.l.,2009,Not Checked,,
-83.211.198.117:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Retelit Digital Services S.p.A.,1690,Not Checked,,
-93.63.43.131:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Fastweb SpA,2983,Not Checked,,
-2.228.224.4:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Fastweb Networks,3047,Not Checked,,
-83.103.36.213:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Fastweb Networks,3855,Not Checked,,
-152.89.168.44:8443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Cinzia Tocci trading as Lumanex Srl,2438,Not Checked,,
-188.219.81.243:443,HTTP_TLS,Italy,IT,🇮🇹,2,low,No,Vodafone,2429,Not Checked,,
-188.219.81.246:443,HTTP_TLS,Italy,IT,🇮🇹,2,low,No,Vodafone,2541,Not Checked,,
-15.160.108.18:443,HTTP_TLS,Italy,IT,🇮🇹,5,low,No,Amazon Technologies Inc,1557,Not Checked,,
-149.102.237.44:9443,HTTP_TLS,Italy,IT,🇮🇹,46,medium,Yes,Datacamp Limited,1043,Not Checked,,
-185.183.105.130:9443,HTTP_TLS,Italy,IT,🇮🇹,72,high,Yes,M247 Europe SRL,1032,Not Checked,,
-185.183.105.130:443,HTTP_TLS,Italy,IT,🇮🇹,72,high,Yes,M247 Europe SRL,1066,Not Checked,,
-185.183.105.146:443,HTTP_TLS,Italy,IT,🇮🇹,72,high,Yes,M247 Europe SRL,1024,Not Checked,,
-185.183.105.146:9443,HTTP_TLS,Italy,IT,🇮🇹,72,high,Yes,M247 Europe SRL,979,Not Checked,,
+83.211.198.117:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Retelit Digital Services S.p.A.,1589,Yes,115.4,7/7
+18.102.167.172:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Amazon Technologies Inc.,1587,No,,0/7
+195.231.110.164:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Aruba S.p.A.,1471,No,,0/7
+195.231.110.164:8448,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Aruba S.p.A.,1430,No,,0/7
+93.63.43.131:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Fastweb SpA,1943,Not Checked,,
+5.158.70.34:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Orakom S.r.l.,2041,Not Checked,,
+37.207.230.114:9443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Telecom Italia S.p.A,2252,Not Checked,,
+2.228.224.4:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Fastweb Networks,2088,Not Checked,,
+37.100.85.116:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Wind TRE S.P.A,1724,Not Checked,,
+83.103.36.213:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Fastweb Networks,1758,Not Checked,,
+194.243.172.243:443,HTTP_TLS,Italy,IT,🇮🇹,0,low,No,Telecom Italia S.p.A,1978,Not Checked,,
+188.219.81.243:443,HTTP_TLS,Italy,IT,🇮🇹,2,low,No,Vodafone,1525,Not Checked,,
+188.219.81.246:443,HTTP_TLS,Italy,IT,🇮🇹,2,low,No,Vodafone,2219,Not Checked,,
+15.160.108.18:443,HTTP_TLS,Italy,IT,🇮🇹,5,low,No,Amazon Technologies Inc,1586,Not Checked,,
+149.102.237.44:9443,HTTP_TLS,Italy,IT,🇮🇹,46,medium,Yes,Datacamp Limited,1413,Not Checked,,
+66.163.119.84:443,HTTP_TLS,Italy,IT,🇮🇹,63,high,No,GTHost,2026,Not Checked,,
+185.183.105.130:443,HTTP_TLS,Italy,IT,🇮🇹,72,high,Yes,M247 Europe SRL,1370,Not Checked,,
+185.183.105.130:9443,HTTP_TLS,Italy,IT,🇮🇹,72,high,Yes,M247 Europe SRL,1376,Not Checked,,
+185.183.105.146:443,HTTP_TLS,Italy,IT,🇮🇹,72,high,Yes,M247 Europe SRL,1378,Not Checked,,
+185.183.105.146:9443,HTTP_TLS,Italy,IT,🇮🇹,72,high,Yes,M247 Europe SRL,1536,Not Checked,,
