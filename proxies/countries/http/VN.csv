@@ -1,13 +1,26 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-113.160.130.82:443,HTTP,Vietnam,VN,🇻🇳,0,low,No,VietNam Post and Telecom Corporation,6490,Yes,307.2,7/7
-115.79.70.69:8470,HTTP,Vietnam,VN,🇻🇳,0,low,No,VIETELftth,7937,Not Checked,,
-160.30.204.24:50008,HTTP,Vietnam,VN,🇻🇳,0,low,No,TVC,8340,Not Checked,,
-171.245.71.236:2080,HTTP,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,5409,Not Checked,,
-171.245.71.236:2048,HTTP,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,3285,Not Checked,,
-171.245.71.236:2048,HTTP,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,2246,Not Checked,,
-171.245.71.144:2080,HTTP,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,3492,Not Checked,,
-171.245.71.236:2080,HTTP,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,4608,Not Checked,,
-171.245.71.144:2095,HTTP,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,9614,Not Checked,,
-113.176.92.71:3128,HTTP,Vietnam,VN,🇻🇳,2,low,No,VNPT,1902,Not Checked,,
-113.176.92.71:3128,HTTP,Vietnam,VN,🇻🇳,2,low,No,VNPT,1694,Not Checked,,
-118.69.88.108:8080,HTTP,Vietnam,VN,🇻🇳,3,low,No,Vietnam Internet Network Information Center,10765,Not Checked,,
+160.30.204.24:50005,HTTP,Vietnam,VN,🇻🇳,0,low,No,TVC,7009,No,,0/7
+113.161.93.6:8080,HTTP,Vietnam,VN,🇻🇳,0,low,No,VietNam Post and Telecom Corporation,7273,No,,0/7
+203.205.49.2:10067,HTTP,Vietnam,VN,🇻🇳,0,low,No,CMC Telecom Infrastructure Company,1978,No,,0/7
+14.224.183.185:8080,HTTP,Vietnam,VN,🇻🇳,0,low,No,VNPT,8044,No,,0/7
+103.182.22.206:8000,HTTP,Vietnam,VN,🇻🇳,0,low,No,CUONGKHANG,5810,No,,0/7
+14.225.2.98:808,HTTP,Vietnam,VN,🇻🇳,0,low,No,Vietnam Posts and Telecommunications Group,5060,No,,0/7
+203.205.49.2:10045,HTTP,Vietnam,VN,🇻🇳,0,low,No,CMC Telecom Infrastructure Company,2749,No,,0/7
+103.182.22.48:8000,HTTP,Vietnam,VN,🇻🇳,0,low,No,CUONGKHANG,13357,Not Checked,,
+222.252.14.70:8443,HTTP,Vietnam,VN,🇻🇳,0,low,No,VietNam Post and Telecom Corporation,10746,Not Checked,,
+160.30.204.24:50001,HTTP,Vietnam,VN,🇻🇳,0,low,No,TVC,8447,Not Checked,,
+103.57.220.86:3128,HTTP,Vietnam,VN,🇻🇳,0,low,No,INET,9641,Not Checked,,
+171.245.71.236:2095,HTTP,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,6142,Not Checked,,
+171.245.71.144:2080,HTTP,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,10406,Not Checked,,
+171.245.71.236:2080,HTTP,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,11315,Not Checked,,
+171.245.71.236:2080,HTTP,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,4645,Not Checked,,
+171.245.71.144:2080,HTTP,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,8791,Not Checked,,
+171.245.71.236:2048,HTTP,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,12862,Not Checked,,
+171.245.71.144:2095,HTTP,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,8218,Not Checked,,
+171.245.71.217:2032,HTTP,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,6715,Not Checked,,
+171.245.71.236:2074,HTTP,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,2202,Not Checked,,
+171.245.71.217:2103,HTTP,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,14192,Not Checked,,
+171.245.71.236:2074,HTTP,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,2175,Not Checked,,
+171.245.71.194:2080,HTTP,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,7095,Not Checked,,
+171.245.71.236:2114,HTTP,Vietnam,VN,🇻🇳,1,low,No,Viettel Corporation,7387,Not Checked,,
+118.69.88.108:8080,HTTP,Vietnam,VN,🇻🇳,3,low,No,Vietnam Internet Network Information Center,11246,Not Checked,,
