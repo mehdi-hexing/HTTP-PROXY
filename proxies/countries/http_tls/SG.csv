@@ -1,20 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-52.187.116.36:443,HTTP_TLS,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1694,Not Checked,,
-47.84.230.119:6443,HTTP_TLS,Singapore,SG,🇸🇬,0,low,No,Alibaba.com LLC,1734,Not Checked,,
-66.42.49.247:8443,HTTP_TLS,Singapore,SG,🇸🇬,0,low,No,SGP VULTR,1662,Not Checked,,
-66.42.59.169:8888,HTTP_TLS,Singapore,SG,🇸🇬,0,low,No,SGP VULTR,1756,Not Checked,,
-23.106.249.34:21125,HTTP_TLS,Singapore,SG,🇸🇬,0,low,Yes,Leaseweb Singapore Pte. Ltd.,1763,Not Checked,,
-23.106.249.52:2569,HTTP_TLS,Singapore,SG,🇸🇬,0,low,Yes,Leaseweb Singapore Pte. Ltd.,1800,Not Checked,,
-23.106.249.54:6550,HTTP_TLS,Singapore,SG,🇸🇬,0,low,Yes,Leaseweb Singapore Pte. Ltd.,1957,Not Checked,,
-35.187.237.178:443,HTTP_TLS,Singapore,SG,🇸🇬,2,low,No,Google LLC,1982,Not Checked,,
-213.35.107.110:443,HTTP_TLS,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation,1974,Not Checked,,
-18.139.84.28:443,HTTP_TLS,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,1747,Not Checked,,
-51.79.173.71:443,HTTP_TLS,Singapore,SG,🇸🇬,8,low,No,OVH SAS,5250,Not Checked,,
-82.102.25.210:9443,HTTP_TLS,Singapore,SG,🇸🇬,25,medium,Yes,M247 LTD Singapore Infrastructure,1702,Not Checked,,
-156.146.56.110:9443,HTTP_TLS,Singapore,SG,🇸🇬,46,medium,Yes,Datacamp Limited,1689,Not Checked,,
-156.146.56.110:443,HTTP_TLS,Singapore,SG,🇸🇬,46,medium,Yes,Datacamp Limited,1700,Not Checked,,
-149.88.99.209:9443,HTTP_TLS,Singapore,SG,🇸🇬,46,medium,Yes,Datacamp Limited,1672,Not Checked,,
-165.22.60.108:443,HTTP_TLS,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",1695,Not Checked,,
-143.198.192.178:443,HTTP_TLS,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",1670,Not Checked,,
-128.199.207.200:443,HTTP_TLS,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",2091,Not Checked,,
-174.138.27.116:443,HTTP_TLS,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",1706,Not Checked,,
+23.106.249.52:2569,HTTP_TLS,Singapore,SG,🇸🇬,0,low,Yes,Leaseweb Singapore Pte. Ltd.,3396,Yes,270.7,4/7
+23.106.249.34:21125,HTTP_TLS,Singapore,SG,🇸🇬,0,low,Yes,Leaseweb Singapore Pte. Ltd.,4150,Yes,259.2,4/7
+23.106.249.54:6550,HTTP_TLS,Singapore,SG,🇸🇬,0,low,Yes,Leaseweb Singapore Pte. Ltd.,5133,Yes,268.0,4/7
+18.139.84.28:443,HTTP_TLS,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,1945,No,,0/7
+51.79.173.71:443,HTTP_TLS,Singapore,SG,🇸🇬,8,low,No,OVH SAS,5042,Not Checked,,
+149.88.99.210:9443,HTTP_TLS,Singapore,SG,🇸🇬,46,medium,Yes,Datacamp Limited,1875,Not Checked,,
+149.88.99.210:443,HTTP_TLS,Singapore,SG,🇸🇬,46,medium,Yes,Datacamp Limited,2130,Not Checked,,
+156.146.56.110:443,HTTP_TLS,Singapore,SG,🇸🇬,46,medium,Yes,Datacamp Limited,1854,Not Checked,,
+156.146.56.110:9443,HTTP_TLS,Singapore,SG,🇸🇬,46,medium,Yes,Datacamp Limited,1909,Not Checked,,
+149.88.99.209:9443,HTTP_TLS,Singapore,SG,🇸🇬,46,medium,Yes,Datacamp Limited,1869,Not Checked,,
+128.199.207.200:443,HTTP_TLS,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",2270,Not Checked,,
+174.138.27.116:443,HTTP_TLS,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",1873,Not Checked,,

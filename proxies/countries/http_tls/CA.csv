@@ -1,24 +1,16 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-208.66.248.70:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Morewave Communication Inc.,552,Yes,214.2,7/7
-181.215.52.2:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,634,Yes,176.4,7/7
-181.215.52.25:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,632,Yes,175.2,7/7
-129.97.50.72:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,University of Waterloo,737,Yes,179.0,5/7
-206.223.183.13:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,Yes,Beanfield Technologies Inc,964,Yes,173.1,5/7
-206.223.183.16:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,Yes,Beanfield Technologies Inc,949,Yes,172.6,5/7
-206.223.183.16:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,Yes,Beanfield Technologies Inc,947,Yes,172.6,5/7
-69.70.52.198:443,HTTP_TLS,Canada,CA,🇨🇦,2,low,No,Videotron Ltee,978,Not Checked,,
-35.183.78.223:9898,HTTP_TLS,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,5501,Not Checked,,
-192.95.37.111:443,HTTP_TLS,Canada,CA,🇨🇦,34,medium,No,OVH SAS,816,Not Checked,,
-95.173.219.14:443,HTTP_TLS,Canada,CA,🇨🇦,36,medium,Yes,Datacamp Limited,452,Not Checked,,
-95.173.219.14:9443,HTTP_TLS,Canada,CA,🇨🇦,36,medium,Yes,Datacamp Limited,441,Not Checked,,
-95.173.219.1:9443,HTTP_TLS,Canada,CA,🇨🇦,36,medium,Yes,Datacamp Limited,439,Not Checked,,
-198.44.157.19:9443,HTTP_TLS,Canada,CA,🇨🇦,43,medium,Yes,"tzulo, inc.",543,Not Checked,,
-198.44.142.35:9443,HTTP_TLS,Canada,CA,🇨🇦,50,medium,Yes,"tzulo, inc.",638,Not Checked,,
-15.235.104.62:443,HTTP_TLS,Canada,CA,🇨🇦,51,medium,No,OVH SAS,793,Not Checked,,
-198.100.153.39:443,HTTP_TLS,Canada,CA,🇨🇦,51,medium,No,OVH SAS,783,Not Checked,,
-15.235.104.61:443,HTTP_TLS,Canada,CA,🇨🇦,51,medium,No,OVH SAS,784,Not Checked,,
-66.70.170.84:443,HTTP_TLS,Canada,CA,🇨🇦,51,medium,No,OVH SAS,779,Not Checked,,
-159.203.22.247:443,HTTP_TLS,Canada,CA,🇨🇦,52,medium,No,"DigitalOcean, LLC",822,Not Checked,,
-23.169.224.3:9443,HTTP_TLS,Canada,CA,🇨🇦,56,medium,Yes,Lone Star Cable Network LLC,705,Not Checked,,
-23.169.224.34:9443,HTTP_TLS,Canada,CA,🇨🇦,56,medium,Yes,Lone Star Cable Network LLC,688,Not Checked,,
-23.169.224.34:443,HTTP_TLS,Canada,CA,🇨🇦,56,medium,Yes,Lone Star Cable Network LLC,701,Not Checked,,
+181.215.52.2:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,484,Yes,175.1,7/7
+181.215.52.25:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,No,Windscribe,492,Yes,176.0,7/7
+69.70.52.198:443,HTTP_TLS,Canada,CA,🇨🇦,2,low,No,Videotron Ltee,702,Yes,181.8,7/7
+206.223.183.16:443,HTTP_TLS,Canada,CA,🇨🇦,0,low,Yes,Beanfield Technologies Inc,680,Yes,178.3,5/7
+206.223.183.16:9443,HTTP_TLS,Canada,CA,🇨🇦,0,low,Yes,Beanfield Technologies Inc,728,Yes,178.3,5/7
+35.183.78.223:9898,HTTP_TLS,Canada,CA,🇨🇦,8,low,No,Amazon Technologies Inc.,1896,Not Checked,,
+95.173.219.14:443,HTTP_TLS,Canada,CA,🇨🇦,36,medium,Yes,Datacamp Limited,583,Not Checked,,
+95.173.219.14:9443,HTTP_TLS,Canada,CA,🇨🇦,36,medium,Yes,Datacamp Limited,586,Not Checked,,
+95.173.219.1:9443,HTTP_TLS,Canada,CA,🇨🇦,36,medium,Yes,Datacamp Limited,587,Not Checked,,
+198.44.157.19:9443,HTTP_TLS,Canada,CA,🇨🇦,43,medium,Yes,"tzulo, inc.",442,Not Checked,,
+198.44.142.35:9443,HTTP_TLS,Canada,CA,🇨🇦,50,medium,Yes,"tzulo, inc.",491,Not Checked,,
+198.44.142.27:9443,HTTP_TLS,Canada,CA,🇨🇦,50,medium,Yes,"tzulo, inc.",479,Not Checked,,
+23.169.224.3:9443,HTTP_TLS,Canada,CA,🇨🇦,56,medium,Yes,Lone Star Cable Network LLC,563,Not Checked,,
+23.169.224.34:9443,HTTP_TLS,Canada,CA,🇨🇦,56,medium,Yes,Lone Star Cable Network LLC,558,Not Checked,,
+23.169.224.34:443,HTTP_TLS,Canada,CA,🇨🇦,56,medium,Yes,Lone Star Cable Network LLC,570,Not Checked,,

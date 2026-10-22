@@ -1,5 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-95.153.32.2:9443,HTTP_TLS,Estonia,EE,🇪🇪,0,low,Yes,Tele2 Sverige AB,1514,Not Checked,,
-95.153.32.2:443,HTTP_TLS,Estonia,EE,🇪🇪,0,low,Yes,Tele2 Sverige AB,1471,Not Checked,,
-95.153.32.2:9443,HTTP_TLS,Estonia,EE,🇪🇪,0,low,Yes,Tele2 Sverige AB,1432,Not Checked,,
-95.153.32.2:443,HTTP_TLS,Estonia,EE,🇪🇪,0,low,Yes,Tele2 Sverige AB,1473,Not Checked,,
+95.153.32.2:9443,HTTP_TLS,Estonia,EE,🇪🇪,0,low,Yes,Tele2 Sverige AB,1244,Yes,115.2,7/7
+95.153.31.66:9443,HTTP_TLS,Estonia,EE,🇪🇪,0,low,No,TELE2/SWIPNET,1235,Yes,113.6,7/7
+95.153.32.2:443,HTTP_TLS,Estonia,EE,🇪🇪,0,low,Yes,Tele2 Sverige AB,1200,Yes,115.2,7/7

@@ -1,12 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-196.21.187.115:443,HTTP_TLS,South Africa,ZA,🇿🇦,0,low,No,TENET,2669,Not Checked,,
-196.21.109.82:443,HTTP_TLS,South Africa,ZA,🇿🇦,0,low,No,TENET,3021,Not Checked,,
-41.77.155.164:443,HTTP_TLS,South Africa,ZA,🇿🇦,0,low,No,eNetworks (Pty) Ltd,2469,Not Checked,,
-196.21.61.67:443,HTTP_TLS,South Africa,ZA,🇿🇦,0,low,No,TENET,3874,Not Checked,,
-198.54.223.176:443,HTTP_TLS,South Africa,ZA,🇿🇦,0,low,No,TENET (The UNINET Project),2855,Not Checked,,
-45.220.173.35:443,HTTP_TLS,South Africa,ZA,🇿🇦,0,low,No,eNetworks (Pty) Ltd,3164,Not Checked,,
-196.21.60.44:443,HTTP_TLS,South Africa,ZA,🇿🇦,0,low,No,TENET,2928,Not Checked,,
-129.151.160.199:443,HTTP_TLS,South Africa,ZA,🇿🇦,2,low,No,Oracle Corporation,2919,Not Checked,,
-213.139.10.46:9443,HTTP_TLS,South Africa,ZA,🇿🇦,24,medium,Yes,Datacamp Limited,2471,Not Checked,,
-108.181.120.26:9443,HTTP_TLS,South Africa,ZA,🇿🇦,52,medium,Yes,Psychz Networks,2634,Not Checked,,
-108.181.120.26:443,HTTP_TLS,South Africa,ZA,🇿🇦,52,medium,Yes,Psychz Networks,2621,Not Checked,,
+196.21.60.44:443,HTTP_TLS,South Africa,ZA,🇿🇦,0,low,No,TENET,3179,No,,0/7
+45.220.173.40:443,HTTP_TLS,South Africa,ZA,🇿🇦,0,low,No,eNetworks (Pty) Ltd,2667,No,,0/7
+129.151.160.199:443,HTTP_TLS,South Africa,ZA,🇿🇦,2,low,No,Oracle Corporation,2634,No,,0/7
+108.181.120.26:443,HTTP_TLS,South Africa,ZA,🇿🇦,52,medium,Yes,Psychz Networks,3278,Not Checked,,
