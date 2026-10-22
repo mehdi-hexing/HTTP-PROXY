@@ -1,15 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-162.43.106.22:60000,HTTP,Japan,JP,🇯🇵,0,low,No,XSERVER Inc.,6888,Yes,359.6,7/7
-47.74.46.81:80,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7809,No,,0/7
-116.80.50.36:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,5271,No,,0/7
-116.80.65.235:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,5245,No,,0/7
-166.1.61.101:8081,HTTP,Japan,JP,🇯🇵,0,low,No,Amarutu Technology Ltd,10786,Not Checked,,
-52.195.147.51:5806,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,5445,Not Checked,,
-157.120.37.23:3128,HTTP,Japan,JP,🇯🇵,2,low,Yes,"NTT PC Communications, Inc.",5404,Not Checked,,
-157.120.37.23:3128,HTTP,Japan,JP,🇯🇵,2,low,Yes,"NTT PC Communications, Inc.",5221,Not Checked,,
-140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,3,low,No,Oracle Corporation,1126,Not Checked,,
-140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,3,low,No,Oracle Corporation,8255,Not Checked,,
-139.162.78.109:8080,HTTP,Japan,JP,🇯🇵,54,medium,No,"Akamai Technologies, Inc.",1119,Not Checked,,
-139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,54,medium,No,"Akamai Technologies, Inc.",1111,Not Checked,,
-45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,81,high,No,Zenlayer Inc,8673,Not Checked,,
-45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,81,high,No,Zenlayer Inc,7870,Not Checked,,
+162.43.106.22:60000,HTTP,Japan,JP,🇯🇵,0,low,No,XSERVER Inc.,5749,Yes,311.0,7/7
+56.155.73.159:1025,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",1645,No,,0/7
+8.221.138.111:9080,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7588,No,,0/7
+8.221.138.111:3128,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7591,No,,0/7
+13.208.246.143:20456,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,7114,No,,0/7
+116.80.50.36:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,2941,No,,0/7
+116.80.65.235:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,2931,No,,0/7
+52.195.147.51:22051,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,4316,Not Checked,,
+157.120.37.23:3128,HTTP,Japan,JP,🇯🇵,2,low,Yes,"NTT PC Communications, Inc.",3926,Not Checked,,
+155.133.7.49:3128,HTTP,Japan,JP,🇯🇵,10,low,Yes,Contabo Asia Private Limited,2934,Not Checked,,
+5.104.81.203:8080,HTTP,Japan,JP,🇯🇵,10,low,Yes,Contabo Asia Private Limited,9409,Not Checked,,
+139.162.78.109:8080,HTTP,Japan,JP,🇯🇵,54,medium,No,"Akamai Technologies, Inc.",910,Not Checked,,

@@ -1,4 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-37.255.238.188:88,HTTP,Iran,IR,🇮🇷,0,low,No,TCE,6443,No,,0/7
-178.252.171.229:8080,HTTP,Iran,IR,🇮🇷,0,low,No,GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock),2788,No,,0/7
-46.209.30.11:8080,HTTP,Iran,IR,🇮🇷,0,low,No,Respina Networks & Beyond PJSC,7242,No,,0/7
+46.209.30.11:8080,HTTP,Iran,IR,🇮🇷,0,low,No,Respina Networks & Beyond PJSC,1794,Yes,16.4,7/7
+185.155.15.199:8080,HTTP,Iran,IR,🇮🇷,0,low,No,Gostaresh Ertebat Azin Kia Company PJSC,2164,No,,0/7
+91.92.134.21:3128,HTTP,Iran,IR,🇮🇷,0,low,No,Iran Telecommunication Company PJS,2758,No,,0/7
+194.150.68.101:6010,HTTP,Iran,IR,🇮🇷,0,low,No,Gostaresh Ertebat Azin Kia Company PJSC,2453,No,,0/7
+79.127.30.250:8080,HTTP,Iran,IR,🇮🇷,3,low,No,Asiatech Data Transmission company,10258,Not Checked,,
