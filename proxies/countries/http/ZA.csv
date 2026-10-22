@@ -1,4 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-20.33.10.132:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,4852,No,,0/7
-20.33.10.79:443,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,12852,Not Checked,,
-20.33.10.132:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,11552,Not Checked,,
+20.33.10.132:443,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,5177,No,,0/7
+20.33.10.132:443,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,11589,Not Checked,,
+20.33.10.132:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,10584,Not Checked,,
+20.33.10.79:9443,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,13007,Not Checked,,
+20.33.10.79:443,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,10804,Not Checked,,
+20.33.10.79:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,9965,Not Checked,,
