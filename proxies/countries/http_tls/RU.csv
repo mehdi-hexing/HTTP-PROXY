@@ -1,12 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-192.159.101.174:9443,HTTP_TLS,Russia,RU,🇷🇺,0,low,Yes,Realcloud OU,1496,Yes,106.1,7/7
-5.35.100.14:8443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,EuroByte LLC,1627,Yes,81.7,7/7
-188.120.225.125:8443,HTTP_TLS,Russia,RU,🇷🇺,0,low,Yes,JSC IOT,1662,Yes,80.9,7/7
-138.16.163.249:8443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,Hosting technology LTD,1839,Yes,90.7,7/7
-135.106.161.7:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,JSC Selectel,1435,Yes,91.9,7/7
-89.188.125.42:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,Citytelecom LLC,1634,Yes,90.2,7/7
-185.209.31.2:8443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,Hosting technology LTD,1822,Yes,85.3,7/7
-170.168.1.39:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,MT FINANCE LLC,2062,Yes,150.6,7/7
-84.237.50.68:444,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,2133,Yes,143.9,6/7
-84.237.50.68:8444,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,2114,Yes,143.9,6/7
-46.29.166.134:1446,HTTP_TLS,Russia,RU,🇷🇺,25,medium,No,LLC Baxet,1534,Not Checked,,
+135.106.161.7:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,JSC Selectel,1252,No,,0/7
+89.188.125.42:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,Citytelecom LLC,1397,No,,0/7
+185.209.31.2:8443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,Hosting technology LTD,1600,No,,0/7
+37.203.243.6:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,DATAPLANET Ltd,1265,No,,0/7
+192.159.101.178:9443,HTTP_TLS,Russia,RU,🇷🇺,0,low,Yes,Realcloud OU,1276,No,,0/7
+84.237.50.68:444,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,1979,Not Checked,,
+84.237.50.68:8444,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,1932,Not Checked,,
+92.242.41.77:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,Dataline-own,1789,Not Checked,,
+82.137.178.74:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,SSTU,1833,Not Checked,,
+46.29.166.134:1446,HTTP_TLS,Russia,RU,🇷🇺,25,medium,No,LLC Baxet,1367,Not Checked,,
