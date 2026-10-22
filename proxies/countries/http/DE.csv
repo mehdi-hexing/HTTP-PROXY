@@ -1,13 +1,15 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,901,Yes,76.5,7/7
-8.211.42.167:9000,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7684,No,,0/7
-91.26.188.170:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,5498,No,,0/7
-178.83.46.167:3128,HTTP,Germany,DE,🇩🇪,0,low,No,OVH SAS,13421,Not Checked,,
-2.28.105.45:8888,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,7759,Not Checked,,
-157.173.115.35:1081,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,11048,Not Checked,,
-194.5.152.40:8888,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,1131,Not Checked,,
-157.173.115.35:1081,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,8067,Not Checked,,
-89.58.42.118:3129,HTTP,Germany,DE,🇩🇪,24,medium,No,netcup GmbH,1032,Not Checked,,
-217.154.71.75:3128,HTTP,Germany,DE,🇩🇪,24,medium,No,IONOS SE,14413,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",969,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",936,Not Checked,,
+178.83.46.167:3128,HTTP,Germany,DE,🇩🇪,0,low,No,OVH SAS,5377,Yes,88.0,7/7
+91.26.188.170:8080,HTTP,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,3962,No,,0/7
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,934,Timeout,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,797,Timeout,,
+8.211.49.86:8080,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7600,Not Checked,,
+159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,5,low,No,netcup GmbH,12592,Not Checked,,
+2.28.105.45:8888,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,2603,Not Checked,,
+2.28.105.45:8888,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,3242,Not Checked,,
+159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,5,low,No,netcup GmbH,12061,Not Checked,,
+161.97.94.168:6001,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,2979,Not Checked,,
+213.199.53.16:8888,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,12726,Not Checked,,
+194.163.168.163:8091,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,882,Not Checked,,
+89.58.42.118:3129,HTTP,Germany,DE,🇩🇪,24,medium,No,netcup GmbH,982,Not Checked,,
+161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",895,Not Checked,,

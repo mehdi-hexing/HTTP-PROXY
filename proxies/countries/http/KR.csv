@@ -1,7 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-8.220.204.92:8081,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7672,No,,0/7
-8.220.205.172:8080,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7671,No,,0/7
-8.213.134.213:8008,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7680,No,,0/7
-8.220.204.215:5060,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7689,No,,0/7
-112.216.54.226:12121,HTTP,South Korea,KR,🇰🇷,1,low,No,LG DACOM Corporation,1235,Not Checked,,
-112.216.54.226:12121,HTTP,South Korea,KR,🇰🇷,1,low,No,LG DACOM Corporation,1209,Not Checked,,
+8.220.204.215:111,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7753,Not Checked,,
+8.220.205.172:4145,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7773,Not Checked,,
+8.220.204.92:443,HTTP,South Korea,KR,🇰🇷,0,low,No,"Alibaba (US) Technology Co., Ltd.",7773,Not Checked,,
+13.209.65.136:30223,HTTP,South Korea,KR,🇰🇷,1,low,No,Amazon Technologies Inc.,915,Not Checked,,
+13.209.65.136:38528,HTTP,South Korea,KR,🇰🇷,1,low,No,Amazon Technologies Inc.,927,Not Checked,,
+13.209.65.136:25641,HTTP,South Korea,KR,🇰🇷,1,low,No,Amazon Technologies Inc.,907,Not Checked,,
+13.209.65.136:4929,HTTP,South Korea,KR,🇰🇷,1,low,No,Amazon Technologies Inc.,3276,Not Checked,,
+112.216.54.226:12121,HTTP,South Korea,KR,🇰🇷,1,low,No,LG DACOM Corporation,1325,Not Checked,,
+112.169.99.71:8063,HTTP,South Korea,KR,🇰🇷,7,low,No,Korea Telecom,8056,Not Checked,,
