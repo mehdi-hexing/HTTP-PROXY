@@ -1,23 +1,30 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-191.102.82.83:4153,SOCKS4,Colombia,CO,🇨🇴,0,low,No,TV AZTECA SUCURSAL COLOMBIA,665,No,,0/7
-190.144.224.182:44550,SOCKS4,Colombia,CO,🇨🇴,0,low,No,Telmex Colombia S.A.,1245,No,,0/7
-181.129.182.138:5678,SOCKS4,Colombia,CO,🇨🇴,0,low,No,EPM Telecomunicaciones S.A. E.S.P.,1049,No,,0/7
-191.102.82.83:4153,SOCKS4,Colombia,CO,🇨🇴,0,low,No,TV AZTECA SUCURSAL COLOMBIA,698,No,,0/7
-200.10.31.74:49992,SOCKS4,Colombia,CO,🇨🇴,0,low,No,Super Redes S.A.S,1136,No,,0/7
-38.51.243.173:5678,SOCKS4,Colombia,CO,🇨🇴,0,low,No,Intercomm de Narino,2747,Not Checked,,
-181.143.59.140:4153,SOCKS4,Colombia,CO,🇨🇴,0,low,No,EPM Telecomunicaciones S.A. E.S.P.,1747,Not Checked,,
-200.10.31.74:49992,SOCKS4,Colombia,CO,🇨🇴,0,low,No,Super Redes S.A.S,7383,Not Checked,,
-201.184.239.75:5678,SOCKS4,Colombia,CO,🇨🇴,0,low,No,EPM Telecomunicaciones S.A. E.S.P.,2736,Not Checked,,
-170.238.239.71:60606,SOCKS4,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,4890,Not Checked,,
-186.1.182.194:4153,SOCKS4,Colombia,CO,🇨🇴,0,low,No,Dialnet de Colombia S.A. E.S.P.,3821,Not Checked,,
-181.129.182.138:5678,SOCKS4,Colombia,CO,🇨🇴,0,low,No,EPM Telecomunicaciones S.A. E.S.P.,3924,Not Checked,,
-190.60.52.194:1080,SOCKS4,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,7889,Not Checked,,
-170.238.239.71:60606,SOCKS4,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,6034,Not Checked,,
-181.204.4.74:5678,SOCKS4,Colombia,CO,🇨🇴,1,low,No,EPM Telecomunicaciones S.A. E.S.P.,4030,Not Checked,,
-181.57.178.146:1080,SOCKS4,Colombia,CO,🇨🇴,1,low,No,Telmex Colombia S.A.,5811,Not Checked,,
-181.236.221.138:4145,SOCKS4,Colombia,CO,🇨🇴,1,low,Yes,Colombia Telecomunicaciones S.a. ESP BIC,1751,Not Checked,,
-181.57.178.146:1080,SOCKS4,Colombia,CO,🇨🇴,1,low,No,Telmex Colombia S.A.,5802,Not Checked,,
-181.204.4.74:5678,SOCKS4,Colombia,CO,🇨🇴,1,low,No,EPM Telecomunicaciones S.A. E.S.P.,7934,Not Checked,,
-177.253.136.162:5678,SOCKS4,Colombia,CO,🇨🇴,1,low,No,EPM Telecomunicaciones S.A. E.S.P.,5784,Not Checked,,
-181.48.243.194:4153,SOCKS4,Colombia,CO,🇨🇴,1,low,No,Telmex Colombia S.A.,2781,Not Checked,,
-190.85.47.198:4145,SOCKS4,Colombia,CO,🇨🇴,5,low,No,Telmex Colombia S.A.,676,Not Checked,,
+191.102.82.83:4153,SOCKS4,Colombia,CO,🇨🇴,0,low,No,TV AZTECA SUCURSAL COLOMBIA,766,Yes,249.3,7/7
+191.102.82.83:4153,SOCKS4,Colombia,CO,🇨🇴,0,low,No,TV AZTECA SUCURSAL COLOMBIA,772,Yes,249.3,7/7
+181.143.37.11:32767,SOCKS4,Colombia,CO,🇨🇴,0,low,No,EPM Telecomunicaciones S.A. E.S.P.,754,Yes,255.0,7/7
+38.51.243.173:5678,SOCKS4,Colombia,CO,🇨🇴,0,low,No,Intercomm de Narino,3934,Not Checked,,
+181.143.45.218:1080,SOCKS4,Colombia,CO,🇨🇴,0,low,No,EPM Telecomunicaciones S.A. E.S.P.,5008,Not Checked,,
+190.144.224.182:44550,SOCKS4,Colombia,CO,🇨🇴,0,low,No,Telmex Colombia S.A.,2096,Not Checked,,
+186.190.228.83:4153,SOCKS4,Colombia,CO,🇨🇴,0,low,No,TV AZTECA SUCURSAL COLOMBIA,5912,Not Checked,,
+181.129.182.138:5678,SOCKS4,Colombia,CO,🇨🇴,0,low,No,EPM Telecomunicaciones S.A. E.S.P.,3234,Not Checked,,
+181.143.59.140:4153,SOCKS4,Colombia,CO,🇨🇴,0,low,No,EPM Telecomunicaciones S.A. E.S.P.,1979,Not Checked,,
+200.10.31.74:49992,SOCKS4,Colombia,CO,🇨🇴,0,low,No,Super Redes S.A.S,1775,Not Checked,,
+201.184.239.75:5678,SOCKS4,Colombia,CO,🇨🇴,0,low,No,EPM Telecomunicaciones S.A. E.S.P.,4988,Not Checked,,
+201.184.239.75:5678,SOCKS4,Colombia,CO,🇨🇴,0,low,No,EPM Telecomunicaciones S.A. E.S.P.,1823,Not Checked,,
+170.238.239.71:60606,SOCKS4,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,4004,Not Checked,,
+201.184.177.10:4153,SOCKS4,Colombia,CO,🇨🇴,0,low,No,EPM Telecomunicaciones S.A. E.S.P.,2762,Not Checked,,
+190.60.52.194:1080,SOCKS4,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,3276,Not Checked,,
+190.60.52.194:1080,SOCKS4,Colombia,CO,🇨🇴,0,low,No,Ufinet Panama S.A.,5467,Not Checked,,
+186.190.228.83:4153,SOCKS4,Colombia,CO,🇨🇴,0,low,No,TV AZTECA SUCURSAL COLOMBIA,2822,Not Checked,,
+170.238.239.71:60606,SOCKS4,Colombia,CO,🇨🇴,0,low,No,Internexa S.a. E.S.P,5074,Not Checked,,
+181.57.178.146:1080,SOCKS4,Colombia,CO,🇨🇴,1,low,No,Telmex Colombia S.A.,743,Not Checked,,
+181.204.4.74:5678,SOCKS4,Colombia,CO,🇨🇴,1,low,No,EPM Telecomunicaciones S.A. E.S.P.,1925,Not Checked,,
+181.57.178.146:1080,SOCKS4,Colombia,CO,🇨🇴,1,low,No,Telmex Colombia S.A.,3947,Not Checked,,
+181.204.4.74:5678,SOCKS4,Colombia,CO,🇨🇴,1,low,No,EPM Telecomunicaciones S.A. E.S.P.,5945,Not Checked,,
+181.48.243.194:4153,SOCKS4,Colombia,CO,🇨🇴,1,low,No,Telmex Colombia S.A.,2838,Not Checked,,
+177.253.136.162:5678,SOCKS4,Colombia,CO,🇨🇴,1,low,No,EPM Telecomunicaciones S.A. E.S.P.,2010,Not Checked,,
+181.48.243.194:4153,SOCKS4,Colombia,CO,🇨🇴,1,low,No,Telmex Colombia S.A.,1881,Not Checked,,
+181.205.207.66:1080,SOCKS4,Colombia,CO,🇨🇴,1,low,No,EPM Telecomunicaciones S.A. E.S.P.,1803,Not Checked,,
+181.205.207.66:1080,SOCKS4,Colombia,CO,🇨🇴,1,low,No,EPM Telecomunicaciones S.A. E.S.P.,745,Not Checked,,
+190.85.47.198:4145,SOCKS4,Colombia,CO,🇨🇴,5,low,No,Telmex Colombia S.A.,2764,Not Checked,,
+190.85.47.198:4145,SOCKS4,Colombia,CO,🇨🇴,5,low,No,Telmex Colombia S.A.,4799,Not Checked,,
