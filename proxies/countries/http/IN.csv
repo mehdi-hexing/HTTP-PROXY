@@ -1,40 +1,30 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-13.233.81.236:8088,HTTP,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,1679,No,,0/7
-203.115.123.163:1256,HTTP,India,IN,🇮🇳,0,low,No,PRIMENET,1577,No,,0/7
-160.19.41.55:80,HTTP,India,IN,🇮🇳,0,low,No,ATC INFOCOM SOLUTIONS PVT LTD,4175,No,,0/7
-125.20.128.196:3129,HTTP,India,IN,🇮🇳,0,low,No,BHARTI,2344,No,,0/7
-103.80.224.33:82,HTTP,India,IN,🇮🇳,0,low,No,Robust Pixel Connect Private Limited,2559,No,,0/7
-161.248.176.2:8080,HTTP,India,IN,🇮🇳,0,low,No,SNA INTERNET PRIVATE LIMITED,4796,No,,0/7
-154.201.127.158:8080,HTTP,India,IN,🇮🇳,0,low,No,Real Time Data Services Private Limited,1892,No,,0/7
-45.194.41.70:8080,HTTP,India,IN,🇮🇳,0,low,No,Real Time Data Services Private Limited,1414,No,,0/7
-45.118.35.169:8080,HTTP,India,IN,🇮🇳,0,low,No,Infonet Comm Enterprises,4979,No,,0/7
-45.194.90.225:8080,HTTP,India,IN,🇮🇳,0,low,No,Shanxi Liyun Breeding Co,1924,No,,0/7
-154.201.126.245:8080,HTTP,India,IN,🇮🇳,0,low,No,CtrlS,1900,No,,0/7
-154.201.127.230:8080,HTTP,India,IN,🇮🇳,0,low,No,Real Time Data Services Private Limited,1748,Unknown,,
-45.194.91.7:8080,HTTP,India,IN,🇮🇳,0,low,No,Real Time Data Services Private Limited,1798,Unknown,,
-45.194.41.103:8080,HTTP,India,IN,🇮🇳,0,low,No,Real Time Data Services Private Limited,1499,Unknown,,
-103.173.135.190:3128,HTTP,India,IN,🇮🇳,0,low,No,Logiclabs Technologies Private Limited,1689,Unknown,,
-103.253.208.14:8080,HTTP,India,IN,🇮🇳,0,low,No,U.P. COMMUNICATION SERVICES PVT LTD,1799,Unknown,,
-103.48.70.161:83,HTTP,India,IN,🇮🇳,0,low,No,Country Online Services PVT LTD,7770,Not Checked,,
-160.19.41.55:80,HTTP,India,IN,🇮🇳,0,low,No,ATC INFOCOM SOLUTIONS PVT LTD,8176,Not Checked,,
-103.171.194.52:83,HTTP,India,IN,🇮🇳,0,low,No,Udupi Fastnet Private Limited,8649,Not Checked,,
-160.19.41.43:80,HTTP,India,IN,🇮🇳,0,low,No,ATC INFOCOM SOLUTIONS PVT LTD,9999,Not Checked,,
-14.143.130.210:1111,HTTP,India,IN,🇮🇳,0,low,No,Tata Communications Limited,8013,Not Checked,,
-103.155.130.134:8082,HTTP,India,IN,🇮🇳,0,low,No,Haash Media,8296,Not Checked,,
-160.19.41.43:80,HTTP,India,IN,🇮🇳,0,low,No,ATC INFOCOM SOLUTIONS PVT LTD,11763,Not Checked,,
-103.66.12.225:8080,HTTP,India,IN,🇮🇳,0,low,No,Alacriy Net System Service Private Limited,14287,Not Checked,,
-52.140.40.92:80,HTTP,India,IN,🇮🇳,0,low,No,Microsoft Corporation,6942,Not Checked,,
-144.48.49.217:8080,HTTP,India,IN,🇮🇳,0,low,No,Niss Internet Services Private Limited,6865,Not Checked,,
-103.217.213.124:32650,HTTP,India,IN,🇮🇳,0,low,No,E Net Entertainment Pvt Ltd,6452,Not Checked,,
-103.168.210.122:80,HTTP,India,IN,🇮🇳,0,low,No,ATC INFOCOM SOLUTIONS,9030,Not Checked,,
-103.255.146.238:8080,HTTP,India,IN,🇮🇳,0,low,No,Pioneer Elabs Ltd,6791,Not Checked,,
-160.19.41.37:80,HTTP,India,IN,🇮🇳,0,low,No,ATC INFOCOM SOLUTIONS PVT LTD,8541,Not Checked,,
-103.172.254.145:84,HTTP,India,IN,🇮🇳,0,low,No,Willaegis Online Private Limited,5569,Not Checked,,
-52.140.40.92:80,HTTP,India,IN,🇮🇳,0,low,No,Microsoft Corporation,7683,Not Checked,,
-40.192.70.191:8090,HTTP,India,IN,🇮🇳,2,low,No,"Amazon.com, Inc.",4428,Not Checked,,
-18.61.230.250:3318,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",1508,Not Checked,,
-18.61.230.250:33158,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",2344,Not Checked,,
-18.61.230.250:17088,HTTP,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",3378,Not Checked,,
-152.67.191.232:6800,HTTP,India,IN,🇮🇳,3,low,No,Oracle Corporation,1781,Not Checked,,
-139.59.1.14:8080,HTTP,India,IN,🇮🇳,39,medium,No,DIGITALOCEAN,1825,Not Checked,,
-103.178.176.14:8080,HTTP,India,IN,🇮🇳,100,very_high,No,Megatel Networks Private Limited,11600,Not Checked,,
+154.201.126.44:8080,HTTP,India,IN,🇮🇳,0,low,No,CtrlS,1887,Yes,244.0,7/7
+45.195.90.142:8080,HTTP,India,IN,🇮🇳,0,low,No,Shanxi Liyun Breeding Co,1901,Yes,233.1,7/7
+125.16.250.62:8080,HTTP,India,IN,🇮🇳,0,low,No,BHARTI,3980,Yes,252.9,7/7
+45.194.41.141:8080,HTTP,India,IN,🇮🇳,0,low,No,Real Time Data Services Private Limited,1586,Yes,226.8,7/7
+154.201.127.158:8080,HTTP,India,IN,🇮🇳,0,low,No,Real Time Data Services Private Limited,1844,Yes,227.4,7/7
+103.173.135.190:3128,HTTP,India,IN,🇮🇳,0,low,No,Logiclabs Technologies Private Limited,1714,Yes,207.3,7/7
+154.201.126.44:8080,HTTP,India,IN,🇮🇳,0,low,No,CtrlS,1924,Yes,244.0,7/7
+160.19.41.37:80,HTTP,India,IN,🇮🇳,0,low,No,ATC INFOCOM SOLUTIONS PVT LTD,2684,Yes,298.8,7/7
+45.127.223.141:8080,HTTP,India,IN,🇮🇳,0,low,No,Champion Computers,4549,Yes,481.6,7/7
+103.168.211.172:80,HTTP,India,IN,🇮🇳,0,low,No,ATC INFOCOM SOLUTIONS,5092,Yes,256.7,7/7
+160.19.41.36:80,HTTP,India,IN,🇮🇳,0,low,No,ATC INFOCOM SOLUTIONS PVT LTD,4434,Yes,294.2,7/7
+103.6.186.64:8080,HTTP,India,IN,🇮🇳,0,low,No,Websurf Pvt Ltd,2583,Yes,234.5,7/7
+45.127.223.141:8080,HTTP,India,IN,🇮🇳,0,low,No,Champion Computers,4093,Yes,481.6,7/7
+103.49.166.117:83,HTTP,India,IN,🇮🇳,0,low,No,Nettvox Private Limited,12314,Not Checked,,
+202.179.93.132:58080,HTTP,India,IN,🇮🇳,0,low,No,Ankhnet,8857,Not Checked,,
+160.19.41.34:80,HTTP,India,IN,🇮🇳,0,low,No,ATC INFOCOM SOLUTIONS PVT LTD,11674,Not Checked,,
+103.158.242.62:83,HTTP,India,IN,🇮🇳,0,low,No,Willaegis Online Private Limited,6308,Not Checked,,
+103.80.224.33:82,HTTP,India,IN,🇮🇳,0,low,No,Robust Pixel Connect Private Limited,8007,Not Checked,,
+103.23.236.9:8080,HTTP,India,IN,🇮🇳,0,low,No,Kappa Internet Services Private Limited,7923,Not Checked,,
+52.140.40.92:80,HTTP,India,IN,🇮🇳,0,low,No,Microsoft Corporation,10423,Not Checked,,
+103.70.44.6:8080,HTTP,India,IN,🇮🇳,0,low,No,Meghbela Cable & Broadband Services (P) Ltd,9329,Not Checked,,
+103.217.213.124:32650,HTTP,India,IN,🇮🇳,0,low,No,E Net Entertainment Pvt Ltd,6458,Not Checked,,
+52.140.40.92:80,HTTP,India,IN,🇮🇳,0,low,No,Microsoft Corporation,6818,Not Checked,,
+111.92.88.27:3128,HTTP,India,IN,🇮🇳,1,low,No,Asianet Satellite Communications Pvt Ltd,2288,Not Checked,,
+80.225.250.95:8888,HTTP,India,IN,🇮🇳,2,low,No,Oracle Corporation,2148,Not Checked,,
+80.225.250.95:8888,HTTP,India,IN,🇮🇳,2,low,No,Oracle Corporation,1964,Not Checked,,
+152.67.191.232:6800,HTTP,India,IN,🇮🇳,3,low,No,Oracle Corporation,1653,Not Checked,,
+152.67.191.232:6800,HTTP,India,IN,🇮🇳,3,low,No,Oracle Corporation,1657,Not Checked,,
+139.59.1.14:8080,HTTP,India,IN,🇮🇳,39,medium,No,DIGITALOCEAN,1669,Not Checked,,

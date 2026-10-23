@@ -1,16 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-102.217.139.31:8180,HTTP,South Africa,ZA,🇿🇦,0,low,No,Opnaxs PTY LTD,1815,No,,0/7
-16.28.32.67:8443,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,1505,No,,0/7
-16.28.32.67:36,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,2498,No,,0/7
-16.28.101.55:28500,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,2227,No,,0/7
-16.28.101.55:11857,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,2222,No,,0/7
-102.218.41.98:8082,HTTP,South Africa,ZA,🇿🇦,0,low,No,IMVULA ITECHNOLOGIES (PTY) LTD,4659,No,,0/7
-16.28.101.55:45979,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,1497,Unknown,,
-16.28.101.55:50672,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,1465,Unknown,,
-20.33.10.79:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,5820,Not Checked,,
-102.218.41.98:8082,HTTP,South Africa,ZA,🇿🇦,0,low,No,IMVULA ITECHNOLOGIES (PTY) LTD,6091,Not Checked,,
-20.33.10.132:443,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,10652,Not Checked,,
-20.33.10.79:9443,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,6375,Not Checked,,
-20.33.10.132:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,8690,Not Checked,,
-105.22.37.218:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,SEACOM Limited Networks,12220,Not Checked,,
-196.251.221.33:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,Info-Gro (PTY) Ltd,13160,Not Checked,,
+20.33.10.132:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,2592,Yes,239.1,7/7
+16.28.32.67:8443,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,1521,No,,0/7
+102.208.228.90:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,10999,Not Checked,,
+20.33.10.79:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,9276,Not Checked,,
+41.78.184.38:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,SkyWire (PTY) LTD,9805,Not Checked,,
+102.217.139.31:8180,HTTP,South Africa,ZA,🇿🇦,0,low,No,Opnaxs PTY LTD,9787,Not Checked,,
+197.245.48.124:8088,HTTP,South Africa,ZA,🇿🇦,0,low,No,Vox Telecom Ltd,6668,Not Checked,,
+102.208.228.90:3128,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,7435,Not Checked,,
+102.208.228.90:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,7205,Not Checked,,
+20.33.10.132:443,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,8601,Not Checked,,
+20.33.10.79:9443,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,8776,Not Checked,,
+13.245.161.189:41833,HTTP,South Africa,ZA,🇿🇦,3,low,No,"Amazon.com, Inc.",2348,Not Checked,,

@@ -1,40 +1,27 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-200.59.191.243:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,TotalCom Venezuela C.A.,2387,No,,0/7
-45.190.85.4:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"TELECOM.CORPORATIVAS TELECORP, C.A",4965,No,,0/7
-161.22.33.185:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"THUNDERNET, C.A",5485,No,,0/7
-200.59.186.155:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,TotalCom Venezuela C.A.,5331,No,,0/7
-190.94.212.228:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,IFX Networks Venezuela C.A.,5484,No,,0/7
-161.22.32.31:8080,HTTP,Venezuela,VE,🇻🇪,0,low,No,TOP COMUNICATIONS ESTEGIA C.A.,2231,No,,0/7
-170.244.91.129:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"WELLCOMM TECNOLOGÍA, C.A.",5567,No,,0/7
-190.97.231.0:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Viginet C.A,3408,No,,0/7
-190.94.213.132:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,IFX Networks Venezuela C.A.,4234,No,,0/7
-45.230.170.30:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Soluciones DCN Network C.A,4454,No,,0/7
-190.89.29.110:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"CORPORACION FIBEX TELECOM, C.A.",4759,No,,0/7
-190.97.227.9:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Viginet C.A,3768,No,,0/7
-186.167.83.178:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Corporacion Digitel C.A,5896,Not Checked,,
-190.97.226.226:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Viginet C.A,8255,Not Checked,,
-190.97.226.226:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Viginet C.A,7245,Not Checked,,
-154.62.127.105:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Cogent Communications,11969,Not Checked,,
-38.188.201.10:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"SPEEDNET, C.A",7947,Not Checked,,
-190.94.212.216:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,IFX Networks Venezuela C.A.,5922,Not Checked,,
-200.59.186.155:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,TotalCom Venezuela C.A.,7784,Not Checked,,
-45.175.39.71:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,TCA SERVICES C.A.,13667,Not Checked,,
-38.188.201.10:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"SPEEDNET, C.A",5719,Not Checked,,
-161.22.33.213:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"THUNDERNET, C.A",6583,Not Checked,,
-190.94.213.23:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,IFX Networks Venezuela C.A.,6579,Not Checked,,
-38.41.0.62:11201,HTTP,Venezuela,VE,🇻🇪,0,low,No,MDS TELECOM C.A.,11058,Not Checked,,
-200.59.186.55:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,TotalCom Venezuela C.A.,7078,Not Checked,,
-45.190.85.4:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"TELECOM.CORPORATIVAS TELECORP, C.A",10492,Not Checked,,
-154.62.127.105:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Cogent Communications,6030,Not Checked,,
-38.172.160.16:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"RED SERVITEL, CA",6871,Not Checked,,
-38.172.181.0:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"RED SERVITEL, CA",11050,Not Checked,,
-38.51.207.117:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Tecnoven Services C.A,6404,Not Checked,,
-154.62.127.162:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Cogent Communications,11724,Not Checked,,
-38.76.9.1:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"ACT NETWORK, C.A.",6439,Not Checked,,
-38.51.207.116:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Tecnoven Services C.A,8884,Not Checked,,
-190.97.227.9:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Viginet C.A,10033,Not Checked,,
-190.94.213.6:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,IFX Networks Venezuela C.A.,7786,Not Checked,,
-190.97.229.118:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Viginet C.A,6345,Not Checked,,
-190.97.226.232:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Viginet C.A,9042,Not Checked,,
-186.167.53.178:8282,HTTP,Venezuela,VE,🇻🇪,0,low,No,Corporacion Digitel C.A,9783,Not Checked,,
-190.94.213.6:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,IFX Networks Venezuela C.A.,14553,Not Checked,,
+186.167.114.146:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Corporacion Digitel C.A,5582,Yes,336.9,7/7
+190.94.212.216:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,IFX Networks Venezuela C.A.,1745,Yes,230.2,7/7
+190.94.212.247:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,IFX Networks Venezuela C.A.,8805,Not Checked,,
+161.22.33.93:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"THUNDERNET, C.A",8763,Not Checked,,
+38.41.0.87:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,MDS TELECOM C.A.,7411,Not Checked,,
+38.121.212.134:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Galanet Solution C.A,6171,Not Checked,,
+190.94.232.180:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,IFX Networks Venezuela C.A.,6665,Not Checked,,
+186.167.83.181:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Corporacion Digitel C.A,12586,Not Checked,,
+38.51.207.104:8080,HTTP,Venezuela,VE,🇻🇪,0,low,No,Tecnoven Services C.A,7247,Not Checked,,
+170.244.91.144:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"WELLCOMM TECNOLOGÍA, C.A.",6429,Not Checked,,
+161.22.32.31:8080,HTTP,Venezuela,VE,🇻🇪,0,low,No,TOP COMUNICATIONS ESTEGIA C.A.,7344,Not Checked,,
+154.62.127.108:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Cogent Communications,5827,Not Checked,,
+200.59.186.55:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,TotalCom Venezuela C.A.,11635,Not Checked,,
+38.172.160.16:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"RED SERVITEL, CA",8974,Not Checked,,
+190.89.29.110:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"CORPORACION FIBEX TELECOM, C.A.",11478,Not Checked,,
+185.226.194.0:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"DAT - COM SERVICES, C.A.",10693,Not Checked,,
+200.59.191.137:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,TotalCom Venezuela C.A.,10625,Not Checked,,
+161.22.39.99:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"THUNDERNET, C.A.",11622,Not Checked,,
+161.22.39.98:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"THUNDERNET, C.A.",14450,Not Checked,,
+154.59.56.76:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Cogent Communications,8850,Not Checked,,
+38.76.9.1:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"ACT NETWORK, C.A.",9761,Not Checked,,
+190.97.229.118:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Viginet C.A,8755,Not Checked,,
+190.97.226.232:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Viginet C.A,11938,Not Checked,,
+190.114.242.154:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,Gold Data USA Inc,10649,Not Checked,,
+161.22.33.121:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"THUNDERNET, C.A",7446,Not Checked,,
+161.22.33.109:999,HTTP,Venezuela,VE,🇻🇪,0,low,No,"THUNDERNET, C.A",10818,Not Checked,,

@@ -1,27 +1,20 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.229.16.34:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Turbonet S.A.,4395,No,,0/7
-45.171.111.255:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Lagonet-tv Cia. Ltda.,5154,No,,0/7
-186.5.94.206:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Telconet S.A,2052,No,,0/7
-190.12.150.244:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Servitelconet Cia. Ltda.,2348,No,,0/7
-45.71.186.211:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,3115,No,,0/7
-177.234.221.200:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,5455,No,,0/7
-45.236.107.106:808,HTTP,Ecuador,EC,🇪🇨,0,low,No,Eliana Vanessa Morocho Oña,6065,Not Checked,,
-177.234.211.151:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,VUELATECHNOLOGY,7682,Not Checked,,
-45.229.17.17:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Turbonet S.A.,9576,Not Checked,,
-200.24.153.79:8080,HTTP,Ecuador,EC,🇪🇨,0,low,No,Negocios Y Telefonia Nedetel S.A,5735,Not Checked,,
-177.234.210.47:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,8537,Not Checked,,
-45.71.114.147:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,11980,Not Checked,,
-181.78.194.249:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,9789,Not Checked,,
-177.234.208.111:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,12105,Not Checked,,
-45.71.186.213:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,7070,Not Checked,,
-181.224.175.200:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Micarmita S.A.S,10730,Not Checked,,
-177.234.211.175:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,VUELATECHNOLOGY,6118,Not Checked,,
-45.71.186.212:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,5893,Not Checked,,
-177.234.217.92:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,13215,Not Checked,,
-177.53.215.196:1812,HTTP,Ecuador,EC,🇪🇨,0,low,No,Eliana Vanessa Morocho Oña,7674,Not Checked,,
-45.4.202.147:999,HTTP,Ecuador,EC,🇪🇨,1,low,No,Eliana Vanessa Morocho Oña,10813,Not Checked,,
-45.71.185.217:9991,HTTP,Ecuador,EC,🇪🇨,2,low,No,Ufinet Panama S.A.,6599,Not Checked,,
-157.100.52.68:999,HTTP,Ecuador,EC,🇪🇨,2,low,No,Ufinet Panama S.A.,8705,Not Checked,,
-181.78.195.136:999,HTTP,Ecuador,EC,🇪🇨,2,low,No,Ufinet Panama S.A.,5662,Not Checked,,
-181.78.195.137:999,HTTP,Ecuador,EC,🇪🇨,2,low,No,Ufinet Panama S.A.,9039,Not Checked,,
-181.78.195.136:999,HTTP,Ecuador,EC,🇪🇨,2,low,No,Ufinet Panama S.A.,7266,Not Checked,,
+186.5.94.206:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Telconet S.A,1234,Yes,262.8,7/7
+190.12.150.244:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Servitelconet Cia. Ltda.,4936,Yes,262.1,7/7
+190.12.150.244:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Servitelconet Cia. Ltda.,4184,Yes,262.1,7/7
+177.234.221.194:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,8311,Not Checked,,
+181.78.194.249:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,10997,Not Checked,,
+181.224.175.240:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Micarmita S.A.S,8821,Not Checked,,
+45.229.17.94:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Turbonet S.A.,12160,Not Checked,,
+177.234.217.45:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,6924,Not Checked,,
+177.234.217.88:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,6771,Not Checked,,
+131.196.13.233:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,8358,Not Checked,,
+45.71.186.212:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,9160,Not Checked,,
+45.190.87.241:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Rimtel S.A.S.,7720,Not Checked,,
+181.78.203.146:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,12007,Not Checked,,
+45.71.186.214:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,13741,Not Checked,,
+177.234.221.200:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,10487,Not Checked,,
+177.234.221.196:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,Ufinet Panama S.A.,7348,Not Checked,,
+177.234.211.175:999,HTTP,Ecuador,EC,🇪🇨,0,low,No,VUELATECHNOLOGY,10867,Not Checked,,
+45.6.224.76:1256,HTTP,Ecuador,EC,🇪🇨,0,low,No,Teneda Corporación CIA. LTDA,8430,Not Checked,,
+177.234.245.71:9696,HTTP,Ecuador,EC,🇪🇨,2,low,No,Ufinet Panama S.A.,4794,Not Checked,,
