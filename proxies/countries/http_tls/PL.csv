@@ -1,11 +1,16 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-193.25.2.239:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Gemini Internet,1683,Not Checked,,
-213.241.124.228:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,NETIA SA,1766,Not Checked,,
-185.96.121.243:9443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Gabriel Sulka trading as Firma Handlowo - Uslugowa KOMPEX,1731,Not Checked,,
-83.13.36.250:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Orange Polska Spolka Akcyjna,2512,Not Checked,,
-94.246.130.82:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,ART-COM Sp. z o.o. LIR,3651,Not Checked,,
-94.246.130.82:5443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,ART-COM Sp. z o.o. LIR,3770,Not Checked,,
-46.170.93.122:443,HTTP_TLS,Poland,PL,🇵🇱,1,low,No,Orange Polska Spolka Akcyjna,3120,Not Checked,,
-151.115.78.51:443,HTTP_TLS,Poland,PL,🇵🇱,17,low,No,SCALEWAY,1324,Not Checked,,
-185.138.90.148:443,HTTP_TLS,Poland,PL,🇵🇱,25,medium,No,Global Connectivity Solutions LLP,1324,Not Checked,,
-37.120.156.18:9443,HTTP_TLS,Poland,PL,🇵🇱,72,high,Yes,M247 Europe SRL,1385,Not Checked,,
+193.25.2.239:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Gemini Internet,1621,No,,0/7
+79.133.217.233:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,eTOP sp. z o.o.,1641,No,,0/7
+213.241.124.228:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,NETIA SA,1779,No,,0/7
+79.133.217.237:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,eTOP sp. z o.o.,1606,No,,0/7
+79.133.217.236:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,eTOP sp. z o.o.,1615,No,,0/7
+80.72.39.35:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,eTOP Sp. z o.o.,1622,No,,0/7
+79.133.217.232:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,eTOP sp. z o.o.,1648,No,,0/7
+185.96.121.243:9443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Gabriel Sulka trading as Firma Handlowo - Uslugowa KOMPEX,1957,Not Checked,,
+83.13.36.250:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Orange Polska Spolka Akcyjna,2393,Not Checked,,
+94.246.130.82:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,ART-COM Sp. z o.o. LIR,3356,Not Checked,,
+94.246.130.82:5443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,ART-COM Sp. z o.o. LIR,3267,Not Checked,,
+79.188.239.43:8443,HTTP_TLS,Poland,PL,🇵🇱,1,low,No,Orange Polska Spolka Akcyjna,15396,Not Checked,,
+151.115.78.51:443,HTTP_TLS,Poland,PL,🇵🇱,17,low,No,SCALEWAY,1326,Not Checked,,
+185.138.90.148:443,HTTP_TLS,Poland,PL,🇵🇱,25,medium,No,Global Connectivity Solutions LLP,1338,Not Checked,,
+37.120.156.18:9443,HTTP_TLS,Poland,PL,🇵🇱,72,high,Yes,M247 Europe SRL,1368,Not Checked,,
