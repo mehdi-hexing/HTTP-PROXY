@@ -1,12 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,945,Yes,80.7,7/7
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1120,Yes,80.7,7/7
-8.211.49.86:11,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7720,Not Checked,,
-8.209.96.245:80,HTTP,Germany,DE,🇩🇪,3,low,No,Alibaba.com Singapore E-Commerce Private Limited,7720,Not Checked,,
-91.107.248.132:1080,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,4505,Not Checked,,
-159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,5,low,No,netcup GmbH,8991,Not Checked,,
-47.91.89.3:3128,HTTP,Germany,DE,🇩🇪,14,low,No,Alibaba.com LLC,8978,Not Checked,,
-161.97.94.168:6001,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,2296,Not Checked,,
-89.58.42.118:3129,HTTP,Germany,DE,🇩🇪,24,medium,No,netcup GmbH,2318,Not Checked,,
-46.232.249.209:40001,HTTP,Germany,DE,🇩🇪,24,medium,No,netcup GmbH,1143,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",1010,Not Checked,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,943,No,,0/7
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,917,No,,0/7
+158.101.175.124:5566,HTTP,Germany,DE,🇩🇪,3,low,No,Oracle Corporation,4434,Not Checked,,
+63.180.203.233:4794,HTTP,Germany,DE,🇩🇪,4,low,No,Amazon.com,4368,Not Checked,,
+91.107.248.132:1080,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,8973,Not Checked,,
+91.107.248.132:1080,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,12763,Not Checked,,
+193.23.216.176:8080,HTTP,Germany,DE,🇩🇪,10,low,No,OC NETWORKS LIMITED,969,Not Checked,,
+169.58.165.34:8118,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,5222,Not Checked,,
+89.58.42.118:3129,HTTP,Germany,DE,🇩🇪,24,medium,No,netcup GmbH,1070,Not Checked,,
+217.154.71.75:3128,HTTP,Germany,DE,🇩🇪,24,medium,No,IONOS SE,4468,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",1128,Not Checked,,
+161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",962,Not Checked,,
