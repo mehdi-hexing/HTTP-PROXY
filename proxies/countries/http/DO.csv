@@ -1,4 +1,18 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-38.50.165.182:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"NEXTELECOM, S.R.L",7034,No,,0/7
-149.2.83.248:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"TELECABLE DOMINICANO, S.A.",3445,No,,0/7
-149.2.83.248:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"TELECABLE DOMINICANO, S.A.",2056,No,,0/7
+38.50.165.182:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"NEXTELECOM, S.R.L",2061,Yes,216.4,7/7
+38.41.184.73:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,Ludwin Group Company SRL,5805,Yes,197.4,1/7
+149.2.83.248:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"TELECABLE DOMINICANO, S.A.",2914,No,,0/7
+190.110.35.249:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",4785,No,,0/7
+149.2.83.155:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"TELECABLE DOMINICANO, S.A.",2633,No,,0/7
+38.156.235.37:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"BITNET DOMINICANA, S.R.L",3462,No,,0/7
+38.255.121.1:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"INTERNET FACIL M.R., S.R.L",647,Timeout,,
+38.210.90.56:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"ELS INTER TELECOMUNICACIONES, S.R.L.",10999,Not Checked,,
+154.88.137.50:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"DOMINICAN CABLE GROUP DCG, S.R.L.",6785,Not Checked,,
+38.156.238.76:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"BITNET DOMINICANA, S.R.L",8791,Not Checked,,
+149.2.83.248:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"TELECABLE DOMINICANO, S.A.",6867,Not Checked,,
+149.2.83.204:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"TELECABLE DOMINICANO, S.A.",7245,Not Checked,,
+177.52.221.114:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"TELERY NETWORKS, S.R.L",8297,Not Checked,,
+38.75.82.215:999,HTTP,Dominican Republic,DO,🇩🇴,6,low,No,Cogent Communications,10437,Not Checked,,
+38.75.82.214:999,HTTP,Dominican Republic,DO,🇩🇴,6,low,No,Cogent Communications,3837,Not Checked,,
+38.75.82.210:999,HTTP,Dominican Republic,DO,🇩🇴,6,low,No,Cogent Communications,9128,Not Checked,,
+38.196.221.146:999,HTTP,Dominican Republic,DO,🇩🇴,6,low,No,Cogent Communications,8703,Not Checked,,
