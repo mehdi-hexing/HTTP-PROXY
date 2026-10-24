@@ -1,39 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-4.213.225.50:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Microsoft Corporation,1902,No,,0/6
-98.70.81.29:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,BellSouth.net Inc.,1912,No,,0/6
-13.235.75.49:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,1946,Not Checked,,
-20.219.163.207:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Microsoft Corporation,1966,Not Checked,,
-15.206.173.208:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,1966,Not Checked,,
-4.240.88.77:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Microsoft Corporation,1966,Not Checked,,
-35.154.0.137:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,1971,Not Checked,,
-3.109.65.43:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,1976,Not Checked,,
-65.1.30.113:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Amazon.com,1988,Not Checked,,
-13.232.233.63:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,1990,Not Checked,,
-163.223.186.141:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Devpeter Datacenter Private Limited,1994,Not Checked,,
-3.110.20.129:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,2014,Not Checked,,
-20.235.106.55:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Microsoft Corporation,2017,Not Checked,,
-103.104.73.130:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Web Werks India Pvt. Ltd.,2093,Not Checked,,
-52.66.121.218:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,2185,Not Checked,,
-103.251.94.188:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Web Werks India Pvt Ltd,2296,Not Checked,,
-5.178.98.214:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Serverwala Cloud Datacenters Private Limited,2300,Not Checked,,
-210.89.42.108:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Web Werks India Pvt. Ltd.,2397,Not Checked,,
-65.0.68.234:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Amazon.com,2424,Not Checked,,
-203.193.169.112:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,"Software Technology Parks of India, Society",2458,Not Checked,,
-3.111.253.23:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,2460,Not Checked,,
-217.145.69.109:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Serverwala Cloud Datacenters Private Limited,2520,Not Checked,,
-52.140.7.131:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Microsoft Corporation,2578,Not Checked,,
-182.156.203.41:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Ttsl-isp Division,2728,Not Checked,,
-103.251.94.10:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Web Werks India Pvt Ltd,3702,Not Checked,,
-110.173.188.221:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,PRIMENET,2337,Not Checked,,
-49.50.72.246:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Cyfuture India Pvt. Ltd.,2785,Not Checked,,
-35.154.191.236:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,1972,Not Checked,,
-103.142.225.37:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Indian Institute Of Information Technology Allahabad,2668,Not Checked,,
-34.93.139.69:443,HTTP_TLS,India,IN,🇮🇳,2,low,No,Google LLC,2033,Not Checked,,
-34.93.103.38:443,HTTP_TLS,India,IN,🇮🇳,2,low,No,Google LLC,2429,Not Checked,,
-34.93.13.41:443,HTTP_TLS,India,IN,🇮🇳,2,low,No,Google LLC,2877,Not Checked,,
-13.201.217.41:443,HTTP_TLS,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",2409,Not Checked,,
-196.196.98.18:443,HTTP_TLS,India,IN,🇮🇳,52,medium,Yes,Orion Network Limited,1818,Not Checked,,
-157.245.96.148:443,HTTP_TLS,India,IN,🇮🇳,52,medium,No,"DigitalOcean, LLC",2374,Not Checked,,
-196.196.98.58:9443,HTTP_TLS,India,IN,🇮🇳,52,medium,Yes,Orion Network Limited,1770,Not Checked,,
-196.196.98.58:443,HTTP_TLS,India,IN,🇮🇳,52,medium,Yes,Orion Network Limited,1781,Not Checked,,
-196.196.98.18:9443,HTTP_TLS,India,IN,🇮🇳,52,medium,Yes,Orion Network Limited,1781,Not Checked,,
+110.173.188.221:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,PRIMENET,2291,Yes,213.7,6/6
+35.154.191.236:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Amazon Technologies Inc.,1826,Yes,219.5,6/6
+202.162.232.76:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Tata Communications Limited,2156,Yes,203.8,6/6
+49.50.72.246:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Cyfuture India Pvt. Ltd.,2319,No,,0/6
+45.114.142.178:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,PSRHoldings,2052,No,,0/6
+103.142.225.37:443,HTTP_TLS,India,IN,🇮🇳,0,low,No,Indian Institute Of Information Technology Allahabad,7355,No,,0/6
+13.201.217.41:443,HTTP_TLS,India,IN,🇮🇳,3,low,No,"Amazon.com, Inc.",2213,No,,0/6
+196.196.98.58:9443,HTTP_TLS,India,IN,🇮🇳,52,medium,Yes,Orion Network Limited,1727,Not Checked,,
+196.196.98.58:443,HTTP_TLS,India,IN,🇮🇳,52,medium,Yes,Orion Network Limited,1776,Not Checked,,
+196.196.98.18:9443,HTTP_TLS,India,IN,🇮🇳,52,medium,Yes,Orion Network Limited,1792,Not Checked,,
