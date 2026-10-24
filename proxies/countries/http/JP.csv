@@ -1,11 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-47.91.29.151:91,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba.com LLC,7752,No,,0/6
-8.221.138.111:8081,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7800,No,,0/6
-116.80.50.36:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,5553,No,,0/6
-157.120.37.23:3128,HTTP,Japan,JP,🇯🇵,2,low,Yes,"NTT PC Communications, Inc.",9457,Not Checked,,
-43.207.113.167:2904,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",4886,Not Checked,,
-43.207.141.180:28897,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",880,Not Checked,,
-35.78.252.142:44636,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",1986,Not Checked,,
-139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,54,medium,No,"Akamai Technologies, Inc.",1241,Not Checked,,
-139.162.78.109:8080,HTTP,Japan,JP,🇯🇵,54,medium,No,"Akamai Technologies, Inc.",1264,Not Checked,,
-45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,81,high,No,Zenlayer Inc,10687,Not Checked,,
+116.80.50.36:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,5198,No,,0/6
+116.80.65.235:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,3142,No,,0/6
+8.221.141.88:9999,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7734,Not Checked,,
+47.91.29.151:8443,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba.com LLC,7750,Not Checked,,
+8.221.138.111:8081,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",8665,Not Checked,,
+52.195.147.51:9991,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,2122,Not Checked,,
+43.167.153.37:9090,HTTP,Japan,JP,🇯🇵,1,low,No,Shenzhen Tencent Computer Systems Company Limited,1051,Not Checked,,
+157.120.37.23:3128,HTTP,Japan,JP,🇯🇵,2,low,Yes,"NTT PC Communications, Inc.",4551,Not Checked,,
+139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,54,medium,No,"Akamai Technologies, Inc.",1077,Not Checked,,
+139.162.78.109:8080,HTTP,Japan,JP,🇯🇵,54,medium,No,"Akamai Technologies, Inc.",1035,Not Checked,,
+45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,81,high,No,Zenlayer Inc,1954,Not Checked,,
+45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,81,high,No,Zenlayer Inc,4899,Not Checked,,
