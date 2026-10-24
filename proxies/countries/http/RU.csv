@@ -1,7 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-45.133.107.128:81,HTTP,Russia,RU,🇷🇺,0,low,No,Art-net LLC,6770,Yes,109.6,4/7
-213.139.210.249:3128,HTTP,Russia,RU,🇷🇺,0,low,No,BEGET.RU,2427,No,,0/7
-213.139.210.249:3128,HTTP,Russia,RU,🇷🇺,0,low,No,BEGET.RU,1250,No,,0/7
-109.111.179.206:1080,HTTP,Russia,RU,🇷🇺,0,low,No,Sibirskie Seti Ltd.,4019,No,,0/7
-94.137.249.222:3128,HTTP,Russia,RU,🇷🇺,0,low,No,UGMK-Telecom network,9417,Not Checked,,
-78.85.41.217:10808,HTTP,Russia,RU,🇷🇺,1,low,No,Rostelecom networks,4111,Not Checked,,
+217.77.102.18:3128,HTTP,Russia,RU,🇷🇺,0,low,No,"""Region Svyaz Konsalt"" LLC",2238,Yes,96.4,6/6
+159.194.228.40:8888,HTTP,Russia,RU,🇷🇺,0,low,No,Beget LLC,4228,Yes,105.5,6/6
+159.194.228.40:8888,HTTP,Russia,RU,🇷🇺,0,low,No,Beget LLC,3347,Yes,105.5,6/6
+213.139.210.13:1088,HTTP,Russia,RU,🇷🇺,0,low,No,BEGET.RU,14882,Not Checked,,
+46.47.30.16:10809,HTTP,Russia,RU,🇷🇺,0,low,No,Multifunctional Telecommunications Systems LTD,10244,Not Checked,,
+78.85.41.217:10808,HTTP,Russia,RU,🇷🇺,1,low,No,Rostelecom networks,10292,Not Checked,,
+78.29.36.220:8080,HTTP,Russia,RU,🇷🇺,13,low,No,Intersvyaz-2 JSC,10342,Not Checked,,

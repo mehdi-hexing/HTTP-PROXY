@@ -1,18 +1,12 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-64.188.72.89:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Chsl ONE LTD,8027,Yes,94.7,6/7
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,999,No,,0/7
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,819,Timeout,,
-18.157.159.247:1856,HTTP,Germany,DE,🇩🇪,3,low,No,"Amazon.com, Inc.",735,Not Checked,,
-18.157.159.247:11101,HTTP,Germany,DE,🇩🇪,3,low,No,"Amazon.com, Inc.",1065,Not Checked,,
-46.4.78.103:3128,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,3804,Not Checked,,
-161.97.94.168:6001,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,1148,Not Checked,,
-157.173.115.35:1081,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,6816,Not Checked,,
-62.171.154.102:3128,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,9159,Not Checked,,
-38.242.204.27:3128,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,5939,Not Checked,,
-31.76.18.100:3128,HTTP,Germany,DE,🇩🇪,29,medium,No,International Hosting Company Limited,913,Not Checked,,
-31.76.18.100:3128,HTTP,Germany,DE,🇩🇪,29,medium,No,International Hosting Company Limited,898,Not Checked,,
-109.123.254.197:3128,HTTP,Germany,DE,🇩🇪,33,medium,Yes,Contabo GmbH,10665,Not Checked,,
-109.123.254.197:3128,HTTP,Germany,DE,🇩🇪,33,medium,Yes,Contabo GmbH,6342,Not Checked,,
-161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",1284,Not Checked,,
-164.92.163.66:8080,HTTP,Germany,DE,🇩🇪,52,medium,Yes,"DigitalOcean, LLC",2624,Not Checked,,
-164.92.163.66:8080,HTTP,Germany,DE,🇩🇪,52,medium,Yes,"DigitalOcean, LLC",3857,Not Checked,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1505,Yes,77.9,6/6
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,2344,Yes,77.9,6/6
+64.188.72.89:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Chsl ONE LTD,8043,Yes,97.8,3/6
+64.188.72.89:3128,HTTP,Germany,DE,🇩🇪,0,low,No,Chsl ONE LTD,7935,Yes,97.8,3/6
+8.211.42.167:9098,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7579,No,,0/6
+213.199.53.16:8889,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,4134,Not Checked,,
+213.199.53.16:8889,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,11307,Not Checked,,
+89.58.42.118:3129,HTTP,Germany,DE,🇩🇪,24,medium,No,netcup GmbH,920,Not Checked,,
+89.58.42.118:3129,HTTP,Germany,DE,🇩🇪,24,medium,No,netcup GmbH,883,Not Checked,,
+161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",804,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",850,Not Checked,,
