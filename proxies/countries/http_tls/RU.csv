@@ -1,12 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-192.159.101.178:9443,HTTP_TLS,Russia,RU,🇷🇺,0,low,Yes,Realcloud OU,1230,Yes,122.0,6/6
-37.203.243.6:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,DATAPLANET Ltd,1522,Yes,86.0,6/6
-5.35.100.14:8443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,EuroByte LLC,1546,Yes,79.5,6/6
-192.159.101.174:9443,HTTP_TLS,Russia,RU,🇷🇺,0,low,Yes,Realcloud OU,1270,Yes,119.3,6/6
-89.188.125.42:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,Citytelecom LLC,1411,Yes,88.6,6/6
-135.106.161.7:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,JSC Selectel,1406,Yes,84.4,6/6
-170.168.1.39:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,MT FINANCE LLC,1710,Yes,143.6,6/6
-92.242.41.77:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,Dataline-own,1967,Not Checked,,
-188.120.225.125:8443,HTTP_TLS,Russia,RU,🇷🇺,0,low,Yes,JSC IOT,2380,Not Checked,,
-84.237.50.68:8444,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,2637,Not Checked,,
-46.29.166.134:1446,HTTP_TLS,Russia,RU,🇷🇺,25,medium,No,LLC Baxet,2015,Not Checked,,
+37.203.243.6:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,DATAPLANET Ltd,1455,Yes,90.5,6/6
+192.159.101.178:9443,HTTP_TLS,Russia,RU,🇷🇺,0,low,Yes,Realcloud OU,1915,Yes,128.8,6/6
+5.35.100.14:8443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,EuroByte LLC,1486,Yes,82.3,6/6
+192.159.101.174:9443,HTTP_TLS,Russia,RU,🇷🇺,0,low,Yes,Realcloud OU,1177,Yes,123.1,6/6
+135.106.161.7:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,JSC Selectel,1454,Yes,84.9,6/6
+89.188.125.42:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,Citytelecom LLC,1496,Yes,88.6,6/6
+170.168.1.39:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,MT FINANCE LLC,1789,Yes,144.4,6/6
+92.242.41.77:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,Dataline-own,1889,No,,0/6
+213.171.27.58:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,"""Cloud Technologies"" LLC trading as Cloud.ru",5865,Not Checked,,
+84.237.50.68:444,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,2067,Not Checked,,
+84.237.50.68:8444,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,2010,Not Checked,,
+46.29.166.134:1446,HTTP_TLS,Russia,RU,🇷🇺,25,medium,No,LLC Baxet,1579,Not Checked,,
