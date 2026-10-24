@@ -1,18 +1,16 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-212.50.19.150:4153,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,Spectrum NET,632,No,,0/7
-88.213.214.254:4145,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,Netbox LTD,674,No,,0/7
-77.238.79.111:5678,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,FIBER1,796,No,,0/7
-213.149.154.213:5678,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,VIM TV Ltd,709,No,,0/7
-213.149.154.213:5678,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,VIM TV Ltd,662,No,,0/7
-78.128.124.108:5678,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,Sarnica-Net LTD,742,No,,0/7
-31.13.239.4:5678,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,Neterra Ltd.,659,No,,0/7
-79.110.118.15:1080,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,Rutil Ltd.,879,No,,0/7
-77.238.79.111:5678,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,FIBER1,698,No,,0/7
-212.50.19.150:4153,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,Spectrum NET,629,No,,0/7
-213.149.156.87:5678,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,VIM TV LTD,1728,Not Checked,,
-78.128.124.108:5678,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,Sarnica-Net LTD,3936,Not Checked,,
-31.13.239.4:5678,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,Neterra Ltd.,3756,Not Checked,,
-213.149.156.87:5678,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,VIM TV LTD,4806,Not Checked,,
-87.126.64.193:4145,SOCKS4,Bulgaria,BG,🇧🇬,1,low,No,BTC-BROADBAND,3236,Not Checked,,
-87.126.64.193:4145,SOCKS4,Bulgaria,BG,🇧🇬,1,low,No,BTC-BROADBAND,5668,Not Checked,,
-46.10.198.10:4153,SOCKS4,Bulgaria,BG,🇧🇬,2,low,No,Vivacom Bulgaria EAD,1672,Not Checked,,
+88.213.214.254:4145,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,Netbox LTD,1172,Yes,102.5,7/7
+31.13.239.4:5678,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,Neterra Ltd.,1172,Yes,80.3,7/7
+77.238.79.111:5678,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,FIBER1,1166,Yes,83.9,7/7
+212.50.19.150:4153,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,Spectrum NET,1104,Yes,102.3,7/7
+79.110.118.15:1080,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,Rutil Ltd.,1506,Not Checked,,
+85.217.171.80:9051,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,Belcloud LTD,2685,Not Checked,,
+85.217.171.80:9051,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,Belcloud LTD,4901,Not Checked,,
+77.238.79.111:5678,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,FIBER1,1551,Not Checked,,
+88.213.214.254:4145,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,Netbox LTD,1501,Not Checked,,
+213.149.156.87:5678,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,VIM TV LTD,3187,Not Checked,,
+78.128.124.108:5678,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,Sarnica-Net LTD,3203,Not Checked,,
+31.13.239.4:5678,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,Neterra Ltd.,2200,Not Checked,,
+213.149.156.87:5678,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,VIM TV LTD,6277,Not Checked,,
+91.92.78.207:4145,SOCKS4,Bulgaria,BG,🇧🇬,0,low,No,Netguard LLC,6263,Not Checked,,
+87.126.64.193:4145,SOCKS4,Bulgaria,BG,🇧🇬,1,low,No,BTC-BROADBAND,4240,Not Checked,,

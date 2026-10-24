@@ -1,24 +1,28 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-31.43.63.70:4145,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Ukrainian Telecommunication Group LLC,685,No,,0/7
-176.120.32.135:5678,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Langate Ltd,712,No,,0/7
-195.138.65.34:5678,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,TENET Scientific Production Enterprise LLC,1899,Not Checked,,
-185.132.1.221:4145,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Miratel Ltd,1731,Not Checked,,
-185.244.158.4:3129,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Stargroup LLC,5893,Not Checked,,
-31.43.33.56:4153,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Ukrainian Telecommunication Group LLC,5928,Not Checked,,
-185.132.1.221:4145,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Miratel Ltd,1729,Not Checked,,
-195.140.226.32:5678,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Therecom Ltd,5080,Not Checked,,
-185.244.158.4:3129,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Stargroup LLC,2787,Not Checked,,
-91.247.92.63:5678,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Privately owned enterprise Alexsandrov Yuriy Viktorovich,1853,Not Checked,,
-81.162.249.129:4153,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,"PP ""TRC""City TV center""",7980,Not Checked,,
-31.43.63.70:4145,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Ukrainian Telecommunication Group LLC,2234,Not Checked,,
-46.98.192.116:5678,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,"ISP ""Fregat""",1876,Not Checked,,
-195.78.100.186:3629,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,"Ukrtranstelecom tc, ltd",3924,Not Checked,,
-95.182.78.6:5678,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,PE UAinet,3876,Not Checked,,
-195.140.226.32:5678,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Therecom Ltd,6053,Not Checked,,
-193.200.151.69:32777,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,LIMANET Ltd,1739,Not Checked,,
-103.71.23.31:1080,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Ihor Hosting LTD,1528,Not Checked,,
-195.78.113.38:4153,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,PrJSC Valex,5911,Not Checked,,
-103.71.23.31:1080,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Ihor Hosting LTD,1614,Not Checked,,
-37.52.13.164:5678,SOCKS4,Ukraine,UA,🇺🇦,1,low,No,UKRTELECOM,3967,Not Checked,,
-37.52.13.164:5678,SOCKS4,Ukraine,UA,🇺🇦,1,low,No,UKRTELECOM,3908,Not Checked,,
-134.249.128.111:1080,SOCKS4,Ukraine,UA,🇺🇦,1,low,No,Kyivstar GSM,713,Not Checked,,
+31.43.33.55:4153,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Ukrainian Telecommunication Group LLC,1118,Yes,105.1,7/7
+195.138.65.34:5678,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,TENET Scientific Production Enterprise LLC,1141,Yes,112.3,7/7
+185.132.1.221:4145,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Miratel Ltd,1133,Yes,106.4,7/7
+193.105.62.11:58973,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,PE Brunarsky Andrey Romanovich,1115,Yes,92.0,7/7
+185.132.1.221:4145,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Miratel Ltd,1135,Yes,106.4,7/7
+31.43.33.55:4153,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Ukrainian Telecommunication Group LLC,1119,Yes,105.1,7/7
+193.105.62.11:58973,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,PE Brunarsky Andrey Romanovich,1105,Yes,92.0,7/7
+195.78.100.186:3629,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,"Ukrtranstelecom tc, ltd",1150,Yes,110.9,7/7
+95.182.78.6:5678,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,PE UAinet,1131,Yes,106.6,7/7
+195.140.226.32:5678,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Therecom Ltd,1207,Yes,108.1,7/7
+195.138.65.34:5678,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,TENET Scientific Production Enterprise LLC,1152,Yes,112.3,7/7
+103.71.23.31:1080,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Ihor Hosting LTD,1205,Yes,81.0,7/7
+80.92.227.185:5678,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,WNET TELECOM USA Corp.,1151,Yes,124.8,6/7
+185.244.158.4:3129,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Stargroup LLC,1426,Not Checked,,
+159.224.243.185:61303,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Content Delivery Network LTD,4775,Not Checked,,
+195.140.226.32:5678,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Therecom Ltd,1548,Not Checked,,
+185.244.158.4:3129,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Stargroup LLC,3128,Not Checked,,
+31.43.63.70:4145,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Ukrainian Telecommunication Group LLC,4868,Not Checked,,
+46.98.192.116:5678,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,"ISP ""Fregat""",2323,Not Checked,,
+176.120.32.135:5678,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Langate Ltd,2160,Not Checked,,
+46.98.193.59:5678,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,"ISP ""Fregat""",3975,Not Checked,,
+159.224.243.185:61303,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Content Delivery Network LTD,2726,Not Checked,,
+103.71.23.31:1080,SOCKS4,Ukraine,UA,🇺🇦,0,low,No,Ihor Hosting LTD,2446,Not Checked,,
+37.52.13.164:5678,SOCKS4,Ukraine,UA,🇺🇦,1,low,No,UKRTELECOM,2037,Not Checked,,
+37.52.13.164:5678,SOCKS4,Ukraine,UA,🇺🇦,1,low,No,UKRTELECOM,2056,Not Checked,,
+134.249.128.111:1080,SOCKS4,Ukraine,UA,🇺🇦,1,low,No,Kyivstar GSM,1154,Not Checked,,
+134.249.128.111:1080,SOCKS4,Ukraine,UA,🇺🇦,1,low,No,Kyivstar GSM,1189,Not Checked,,

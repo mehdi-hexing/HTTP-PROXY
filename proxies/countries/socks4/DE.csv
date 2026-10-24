@@ -1,12 +1,21 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-193.158.12.140:4153,SOCKS4,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,509,No,,0/7
-89.191.226.64:1080,SOCKS4,Germany,DE,🇩🇪,0,low,Yes,"Timeweb, LLP",872,No,,0/7
-8.211.51.115:90,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",4353,Not Checked,,
-193.158.12.140:4153,SOCKS4,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,5623,Not Checked,,
-50.114.58.15:1080,SOCKS4,Germany,DE,🇩🇪,0,low,No,Sculk Ltd.,3777,Not Checked,,
-193.158.12.141:4153,SOCKS4,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,3718,Not Checked,,
-176.9.107.170:1081,SOCKS4,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,639,Not Checked,,
-5.9.144.16:1080,SOCKS4,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,571,Not Checked,,
-157.173.115.35:1081,SOCKS4,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,5260,Not Checked,,
-195.58.38.35:1080,SOCKS4,Germany,DE,🇩🇪,29,medium,No,International Hosting Company Limited,3844,Not Checked,,
-195.58.38.35:1080,SOCKS4,Germany,DE,🇩🇪,29,medium,No,International Hosting Company Limited,3279,Not Checked,,
+193.158.12.141:4153,SOCKS4,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,1011,Yes,90.6,7/7
+89.191.226.64:1080,SOCKS4,Germany,DE,🇩🇪,0,low,Yes,"Timeweb, LLP",897,Yes,88.5,7/7
+8.211.49.86:3129,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",4433,Not Checked,,
+8.211.51.115:90,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",4450,Not Checked,,
+8.211.51.115:10,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",6434,Not Checked,,
+8.211.42.167:9000,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7148,Not Checked,,
+8.211.42.167:81,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7483,Not Checked,,
+193.158.12.140:4153,SOCKS4,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,2050,Not Checked,,
+8.211.42.167:51,SOCKS4,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",4429,Not Checked,,
+50.114.58.15:1080,SOCKS4,Germany,DE,🇩🇪,0,low,No,Sculk Ltd.,6462,Not Checked,,
+193.158.12.140:4153,SOCKS4,Germany,DE,🇩🇪,0,low,No,Deutsche Telekom AG,2023,Not Checked,,
+92.205.186.129:1080,SOCKS4,Germany,DE,🇩🇪,0,low,No,Host Europe GmbH,2934,Not Checked,,
+89.168.67.102:1080,SOCKS4,Germany,DE,🇩🇪,2,low,No,Oracle Corporation,3294,Not Checked,,
+176.9.107.170:1081,SOCKS4,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,955,Not Checked,,
+88.99.88.27:1080,SOCKS4,Germany,DE,🇩🇪,9,low,No,Hetzner Online GmbH,4053,Not Checked,,
+47.91.89.3:9080,SOCKS4,Germany,DE,🇩🇪,14,low,No,Alibaba.com LLC,7644,Not Checked,,
+47.91.89.3:8081,SOCKS4,Germany,DE,🇩🇪,14,low,No,Alibaba.com LLC,7650,Not Checked,,
+47.91.89.3:35,SOCKS4,Germany,DE,🇩🇪,14,low,No,Alibaba.com LLC,4425,Not Checked,,
+157.173.115.35:1081,SOCKS4,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,4064,Not Checked,,
+51.195.102.120:10084,SOCKS4,Germany,DE,🇩🇪,46,medium,Yes,OVH SAS,1029,Not Checked,,
