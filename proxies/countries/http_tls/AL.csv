@@ -1,7 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-134.0.63.185:443,HTTP_TLS,Albania,AL,🇦🇱,0,low,No,Agjencia Kombetare Shoqerise se Informacionit,1484,No,,0/7
-91.92.250.33:443,HTTP_TLS,Albania,AL,🇦🇱,0,low,No,Albanian Hosting SH.P.K.,1109,No,,0/7
-87.120.103.242:443,HTTP_TLS,Albania,AL,🇦🇱,0,low,Yes,Albanian Fiber Telecommunications SHPK,1463,No,,0/7
-87.120.103.242:9443,HTTP_TLS,Albania,AL,🇦🇱,0,low,Yes,Albanian Fiber Telecommunications SHPK,1670,No,,0/7
-31.171.154.66:9443,HTTP_TLS,Albania,AL,🇦🇱,12,low,Yes,Keminet SHPK,1527,Not Checked,,
-31.171.154.66:443,HTTP_TLS,Albania,AL,🇦🇱,12,low,Yes,Keminet SHPK,2357,Not Checked,,
+91.92.250.33:443,HTTP_TLS,Albania,AL,🇦🇱,0,low,No,Albanian Hosting SH.P.K.,1231,Yes,108.0,7/7
+87.120.103.242:443,HTTP_TLS,Albania,AL,🇦🇱,0,low,Yes,Albanian Fiber Telecommunications SHPK,1529,Yes,106.5,7/7
+87.120.103.242:9443,HTTP_TLS,Albania,AL,🇦🇱,0,low,Yes,Albanian Fiber Telecommunications SHPK,1506,Yes,106.5,7/7
+134.0.63.185:443,HTTP_TLS,Albania,AL,🇦🇱,0,low,No,Agjencia Kombetare Shoqerise se Informacionit,1688,No,,0/7
+31.171.154.66:443,HTTP_TLS,Albania,AL,🇦🇱,12,low,Yes,Keminet SHPK,1856,Not Checked,,
+31.171.154.66:9443,HTTP_TLS,Albania,AL,🇦🇱,12,low,Yes,Keminet SHPK,1846,Not Checked,,

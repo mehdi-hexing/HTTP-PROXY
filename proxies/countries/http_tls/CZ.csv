@@ -1,11 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-185.68.28.79:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,space Plzensky kraj,1230,No,,0/7
-31.31.78.117:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,WEDOS Internet,1302,No,,0/7
-46.229.114.132:40000,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,Alberon rule,1273,No,,0/7
-91.227.97.113:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,CCS Ceska spolecnost pro platebni karty s.r.o.,1467,No,,0/7
-195.181.220.235:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,CLOUD-SMART,1590,No,,0/7
-176.102.64.4:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,SecurityNet.cz s.r.o.,1468,No,,0/7
-152.233.16.174:9443,HTTP_TLS,Czechia,CZ,🇨🇿,46,medium,Yes,Datacamp Limited,1200,Not Checked,,
-185.216.35.130:443,HTTP_TLS,Czechia,CZ,🇨🇿,72,high,Yes,M247 Europe SRL,1223,Not Checked,,
-185.216.35.130:9443,HTTP_TLS,Czechia,CZ,🇨🇿,72,high,Yes,M247 Europe SRL,1264,Not Checked,,
-185.216.35.66:9443,HTTP_TLS,Czechia,CZ,🇨🇿,72,high,Yes,M247 Europe SRL,1298,Not Checked,,
+31.31.78.117:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,WEDOS Internet,1417,Yes,91.6,7/7
+46.229.114.132:40000,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,Alberon rule,1379,Yes,91.9,7/7
+91.227.97.113:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,CCS Ceska spolecnost pro platebni karty s.r.o.,1603,Yes,87.7,7/7
+195.181.220.235:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,CLOUD-SMART,1712,No,,0/7
+176.102.64.4:443,HTTP_TLS,Czechia,CZ,🇨🇿,0,low,No,SecurityNet.cz s.r.o.,1729,No,,0/7
+152.233.16.174:9443,HTTP_TLS,Czechia,CZ,🇨🇿,46,medium,Yes,Datacamp Limited,1324,Not Checked,,
+185.216.35.66:9443,HTTP_TLS,Czechia,CZ,🇨🇿,72,high,Yes,M247 Europe SRL,1507,Not Checked,,
