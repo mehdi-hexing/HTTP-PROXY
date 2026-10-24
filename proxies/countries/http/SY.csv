@@ -1,7 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-193.43.159.168:8080,HTTP,Syria,SY,🇸🇾,0,low,No,Syrian Telecom,11604,Not Checked,,
-109.224.242.26:8080,HTTP,Syria,SY,🇸🇾,0,low,No,High Speed For Internet Services L.L.C,10526,Not Checked,,
-217.142.24.106:8085,HTTP,Syria,SY,🇸🇾,1,low,No,Space Exploration Technologies Corporation,8043,Not Checked,,
-78.155.66.84:8080,HTTP,Syria,SY,🇸🇾,1,low,No,ISP-TARASSUL,8319,Not Checked,,
-78.155.64.250:8080,HTTP,Syria,SY,🇸🇾,1,low,No,ISP-TARASSUL,8697,Not Checked,,
-89.43.135.69:8080,HTTP,Syria,SY,🇸🇾,33,medium,No,High Speed For Internet Services L.L.C,6579,Not Checked,,
+109.224.242.172:8080,HTTP,Syria,SY,🇸🇾,0,low,No,High Speed For Internet Services L.L.C,7469,Yes,132.1,6/6
+109.224.242.133:8585,HTTP,Syria,SY,🇸🇾,0,low,No,High Speed For Internet Services L.L.C,6938,Yes,110.8,6/6
+193.43.145.231:8080,HTTP,Syria,SY,🇸🇾,0,low,No,Syrian Telecom,2493,Yes,141.7,6/6
+91.144.30.93:8080,HTTP,Syria,SY,🇸🇾,0,low,No,STE Public Data Network Backbone and LIR,12338,Not Checked,,
+178.169.0.18:8080,HTTP,Syria,SY,🇸🇾,1,low,No,ISP-TARASSUL,7549,Not Checked,,
+89.43.135.69:8080,HTTP,Syria,SY,🇸🇾,33,medium,No,High Speed For Internet Services L.L.C,3340,Not Checked,,
+89.43.134.39:8080,HTTP,Syria,SY,🇸🇾,33,medium,No,High Speed For Internet Services L.L.C,11447,Not Checked,,

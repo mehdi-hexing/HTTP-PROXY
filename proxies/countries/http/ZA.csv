@@ -1,8 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-20.33.10.132:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,4198,Yes,242.6,6/6
-160.19.112.18:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,Interworks,7458,Yes,236.2,6/6
-20.33.10.79:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,6524,Yes,247.8,6/6
-169.239.209.12:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,Interworks Wireless Solutions,7632,Not Checked,,
-20.33.10.79:9443,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,7702,Not Checked,,
-20.33.10.79:443,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,8084,Not Checked,,
-13.245.161.189:41833,HTTP,South Africa,ZA,🇿🇦,3,low,No,"Amazon.com, Inc.",1917,Not Checked,,
+160.119.51.209:8088,HTTP,South Africa,ZA,🇿🇦,0,low,No,Municipal Network Services,5149,Yes,274.2,4/6
+16.28.29.244:10101,HTTP,South Africa,ZA,🇿🇦,0,low,No,Amazon.com,5635,No,,0/6
+102.208.228.90:3128,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,2593,No,,0/6
+102.208.228.90:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,VPS1,4659,No,,0/6
+169.239.209.12:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,Interworks Wireless Solutions,9245,Not Checked,,
