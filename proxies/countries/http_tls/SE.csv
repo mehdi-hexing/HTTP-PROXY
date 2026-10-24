@@ -1,5 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-46.246.39.246:443,HTTP_TLS,Sweden,SE,🇸🇪,0,low,Yes,GleSYS AB,1267,Yes,88.5,7/7
-45.142.141.5:8443,HTTP_TLS,Sweden,SE,🇸🇪,0,low,No,Materialism s.r.l.,2123,Not Checked,,
-31.77.158.162:443,HTTP_TLS,Sweden,SE,🇸🇪,3,low,No,Play2go International Limited,1443,Not Checked,,
-77.221.136.60:8443,HTTP_TLS,Sweden,SE,🇸🇪,18,low,No,Aeza International LTD,1730,Not Checked,,
+46.246.39.246:443,HTTP_TLS,Sweden,SE,🇸🇪,0,low,Yes,GleSYS AB,1201,Yes,88.7,7/7
+45.142.141.5:8443,HTTP_TLS,Sweden,SE,🇸🇪,0,low,No,Materialism s.r.l.,1648,Yes,87.4,7/7
+31.77.158.162:443,HTTP_TLS,Sweden,SE,🇸🇪,3,low,No,Play2go International Limited,1362,Not Checked,,
+77.221.136.60:8443,HTTP_TLS,Sweden,SE,🇸🇪,18,low,No,Aeza International LTD,1644,Not Checked,,
+146.70.242.146:9443,HTTP_TLS,Sweden,SE,🇸🇪,38,medium,Yes,M247 Europe SRL,1209,Not Checked,,
