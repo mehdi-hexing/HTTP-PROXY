@@ -1,15 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-8.208.85.87:8080,HTTP,United Kingdom,GB,🇬🇧,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,759,Yes,96.8,6/6
-34.105.252.3:3128,HTTP,United Kingdom,GB,🇬🇧,0,low,No,Google LLC,558,Yes,90.4,6/6
-8.211.194.78:9080,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7408,No,,0/6
-8.211.194.85:3129,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7420,No,,0/6
-8.211.195.173:5555,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7421,No,,0/6
-185.73.38.73:3128,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Atlantic.net, Inc.",13952,Not Checked,,
-104.194.146.9:80,HTTP,United Kingdom,GB,🇬🇧,12,low,No,FranTech Solutions,547,Not Checked,,
-18.175.170.244:3129,HTTP,United Kingdom,GB,🇬🇧,14,low,No,Amazon Technologies Inc.,3949,Not Checked,,
-134.209.29.120:80,HTTP,United Kingdom,GB,🇬🇧,52,medium,Yes,"DigitalOcean, LLC",548,Not Checked,,
-161.35.45.19:8080,HTTP,United Kingdom,GB,🇬🇧,52,medium,No,"DigitalOcean, LLC",12293,Not Checked,,
-134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,52,medium,Yes,"DigitalOcean, LLC",569,Not Checked,,
-161.35.45.19:3128,HTTP,United Kingdom,GB,🇬🇧,52,medium,No,"DigitalOcean, LLC",7360,Not Checked,,
-161.35.45.19:3128,HTTP,United Kingdom,GB,🇬🇧,52,medium,No,"DigitalOcean, LLC",4367,Not Checked,,
-198.244.254.77:3128,HTTP,United Kingdom,GB,🇬🇧,86,high,Yes,OVH SAS,9794,Not Checked,,
+34.105.252.3:3128,HTTP,United Kingdom,GB,🇬🇧,0,low,No,Google LLC,1015,Yes,89.9,6/6
+34.105.252.3:3128,HTTP,United Kingdom,GB,🇬🇧,0,low,No,Google LLC,1043,Yes,89.6,6/6
+134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,52,medium,Yes,"DigitalOcean, LLC",836,Not Checked,,
