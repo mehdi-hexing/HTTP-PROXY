@@ -1,35 +1,38 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-137.175.22.29:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,107,Yes,241.7,6/6
-137.175.22.120:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,119,Yes,240.0,6/6
-137.175.22.56:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,107,Yes,240.5,6/6
-137.175.22.88:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,107,Yes,241.8,6/6
-137.175.22.74:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,123,Yes,237.7,6/6
-137.175.22.84:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,127,Yes,237.3,6/6
-137.175.22.45:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,117,Yes,239.3,6/6
-137.175.22.52:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,245,Yes,243.3,6/6
-137.175.22.85:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,103,Yes,243.2,6/6
-137.175.22.89:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,101,Yes,243.8,6/6
-137.175.22.41:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,109,Yes,239.9,6/6
-137.175.22.116:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,127,Yes,237.5,6/6
-137.175.22.40:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,104,Yes,243.2,6/6
-137.175.22.3:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,115,Yes,242.0,6/6
-137.175.22.16:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,104,Yes,243.4,6/6
-137.175.22.87:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,108,Yes,238.9,6/6
-137.175.22.72:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,241,Yes,241.6,6/6
-137.175.22.98:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,246,Yes,249.2,6/6
-137.175.77.35:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,1028,Yes,239.8,6/6
-120.232.204.58:31343,HTTP_TLS,China,CN,🇨🇳,0,low,No,China Mobile communications corporation,1978,Yes,340.5,6/6
-137.175.22.96:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,139,Timeout,,
-118.184.140.90:58764,HTTP_TLS,China,CN,🇨🇳,0,low,No,ChangZhou Bitcomm Software Technology Co.,2699,Not Checked,,
-120.232.204.58:40583,HTTP_TLS,China,CN,🇨🇳,0,low,No,China Mobile communications corporation,2305,Not Checked,,
-118.25.131.160:10030,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,2071,Not Checked,,
-118.25.131.160:10051,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,2044,Not Checked,,
-118.25.131.160:10056,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,2026,Not Checked,,
-118.25.131.160:10001,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,3117,Not Checked,,
-118.25.131.160:10003,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,1997,Not Checked,,
-118.25.131.160:10034,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,2300,Not Checked,,
-118.25.131.160:10061,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,1980,Not Checked,,
-118.25.131.160:10023,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,1981,Not Checked,,
-118.25.131.160:10018,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,2076,Not Checked,,
-118.25.131.160:10064,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,11937,Not Checked,,
-118.25.131.160:10050,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,1906,Not Checked,,
+137.175.22.74:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,442,Yes,229.4,6/6
+137.175.22.84:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,476,Yes,229.6,6/6
+137.175.22.52:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,486,Yes,236.6,6/6
+137.175.22.29:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,537,Yes,234.4,6/6
+137.175.22.56:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,546,Yes,232.0,6/6
+137.175.22.88:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,542,Yes,233.6,6/6
+137.175.22.96:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,543,Yes,230.3,6/6
+137.175.22.45:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,541,Yes,229.8,6/6
+137.175.22.120:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,619,Yes,231.9,6/6
+137.175.77.35:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,887,Yes,234.2,6/6
+137.175.22.89:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,464,Yes,235.2,6/6
+137.175.22.3:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,471,Yes,235.5,6/6
+137.175.22.40:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,491,Yes,233.6,6/6
+137.175.22.72:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,519,Yes,234.4,6/6
+137.175.22.16:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,512,Yes,233.5,6/6
+137.175.22.116:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,529,Yes,230.5,6/6
+137.175.22.85:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,530,Yes,235.6,6/6
+137.175.22.41:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,540,Yes,229.8,6/6
+137.175.22.87:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,554,Yes,228.7,6/6
+137.175.22.98:443,HTTP_TLS,China,CN,🇨🇳,0,low,Yes,PEG TECH INC,615,Yes,234.0,6/6
+118.184.140.90:58764,HTTP_TLS,China,CN,🇨🇳,0,low,No,ChangZhou Bitcomm Software Technology Co.,2797,Not Checked,,
+120.232.204.58:31343,HTTP_TLS,China,CN,🇨🇳,0,low,No,China Mobile communications corporation,2099,Not Checked,,
+120.232.204.58:40583,HTTP_TLS,China,CN,🇨🇳,0,low,No,China Mobile communications corporation,2442,Not Checked,,
+118.25.131.160:10030,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,7461,Not Checked,,
+118.25.131.160:10051,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,2430,Not Checked,,
+118.25.131.160:10056,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,2501,Not Checked,,
+118.25.131.160:10001,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,2073,Not Checked,,
+118.25.131.160:10003,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,2254,Not Checked,,
+118.25.131.160:10061,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,2103,Not Checked,,
+118.25.131.160:10064,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,2184,Not Checked,,
+118.25.131.160:10023,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,2448,Not Checked,,
+118.25.131.160:10018,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,2446,Not Checked,,
+118.25.131.160:10050,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,2418,Not Checked,,
+118.25.131.160:10027,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,2424,Not Checked,,
+118.25.131.160:10007,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,3359,Not Checked,,
+118.25.131.160:10028,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,7479,Not Checked,,
+118.25.131.160:10026,HTTP_TLS,China,CN,🇨🇳,1,low,No,Shenzhen Tencent Computer Systems Company Limited,7488,Not Checked,,

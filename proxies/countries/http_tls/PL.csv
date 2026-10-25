@@ -1,14 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-146.70.85.162:9443,HTTP_TLS,Poland,PL,🇵🇱,0,low,Yes,M247 Europe Infra,1455,Yes,122.8,6/6
-213.241.124.228:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,NETIA SA,1957,Yes,115.0,5/6
-193.25.2.239:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Gemini Internet,1702,No,,0/6
-79.133.217.233:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,eTOP sp. z o.o.,1746,No,,0/6
-185.96.121.243:9443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Gabriel Sulka trading as Firma Handlowo - Uslugowa KOMPEX,1880,No,,0/6
-94.246.130.82:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,ART-COM Sp. z o.o. LIR,3721,Not Checked,,
+146.70.85.162:9443,HTTP_TLS,Poland,PL,🇵🇱,0,low,Yes,M247 Europe Infra,1283,Yes,112.6,6/6
+193.25.2.239:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Gemini Internet,1558,Yes,115.2,6/6
+213.241.124.228:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,NETIA SA,1675,Not Checked,,
+94.246.130.82:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,ART-COM Sp. z o.o. LIR,3718,Not Checked,,
 94.246.130.82:5443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,ART-COM Sp. z o.o. LIR,3583,Not Checked,,
-83.13.36.250:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Orange Polska Spolka Akcyjna,7113,Not Checked,,
-79.188.239.40:8443,HTTP_TLS,Poland,PL,🇵🇱,1,low,No,Orange Polska Spolka Akcyjna,11222,Not Checked,,
-151.115.78.51:443,HTTP_TLS,Poland,PL,🇵🇱,17,low,No,SCALEWAY,1417,Not Checked,,
-185.138.90.148:443,HTTP_TLS,Poland,PL,🇵🇱,25,medium,No,Global Connectivity Solutions LLP,1428,Not Checked,,
-37.120.156.34:443,HTTP_TLS,Poland,PL,🇵🇱,72,high,Yes,M247 Europe SRL,1475,Not Checked,,
-37.120.156.34:9443,HTTP_TLS,Poland,PL,🇵🇱,72,high,Yes,M247 Europe SRL,1479,Not Checked,,
+185.96.121.243:9443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Gabriel Sulka trading as Firma Handlowo - Uslugowa KOMPEX,3566,Not Checked,,
+83.13.36.250:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Orange Polska Spolka Akcyjna,2064,Not Checked,,
+46.170.93.122:443,HTTP_TLS,Poland,PL,🇵🇱,1,low,No,Orange Polska Spolka Akcyjna,2766,Not Checked,,
+151.115.78.51:443,HTTP_TLS,Poland,PL,🇵🇱,17,low,No,SCALEWAY,1242,Not Checked,,
+185.138.90.148:443,HTTP_TLS,Poland,PL,🇵🇱,25,medium,No,Global Connectivity Solutions LLP,1274,Not Checked,,
+37.120.156.34:443,HTTP_TLS,Poland,PL,🇵🇱,72,high,Yes,M247 Europe SRL,1257,Not Checked,,
+37.120.156.34:9443,HTTP_TLS,Poland,PL,🇵🇱,72,high,Yes,M247 Europe SRL,1261,Not Checked,,
