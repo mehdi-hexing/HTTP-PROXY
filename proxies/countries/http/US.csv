@@ -1,35 +1,51 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-47.254.36.25:11080,HTTP,United States,US,🇺🇸,0,low,No,Alibaba Cloud LLC,4548,Yes,233.4,6/6
-34.43.46.91:443,HTTP,United States,US,🇺🇸,2,low,No,Google LLC,306,Yes,85.6,6/6
-34.43.46.91:443,HTTP,United States,US,🇺🇸,2,low,No,Google LLC,246,Yes,85.6,6/6
-34.43.46.91:80,HTTP,United States,US,🇺🇸,2,low,No,Google LLC,272,Yes,85.6,6/6
-34.43.46.91:80,HTTP,United States,US,🇺🇸,2,low,No,Google LLC,172,Yes,85.6,6/6
-151.243.153.157:8118,HTTP,United States,US,🇺🇸,0,low,No,Black Apple,5962,No,,0/6
-165.154.162.73:8888,HTTP,United States,US,🇺🇸,0,low,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,8008,No,,0/6
-151.243.153.157:8118,HTTP,United States,US,🇺🇸,0,low,No,Black Apple,3946,No,,0/6
-68.169.55.189:80,HTTP,United States,US,🇺🇸,0,low,No,"Cloudflare London, LLC",13012,No,,0/6
-3.134.245.77:35984,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",445,No,,0/6
-162.214.159.94:3128,HTTP,United States,US,🇺🇸,0,low,No,Unified Layer,411,Timeout,,
-162.214.159.94:3128,HTTP,United States,US,🇺🇸,0,low,No,Unified Layer,477,Timeout,,
-54.153.26.143:3128,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",11792,Not Checked,,
-34.207.102.197:13993,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",3643,Not Checked,,
-54.153.26.143:3128,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",12110,Not Checked,,
-54.198.140.56:40728,HTTP,United States,US,🇺🇸,6,low,No,"Amazon.com, Inc.",1823,Not Checked,,
-54.198.140.56:7000,HTTP,United States,US,🇺🇸,6,low,No,"Amazon.com, Inc.",1798,Not Checked,,
-98.88.36.190:8080,HTTP,United States,US,🇺🇸,11,low,No,Amazon.com,1859,Not Checked,,
-47.90.167.27:8081,HTTP,United States,US,🇺🇸,11,low,No,Alibaba.com LLC,7098,Not Checked,,
-3.89.57.89:8088,HTTP,United States,US,🇺🇸,12,low,No,Amazon Technologies Inc.,137,Not Checked,,
-3.89.57.89:8088,HTTP,United States,US,🇺🇸,12,low,No,Amazon Technologies Inc.,128,Not Checked,,
-47.252.18.37:5060,HTTP,United States,US,🇺🇸,13,low,No,Alibaba Cloud LLC,7116,Not Checked,,
-47.252.11.233:1080,HTTP,United States,US,🇺🇸,13,low,No,Alibaba Cloud LLC,7102,Not Checked,,
-47.251.87.199:85,HTTP,United States,US,🇺🇸,13,low,No,Alibaba Cloud LLC,7243,Not Checked,,
-47.251.74.38:5060,HTTP,United States,US,🇺🇸,13,low,No,Alibaba Cloud LLC,7257,Not Checked,,
-47.251.73.54:8888,HTTP,United States,US,🇺🇸,13,low,No,Alibaba Cloud LLC,7246,Not Checked,,
-64.118.155.2:22222,HTTP,United States,US,🇺🇸,17,low,No,Eons Data Communications Limited,367,Not Checked,,
-45.139.85.2:3128,HTTP,United States,US,🇺🇸,42,medium,Yes,NetCrafters OU,3393,Not Checked,,
-138.68.60.8:3128,HTTP,United States,US,🇺🇸,52,medium,No,"DigitalOcean, LLC",382,Not Checked,,
-159.223.167.188:10000,HTTP,United States,US,🇺🇸,52,medium,No,"DigitalOcean, LLC",175,Not Checked,,
-209.97.150.167:3128,HTTP,United States,US,🇺🇸,52,medium,Yes,"DigitalOcean, LLC",209,Not Checked,,
-198.199.86.11:3128,HTTP,United States,US,🇺🇸,52,medium,No,"DigitalOcean, LLC",175,Not Checked,,
-138.68.60.8:8080,HTTP,United States,US,🇺🇸,52,medium,No,"DigitalOcean, LLC",375,Not Checked,,
-209.97.150.167:3128,HTTP,United States,US,🇺🇸,52,medium,Yes,"DigitalOcean, LLC",166,Not Checked,,
+34.43.46.91:80,HTTP,United States,US,🇺🇸,2,low,No,Google LLC,454,Yes,95.2,6/6
+34.43.46.91:443,HTTP,United States,US,🇺🇸,2,low,No,Google LLC,778,Yes,95.2,6/6
+34.43.46.91:80,HTTP,United States,US,🇺🇸,2,low,No,Google LLC,476,Yes,95.2,6/6
+165.154.162.73:8888,HTTP,United States,US,🇺🇸,0,low,No,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,3780,No,,0/6
+18.188.168.99:23832,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",355,No,,0/6
+18.188.168.99:19417,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",355,No,,0/6
+18.188.168.99:1012,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",353,No,,0/6
+18.188.168.99:52523,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",352,No,,0/6
+18.188.168.99:8055,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",357,No,,0/6
+18.188.168.99:7888,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",359,No,,0/6
+18.188.168.99:47416,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",349,No,,0/6
+18.188.168.99:27670,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",349,No,,0/6
+162.214.159.94:3128,HTTP,United States,US,🇺🇸,0,low,No,Unified Layer,252,Timeout,,
+3.21.247.154:34978,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",1996,Not Checked,,
+98.81.204.137:18436,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",855,Not Checked,,
+18.188.168.99:53175,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",365,Not Checked,,
+54.153.26.143:3128,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",10967,Not Checked,,
+18.188.168.99:51551,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",360,Not Checked,,
+18.188.168.99:8741,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",384,Not Checked,,
+18.188.168.99:8055,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",367,Not Checked,,
+18.188.168.99:45481,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",365,Not Checked,,
+18.188.168.99:53175,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",368,Not Checked,,
+98.81.204.137:16497,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",1031,Not Checked,,
+18.188.168.99:4444,HTTP,United States,US,🇺🇸,3,low,No,"Amazon.com, Inc.",382,Not Checked,,
+24.153.226.234:8056,HTTP,United States,US,🇺🇸,3,low,No,Charter Communications Inc,7031,Not Checked,,
+18.224.94.46:17981,HTTP,United States,US,🇺🇸,6,low,No,"Amazon.com, Inc.",987,Not Checked,,
+5.161.204.82:8888,HTTP,United States,US,🇺🇸,6,low,No,Hetzner Online GmbH,3005,Not Checked,,
+18.144.86.139:35368,HTTP,United States,US,🇺🇸,6,low,No,"Amazon.com, Inc.",1896,Not Checked,,
+18.224.94.46:35776,HTTP,United States,US,🇺🇸,6,low,No,"Amazon.com, Inc.",4799,Not Checked,,
+72.241.55.239:8080,HTTP,United States,US,🇺🇸,8,low,Yes,"Buckeye Cablevision, Inc.",5783,Not Checked,,
+72.241.55.239:8080,HTTP,United States,US,🇺🇸,8,low,Yes,"Buckeye Cablevision, Inc.",7765,Not Checked,,
+47.90.167.27:8081,HTTP,United States,US,🇺🇸,11,low,No,Alibaba.com LLC,7337,Not Checked,,
+3.231.160.150:26504,HTTP,United States,US,🇺🇸,12,low,No,Amazon Technologies Inc.,2188,Not Checked,,
+3.89.57.89:8088,HTTP,United States,US,🇺🇸,12,low,No,Amazon Technologies Inc.,421,Not Checked,,
+47.251.87.199:5060,HTTP,United States,US,🇺🇸,13,low,No,Alibaba Cloud LLC,7017,Not Checked,,
+47.251.87.199:312,HTTP,United States,US,🇺🇸,13,low,No,Alibaba Cloud LLC,7019,Not Checked,,
+47.251.87.74:92,HTTP,United States,US,🇺🇸,13,low,No,Alibaba Cloud LLC,7023,Not Checked,,
+47.251.87.199:8031,HTTP,United States,US,🇺🇸,13,low,No,Alibaba Cloud LLC,7020,Not Checked,,
+47.251.74.38:20000,HTTP,United States,US,🇺🇸,13,low,No,Alibaba Cloud LLC,7025,Not Checked,,
+47.251.74.38:4840,HTTP,United States,US,🇺🇸,13,low,No,Alibaba Cloud LLC,7024,Not Checked,,
+47.252.18.37:999,HTTP,United States,US,🇺🇸,13,low,No,Alibaba Cloud LLC,11178,Not Checked,,
+47.251.73.54:1080,HTTP,United States,US,🇺🇸,13,low,No,Alibaba Cloud LLC,7020,Not Checked,,
+47.251.73.54:8834,HTTP,United States,US,🇺🇸,13,low,No,Alibaba Cloud LLC,7018,Not Checked,,
+47.252.11.233:3129,HTTP,United States,US,🇺🇸,13,low,No,Alibaba Cloud LLC,7323,Not Checked,,
+64.118.155.2:22222,HTTP,United States,US,🇺🇸,17,low,No,Eons Data Communications Limited,94,Not Checked,,
+64.118.155.2:22222,HTTP,United States,US,🇺🇸,17,low,No,Eons Data Communications Limited,1100,Not Checked,,
+209.97.150.167:3128,HTTP,United States,US,🇺🇸,52,medium,Yes,"DigitalOcean, LLC",438,Not Checked,,
+138.68.60.8:3128,HTTP,United States,US,🇺🇸,52,medium,No,"DigitalOcean, LLC",100,Not Checked,,
+198.199.86.11:3128,HTTP,United States,US,🇺🇸,52,medium,No,"DigitalOcean, LLC",432,Not Checked,,
+209.97.150.167:3128,HTTP,United States,US,🇺🇸,52,medium,Yes,"DigitalOcean, LLC",423,Not Checked,,

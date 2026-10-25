@@ -1,13 +1,12 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1483,Yes,233.6,6/6
-4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1504,Yes,233.6,6/6
-43.134.39.221:10000,HTTP,Singapore,SG,🇸🇬,1,low,No,Shenzhen Tencent Computer Systems Company Limited,1506,Yes,264.0,6/6
-43.160.222.70:3128,HTTP,Singapore,SG,🇸🇬,1,low,No,Shenzhen Tencent Computer Systems Company Limited,7578,Yes,252.7,6/6
-159.138.84.187:3128,HTTP,Singapore,SG,🇸🇬,2,low,No,Huawei International Pte. LTD,1498,Yes,251.0,6/6
-159.138.84.187:3128,HTTP,Singapore,SG,🇸🇬,2,low,No,Huawei International Pte. LTD,1504,Yes,251.0,6/6
-8.219.229.53:3128,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8040,No,,0/6
-47.237.2.245:2002,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8038,No,,0/6
-47.237.113.119:8123,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd.",8047,No,,0/6
-47.237.107.41:1081,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd.",8043,No,,0/6
-47.237.92.86:3129,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd.",8039,No,,0/6
-128.199.202.122:8080,HTTP,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",1549,Not Checked,,
+4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1263,Yes,249.9,6/6
+43.134.39.221:10000,HTTP,Singapore,SG,🇸🇬,1,low,No,Shenzhen Tencent Computer Systems Company Limited,1256,Yes,278.5,6/6
+43.160.222.70:3128,HTTP,Singapore,SG,🇸🇬,1,low,No,Shenzhen Tencent Computer Systems Company Limited,7823,Yes,263.4,6/6
+43.134.39.221:10000,HTTP,Singapore,SG,🇸🇬,1,low,No,Shenzhen Tencent Computer Systems Company Limited,1259,Yes,278.5,6/6
+159.138.84.187:3128,HTTP,Singapore,SG,🇸🇬,2,low,No,Huawei International Pte. LTD,1803,Yes,257.5,6/6
+159.138.84.187:3128,HTTP,Singapore,SG,🇸🇬,2,low,No,Huawei International Pte. LTD,1281,Yes,257.5,6/6
+8.219.229.53:3128,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7851,No,,0/6
+47.237.2.245:2002,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7846,No,,0/6
+47.237.107.41:20000,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd.",7853,No,,0/6
+47.129.130.0:5598,HTTP,Singapore,SG,🇸🇬,3,low,Yes,Amazon Technologies Inc,3771,Not Checked,,
+128.199.202.122:8080,HTTP,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",1272,Not Checked,,

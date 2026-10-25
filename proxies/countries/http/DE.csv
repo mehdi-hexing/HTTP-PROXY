@@ -1,11 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-212.132.112.231:80,HTTP,Germany,DE,🇩🇪,0,low,No,IONOS SE ber.de,8447,Yes,93.2,5/6
-8.211.49.86:6969,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7568,No,,0/6
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,775,Timeout,,
-8.209.96.245:89,HTTP,Germany,DE,🇩🇪,3,low,No,Alibaba.com Singapore E-Commerce Private Limited,7566,Not Checked,,
-159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,5,low,No,netcup GmbH,13902,Not Checked,,
-157.173.115.35:1081,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,5351,Not Checked,,
-89.58.42.118:3129,HTTP,Germany,DE,🇩🇪,24,medium,No,netcup GmbH,1084,Not Checked,,
-89.58.42.118:3129,HTTP,Germany,DE,🇩🇪,24,medium,No,netcup GmbH,810,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",805,Not Checked,,
-161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",791,Not Checked,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1125,Yes,86.4,6/6
+8.211.42.167:8888,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7743,No,,0/6
+161.97.119.1:8888,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,9443,Not Checked,,
+213.199.53.16:8889,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,13321,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",1017,Not Checked,,
