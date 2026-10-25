@@ -1,6 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,1125,Yes,86.4,6/6
-8.211.42.167:8888,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7743,No,,0/6
-161.97.119.1:8888,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,9443,Not Checked,,
-213.199.53.16:8889,HTTP,Germany,DE,🇩🇪,16,low,No,Contabo GmbH,13321,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",1017,Not Checked,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,905,Yes,79.5,6/6
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,915,Yes,79.7,6/6
+8.211.42.167:8888,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7697,No,,0/6
+2.28.105.45:8888,HTTP,Germany,DE,🇩🇪,5,low,No,Hetzner Online GmbH,7570,Not Checked,,
+159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,5,low,No,netcup GmbH,13345,Not Checked,,
+47.91.89.3:80,HTTP,Germany,DE,🇩🇪,14,low,No,Alibaba.com LLC,7704,Not Checked,,
+89.58.42.118:3129,HTTP,Germany,DE,🇩🇪,24,medium,No,netcup GmbH,3537,Not Checked,,
+89.58.42.118:3129,HTTP,Germany,DE,🇩🇪,24,medium,No,netcup GmbH,1042,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",975,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",914,Not Checked,,
