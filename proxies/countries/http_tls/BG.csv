@@ -1,2 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-94.155.48.4:443,HTTP_TLS,Bulgaria,BG,🇧🇬,0,low,No,ITD Network,1255,Yes,110.1,6/6
+94.155.48.4:443,HTTP_TLS,Bulgaria,BG,🇧🇬,0,low,No,ITD Network,1463,Yes,107.5,6/6
+185.216.32.226:9443,HTTP_TLS,Bulgaria,BG,🇧🇬,25,medium,Yes,M247 Europe SRL,1581,Not Checked,,
+150.241.139.96:9443,HTTP_TLS,Bulgaria,BG,🇧🇬,62,high,No,Datacamp Limited,3514,Not Checked,,
