@@ -1,7 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-145.220.227.2:3128,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,3601,Not Checked,,
-145.220.227.107:8080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,2595,Not Checked,,
-145.220.227.57:3128,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,2587,Not Checked,,
-145.220.227.24:8080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,5630,Not Checked,,
-128.199.37.92:1080,SOCKS4,Netherlands,NL,🇳🇱,52,medium,No,"DigitalOcean, LLC",2556,Not Checked,,
-128.199.37.92:1080,SOCKS4,Netherlands,NL,🇳🇱,52,medium,No,"DigitalOcean, LLC",5588,Not Checked,,
+145.220.227.67:8080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,415,Yes,95.8,4/6
+145.220.227.2:3128,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,5538,Not Checked,,
+46.175.148.45:1080,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,Serverius Holding B.V.,5414,Not Checked,,
+145.220.227.57:3128,SOCKS4,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,3496,Not Checked,,
+176.97.210.116:1010,SOCKS4,Netherlands,NL,🇳🇱,13,low,No,Ferdinand Zink trading as Tube-Hosting,4327,Not Checked,,
+176.97.210.116:1010,SOCKS4,Netherlands,NL,🇳🇱,13,low,No,Ferdinand Zink trading as Tube-Hosting,5062,Not Checked,,
+45.90.13.176:1080,SOCKS4,Netherlands,NL,🇳🇱,18,low,Yes,RoyaleHosting BV,4729,Not Checked,,
+213.176.74.119:1080,SOCKS4,Netherlands,NL,🇳🇱,42,medium,No,NetCrafters OU,5880,Not Checked,,
+128.199.37.92:1080,SOCKS4,Netherlands,NL,🇳🇱,52,medium,No,"DigitalOcean, LLC",3529,Not Checked,,
