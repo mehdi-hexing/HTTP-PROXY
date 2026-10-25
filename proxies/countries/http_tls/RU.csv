@@ -1,9 +1,8 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-135.106.161.7:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,JSC Selectel,1417,Yes,91.5,6/6
-89.188.125.42:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,Citytelecom LLC,1510,Yes,90.6,6/6
-37.203.243.6:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,DATAPLANET Ltd,1461,Yes,90.5,6/6
-5.35.100.14:8443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,EuroByte LLC,1523,Yes,80.7,6/6
-192.159.101.174:9443,HTTP_TLS,Russia,RU,🇷🇺,0,low,Yes,Realcloud OU,2232,Not Checked,,
-84.237.50.68:444,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,2040,Not Checked,,
-84.237.50.68:8444,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,NSU,1960,Not Checked,,
-92.242.41.77:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,Dataline-own,1987,Not Checked,,
+135.106.161.7:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,JSC Selectel,1717,No,,0/6
+89.188.125.42:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,Citytelecom LLC,1833,No,,0/6
+37.203.243.6:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,DATAPLANET Ltd,1891,No,,0/6
+5.35.100.14:8443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,EuroByte LLC,2044,No,,0/6
+170.168.1.39:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,MT FINANCE LLC,2312,Not Checked,,
+92.242.41.77:443,HTTP_TLS,Russia,RU,🇷🇺,0,low,No,Dataline-own,2248,Not Checked,,
+46.29.166.134:1446,HTTP_TLS,Russia,RU,🇷🇺,25,medium,No,LLC Baxet,1959,Not Checked,,
