@@ -1,7 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-8.213.195.191:8000,SOCKS5,Thailand,TH,🇹🇭,0,low,No,Alibaba Cloud (Singapore) Private Limited,7688,No,,0/7
-8.213.195.191:8060,SOCKS5,Thailand,TH,🇹🇭,0,low,No,Alibaba Cloud (Singapore) Private Limited,7681,No,,0/7
-8.213.222.247:1080,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7678,No,,0/7
-8.213.195.191:80,SOCKS5,Thailand,TH,🇹🇭,0,low,No,Alibaba Cloud (Singapore) Private Limited,7689,No,,0/7
-8.213.222.247:6379,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7677,Unknown,,
-8.213.222.247:9091,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7681,Unknown,,
+8.213.195.191:30000,SOCKS5,Thailand,TH,🇹🇭,0,low,No,Alibaba Cloud (Singapore) Private Limited,7678,No,,0/6
+8.213.195.191:31433,SOCKS5,Thailand,TH,🇹🇭,0,low,No,Alibaba Cloud (Singapore) Private Limited,7678,No,,0/6
+8.213.195.191:312,SOCKS5,Thailand,TH,🇹🇭,0,low,No,Alibaba Cloud (Singapore) Private Limited,7685,No,,0/6
+8.213.195.191:202,SOCKS5,Thailand,TH,🇹🇭,0,low,No,Alibaba Cloud (Singapore) Private Limited,7681,No,,0/6
+8.213.195.191:8443,SOCKS5,Thailand,TH,🇹🇭,0,low,No,Alibaba Cloud (Singapore) Private Limited,7698,No,,0/6
+8.213.197.208:1080,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7681,No,,0/6
+8.213.197.208:808,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7684,No,,0/6
+8.213.197.208:8123,SOCKS5,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",7685,No,,0/6
