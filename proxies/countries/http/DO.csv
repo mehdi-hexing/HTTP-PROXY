@@ -1,3 +1,5 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-168.243.77.81:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"CENTRIC MOBILITY (CEMO), S.R.L",4810,Yes,208.6,6/6
-38.50.165.122:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"NEXTELECOM, S.R.L",6625,Yes,216.6,6/6
+38.50.165.123:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"NEXTELECOM, S.R.L",6015,Yes,214.8,6/6
+38.50.165.126:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"NEXTELECOM, S.R.L",9056,Yes,211.4,6/6
+217.76.245.80:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"CENTRIC MOBILITY, S.R.L",549,Timeout,,
+217.76.245.80:999,HTTP,Dominican Republic,DO,🇩🇴,0,low,No,"CENTRIC MOBILITY, S.R.L",508,Timeout,,
