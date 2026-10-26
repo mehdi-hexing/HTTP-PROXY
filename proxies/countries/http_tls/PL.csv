@@ -1,13 +1,23 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-146.70.85.162:9443,HTTP_TLS,Poland,PL,🇵🇱,0,low,Yes,M247 Europe Infra,1283,Yes,112.6,6/6
-193.25.2.239:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Gemini Internet,1558,Yes,115.2,6/6
-213.241.124.228:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,NETIA SA,1675,Not Checked,,
-94.246.130.82:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,ART-COM Sp. z o.o. LIR,3718,Not Checked,,
-94.246.130.82:5443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,ART-COM Sp. z o.o. LIR,3583,Not Checked,,
-185.96.121.243:9443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Gabriel Sulka trading as Firma Handlowo - Uslugowa KOMPEX,3566,Not Checked,,
-83.13.36.250:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Orange Polska Spolka Akcyjna,2064,Not Checked,,
-46.170.93.122:443,HTTP_TLS,Poland,PL,🇵🇱,1,low,No,Orange Polska Spolka Akcyjna,2766,Not Checked,,
-151.115.78.51:443,HTTP_TLS,Poland,PL,🇵🇱,17,low,No,SCALEWAY,1242,Not Checked,,
-185.138.90.148:443,HTTP_TLS,Poland,PL,🇵🇱,25,medium,No,Global Connectivity Solutions LLP,1274,Not Checked,,
-37.120.156.34:443,HTTP_TLS,Poland,PL,🇵🇱,72,high,Yes,M247 Europe SRL,1257,Not Checked,,
-37.120.156.34:9443,HTTP_TLS,Poland,PL,🇵🇱,72,high,Yes,M247 Europe SRL,1261,Not Checked,,
+193.25.2.239:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Gemini Internet,1457,Yes,126.8,6/6
+213.241.124.228:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,NETIA SA,1505,Yes,113.5,6/6
+185.96.121.243:9443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Gabriel Sulka trading as Firma Handlowo - Uslugowa KOMPEX,1659,Yes,113.6,6/6
+79.133.217.233:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,eTOP sp. z o.o.,1383,No,,0/6
+79.133.217.232:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,eTOP sp. z o.o.,1318,No,,0/6
+79.133.217.237:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,eTOP sp. z o.o.,1392,No,,0/6
+80.72.39.35:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,eTOP Sp. z o.o.,1372,No,,0/6
+79.133.217.236:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,eTOP sp. z o.o.,1386,No,,0/6
+94.246.130.82:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,ART-COM Sp. z o.o. LIR,3594,Not Checked,,
+94.246.130.82:5443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,ART-COM Sp. z o.o. LIR,3899,Not Checked,,
+83.13.36.250:443,HTTP_TLS,Poland,PL,🇵🇱,0,low,No,Orange Polska Spolka Akcyjna,1947,Not Checked,,
+46.170.93.122:443,HTTP_TLS,Poland,PL,🇵🇱,1,low,No,Orange Polska Spolka Akcyjna,2799,Not Checked,,
+79.188.239.40:8443,HTTP_TLS,Poland,PL,🇵🇱,1,low,No,Orange Polska Spolka Akcyjna,9174,Not Checked,,
+79.188.239.45:8443,HTTP_TLS,Poland,PL,🇵🇱,1,low,No,Orange Polska Spolka Akcyjna,13531,Not Checked,,
+79.188.239.41:8443,HTTP_TLS,Poland,PL,🇵🇱,1,low,No,Orange Polska Spolka Akcyjna,6804,Not Checked,,
+79.188.239.44:8443,HTTP_TLS,Poland,PL,🇵🇱,1,low,No,Orange Polska Spolka Akcyjna,6826,Not Checked,,
+79.188.239.43:8443,HTTP_TLS,Poland,PL,🇵🇱,1,low,No,Orange Polska Spolka Akcyjna,7819,Not Checked,,
+79.188.239.42:8443,HTTP_TLS,Poland,PL,🇵🇱,1,low,No,Orange Polska Spolka Akcyjna,12585,Not Checked,,
+79.188.239.46:8443,HTTP_TLS,Poland,PL,🇵🇱,1,low,No,Orange Polska Spolka Akcyjna,12592,Not Checked,,
+79.188.239.47:8443,HTTP_TLS,Poland,PL,🇵🇱,1,low,No,Orange Polska Spolka Akcyjna,12637,Not Checked,,
+151.115.78.51:443,HTTP_TLS,Poland,PL,🇵🇱,17,low,No,SCALEWAY,1129,Not Checked,,
+185.138.90.148:443,HTTP_TLS,Poland,PL,🇵🇱,25,medium,No,Global Connectivity Solutions LLP,1326,Not Checked,,
