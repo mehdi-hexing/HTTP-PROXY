@@ -1,5 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-160.19.112.18:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,Interworks,4886,Yes,232.7,6/6
-160.119.51.209:8088,HTTP,South Africa,ZA,🇿🇦,0,low,No,Municipal Network Services,4512,Yes,250.4,4/6
-160.119.51.209:8088,HTTP,South Africa,ZA,🇿🇦,0,low,No,Municipal Network Services,10978,Not Checked,,
-196.251.221.33:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,Info-Gro (PTY) Ltd,9179,Not Checked,,
+196.251.213.192:8081,HTTP,South Africa,ZA,🇿🇦,0,low,No,Info-Gro (PTY) Ltd,6224,Yes,250.6,5/6
+20.33.10.79:443,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,5973,Yes,251.2,3/6
+20.33.10.79:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,4134,Yes,251.2,3/6
+20.33.10.79:9443,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,3633,Yes,251.2,3/6
+20.33.10.79:443,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,3161,Yes,251.2,3/6
+20.33.10.79:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,5373,Yes,251.2,3/6
+20.33.10.132:80,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,6273,Not Checked,,
+105.22.37.218:8080,HTTP,South Africa,ZA,🇿🇦,0,low,No,SEACOM Limited Networks,8925,Not Checked,,
+20.33.10.132:443,HTTP,South Africa,ZA,🇿🇦,0,low,No,Microsoft Corporation,7181,Not Checked,,
+196.251.213.192:8081,HTTP,South Africa,ZA,🇿🇦,0,low,No,Info-Gro (PTY) Ltd,13488,Not Checked,,

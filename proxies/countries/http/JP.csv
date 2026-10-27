@@ -1,16 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-47.91.29.151:1081,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba.com LLC,7702,No,,0/6
-8.221.139.222:6379,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7693,No,,0/6
-47.74.46.81:3128,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7699,No,,0/6
-15.152.38.117:53281,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,2392,No,,0/6
-8.221.141.88:1723,HTTP,Japan,JP,🇯🇵,0,low,No,"Alibaba (US) Technology Co., Ltd.",7694,No,,0/6
-140.227.61.201:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,3023,No,,0/6
-116.80.50.36:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,4028,No,,0/6
-116.80.50.36:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,5083,No,,0/6
-140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,3,low,No,Oracle Corporation,1017,Not Checked,,
-157.120.37.23:3128,HTTP,Japan,JP,🇯🇵,3,low,Yes,"NTT PC Communications, Inc.",15378,Not Checked,,
-140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,3,low,No,Oracle Corporation,998,Not Checked,,
-139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",990,Not Checked,,
-139.162.78.109:8080,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",985,Not Checked,,
-45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,83,high,No,Zenlayer Inc,3084,Not Checked,,
-45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,83,high,No,Zenlayer Inc,1701,Not Checked,,
+56.155.73.159:35512,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",2406,No,,0/6
+116.80.65.235:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,6265,No,,0/6
+15.152.38.117:12984,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,2806,No,,0/6
+140.227.61.201:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,7350,Not Checked,,
+116.80.50.36:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,8423,Not Checked,,
+52.195.147.51:12092,HTTP,Japan,JP,🇯🇵,1,low,No,Amazon Technologies Inc.,1685,Not Checked,,
+139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",1023,Not Checked,,
+139.162.78.109:8080,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",1031,Not Checked,,
+45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,83,high,No,Zenlayer Inc,11425,Not Checked,,

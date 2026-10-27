@@ -1,9 +1,14 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-43.160.222.70:3128,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,2433,Yes,254.3,6/6
-4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1453,Yes,232.6,6/6
-203.174.83.80:3128,HTTP,Singapore,SG,🇸🇬,0,low,No,NewMedia Express Pte Ltd,1952,Yes,237.0,6/6
-4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1439,Yes,232.6,6/6
-8.219.229.53:80,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8008,No,,0/6
-47.237.2.245:6379,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7995,No,,0/6
-47.237.107.41:80,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd.",8011,Not Checked,,
-128.199.202.122:8080,HTTP,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",1487,Not Checked,,
+4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1326,Yes,231.8,6/6
+4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1328,Yes,231.8,6/6
+203.174.83.80:3128,HTTP,Singapore,SG,🇸🇬,0,low,No,NewMedia Express Pte Ltd,3981,Yes,234.8,6/6
+47.237.2.245:6379,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7927,Not Checked,,
+82.41.42.113:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi,12128,Not Checked,,
+82.41.42.113:8080,HTTP,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi,10090,Not Checked,,
+47.237.107.41:111,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd.",7899,Not Checked,,
+54.255.249.161:55016,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.,2226,Not Checked,,
+54.255.249.161:23687,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.,3019,Not Checked,,
+34.142.210.154:40001,HTTP,Singapore,SG,🇸🇬,2,low,No,Google LLC,1375,Not Checked,,
+43.159.62.17:40001,HTTP,Singapore,SG,🇸🇬,8,low,No,Shenzhen Tencent Computer Systems Company Limited,1418,Not Checked,,
+103.164.55.81:3128,HTTP,Singapore,SG,🇸🇬,14,low,Yes,Contabo Asia Private Limited,1365,Not Checked,,
+128.199.202.122:8080,HTTP,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",1358,Not Checked,,
