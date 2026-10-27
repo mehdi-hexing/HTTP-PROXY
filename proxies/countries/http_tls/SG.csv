@@ -1,10 +1,20 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-66.42.49.247:8443,HTTP_TLS,Singapore,SG,🇸🇬,0,low,No,SGP VULTR,1685,Yes,256.2,6/6
-66.42.59.169:8888,HTTP_TLS,Singapore,SG,🇸🇬,0,low,No,SGP VULTR,1706,Yes,258.5,6/6
-47.84.230.119:6443,HTTP_TLS,Singapore,SG,🇸🇬,0,low,No,Alibaba.com LLC,1717,No,,0/6
-52.187.116.36:443,HTTP_TLS,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,4805,Not Checked,,
-35.187.237.178:443,HTTP_TLS,Singapore,SG,🇸🇬,2,low,No,Google LLC,2019,Not Checked,,
-213.35.107.110:443,HTTP_TLS,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation,1974,Not Checked,,
-165.22.60.108:443,HTTP_TLS,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",1810,Not Checked,,
-143.198.192.178:443,HTTP_TLS,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",1667,Not Checked,,
-103.107.198.226:9443,HTTP_TLS,Singapore,SG,🇸🇬,62,high,Yes,GSL Networks Pty LTD,1654,Not Checked,,
+66.42.49.247:8443,HTTP_TLS,Singapore,SG,🇸🇬,0,low,No,SGP VULTR,1906,Yes,311.1,6/6
+82.102.25.50:9443,HTTP_TLS,Singapore,SG,🇸🇬,0,low,Yes,M247 LTD Singapore Infrastructure,1905,Yes,233.9,6/6
+52.187.116.36:443,HTTP_TLS,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1923,No,,0/6
+47.84.230.119:6443,HTTP_TLS,Singapore,SG,🇸🇬,0,low,No,Alibaba.com LLC,1945,Not Checked,,
+66.42.59.169:8888,HTTP_TLS,Singapore,SG,🇸🇬,0,low,No,SGP VULTR,1934,Not Checked,,
+82.102.25.210:9443,HTTP_TLS,Singapore,SG,🇸🇬,0,low,Yes,M247 LTD Singapore Infrastructure,1963,Not Checked,,
+23.106.249.54:6550,HTTP_TLS,Singapore,SG,🇸🇬,0,low,Yes,Leaseweb Singapore Pte. Ltd.,3372,Not Checked,,
+23.106.249.52:2569,HTTP_TLS,Singapore,SG,🇸🇬,0,low,Yes,Leaseweb Singapore Pte. Ltd.,5237,Not Checked,,
+23.106.249.34:21125,HTTP_TLS,Singapore,SG,🇸🇬,0,low,Yes,Leaseweb Singapore Pte. Ltd.,6546,Not Checked,,
+54.255.249.161:4336,HTTP_TLS,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.,7799,Not Checked,,
+35.187.237.178:443,HTTP_TLS,Singapore,SG,🇸🇬,2,low,No,Google LLC,2294,Not Checked,,
+213.35.107.110:443,HTTP_TLS,Singapore,SG,🇸🇬,2,low,No,Oracle Corporation,2713,Not Checked,,
+18.139.84.28:443,HTTP_TLS,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,2148,Not Checked,,
+156.146.56.97:9443,HTTP_TLS,Singapore,SG,🇸🇬,46,medium,Yes,Datacamp Limited,1922,Not Checked,,
+165.22.60.108:443,HTTP_TLS,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",1926,Not Checked,,
+143.198.192.178:443,HTTP_TLS,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",1894,Not Checked,,
+128.199.207.200:443,HTTP_TLS,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",2353,Not Checked,,
+174.138.27.116:443,HTTP_TLS,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",1908,Not Checked,,
+103.107.198.226:9443,HTTP_TLS,Singapore,SG,🇸🇬,62,high,Yes,GSL Networks Pty LTD,1842,Not Checked,,
