@@ -1,27 +1,35 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-145.220.227.195:4145,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,6023,No,,0/6
-145.220.227.87:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,4327,No,,0/6
-77.105.160.250:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,Globaltech LLC,5672,No,,0/6
-87.251.78.206:3128,HTTP,Netherlands,NL,🇳🇱,0,low,Yes,Chsl ONE LTD,5814,No,,0/6
-145.220.227.185:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,2710,No,,0/6
-145.220.227.107:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,7885,Not Checked,,
-145.220.227.88:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,8799,Not Checked,,
-145.220.227.213:1080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,7139,Not Checked,,
-145.220.227.213:1081,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,10252,Not Checked,,
-145.220.227.164:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,7404,Not Checked,,
-145.220.227.132:8118,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,10939,Not Checked,,
-144.124.251.24:11415,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,6371,Not Checked,,
-144.124.251.24:10878,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,4107,Not Checked,,
-144.124.251.24:10086,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,3644,Not Checked,,
-144.124.251.24:11450,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,3850,Not Checked,,
-144.124.251.24:10122,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,3625,Not Checked,,
-144.124.251.24:10101,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,2308,Not Checked,,
-144.124.251.24:10812,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1034,Not Checked,,
-144.124.251.24:10165,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1131,Not Checked,,
-144.124.251.24:10167,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1295,Not Checked,,
-144.124.251.24:10111,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,1662,Not Checked,,
-144.124.251.24:10846,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,4570,Not Checked,,
-144.124.251.24:10813,HTTP,Netherlands,NL,🇳🇱,3,low,No,Servers Tech Fzco,8614,Not Checked,,
-5.129.233.140:3128,HTTP,Netherlands,NL,🇳🇱,3,low,No,"Timeweb, LLP",2261,Not Checked,,
-51.15.20.32:3129,HTTP,Netherlands,NL,🇳🇱,25,medium,No,SCALEWAY,802,Not Checked,,
-167.71.5.198:3128,HTTP,Netherlands,NL,🇳🇱,52,medium,No,"DigitalOcean, LLC",6011,Not Checked,,
+145.220.227.24:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,5099,Yes,90.0,3/6
+145.220.227.187:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,5182,Yes,89.3,3/6
+145.220.227.107:8080,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,7505,Yes,91.2,2/6
+145.220.227.238:8118,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,8436,Yes,84.2,2/6
+145.220.227.2:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,5037,Yes,83.1,1/6
+145.220.227.223:8118,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,10667,Not Checked,,
+145.220.227.243:8118,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,13034,Not Checked,,
+145.220.227.185:3128,HTTP,Netherlands,NL,🇳🇱,0,low,No,SURFnet III d,8883,Not Checked,,
+144.124.251.24:10814,HTTP,Netherlands,NL,🇳🇱,4,low,No,Servers Tech Fzco,930,Not Checked,,
+144.124.251.24:10590,HTTP,Netherlands,NL,🇳🇱,4,low,No,Servers Tech Fzco,924,Not Checked,,
+144.124.251.24:10802,HTTP,Netherlands,NL,🇳🇱,4,low,No,Servers Tech Fzco,925,Not Checked,,
+144.124.251.24:10878,HTTP,Netherlands,NL,🇳🇱,4,low,No,Servers Tech Fzco,940,Not Checked,,
+144.124.251.24:10117,HTTP,Netherlands,NL,🇳🇱,4,low,No,Servers Tech Fzco,937,Not Checked,,
+144.124.251.24:10261,HTTP,Netherlands,NL,🇳🇱,4,low,No,Servers Tech Fzco,962,Not Checked,,
+144.124.251.24:11108,HTTP,Netherlands,NL,🇳🇱,4,low,No,Servers Tech Fzco,1068,Not Checked,,
+144.124.251.24:10086,HTTP,Netherlands,NL,🇳🇱,4,low,No,Servers Tech Fzco,905,Not Checked,,
+144.124.251.24:10122,HTTP,Netherlands,NL,🇳🇱,4,low,No,Servers Tech Fzco,831,Not Checked,,
+144.124.251.24:10021,HTTP,Netherlands,NL,🇳🇱,4,low,No,Servers Tech Fzco,876,Not Checked,,
+144.124.251.24:10605,HTTP,Netherlands,NL,🇳🇱,4,low,No,Servers Tech Fzco,900,Not Checked,,
+144.124.251.24:10111,HTTP,Netherlands,NL,🇳🇱,4,low,No,Servers Tech Fzco,900,Not Checked,,
+144.124.251.24:10167,HTTP,Netherlands,NL,🇳🇱,4,low,No,Servers Tech Fzco,908,Not Checked,,
+144.124.251.24:11480,HTTP,Netherlands,NL,🇳🇱,4,low,No,Servers Tech Fzco,931,Not Checked,,
+144.124.251.24:10404,HTTP,Netherlands,NL,🇳🇱,4,low,No,Servers Tech Fzco,950,Not Checked,,
+144.124.251.24:10747,HTTP,Netherlands,NL,🇳🇱,4,low,No,Servers Tech Fzco,987,Not Checked,,
+144.124.251.24:10187,HTTP,Netherlands,NL,🇳🇱,4,low,No,Servers Tech Fzco,1505,Not Checked,,
+144.124.251.24:10601,HTTP,Netherlands,NL,🇳🇱,4,low,No,Servers Tech Fzco,1674,Not Checked,,
+144.124.251.24:10261,HTTP,Netherlands,NL,🇳🇱,4,low,No,Servers Tech Fzco,3041,Not Checked,,
+144.124.251.24:10111,HTTP,Netherlands,NL,🇳🇱,4,low,No,Servers Tech Fzco,868,Not Checked,,
+144.124.251.24:10165,HTTP,Netherlands,NL,🇳🇱,4,low,No,Servers Tech Fzco,936,Not Checked,,
+144.124.251.24:10812,HTTP,Netherlands,NL,🇳🇱,4,low,No,Servers Tech Fzco,957,Not Checked,,
+144.124.251.24:10167,HTTP,Netherlands,NL,🇳🇱,4,low,No,Servers Tech Fzco,955,Not Checked,,
+5.255.104.109:8082,HTTP,Netherlands,NL,🇳🇱,13,low,No,The Infrastructure Group B.V.,11794,Not Checked,,
+51.15.20.32:3129,HTTP,Netherlands,NL,🇳🇱,27,medium,No,SCALEWAY,751,Not Checked,,
+213.176.74.119:1080,HTTP,Netherlands,NL,🇳🇱,38,medium,No,NetCrafters OU,8196,Not Checked,,

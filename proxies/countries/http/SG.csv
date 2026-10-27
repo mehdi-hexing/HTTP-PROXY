@@ -1,14 +1,9 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1557,No,,0/6
-151.242.116.178:8181,HTTP,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi,7267,Not Checked,,
-151.242.116.178:8181,HTTP,Singapore,SG,🇸🇬,0,low,No,PT Perwira Media Solusi,8652,Not Checked,,
-47.237.92.86:88,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd.",8036,Not Checked,,
-47.237.107.41:80,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd.",8000,Not Checked,,
-54.255.249.161:54360,HTTP,Singapore,SG,🇸🇬,1,low,No,Amazon Technologies Inc.,2289,Not Checked,,
-43.160.222.70:3128,HTTP,Singapore,SG,🇸🇬,1,low,No,Shenzhen Tencent Computer Systems Company Limited,5264,Not Checked,,
-13.215.184.250:28418,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,1429,Not Checked,,
-13.215.184.250:42389,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,1908,Not Checked,,
-13.215.184.250:2081,HTTP,Singapore,SG,🇸🇬,2,low,No,Amazon Technologies Inc.,1212,Not Checked,,
-128.199.202.122:8080,HTTP,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",1559,Not Checked,,
-143.198.85.218:3128,HTTP,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",3505,Not Checked,,
-172.104.48.100:3128,HTTP,Singapore,SG,🇸🇬,55,medium,No,Akamai Technologies,5228,Not Checked,,
+43.160.222.70:3128,HTTP,Singapore,SG,🇸🇬,0,low,No,Shenzhen Tencent Computer Systems Company Limited,2433,Yes,254.3,6/6
+4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1453,Yes,232.6,6/6
+203.174.83.80:3128,HTTP,Singapore,SG,🇸🇬,0,low,No,NewMedia Express Pte Ltd,1952,Yes,237.0,6/6
+4.144.146.21:80,HTTP,Singapore,SG,🇸🇬,0,low,No,Microsoft Corporation,1439,Yes,232.6,6/6
+8.219.229.53:80,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",8008,No,,0/6
+47.237.2.245:6379,HTTP,Singapore,SG,🇸🇬,0,low,No,"Alibaba (US) Technology Co., Ltd.",7995,No,,0/6
+47.237.107.41:80,HTTP,Singapore,SG,🇸🇬,1,low,No,"Alibaba (US) Technology Co., Ltd.",8011,Not Checked,,
+128.199.202.122:8080,HTTP,Singapore,SG,🇸🇬,52,medium,No,"DigitalOcean, LLC",1487,Not Checked,,

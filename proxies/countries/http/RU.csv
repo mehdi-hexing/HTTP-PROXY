@@ -1,20 +1,11 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-5.129.254.129:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1898,No,,0/6
-5.129.254.215:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",2480,No,,0/6
-45.12.238.164:3128,HTTP,Russia,RU,🇷🇺,0,low,No,Beget LLC,1252,No,,0/6
-213.139.210.249:3128,HTTP,Russia,RU,🇷🇺,0,low,No,BEGET.RU,5751,No,,0/6
-62.182.159.194:3128,HTTP,Russia,RU,🇷🇺,0,low,No,JSC Selectel,5277,No,,0/6
-155.212.136.138:3128,HTTP,Russia,RU,🇷🇺,0,low,No,Beget LLC,5896,No,,0/6
-92.39.129.50:1256,HTTP,Russia,RU,🇷🇺,0,low,No,OOO WestCall Ltd,1174,No,,0/6
-62.32.73.54:8080,HTTP,Russia,RU,🇷🇺,0,low,No,"""OBIT"" Ltd.",1690,No,,0/6
-91.122.216.160:8080,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""North-West Telecom""",3458,No,,0/6
-89.237.35.10:37647,HTTP,Russia,RU,🇷🇺,0,low,No,multi-origin SUTTK,5726,No,,0/6
-91.236.238.103:8080,HTTP,Russia,RU,🇷🇺,0,low,No,TERICOM Ltd,8937,Not Checked,,
-213.139.210.13:1088,HTTP,Russia,RU,🇷🇺,0,low,No,BEGET.RU,10477,Not Checked,,
-5.180.242.216:8080,HTTP,Russia,RU,🇷🇺,0,low,No,"Timer, LLC",6603,Not Checked,,
-185.167.120.183:8080,HTTP,Russia,RU,🇷🇺,0,low,No,Maloe Innovacionnoe Predpriyatie Bonch IT LLC,6325,Not Checked,,
-45.90.32.134:3128,HTTP,Russia,RU,🇷🇺,0,low,Yes,Beget LLC,7088,Not Checked,,
-91.230.65.202:8080,HTTP,Russia,RU,🇷🇺,0,low,No,Panin Kirill Evgenyevich,7134,Not Checked,,
-185.103.134.4:8080,HTTP,Russia,RU,🇷🇺,0,low,No,Address AS 57191,6875,Not Checked,,
-85.143.71.171:10808,HTTP,Russia,RU,🇷🇺,0,low,No,National Research Tomsk Polytechnic University,8484,Not Checked,,
-95.140.18.238:22993,HTTP,Russia,RU,🇷🇺,0,low,No,LTD. SPUTNIK,6876,Not Checked,,
+5.129.254.49:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1203,Yes,77.8,6/6
+5.129.254.129:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1225,Yes,89.3,6/6
+5.129.254.60:8888,HTTP,Russia,RU,🇷🇺,0,low,No,"JSC ""TIMEWEB""",1273,Yes,76.9,6/6
+31.131.248.51:3129,HTTP,Russia,RU,🇷🇺,0,low,No,JSC Selectel,1273,Yes,80.9,6/6
+83.171.113.43:3128,HTTP,Russia,RU,🇷🇺,0,low,No,Rostelecom networks,1387,No,,0/6
+83.171.113.43:3128,HTTP,Russia,RU,🇷🇺,0,low,No,Rostelecom networks,1386,Unknown,,
+159.194.228.40:8888,HTTP,Russia,RU,🇷🇺,0,low,No,Beget LLC,10191,Not Checked,,
+91.224.77.229:8090,HTTP,Russia,RU,🇷🇺,0,low,No,LLC Telecom MPK,9134,Not Checked,,
+194.186.248.97:80,HTTP,Russia,RU,🇷🇺,0,low,No,GOLDEN Telecom,13433,Not Checked,,
+46.17.43.219:7890,HTTP,Russia,RU,🇷🇺,25,medium,No,LLC BAXET,14955,Not Checked,,

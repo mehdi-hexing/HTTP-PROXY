@@ -1,9 +1,15 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-18.175.170.244:6474,HTTP,United Kingdom,GB,🇬🇧,14,low,No,Amazon Technologies Inc.,4054,Not Checked,,
-109.199.114.176:1081,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Contabo GmbH,6494,Not Checked,,
-75.119.129.192:3128,HTTP,United Kingdom,GB,🇬🇧,16,low,No,Contabo GmbH,5585,Not Checked,,
-83.147.18.168:3128,HTTP,United Kingdom,GB,🇬🇧,25,medium,No,Regxa Company for Information Technology Ltd,12347,Not Checked,,
-81.19.210.10:80,HTTP,United Kingdom,GB,🇬🇧,48,medium,Yes,Hydra Communications Ltd,768,Not Checked,,
-134.209.29.120:80,HTTP,United Kingdom,GB,🇬🇧,52,medium,Yes,"DigitalOcean, LLC",755,Not Checked,,
-134.209.29.120:80,HTTP,United Kingdom,GB,🇬🇧,52,medium,Yes,"DigitalOcean, LLC",784,Not Checked,,
-161.35.160.41:8080,HTTP,United Kingdom,GB,🇬🇧,52,medium,No,"DigitalOcean, LLC",764,Not Checked,,
+8.208.85.87:8080,HTTP,United Kingdom,GB,🇬🇧,0,low,No,Alibaba.com Singapore E-Commerce Private Limited,6725,Yes,98.6,6/6
+8.211.194.85:4002,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7566,No,,0/6
+8.211.200.183:1111,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7566,No,,0/6
+8.211.195.173:9080,HTTP,United Kingdom,GB,🇬🇧,0,low,No,"Alibaba (US) Technology Co., Ltd.",7585,No,,0/6
+186.190.211.67:80,HTTP,United Kingdom,GB,🇬🇧,0,low,No,GTHost,6843,No,,0/6
+34.105.252.3:3128,HTTP,United Kingdom,GB,🇬🇧,1,low,No,Google LLC,749,Not Checked,,
+104.194.146.9:80,HTTP,United Kingdom,GB,🇬🇧,14,low,No,FranTech Solutions,730,Not Checked,,
+80.65.211.149:8888,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Contabo GmbH,6295,Not Checked,,
+80.65.211.149:8888,HTTP,United Kingdom,GB,🇬🇧,15,low,No,Contabo GmbH,4832,Not Checked,,
+81.19.210.10:80,HTTP,United Kingdom,GB,🇬🇧,50,medium,Yes,Hydra Communications Ltd,5430,Not Checked,,
+81.19.210.10:80,HTTP,United Kingdom,GB,🇬🇧,50,medium,Yes,Hydra Communications Ltd,6978,Not Checked,,
+134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,52,medium,Yes,"DigitalOcean, LLC",747,Not Checked,,
+134.209.29.120:3128,HTTP,United Kingdom,GB,🇬🇧,52,medium,Yes,"DigitalOcean, LLC",739,Not Checked,,
+198.244.254.77:3128,HTTP,United Kingdom,GB,🇬🇧,86,high,Yes,OVH SAS,4871,Not Checked,,

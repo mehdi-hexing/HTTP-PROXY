@@ -1,7 +1,4 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-38.158.83.65:999,HTTP,Peru,PE,🇵🇪,0,low,No,Fiberred SAC,3835,No,,0/6
-200.39.152.193:999,HTTP,Peru,PE,🇵🇪,0,low,No,Airwiz Peru E.I.R.L,5418,No,,0/6
-190.102.146.98:10101,HTTP,Peru,PE,🇵🇪,0,low,No,ON EMPRESAS S.A.C,6243,Not Checked,,
-45.236.44.94:8080,HTTP,Peru,PE,🇵🇪,0,low,No,Optical Technologies S.A.C.,8636,Not Checked,,
-38.252.213.240:999,HTTP,Peru,PE,🇵🇪,0,low,No,Telcom Mikrotik Peru S.A.C,8429,Not Checked,,
-38.172.130.4:999,HTTP,Peru,PE,🇵🇪,2,low,No,Conex TV E.I.R.L,9147,Not Checked,,
+200.39.152.193:999,HTTP,Peru,PE,🇵🇪,0,low,No,Airwiz Peru E.I.R.L,6473,Yes,271.0,6/6
+190.237.238.191:999,HTTP,Peru,PE,🇵🇪,2,low,No,TDP-GRS,8437,Not Checked,,
+190.43.231.183:999,HTTP,Peru,PE,🇵🇪,3,low,No,Telefonica del Perú,6106,Not Checked,,

@@ -1,29 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-1.20.207.129:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,4958,No,,0/6
-1.20.101.34:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,3360,No,,0/6
-182.52.136.39:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,4889,No,,0/6
-182.52.113.84:443,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,4574,No,,0/6
-1.10.248.237:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,3713,No,,0/6
-182.52.149.67:443,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,5917,No,,0/6
-203.146.80.98:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,Advanced Wireless Network Company Limited,5899,No,,0/6
-1.10.248.226:443,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,6018,No,,0/6
-182.53.202.220:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,6073,No,,0/6
-182.52.113.71:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,1807,No,,0/6
-1.4.141.44:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,4900,No,,0/6
-1.4.141.68:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,3945,No,,0/6
-1.4.141.80:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,5881,No,,0/6
-182.53.202.228:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,2897,No,,0/6
-8.213.215.187:176,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8131,Not Checked,,
-1.20.101.15:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,6945,Not Checked,,
-161.82.141.219:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,Symphony Communication Public Company Limited,9314,Not Checked,,
-1.2.248.41:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,6937,Not Checked,,
-1.4.141.34:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,6959,Not Checked,,
-182.52.113.54:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,8935,Not Checked,,
-180.180.156.126:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,7995,Not Checked,,
-182.52.136.76:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,7217,Not Checked,,
-182.52.136.73:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,6971,Not Checked,,
-180.180.156.69:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,7023,Not Checked,,
-182.52.136.76:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,8218,Not Checked,,
-171.101.72.82:8080,HTTP,Thailand,TH,🇹🇭,1,low,No,True Internet Corporation CO. Ltd.,9985,Not Checked,,
-43.251.205.146:8080,HTTP,Thailand,TH,🇹🇭,2,low,No,"United Information Highway Co., Ltd.",7048,Not Checked,,
-58.136.168.146:8080,HTTP,Thailand,TH,🇹🇭,8,low,No,AIS-Fibre,4258,Not Checked,,
+1.4.141.44:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,7143,Yes,287.0,6/6
+203.150.113.105:8080,HTTP,Thailand,TH,🇹🇭,0,low,No,Internet Thailand Company Ltd.,6532,Yes,274.3,6/6
+8.213.222.157:31433,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8144,No,,0/6
+8.213.222.247:8081,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8133,No,,0/6
+8.213.197.208:5060,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",8135,No,,0/6
+8.213.215.187:176,HTTP,Thailand,TH,🇹🇭,0,low,No,"Alibaba (US) Technology Co., Ltd.",10626,Not Checked,,
+1.10.133.83:8081,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,10749,Not Checked,,
+1.20.101.26:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,10056,Not Checked,,
+125.25.167.196:80,HTTP,Thailand,TH,🇹🇭,0,low,No,TOT Public Company Limited,8780,Not Checked,,
+110.238.113.119:19,HTTP,Thailand,TH,🇹🇭,2,low,No,Huawei International Pte. LTD,8408,Not Checked,,
+43.251.205.146:8080,HTTP,Thailand,TH,🇹🇭,2,low,No,"United Information Highway Co., Ltd.",6995,Not Checked,,
+223.204.176.114:3128,HTTP,Thailand,TH,🇹🇭,7,low,No,Advanced Wireless Network Company Limited,8585,Not Checked,,
