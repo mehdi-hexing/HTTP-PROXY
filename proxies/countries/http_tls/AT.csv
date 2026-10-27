@@ -1,6 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-195.192.209.130:443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,1415,No,,0/6
-195.192.209.130:9443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,1439,No,,0/6
-195.192.209.130:8443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,1438,No,,0/6
-178.115.238.253:443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,customers with static IP,3186,Not Checked,,
-146.70.244.2:9443,HTTP_TLS,Austria,AT,🇦🇹,44,medium,Yes,M247 Europe SRL,1169,Not Checked,,
+178.115.238.253:443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,customers with static IP,1765,Yes,107.6,6/6
+195.192.209.130:8443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,1569,No,,0/6
+195.192.209.130:9443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,1597,No,,0/6
+195.192.209.130:443,HTTP_TLS,Austria,AT,🇦🇹,0,low,No,conova communications GmbH,2108,No,,0/6
+146.70.244.2:9443,HTTP_TLS,Austria,AT,🇦🇹,44,medium,Yes,M247 Europe SRL,1344,Not Checked,,
