@@ -1,11 +1,10 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-56.155.73.159:1025,HTTP,Japan,JP,🇯🇵,0,low,No,"Amazon.com, Inc.",5418,No,,0/6
-116.80.65.235:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,5413,No,,0/6
-15.152.38.117:24501,HTTP,Japan,JP,🇯🇵,0,low,No,Amazon Technologies Inc.,925,No,,0/6
-47.91.29.151:81,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba.com LLC,7752,Not Checked,,
-47.74.46.81:443,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7965,Not Checked,,
-43.207.113.167:3129,HTTP,Japan,JP,🇯🇵,3,low,No,"Amazon.com, Inc.",3186,Not Checked,,
-139.162.78.109:3128,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",1258,Not Checked,,
-139.162.78.109:8080,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",1262,Not Checked,,
-45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,83,high,No,Zenlayer Inc,9328,Not Checked,,
-45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,83,high,No,Zenlayer Inc,9417,Not Checked,,
+116.80.65.235:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,6398,Not Checked,,
+47.74.46.81:8118,HTTP,Japan,JP,🇯🇵,0,low,No,Alibaba Cloud LLC,7782,Not Checked,,
+140.227.61.201:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,9451,Not Checked,,
+140.227.61.201:3128,HTTP,Japan,JP,🇯🇵,0,low,Yes,InfoSphere,6387,Not Checked,,
+140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,3,low,No,Oracle Corporation,5228,Not Checked,,
+140.238.32.108:3128,HTTP,Japan,JP,🇯🇵,3,low,No,Oracle Corporation,6220,Not Checked,,
+139.162.78.109:8080,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",1216,Not Checked,,
+139.162.78.109:80,HTTP,Japan,JP,🇯🇵,55,medium,No,"Akamai Technologies, Inc.",1093,Not Checked,,
+45.43.60.220:8080,HTTP,Japan,JP,🇯🇵,83,high,No,Zenlayer Inc,6018,Not Checked,,

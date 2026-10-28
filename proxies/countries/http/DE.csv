@@ -1,7 +1,14 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,814,Yes,83.6,6/6
-103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,822,Yes,83.6,6/6
-8.211.49.86:9050,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7593,Not Checked,,
-8.209.96.245:8082,HTTP,Germany,DE,🇩🇪,3,low,No,Alibaba.com Singapore E-Commerce Private Limited,7681,Not Checked,,
-161.35.70.249:3128,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",994,Not Checked,,
-161.35.70.249:80,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",881,Not Checked,,
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,647,Yes,78.3,6/6
+103.237.102.191:11111,HTTP,Germany,DE,🇩🇪,0,low,No,Zenlayer Inc,643,Yes,78.3,6/6
+8.211.49.86:87,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7461,Not Checked,,
+8.211.42.167:443,HTTP,Germany,DE,🇩🇪,0,low,No,"Alibaba (US) Technology Co., Ltd.",7455,Not Checked,,
+185.202.113.51:8080,HTTP,Germany,DE,🇩🇪,0,low,No,BitCommand LLC,3663,Not Checked,,
+8.209.96.245:8082,HTTP,Germany,DE,🇩🇪,3,low,No,Alibaba.com Singapore E-Commerce Private Limited,7456,Not Checked,,
+159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,11,low,No,netcup GmbH,6126,Not Checked,,
+159.195.194.242:8080,HTTP,Germany,DE,🇩🇪,11,low,No,netcup GmbH,9271,Not Checked,,
+47.91.89.3:1080,HTTP,Germany,DE,🇩🇪,14,low,No,Alibaba.com LLC,7452,Not Checked,,
+212.86.35.54:8080,HTTP,Germany,DE,🇩🇪,21,medium,No,DNS:NET Internet Service GmbH,1114,Not Checked,,
+109.123.254.197:3128,HTTP,Germany,DE,🇩🇪,50,medium,No,Contabo GmbH,1671,Not Checked,,
+109.123.254.197:3128,HTTP,Germany,DE,🇩🇪,50,medium,No,Contabo GmbH,1717,Not Checked,,
+161.35.70.249:80,HTTP,Germany,DE,🇩🇪,52,medium,No,"DigitalOcean, LLC",731,Not Checked,,
