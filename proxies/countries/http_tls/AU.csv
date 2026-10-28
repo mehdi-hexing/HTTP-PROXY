@@ -1,10 +1,13 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-103.62.50.130:9443,HTTP_TLS,Australia,AU,🇦🇺,0,low,Yes,GSL Networks Pty LTD,1795,Yes,362.7,6/6
-103.62.50.130:443,HTTP_TLS,Australia,AU,🇦🇺,0,low,Yes,GSL Networks Pty LTD,1798,Yes,362.7,6/6
-4.198.140.211:443,HTTP_TLS,Australia,AU,🇦🇺,0,low,No,Microsoft Corporation,2215,Not Checked,,
-203.31.65.32:443,HTTP_TLS,Australia,AU,🇦🇺,0,low,No,Hosted Network Pty Ltd,1947,Not Checked,,
-103.77.232.74:9443,HTTP_TLS,Australia,AU,🇦🇺,5,low,Yes,Intergrid Group Pty Ltd,2998,Not Checked,,
-103.108.95.226:9443,HTTP_TLS,Australia,AU,🇦🇺,6,low,Yes,5G NETWORK OPERATIONS PTY LTD,2086,Not Checked,,
-51.161.152.170:443,HTTP_TLS,Australia,AU,🇦🇺,20,medium,No,OVH SAS,5116,Not Checked,,
-209.38.89.114:443,HTTP_TLS,Australia,AU,🇦🇺,52,medium,No,"DigitalOcean, LLC",1698,Not Checked,,
-103.107.197.146:9443,HTTP_TLS,Australia,AU,🇦🇺,62,high,Yes,GSL Networks Pty LTD,2159,Not Checked,,
+103.62.50.130:443,HTTP_TLS,Australia,AU,🇦🇺,0,low,Yes,GSL Networks Pty LTD,1948,Not Checked,,
+103.62.50.130:9443,HTTP_TLS,Australia,AU,🇦🇺,0,low,Yes,GSL Networks Pty LTD,1946,Not Checked,,
+4.198.140.211:443,HTTP_TLS,Australia,AU,🇦🇺,0,low,No,Microsoft Corporation,2443,Not Checked,,
+203.31.65.32:443,HTTP_TLS,Australia,AU,🇦🇺,0,low,No,Hosted Network Pty Ltd,1967,Not Checked,,
+159.13.44.228:443,HTTP_TLS,Australia,AU,🇦🇺,2,low,No,Oracle Corporation,7069,Not Checked,,
+140.238.205.29:443,HTTP_TLS,Australia,AU,🇦🇺,3,low,No,Oracle Corporation,2504,Not Checked,,
+103.77.232.74:9443,HTTP_TLS,Australia,AU,🇦🇺,5,low,Yes,Intergrid Group Pty Ltd,1800,Not Checked,,
+103.108.95.226:9443,HTTP_TLS,Australia,AU,🇦🇺,6,low,Yes,5G NETWORK OPERATIONS PTY LTD,2020,Not Checked,,
+51.161.152.170:443,HTTP_TLS,Australia,AU,🇦🇺,20,medium,No,OVH SAS,4570,Not Checked,,
+209.38.89.114:443,HTTP_TLS,Australia,AU,🇦🇺,52,medium,No,"DigitalOcean, LLC",1737,Not Checked,,
+134.199.147.75:443,HTTP_TLS,Australia,AU,🇦🇺,52,medium,No,"DigitalOcean, LLC",1735,Not Checked,,
+103.107.197.146:9443,HTTP_TLS,Australia,AU,🇦🇺,62,high,Yes,GSL Networks Pty LTD,2227,Not Checked,,
