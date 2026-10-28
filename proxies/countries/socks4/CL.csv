@@ -1,4 +1,7 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-190.13.147.241:5678,SOCKS4,Chile,CL,🇨🇱,0,low,No,Telefonica del Sur S.A,3404,Not Checked,,
-190.54.100.74:5678,SOCKS4,Chile,CL,🇨🇱,0,low,No,Telmex Chile Internet S.A.,2718,Not Checked,,
-152.231.81.19:1080,SOCKS4,Chile,CL,🇨🇱,4,low,No,Entel Chile S.A.,1936,Not Checked,,
+190.54.100.74:5678,SOCKS4,Chile,CL,🇨🇱,0,low,No,Telmex Chile Internet S.A.,478,Yes,289.6,6/6
+190.13.147.241:5678,SOCKS4,Chile,CL,🇨🇱,0,low,No,Telefonica del Sur S.A,555,Yes,316.5,6/6
+190.54.100.74:5678,SOCKS4,Chile,CL,🇨🇱,0,low,No,Telmex Chile Internet S.A.,1485,Not Checked,,
+190.13.147.241:5678,SOCKS4,Chile,CL,🇨🇱,0,low,No,Telefonica del Sur S.A,4818,Not Checked,,
+152.231.81.19:1080,SOCKS4,Chile,CL,🇨🇱,4,low,No,Entel Chile S.A.,1484,Not Checked,,
+152.231.81.19:1080,SOCKS4,Chile,CL,🇨🇱,4,low,No,Entel Chile S.A.,2643,Not Checked,,

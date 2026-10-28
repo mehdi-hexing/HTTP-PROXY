@@ -1,4 +1,6 @@
 Proxy,Protocol,Country,Country Code,Flag,Fraud Score,Risk,VPN,ISP,Latency (ms),Iran Reachable,Iran Latency (ms),Iran Nodes OK
-190.14.5.164:5678,SOCKS4,Guatemala,GT,🇬🇹,0,low,No,Navega.com S.A.,2531,Not Checked,,
-181.189.132.74:5678,SOCKS4,Guatemala,GT,🇬🇹,0,low,No,Comcel Guatemala S.A,4546,Not Checked,,
-38.41.225.174:8888,SOCKS4,Guatemala,GT,🇬🇹,0,low,No,Innova Outsourcing S.A,3503,Not Checked,,
+181.189.132.74:5678,SOCKS4,Guatemala,GT,🇬🇹,0,low,No,Comcel Guatemala S.A,356,Yes,230.9,6/6
+181.189.132.74:5678,SOCKS4,Guatemala,GT,🇬🇹,0,low,No,Comcel Guatemala S.A,338,Yes,230.9,6/6
+38.41.225.174:8888,SOCKS4,Guatemala,GT,🇬🇹,0,low,No,Innova Outsourcing S.A,323,Yes,217.0,6/6
+38.41.225.174:8888,SOCKS4,Guatemala,GT,🇬🇹,0,low,No,Innova Outsourcing S.A,306,Yes,217.0,6/6
+190.14.5.164:5678,SOCKS4,Guatemala,GT,🇬🇹,0,low,No,Navega.com S.A.,1433,Not Checked,,
